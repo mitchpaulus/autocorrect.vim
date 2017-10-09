@@ -1,6 +1,29 @@
+" autocorrect.vim -- Autocorrect built from scratch
+" Maintainer: Mitchell Paulus
+if exists('g:AutocorrectScriptLoaded') || &compatible || v:version < 703
+    finish
+endif
+
+if !exists('g:Autocorrect_PersonalFile')
+    let g:Autocorrect_PersonalFile='~/.autocorrect'
+endif
+
+let g:AutocorrectScriptLoaded=1
+
 function! LoadAutocorrect() 
+    if !filereadable(g:Autocorrect_PersonalFile)
+        let success = writefile([],expand(g:Autocorrect_PersonalFile)) 
+    endif
+
+    if exists('g:AutocorrectLoaded')
+        execute 'source ' . g:Autocorrect_PersonalFile
+        return
+    endif
+
     call s:AddIAbbrevs()
-    source ~/.autocorrect
+    let g:AutocorrectLoaded=1
+    execute 'source ' . g:Autocorrect_PersonalFile
+
     " [a]dd [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
     nnoremap <leader>aa yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
 endfunction
@@ -11,11 +34,15 @@ nnoremap <leader>lac :<c-u>LoadAutocorrect<cr>
 
 "This function is here to quickly be able to add word corrections.
 function! s:AddToAbbrev(wrongSpelledWord)
-    split ~/.autocorrect
+    execute 'split ' . g:Autocorrect_PersonalFile
     setlocal spell
     "G - to end of file, o - make new line and enter insert mode, iabbrev
     "[variable word]
-    execute "normal! Goiabbrev " . a:wrongSpelledWord
+    if line('$') == 1 && strchars(getline(1)) == 0
+        execute "normal! iiabbrev " . a:wrongSpelledWord
+    else
+        execute "normal! Goiabbrev " . a:wrongSpelledWord
+    endif
     "store misspelled word in s register, replace with first spell suggestion,
     "repaste misspelled word, append and insert space.
     execute "normal! \"syiw1z=\"sPa\<space>"
