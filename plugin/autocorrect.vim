@@ -11,8 +11,8 @@ endif
 let g:AutocorrectScriptLoaded=1
 
 function! LoadAutocorrect() 
-    if !filereadable(g:Autocorrect_PersonalFile)
-        let success = writefile([],expand(g:Autocorrect_PersonalFile)) 
+    if !filereadable(expand(g:Autocorrect_PersonalFile))
+        let success = writefile([],expand(g:Autocorrect_PersonalFile),"a") 
     endif
 
     if exists('g:AutocorrectLoaded')
@@ -22,7 +22,7 @@ function! LoadAutocorrect()
 
     call s:AddIAbbrevs()
     let g:AutocorrectLoaded=1
-    execute 'source ' . g:Autocorrect_PersonalFile
+    execute 'source ' . expand(g:Autocorrect_PersonalFile)
 
     " [a]dd [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
     nnoremap <leader>aa yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
