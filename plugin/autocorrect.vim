@@ -71,7 +71,7 @@ iabbrev addresssed addressed
 iabbrev addsd adds
 iabbrev adeqauyate adequate
 iabbrev adopeted adopted
-iabbrev adviosr advisor
+iabbrev Adviosr Advisor
 iabbrev Ari Air
 iabbrev ahir air
 iabbrev iar air
@@ -92,7 +92,7 @@ iabbrev anaylytically analytically
 iabbrev alnaalyze analyze
 iabbrev anlayzing analyzing
 iabbrev anscestors ancestors
-iabbrev Adn And
+iabbrev adn and
 iabbrev nad and
 iabbrev tand and
 iabbrev nadn and
@@ -104,7 +104,7 @@ iabbrev ppear appear
 iabbrev apear appear
 iabbrev apepndix appendix
 iabbrev applicaable applicable
-iabbrev applicaiton application
+iabbrev Applicaiton Application
 iabbrev Applicaiotn Application
 iabbrev Applicaitons Applications
 iabbrev apploied applied
@@ -132,7 +132,7 @@ iabbrev assignead assigned
 iabbrev assigneing assigning
 iabbrev Assitatn Assistant
 iabbrev assocaited associated
-iabbrev assuem assume
+iabbrev Assuem Assume
 iabbrev assuemd assumed
 iabbrev assusmed assumed
 iabbrev assuems assumes
@@ -182,7 +182,7 @@ iabbrev boudn bound
 iabbrev boudnary boundary
 iabbrev brining bringing
 iabbrev braod broad
-iabbrev buildign building
+iabbrev Buildign Building
 iabbrev buikdlign building
 iabbrev buliding building
 iabbrev buiilding building
@@ -257,6 +257,7 @@ iabbrev conformt comfort
 iabbrev commannd command
 iabbrev Commerical Commercial
 iabbrev Commissionieed Commissioned
+iabbrev Commissionign Commissioning
 iabbrev commissiongin commissioning
 iabbrev commisioning commissioning
 iabbrev Commisisiong Commissioning
@@ -287,6 +288,7 @@ iabbrev consectuvive consecutive
 iabbrev condsidered considered
 iabbrev ocnsistency consistency
 iabbrev consistnely consistently
+iabbrev Constatn Constant
 iabbrev ocnstant constant
 iabbrev constatn constant
 iabbrev ocnsatnt constant
@@ -366,10 +368,11 @@ iabbrev descripti description
 iabbrev descriptio description
 iabbrev descritpion description
 iabbrev descritive descriptive
-iabbrev desing design
+iabbrev Desing Design
 iabbrev edesignation designation
 iabbrev disgnation designation
 iabbrev deesriable desirable
+iabbrev Detial Detail
 iabbrev etail detail
 iabbrev detial detail
 iabbrev detailede detailed
@@ -448,6 +451,7 @@ iabbrev eequations equations
 iabbrev equationas equations
 iabbrev equaitons equations
 iabbrev equilbrium equilibrium
+iabbrev equipemtn equipment
 iabbrev equiepment equipment
 iabbrev equpiment equipment
 iabbrev euqipment equipment
@@ -576,6 +580,7 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
+iabbrev howerver however
 iabbrev HOwever However
 iabbrev Howerver However
 iabbrev humdity humidity
@@ -595,7 +600,7 @@ iabbrev imporve improve
 iabbrev ni in
 iabbrev ina in a
 iabbrev inthe in the
-iabbrev Inclucded Included
+iabbrev inclucded included
 iabbrev includede included
 iabbrev incompressibiility incompressibility
 iabbrev incorectly incorrectly
@@ -606,6 +611,7 @@ iabbrev indedependt independent
 iabbrev indiciatiton indication
 iabbrev indifivalu individual
 iabbrev inddor indoor
+iabbrev Informaiont Information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev informaiton information
@@ -660,7 +666,7 @@ iabbrev dkey key
 iabbrev Kimal Kimla 
 iabbrev lable label
 iabbrev lableled labeled
-iabbrev leanring learning
+iabbrev Leanring Learning
 iabbrev LIbrary Library
 iabbrev librayr library
 iabbrev lgighting lighting
@@ -669,7 +675,7 @@ iabbrev olimitations limitations
 iabbrev lienar linear
 iabbrev liquied liquid
 iabbrev littel little
-iabbrev laod load
+iabbrev Laod Load
 iabbrev Lcoate Locate
 iabbrev lcoated located
 iabbrev locaiton location
@@ -697,7 +703,7 @@ iabbrev methodoloyg methodology
 iabbrev MEthods Methods
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
-iabbrev Mintue Minute
+iabbrev mintue minute
 iabbrev mintues minutes
 iabbrev minxing mixing
 iabbrev maixing mixing
@@ -796,7 +802,7 @@ iabbrev perfomance performance
 iabbrev perforamcne performance
 iabbrev philospohy philosophy
 iabbrev peices pieces
-iabbrev paln plan
+iabbrev Paln Plan
 iabbrev palusible plausible
 iabbrev polts plots
 iabbrev poitn point
@@ -947,7 +953,7 @@ iabbrev sameple sample
 iabbrev smaple sample
 iabbrev sampel sample
 iabbrev Smaple Sample
-iabbrev smapling sampling
+iabbrev Smapling Sampling
 iabbrev sxampleing sampling
 iabbrev satifies satisfies
 iabbrev svaings savings
@@ -970,7 +976,7 @@ iabbrev snesors sensors
 iabbrev seperated separated
 iabbrev Sequience Sequence
 iabbrev sequenctially sequentially
-iabbrev Sereis Series
+iabbrev sereis series
 iabbrev setpoinut setpoint
 iabbrev setpoing setpoint
 iabbrev seetup setup
@@ -993,7 +999,7 @@ iabbrev simplications simplifications
 iabbrev simplifed simplified
 iabbrev smiplified simplified
 iabbrev sijmply simply
-iabbrev Simulaiton Simulation
+iabbrev simulaiton simulation
 iabbrev ismulation simulation
 iabbrev simulaitons simulations
 iabbrev signle single
@@ -1162,7 +1168,7 @@ iabbrev thna than
 iabbrev taht that
 iabbrev tahht that
 iabbrev thatt that
-iabbrev Teh The
+iabbrev teh the
 iabbrev hte the
 iabbrev thre the
 iabbrev ther the
@@ -1189,6 +1195,7 @@ iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
 iabbrev thermodynamci thermodynamic
 iabbrev tehemodynamic thermodynamic
+iabbrev Thermodynamcis Thermodynamics
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev thsee these
@@ -1325,7 +1332,7 @@ iabbrev woudl would
 iabbrev owuld would
 iabbrev youy you
 iabbrev zerio zero
-iabbrev zoen zone
+iabbrev Zoen Zone
 iabbrev zonne zone
 iabbrev zoens zones
 endfunction
