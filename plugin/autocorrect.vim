@@ -263,6 +263,8 @@ iabbrev commannd command
 iabbrev Commerical Commercial
 iabbrev Commissionieed Commissioned
 iabbrev Commissionign Commissioning
+iabbrev commissiongin commissioning
+iabbrev commisioning commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissionging Commissioning
 iabbrev Commjissiong Commissioning
@@ -586,6 +588,7 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
+iabbrev howerver however
 iabbrev HOwever However
 iabbrev Howerver However
 iabbrev howerver however
@@ -966,6 +969,8 @@ iabbrev smaple sample
 iabbrev sampel sample
 iabbrev Smapling Sampling
 iabbrev smapling sampling
+iabbrev Smaple Sample
+iabbrev Smapling Sampling
 iabbrev sxampleing sampling
 iabbrev satifies satisfies
 iabbrev svaings savings
