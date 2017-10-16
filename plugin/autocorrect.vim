@@ -78,6 +78,7 @@ iabbrev ahir air
 iabbrev iar air
 iabbrev ari air
 iabbrev alogrithm algorithm
+iabbrev algorihgm algorithm
 iabbrev alogrighms algorithms
 iabbrev aligened aligned
 iabbrev alos also
@@ -98,6 +99,7 @@ iabbrev adn and
 iabbrev nad and
 iabbrev tand and
 iabbrev nadn and
+iabbrev anbd and
 iabbrev annula annual
 iabbrev annother another
 iabbrev anywereh anywhere
@@ -115,6 +117,7 @@ iabbrev applky apply
 iabbrev paply apply
 iabbrev appraoch approach
 iabbrev approahc approach
+iabbrev apporach approach
 iabbrev approriate appropriate
 iabbrev approximatled approximated
 iabbrev approimated approximated
@@ -162,6 +165,7 @@ iabbrev availbvle available
 iabbrev avaialble available
 iabbrev availalbe available
 iabbrev availbabele available
+iabbrev availbable available
 iabbrev Backgroudn Background
 iabbrev balnace balance
 iabbrev balnaces balances
@@ -171,6 +175,7 @@ iabbrev Bascially Basically
 iabbrev becuase because
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
+iabbrev beginnigs beginnings
 iabbrev beign being
 iabbrev besdies besides
 iabbrev betwen between
@@ -215,17 +220,23 @@ iabbrev caluclations calculations
 iabbrev Calcibrated Calibrated
 iabbrev calibrationg calibrating
 iabbrev calbiraiton calibration
+iabbrev claibration calibration
+iabbrev Clal Call
 iabbrev clal call
 iabbrev cna can
 iabbrev canbe can be
 iabbrev capabiliity capability
 iabbrev cappactiy capacity
 iabbrev capicaity capacity
+iabbrev capaciyt capacity
+iabbrev caputre capture
 iabbrev cvase case
+iabbrev caess cases
 iabbrev categoraized categorized
 iabbrev clell cell
 iabbrev cetner center
 iabbrev Certian Certain
+iabbrev ceratin certain
 iabbrev certaintly certainly
 iabbrev certificaiton certification
 iabbrev chnage change
@@ -247,6 +258,7 @@ iabbrev clcked clicked
 iabbrev lickcing clicking
 iabbrev xlosed closed
 iabbrev ocde code
+iabbrev codiing coding
 iabbrev coeffient coefficient
 iabbrev coefficent coefficient
 iabbrev coefificent coefficient
@@ -255,16 +267,19 @@ iabbrev coerfficiednts coefficients
 iabbrev coli coil
 iabbrev colleciton collection
 iabbrev comlum column
+iabbrev coulmn column
+iabbrev coolumn column
 iabbrev columsn columns
+iabbrev coulnmsn columns
 iabbrev combinatino combination
 iabbrev comibned combined
 iabbrev conformt comfort
 iabbrev commannd command
 iabbrev Commerical Commercial
+iabbrev commerical commercial
+iabbrev commerecial commercial
 iabbrev Commissionieed Commissioned
 iabbrev Commissionign Commissioning
-iabbrev commissiongin commissioning
-iabbrev commisioning commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissionging Commissioning
 iabbrev Commjissiong Commissioning
@@ -272,6 +287,9 @@ iabbrev Commsissiong Commissioning
 iabbrev Commisssiong Commissioning
 iabbrev Commissionign Commissioning
 iabbrev Commissiioning Commissioning
+iabbrev Commisssiongin Commissioning
+iabbrev commissiongin commissioning
+iabbrev commisioning commissioning
 iabbrev commissiongin commissioning
 iabbrev commisioning commissioning
 iabbrev commissionign commissioning
@@ -286,6 +304,8 @@ iabbrev compeletes completes
 iabbrev compoonents components
 iabbrev comrpession compression
 iabbrev comptuer compute
+iabbrev Conclustions Conclusions
+iabbrev Conslusions Conclusions
 iabbrev ocnclusions conclusions
 iabbrev conculsions conclusions
 iabbrev ocndenser condenser
@@ -324,11 +344,15 @@ iabbrev Contrls Controls
 iabbrev ocntrosl controls
 iabbrev convensition convention
 iabbrev convetino convention
+iabbrev convetion convention
+iabbrev Cooilng Cooling
 iabbrev coolign cooling
 iabbrev cooloing cooling
 iabbrev coolking cooling
 iabbrev copeid copied
+iabbrev cipy copy
 iabbrev correclty correctly
+iabbrev correspodn correspond
 iabbrev correspoidng corresponding
 iabbrev corrsponding corresponding
 iabbrev correspoinding corresponding
@@ -336,6 +360,9 @@ iabbrev correspongin corresponding
 iabbrev corresponidign corresponding
 iabbrev correspoindgin corresponding
 iabbrev correspoindg corresponding
+iabbrev correspoding corresponding
+iabbrev correspoindign corresponding
+iabbrev correspondign corresponding
 iabbrev correspoinds corresponds
 iabbrev coiuld could
 iabbrev Coutn Count
@@ -355,9 +382,11 @@ iabbrev dialy daily
 iabbrev Dallsa Dallas
 iabbrev daat data
 iabbrev datapoints data points
+iabbrev DAve Dave
 iabbrev decreaesed decreased
 iabbrev decreasees decreases
 iabbrev deafult default
+iabbrev defualt default
 iabbrev fdefine define
 iabbrev definned defined
 iabbrev dnesity density
@@ -374,6 +403,7 @@ iabbrev descentdants descendants
 iabbrev descripti description
 iabbrev descriptio description
 iabbrev descritpion description
+iabbrev Descriptiosn Descriptions
 iabbrev descritive descriptive
 iabbrev Desing Design
 iabbrev desing design
@@ -381,11 +411,14 @@ iabbrev edesignation designation
 iabbrev disgnation designation
 iabbrev deesriable desirable
 iabbrev Detial Detail
+iabbrev Dtetail Detail
 iabbrev etail detail
 iabbrev detial detail
 iabbrev detailede detailed
+iabbrev detialed detailed
 iabbrev detials details
 iabbrev determiniation determination
+iabbrev determiation determination
 iabbrev determein determine
 iabbrev detemrines determines
 iabbrev determineing determining
@@ -444,6 +477,7 @@ iabbrev Enginereing Engineering
 iabbrev egineers engineers
 iabbrev eneter enter
 iabbrev enteer enter
+iabbrev neter enter
 iabbrev enertered entered
 iabbrev enterd entered
 iabbrev entier entire
@@ -454,6 +488,7 @@ iabbrev enttry entry
 iabbrev enviornment environment
 iabbrev eqaul equal
 iabbrev equzl equal
+iabbrev equlaity equality
 iabbrev equaiton equation
 iabbrev eequations equations
 iabbrev equationas equations
@@ -461,6 +496,7 @@ iabbrev equaitons equations
 iabbrev equilbrium equilibrium
 iabbrev Equipemnt Equipment
 iabbrev EQuipment Equipment
+iabbrev Equipmetn Equipment
 iabbrev equipemtn equipment
 iabbrev equiepment equipment
 iabbrev equpiment equipment
@@ -502,6 +538,7 @@ iabbrev Explaingin Explaining
 iabbrev explroeing exploring
 iabbrev exponnets exponents
 iabbrev extensibile extensible
+iabbrev Facilty Facility
 iabbrev fractor factor
 iabbrev Farenheit Fahrenheit
 iabbrev fna fan
@@ -515,9 +552,12 @@ iabbrev finsih finish
 iabbrev Finsihed Finished
 iabbrev fiinished finished
 iabbrev Finishding Finishing
+iabbrev Finsiheng Finishing
 iabbrev ifxes fixes
 iabbrev lfow flow
 iabbrev flolw flow
+iabbrev oflder folder
+iabbrev fodlers folders
 iabbrev folloiwing following
 iabbrev follwoing following
 iabbrev folowoing following
@@ -555,6 +595,7 @@ iabbrev rurther further
 iabbrev Gneeral General
 iabbrev Genealr General
 iabbrev Genral General
+iabbrev Generageted Generated
 iabbrev gneerated generated
 iabbrev givne given
 iabbrev Goiing Going
@@ -563,6 +604,7 @@ iabbrev grpahic graphic
 iabbrev graviational gravitational
 iabbrev Grup Group
 iabbrev gropus groups
+iabbrev Guidleine Guideline
 iabbrev Guidleines Guidelines
 iabbrev guideines guidelines
 iabbrev ahlls halls
@@ -588,7 +630,6 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
-iabbrev howerver however
 iabbrev HOwever However
 iabbrev Howerver However
 iabbrev howerver however
@@ -602,6 +643,7 @@ iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev Implementner Implementer
 iabbrev IMplemneter Implementer
+iabbrev Implemnter Implementer
 iabbrev importantance importance
 iabbrev improtant important
 iabbrev importatn important
@@ -625,6 +667,7 @@ iabbrev Informaiont Information
 iabbrev INformaiton Information
 iabbrev Informaation Information
 iabbrev Inofrmaiton Information
+iabbrev Inofrmaton Information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev informaiton information
@@ -632,6 +675,8 @@ iabbrev informaitno information
 iabbrev inoformation information
 iabbrev inofrmation information
 iabbrev informaiont information
+iabbrev iniofmration information
+iabbrev infromation information
 iabbrev Inherrently Inherently
 iabbrev inital initial
 iabbrev intial initial
@@ -643,6 +688,7 @@ iabbrev linet inlet
 iabbrev nput input
 iabbrev insentive insensitive
 iabbrev insensivitve insensitive
+iabbrev insenstivie insensitive
 iabbrev insated instead
 iabbrev Institutue Institute
 iabbrev insturction instruction
@@ -664,18 +710,22 @@ iabbrev inot into
 iabbrev Introduciton Introduction
 iabbrev invserse inverse
 iabbrev investement investment
+iabbrev invitue invite
 iabbrev irreversilbe irreversible
 iabbrev fis is
 iabbrev isoalted isolated
 iabbrev isothermla isothermal
 iabbrev itme item
 iabbrev itmes items
+iabbrev JOhn John
 iabbrev jsut just
 iabbrev ujst just
 iabbrev dkey key
 iabbrev Kimal Kimla 
+iabbrev knoiwldege knowledge
 iabbrev lable label
 iabbrev lableled labeled
+iabbrev liack lack
 iabbrev Leanring Learning
 iabbrev leanring learning
 iabbrev LIbrary Library
@@ -694,6 +744,7 @@ iabbrev locaiton location
 iabbrev Macrosciptic Macroscopic
 iabbrev magentic magnetic
 iabbrev magintuide magnitude
+iabbrev maintinained maintained
 iabbrev maintencance maintenance
 iabbrev makea make a
 iabbrev mapas maps
@@ -706,11 +757,13 @@ iabbrev menaing meaning
 iabbrev Measrued Measured
 iabbrev measuresed measured
 iabbrev maesured measured
+iabbrev measruedd measured
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
 iabbrev mechanicla mechanical
 iabbrev memeter meter
 iabbrev mehtod method
+iabbrev methjod method
 iabbrev methodoloyg methodology
 iabbrev MEthods Methods
 iabbrev Mniiimzie Minimize
@@ -737,6 +790,7 @@ iabbrev moter motor
 iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
+iabbrev naems names
 iabbrev namign naming
 iabbrev enearsets nearest
 iabbrev enearest nearest
@@ -745,6 +799,7 @@ iabbrev neagagive negative
 iabbrev n3egative negative
 iabbrev neighbort neighbor
 iabbrev neightbor neighbor
+iabbrev negibor neighbor
 iabbrev netowrk network
 iabbrev Nueral Neural
 iabbrev nomencalture nomenclature
@@ -764,10 +819,13 @@ iabbrev occpunacy occupancy
 iabbrev occured occurred
 iabbrev occuring occurring
 iabbrev fo of
+iabbrev oif of
 iabbrev oftne often
 iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev OneNtoe OneNote
+iabbrev operatre operate
+iabbrev operatie operate
 iabbrev operaties operates
 iabbrev oeprational operational
 iabbrev operaitonla operational
@@ -783,15 +841,21 @@ iabbrev oriigal original
 iabbrev oringial original
 iabbrev originatign originating
 iabbrev toher other
+iabbrev Outdooor Outdoor
 iabbrev otudoor outdoor
+iabbrev outtdor outdoor
+iabbrev outdooar outdoor
+iabbrev outdoora outdoor
 iabbrev outelt outlet
 iabbrev Outlone Outline
+iabbrev Outpline Outline
 iabbrev outliened outlined
 iabbrev Outolok Outlook
 iabbrev Outolloik Outlook
 iabbrev ouptut output
 iabbrev outup output
 iabbrev overaching overarching
+iabbrev apge page
 iabbrev parargraph paragraph
 iabbrev paragrpah paragraph
 iabbrev aprameter parameter
@@ -824,11 +888,13 @@ iabbrev poitns points
 iabbrev pooints points
 iabbrev polytorpic polytropic
 iabbrev ploytropic polytropic
+iabbrev popualte populate
 iabbrev popualted populated
 iabbrev Protfoilo Portfolio
 iabbrev protfolio portfolio
 iabbrev poriton portion
 iabbrev porition portion
+iabbrev protion portion
 iabbrev protions portions
 iabbrev postiong position
 iabbrev Posistions Positions
@@ -872,6 +938,7 @@ iabbrev princeple principle
 iabbrev Prioriteis Priorities
 iabbrev priortization prioritization
 iabbrev probelm problem
+iabbrev prlblem problem
 iabbrev prfoceed proceed
 iabbrev Processs Process
 iabbrev Porocess Process
@@ -895,6 +962,7 @@ iabbrev porperty property
 iabbrev porportion proportion
 iabbrev propsoed proposed
 iabbrev propsed proposed
+iabbrev pulliing pulling
 iabbrev upmps pumps
 iabbrev quaklity quality
 iabbrev Quantificaitons Quantifications
@@ -906,6 +974,7 @@ iabbrev quesitionarrir questionnaire
 iabbrev quesitons questions
 iabbrev quilckly quickly
 iabbrev qauicly quickly
+iabbrev reaise raise
 iabbrev reaised raised
 iabbrev rasing raising
 iabbrev reange range
@@ -931,9 +1000,11 @@ iabbrev reheta reheat
 iabbrev rehate reheat
 iabbrev erheat reheat
 iabbrev realted related
+iabbrev frelated related
 iabbrev relationsihp relationship
 iabbrev relationnship relationship
 iabbrev Relationjships Relationships
+iabbrev realitive relative
 iabbrev relavent relevant
 iabbrev remtoe remote
 iabbrev reomved removed
@@ -942,6 +1013,9 @@ iabbrev repclaced replaced
 iabbrev replacemetn replacement
 iabbrev reprot report
 iabbrev rpeot report
+iabbrev rpeort report
+iabbrev Reproter Reporter
+iabbrev Reporeter Reporter
 iabbrev reporst reports
 iabbrev requied required
 iabbrev reuqired required
@@ -961,20 +1035,21 @@ iabbrev retun return
 iabbrev Reveiew Review
 iabbrev rightt right
 iabbrev riese rise
+iabbrev rwo row
 iabbrev Roayl Royal
 iabbrev ORyal Royal
+iabbrev rulse rules
 iabbrev Smaple Sample
 iabbrev sameple sample
 iabbrev smaple sample
 iabbrev sampel sample
 iabbrev Smapling Sampling
 iabbrev smapling sampling
-iabbrev Smaple Sample
-iabbrev Smapling Sampling
 iabbrev sxampleing sampling
 iabbrev satifies satisfies
 iabbrev svaings savings
 iabbrev asy say
+iabbrev scenarious scenarios
 iabbrev schdeule schedule
 iabbrev schmatic schematic
 iabbrev socpe scope
@@ -990,6 +1065,7 @@ iabbrev senstivity sensitivity
 iabbrev sensitivtiy sensitivity
 iabbrev senseor sensor
 iabbrev snesors sensors
+iabbrev sensosrs sensors
 iabbrev seperated separated
 iabbrev Sequience Sequence
 iabbrev sequenctially sequentially
@@ -1021,6 +1097,7 @@ iabbrev Simulaiton Simulation
 iabbrev simulaiton simulation
 iabbrev ismulation simulation
 iabbrev simulaitons simulations
+iabbrev Simulataneous Simultaneous
 iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
@@ -1045,7 +1122,9 @@ iabbrev specificaitons specifications
 iabbrev specificantions specifications
 iabbrev sepcified specified
 iabbrev specfieid specified
+iabbrev sepecified specified
 iabbrev specifiy specify
+iabbrev sepcifify specify
 iabbrev spped speed
 iabbrev spreadhseet spreadsheet
 iabbrev Spreasheets Spreadsheets
@@ -1061,6 +1140,7 @@ iabbrev stitic static
 iabbrev sattic static
 iabbrev statsistics statistics
 iabbrev stuatus status
+iabbrev satatus status
 iabbrev staem steam
 iabbrev stroed stored
 iabbrev storeis stories
@@ -1098,6 +1178,7 @@ iabbrev sytem system
 iabbrev Systesm Systems
 iabbrev Ssytems Systems
 iabbrev systmes systems
+iabbrev tabv tab
 iabbrev TAble Table
 iabbrev takne taken
 iabbrev taks task
@@ -1143,6 +1224,8 @@ iabbrev temprature temperature
 iabbrev tempeatuter temperature
 iabbrev tmeprautre temperature
 iabbrev tpemperature temperature
+iabbrev temperatuter temperature
+iabbrev tmpeerature temperature
 iabbrev tmeperatures temperatures
 iabbrev temperautrtes temperatures
 iabbrev temperautres temperatures
@@ -1153,7 +1236,9 @@ iabbrev temperatues temperatures
 iabbrev tempearutes temperatures
 iabbrev tempeartures temperatures
 iabbrev tempeatures temperatures
+iabbrev Tempalte Template
 iabbrev tmeplate template
+iabbrev tameplate template
 iabbrev Tempelatse Templates
 iabbrev templasets templates
 iabbrev temr term
@@ -1220,6 +1305,7 @@ iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev thsee these
 iabbrev thye they
+iabbrev tyhy they
 iabbrev Thsi This
 iabbrev htis this
 iabbrev THree Three
@@ -1259,6 +1345,7 @@ iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
 iabbrev typeiclaly typically
+iabbrev tyupically typically
 iabbrev ultrasonci ultrasonic
 iabbrev unavaillable unavailable
 iabbrev ucnertainties uncertainties
@@ -1289,12 +1376,14 @@ iabbrev uints units
 iabbrev lunits units
 iabbrev unikts units
 iabbrev unnits units
+iabbrev updlaoded uploaded
 iabbrev useage usage
 iabbrev useufl useful
 iabbrev usfeul useful
 iabbrev usefullness usefulness
 iabbrev suer user
 iabbrev usingn using
+iabbrev usign using
 iabbrev Uiltity Utility
 iabbrev uitlilty utility
 iabbrev utiltiy utility
@@ -1312,10 +1401,12 @@ iabbrev variabtion variation
 iabbrev vairation variation
 iabbrev varitions variations
 iabbrev vareid varied
+iabbrev varietly variety
 iabbrev verifiy verify
 iabbrev verison version
 iabbrev iva via
 iabbrev vai via
+iabbrev Visison Vision
 iabbrev Voluem Volume
 iabbrev volumen volume
 iabbrev Wwater Water
@@ -1323,12 +1414,14 @@ iabbrev wtaer water
 iabbrev weke week
 iabbrev wieght weight
 iabbrev wlel well
+iabbrev wree were
 iabbrev waht what
 iabbrev hwat what
 iabbrev whta what
 iabbrev whne when
 iabbrev whearas whereas
 iabbrev whthere whether
+iabbrev wehther whether
 iabbrev Whiel While
 iabbrev whilee while
 iabbrev wholeheardely wholeheartedly
@@ -1346,6 +1439,7 @@ iabbrev WOrking Working
 iabbrev Wroking Working
 iabbrev Woriking Working
 iabbrev Wokring Working
+iabbrev WOrking Working
 iabbrev workign working
 iabbrev wouold would
 iabbrev woudl would
@@ -1356,4 +1450,5 @@ iabbrev Zoen Zone
 iabbrev zoen zone
 iabbrev zonne zone
 iabbrev zoens zones
+iabbrev zoines zones
 endfunction
