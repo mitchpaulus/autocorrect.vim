@@ -207,6 +207,7 @@ iabbrev chilllers chillers
 iabbrev cohice choice
 iabbrev chooosing choosing
 iabbrev cohsen chosen
+iabbrev Chirstmas Christmas
 iabbrev Clairdige Claridge
 iabbrev clcked clicked
 iabbrev lickcing clicking
@@ -513,6 +514,7 @@ iabbrev fractor factor
 iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
 iabbrev fna fan
+iabbrev featrue feature
 iabbrev feedback Feedback
 iabbrev felied field
 iabbrev Figurte Figure
@@ -1044,6 +1046,7 @@ iabbrev Reporeter Reporter
 iabbrev Reproter Reporter
 iabbrev reoports reports
 iabbrev reporst reports
+iabbrev reporsitoyr repository
 iabbrev requied required
 iabbrev reuqired required
 iabbrev requiements requirements
@@ -1498,7 +1501,9 @@ iabbrev WOrks Works
 iabbrev owuld would
 iabbrev woudl would
 iabbrev wouold would
+iabbrev yewt yet
 iabbrev youy you
+iabbrev yuou you
 iabbrev zerio zero
 iabbrev zoen zone
 iabbrev Zoen Zone

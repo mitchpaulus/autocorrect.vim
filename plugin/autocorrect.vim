@@ -4,33 +4,31 @@ if exists('g:AutocorrectScriptLoaded') || &compatible || v:version < 703
     finish
 endif
 
+let s:FilePath=expand('<sfile>:h')
+let g:AutocorrectScriptLoaded=1
+
 if !exists('g:Autocorrect_PersonalFile')
     let g:Autocorrect_PersonalFile='~/.autocorrect'
 endif
 
-let g:AutocorrectScriptLoaded=1
-
 function! LoadAutocorrect() 
-    if !filereadable(expand(g:Autocorrect_PersonalFile))
-        let success = writefile([],expand(g:Autocorrect_PersonalFile),"a") 
-    endif
-
-    if exists('g:AutocorrectLoaded')
-        execute 'source ' . g:Autocorrect_PersonalFile
-        return
-    endif
-
     let previousDirectory = expand("%:p:h")
 
     " Load built in abbreviations
-    cd %:p:h
+    execute "cd " . s:FilePath
     cd ..
     source corrections.vim
-    let g:AutocorrectLoaded=1
-    " Load custom words.
-    execute 'source ' . expand(g:Autocorrect_PersonalFile)
 
-    execute "cd " . previousDirectory
+    let personalFile = expand(g:Autocorrect_PersonalFile)
+
+    " Load custom words.
+    if filereadable(personalFile)
+        execute 'source ' . personalFile
+        echom "Read in personal autocorrect file."
+    endif
+
+    " Change working directory back to previous
+    execute "cd " . fnameescape(previousDirectory)
 
     " [a]dd [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
     nnoremap <leader>aa yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
@@ -57,8 +55,4 @@ function! s:AddToAbbrev(wrongSpelledWord)
     "leave user in visual mode, in case the first selection wasn't good.
     execute "normal! lviw"
     setlocal filetype=vim
-endfunction
-
-" typical sort command sort /\v.{-1,}\s.{-1,}\s/ u
-function! s:AddIAbbrevs() 
 endfunction
