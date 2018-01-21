@@ -23,6 +23,7 @@ iabbrev ari air
 iabbrev Ari Air
 iabbrev iar air
 iabbrev alrams alarms
+iabbrev Albequerqe Albuquerque
 iabbrev algorihgm algorithm
 iabbrev alogrithm algorithm
 iabbrev alogrighms algorithms
@@ -49,6 +50,7 @@ iabbrev nadn and
 iabbrev tand and
 iabbrev annula annual
 iabbrev annother another
+iabbrev anythign anything
 iabbrev anytihng anything
 iabbrev anywereh anywhere
 iabbrev appartent apparent
@@ -153,6 +155,7 @@ iabbrev builgin building
 iabbrev bulding building
 iabbrev buliding building
 iabbrev lubilding building
+iabbrev buidlligns buildings
 iabbrev buildgins buildings
 iabbrev buildigns buildings
 iabbrev builgins buildings
@@ -170,6 +173,7 @@ iabbrev claculated calculated
 iabbrev claculation calculation
 iabbrev caluclations calculations
 iabbrev Calcibrated Calibrated
+iabbrev calicbrated calibrated
 iabbrev calibrationg calibrating
 iabbrev calbiraiton calibration
 iabbrev claibration calibration
@@ -208,6 +212,7 @@ iabbrev cohice choice
 iabbrev chooosing choosing
 iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
+iabbrev curcuit circuit
 iabbrev Clairdige Claridge
 iabbrev clcked clicked
 iabbrev lickcing clicking
@@ -239,6 +244,7 @@ iabbrev Commissionieed Commissioned
 iabbrev commisioning commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissiioning Commissioning
+iabbrev Commissinoing Commissioning
 iabbrev commissiongin commissioning
 iabbrev Commissionging Commissioning
 iabbrev commissionign commissioning
@@ -298,6 +304,7 @@ iabbrev contorl control
 iabbrev contrl control
 iabbrev Cotnrl Control
 iabbrev contrlled controlled
+iabbrev contorls controls
 iabbrev Contrls Controls
 iabbrev ocntrosl controls
 iabbrev convensition convention
@@ -342,9 +349,11 @@ iabbrev dialy daily
 iabbrev Dallsa Dallas
 iabbrev daat data
 iabbrev datapoints data points
+iabbrev dta data
 iabbrev DAve Dave
 iabbrev decreaesed decreased
 iabbrev decreasees decreases
+iabbrev dedicaed dedicated
 iabbrev deafult default
 iabbrev defualt default
 iabbrev fdefine define
@@ -409,6 +418,7 @@ iabbrev doecuemnt document
 iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
+iabbrev documentaiton documentation
 iabbrev doen done
 iabbrev doewn down
 iabbrev donw down
@@ -450,6 +460,7 @@ iabbrev neter enter
 iabbrev enertered entered
 iabbrev enterd entered
 iabbrev entier entire
+iabbrev etneir entire
 iabbrev entrace entrance
 iabbrev entires entries
 iabbrev entorpy entropy
@@ -571,9 +582,11 @@ iabbrev fucntions functions
 iabbrev Fucnttions Functions
 iabbrev funcitons functions
 iabbrev rurther further
+iabbrev furture future
 iabbrev Garge Garage
 iabbrev Genealr General
 iabbrev Genral General
+iabbrev gneeral general
 iabbrev Gneeral General
 iabbrev Generageted Generated
 iabbrev gneerated generated
@@ -614,6 +627,7 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
+iabbrev hositpal hospital
 iabbrev howerver however
 iabbrev Howerver However
 iabbrev HOwever However
@@ -631,6 +645,7 @@ iabbrev Implemneter Implementer
 iabbrev IMplemneter Implementer
 iabbrev Implemnter Implementer
 iabbrev importantance importance
+iabbrev impoartant important
 iabbrev importatn important
 iabbrev improtant important
 iabbrev imporve improve
@@ -711,6 +726,7 @@ iabbrev itslf itself
 iabbrev JOhn John
 iabbrev jsut just
 iabbrev ujst just
+iabbrev Kettucky Kentucky
 iabbrev dkey key
 iabbrev Kimal Kimla 
 iabbrev knoiwldege knowledge
@@ -743,6 +759,7 @@ iabbrev magintuide magnitude
 iabbrev maintinained maintained
 iabbrev maintencance maintenance
 iabbrev makea make a
+iabbrev managmeent management
 iabbrev mapas maps
 iabbrev makr mark
 iabbrev amster master
@@ -780,6 +797,7 @@ iabbrev modesl models
 iabbrev modifeid modified
 iabbrev MOdified Modified
 iabbrev moels moles
+iabbrev monitoringn monitoring
 iabbrev montiors monitors
 iabbrev montly monthly
 iabbrev montyhly monthly
@@ -794,6 +812,7 @@ iabbrev naems names
 iabbrev namign naming
 iabbrev enearest nearest
 iabbrev enearsets nearest
+iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
 iabbrev NEedc Need
 iabbrev n3egative negative
@@ -892,6 +911,7 @@ iabbrev perfomance performance
 iabbrev perforamcne performance
 iabbrev pwersonal personal
 iabbrev philospohy philosophy
+iabbrev Pheonix Phoenix
 iabbrev physcally physically
 iabbrev peices pieces
 iabbrev paln plan
@@ -989,7 +1009,9 @@ iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev pulliing pulling
 iabbrev upmps pumps
+iabbrev Quailty Quality
 iabbrev quaklity quality
+iabbrev qualiyt quality
 iabbrev Quantificaitons Quantifications
 iabbrev qunaittites quantities
 iabbrev Qeustionaaire Questionnaire
@@ -1006,10 +1028,12 @@ iabbrev rasing raising
 iabbrev reange range
 iabbrev artes rates
 iabbrev artio ratio
+iabbrev realy really
 iabbrev reasonbable reasonable
 iabbrev reasonlabe reasonable
 iabbrev reasonlable reasonable
 iabbrev resaonable reasonable
+iabbrev REasonably Reasonably
 iabbrev reasonalbly reasonably
 iabbrev recieve receive
 iabbrev recoginition recognition
@@ -1053,6 +1077,8 @@ iabbrev requiements requirements
 iabbrev requiremnets requirements
 iabbrev reaseach research
 iabbrev reasearch research
+iabbrev residentiali residential
+iabbrev residitnetal residential
 iabbrev resistnace resistance
 iabbrev resistnatce resistance
 iabbrev respcet respect
@@ -1151,6 +1177,7 @@ iabbrev solutiosn solutions
 iabbrev sove solve
 iabbrev soem some
 iabbrev Somethimes Sometimes
+iabbrev SPeaker Speaker
 iabbrev sepcila special
 iabbrev Specilized Specialized
 iabbrev spciifc specific
@@ -1286,6 +1313,7 @@ iabbrev Tempalte Template
 iabbrev tmeplate template
 iabbrev Tempelatse Templates
 iabbrev templasets templates
+iabbrev tennants tenants
 iabbrev teerm term
 iabbrev temr term
 iabbrev etrmianl terminal
@@ -1355,6 +1383,7 @@ iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
 iabbrev thsee these
 iabbrev thye they
+iabbrev Thye They
 iabbrev tyhy they
 iabbrev htis this
 iabbrev Thsi This
@@ -1386,12 +1415,14 @@ iabbrev topci topic
 iabbrev thotal total
 iabbrev totla total
 iabbrev traingin training
+iabbrev trainign training
 iabbrev trnasfer transfer
 iabbrev trned trend
 iabbrev trendend trended
 iabbrev trrended trended
 iabbrev trneds trends
 iabbrev Treid Tried
+iabbrev Tuesdya Tuesday
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
