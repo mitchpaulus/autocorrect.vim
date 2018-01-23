@@ -35,6 +35,7 @@ iabbrev alsways always
 iabbrev amoutn amount
 iabbrev analyis analysis
 iabbrev analyiss analysis
+iabbrev Analyiss Analysis
 iabbrev anlayiss analysis
 iabbrev anlaysis analysis
 iabbrev anaylytically analytically
@@ -61,6 +62,7 @@ iabbrev applicaable applicable
 iabbrev Applicaiotn Application
 iabbrev applicaiton application
 iabbrev Applicaiton Application
+iabbrev applicaitons applications
 iabbrev Applicaitons Applications
 iabbrev apploied applied
 iabbrev applky apply
@@ -130,6 +132,7 @@ iabbrev becuase because
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
+iabbrev behing behind
 iabbrev beign being
 iabbrev besdies besides
 iabbrev beteween between
@@ -214,6 +217,7 @@ iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
 iabbrev curcuit circuit
 iabbrev Clairdige Claridge
+iabbrev cleanign cleaning
 iabbrev clcked clicked
 iabbrev lickcing clicking
 iabbrev xlosed closed
@@ -252,10 +256,12 @@ iabbrev Commissionign Commissioning
 iabbrev Commisssiong Commissioning
 iabbrev Commisssiongin Commissioning
 iabbrev Commjissiong Commissioning
+iabbrev commsisiongin commissioning
 iabbrev Commsissiong Commissioning
 iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev coumunicaiton communication
+iabbrev compnay company
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev competiting competing
@@ -388,8 +394,10 @@ iabbrev detialed detailed
 iabbrev detials details
 iabbrev determiation determination
 iabbrev determiniation determination
+iabbrev deteriming determine
 iabbrev determein determine
 iabbrev detemrines determines
+iabbrev deteriming determining
 iabbrev determineing determining
 iabbrev Developement Development
 iabbrev devleopment development
@@ -419,6 +427,7 @@ iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
 iabbrev documentaiton documentation
+iabbrev donig doing
 iabbrev doen done
 iabbrev doewn down
 iabbrev donw down
@@ -443,9 +452,11 @@ iabbrev electircity electricity
 iabbrev electiricyt electricity
 iabbrev electricay electricity
 iabbrev electriciyt electricity
+iabbrev evevation elevation
 iabbrev elswe else
 iabbrev emial email
 iabbrev evmails emails
+iabbrev emergingn emerging
 iabbrev ned end
 iabbrev endevor endeavor
 iabbrev enenrgy energy
@@ -466,6 +477,7 @@ iabbrev entires entries
 iabbrev entorpy entropy
 iabbrev enttry entry
 iabbrev enviornment environment
+iabbrev environemntes environments
 iabbrev eqaul equal
 iabbrev equzl equal
 iabbrev equlaity equality
@@ -489,6 +501,7 @@ iabbrev euqipment equipment
 iabbrev qeuipment equipment
 iabbrev eerror error
 iabbrev errrors errors
+iabbrev espciallly especially
 iabbrev Especailly Especially
 iabbrev eestimate estimate
 iabbrev esitmate estimate
@@ -621,6 +634,7 @@ iabbrev heaint heating
 iabbrev heaitng heating
 iabbrev helpuful helpful
 iabbrev hree: here:
+iabbrev hueristics heuristics
 iabbrev hiddne hidden
 iabbrev hgiher higher
 iabbrev hgihlighting highlighting
@@ -665,6 +679,7 @@ iabbrev indedependt independent
 iabbrev indiciatiton indication
 iabbrev indifivalu individual
 iabbrev inddor indoor
+iabbrev iinform inform
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev Informaation Information
@@ -758,6 +773,7 @@ iabbrev magentic magnetic
 iabbrev magintuide magnitude
 iabbrev maintinained maintained
 iabbrev maintencance maintenance
+iabbrev maintence maintenance
 iabbrev makea make a
 iabbrev managmeent management
 iabbrev mapas maps
@@ -858,6 +874,7 @@ iabbrev oeprational operational
 iabbrev operaitonla operational
 iabbrev operatialn operational
 iabbrev operaitons operations
+iabbrev opportuniteis opportunities
 iabbrev oppsoed opposed
 iabbrev oppostie opposite
 iabbrev optimizaiton optimization
@@ -913,6 +930,7 @@ iabbrev pwersonal personal
 iabbrev philospohy philosophy
 iabbrev Pheonix Phoenix
 iabbrev physcally physically
+iabbrev picutres pictures
 iabbrev peices pieces
 iabbrev paln plan
 iabbrev Paln Plan
@@ -982,6 +1000,7 @@ iabbrev priortization prioritization
 iabbrev prlblem problem
 iabbrev probelm problem
 iabbrev problekm problem
+iabbrev procuedures procedures
 iabbrev prfoceed proceed
 iabbrev Porocess Process
 iabbrev proces process
@@ -1168,6 +1187,7 @@ iabbrev skilsl skills
 iabbrev lslides slides
 iabbrev sloep slope
 iabbrev samrt smart
+iabbrev Simth Smith
 iabbrev spo so
 iabbrev softweare software
 iabbrev Soldi Solid
@@ -1247,11 +1267,13 @@ iabbrev systme system
 iabbrev systmne system
 iabbrev sytem system
 iabbrev sytesm system
+iabbrev ssytems systems
 iabbrev Ssytems Systems
 iabbrev Systesm Systems
 iabbrev systmes systems
 iabbrev tabv tab
 iabbrev TAble Table
+iabbrev atake take
 iabbrev takne taken
 iabbrev taks task
 iabbrev taought taught
@@ -1417,6 +1439,7 @@ iabbrev totla total
 iabbrev traingin training
 iabbrev trainign training
 iabbrev trnasfer transfer
+iabbrev rtrend trend
 iabbrev trned trend
 iabbrev trendend trended
 iabbrev trrended trended
@@ -1491,13 +1514,16 @@ iabbrev verison version
 iabbrev iva via
 iabbrev vai via
 iabbrev Visison Vision
+iabbrev VIsualization Visualization
 iabbrev Voluem Volume
 iabbrev volumen volume
+iabbrev Volunttering Volunteering
 iabbrev wiating waiting
 iabbrev wtaer water
 iabbrev Wwater Water
 iabbrev Wednesdya Wednesday
 iabbrev weke week
+iabbrev weeekends weekends
 iabbrev wieght weight
 iabbrev wlel well
 iabbrev wree were
