@@ -28,6 +28,7 @@ iabbrev algorihgm algorithm
 iabbrev alogrithm algorithm
 iabbrev alogrighms algorithms
 iabbrev aligened aligned
+iabbrev alreayd already
 iabbrev alos also
 iabbrev aslo also
 iabbrev Althouugh Although
@@ -269,6 +270,7 @@ iabbrev Compelte Complete
 iabbrev compeleted completed
 iabbrev compelted completed
 iabbrev completey completely
+iabbrev completley completely
 iabbrev compeletes completes
 iabbrev compoonents components
 iabbrev comrpession compression
@@ -357,6 +359,7 @@ iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
 iabbrev DAve Dave
+iabbrev decidied decided
 iabbrev decreaesed decreased
 iabbrev decreasees decreases
 iabbrev dedicaed dedicated
@@ -416,6 +419,7 @@ iabbrev directoy directory
 iabbrev directoyr directory
 iabbrev dissagregate disaggregate
 iabbrev sdiscern discern
+iabbrev dscovery discovery
 iabbrev dispaly display
 iabbrev disply display
 iabbrev dissertaiton dissertation
@@ -516,6 +520,7 @@ iabbrev evalueaiton evaluation
 iabbrev everyting everything
 iabbrev exmaple example
 iabbrev Excle Excel
+iabbrev exceptionatlly exceptionally
 iabbrev exchanger exchange
 iabbrev exhcange exchange
 iabbrev execture execute
@@ -532,6 +537,7 @@ iabbrev Explaingin Explaining
 iabbrev explroeing exploring
 iabbrev exponnets exponents
 iabbrev extensibile extensible
+iabbrev facebook Facebook
 iabbrev Facililty Facility
 iabbrev Facilty Facility
 iabbrev fractor factor
@@ -960,6 +966,7 @@ iabbrev postivie positive
 iabbrev possilbities possibilities
 iabbrev possilbe possible
 iabbrev possiblyh possibly
+iabbrev possilby possibly
 iabbrev posssilby possibly
 iabbrev potentail potential
 iabbrev potentila potential
@@ -1146,6 +1153,7 @@ iabbrev senstivity sensitivity
 iabbrev senseor sensor
 iabbrev sensosrs sensors
 iabbrev snesors sensors
+iabbrev snet sent
 iabbrev seperated separated
 iabbrev Sequience Sequence
 iabbrev sequencialy sequentially
@@ -1557,6 +1565,7 @@ iabbrev Wroking Working
 iabbrev WOrks Works
 iabbrev owuld would
 iabbrev woudl would
+iabbrev WOuld Would
 iabbrev wouold would
 iabbrev yewt yet
 iabbrev youy you

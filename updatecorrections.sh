@@ -5,7 +5,7 @@ set -e
 if [[ "$#" -eq 1 ]]; then
     autocorrectfile="$1"
 else
-    autocorrectfile="~/.autocorrect"
+    autocorrectfile=~/.autocorrect
 fi
 
 if [[ ! -f "$autocorrectfile" ]]; then
