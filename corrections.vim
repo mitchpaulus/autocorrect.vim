@@ -98,6 +98,7 @@ iabbrev arond around
 iabbrev aroudn around
 iabbrev Artifical Artificial
 iabbrev aas as
+iabbrev ASHREA ASHRAE
 iabbrev ascpects aspects
 iabbrev assignead assigned
 iabbrev assigneing assigning
@@ -129,6 +130,7 @@ iabbrev availbale available
 iabbrev availbe available
 iabbrev availbvle available
 iabbrev avialable available
+iabbrev avialbable available
 iabbrev avialbalbe available
 iabbrev avialbe available
 iabbrev Backgroudn Background
@@ -201,6 +203,7 @@ iabbrev clal call
 iabbrev Clal Call
 iabbrev canbe can be
 iabbrev cna can
+iabbrev cancelled canceled
 iabbrev capabiliity capability
 iabbrev capaciyt capacity
 iabbrev capicaity capacity
@@ -257,6 +260,7 @@ iabbrev coerfficiednts coefficients
 iabbrev coli coil
 iabbrev coollected collected
 iabbrev colleciton collection
+iabbrev Coollege College
 iabbrev comlum column
 iabbrev coolumn column
 iabbrev coulmn column
@@ -387,6 +391,7 @@ iabbrev crtricial critical
 iabbrev currtent current
 iabbrev curvativure curvature
 iabbrev cusomt custom
+iabbrev custiom custom
 iabbrev cusotmoer customer
 iabbrev cycel cycle
 iabbrev cyclie cycle
@@ -667,6 +672,7 @@ iabbrev grpahic graphic
 iabbrev grpahics graphics
 iabbrev grpahsics graphics
 iabbrev graviational gravitational
+iabbrev gropu group
 iabbrev Grup Group
 iabbrev gropus groups
 iabbrev Guidleine Guideline
@@ -976,6 +982,7 @@ iabbrev ouput output
 iabbrev outup output
 iabbrev outliers outwears
 iabbrev overaching overarching
+iabbrev packgae package
 iabbrev apge page
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
@@ -1020,6 +1027,7 @@ iabbrev ploytropic polytropic
 iabbrev polytorpic polytropic
 iabbrev popualte populate
 iabbrev popualted populated
+iabbrev protable portable
 iabbrev Protfoilo Portfolio
 iabbrev protfolio portfolio
 iabbrev porition portion
@@ -1333,6 +1341,7 @@ iabbrev straem stream
 iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
+iabbrev studnet student
 iabbrev styel style
 iabbrev stye style
 iabbrev sytle style
@@ -1344,6 +1353,7 @@ iabbrev substituations substitutions
 iabbrev succesful successful
 iabbrev usch such
 iabbrev suggesitons suggestions
+iabbrev sunslight sunlight
 iabbrev supplky supply
 iabbrev suppply supply
 iabbrev suppy supply
@@ -1602,6 +1612,7 @@ iabbrev usingn using
 iabbrev Uiltity Utility
 iabbrev uitlilty utility
 iabbrev utiltiy utility
+iabbrev utiltliy utility
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
 iabbrev Validatort Validator
