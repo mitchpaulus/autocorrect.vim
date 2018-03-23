@@ -16,8 +16,10 @@ fi
 cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -f -k 3,3 > tmp && mv tmp corrections.vim
 echo "Added $(cat "$autocorrectfile" | wc -l) new iabbrevs into the correction list. $(cat corrections.vim | wc -l) total."
 
-cp "$autocorrectfile" $(dirname "$autocorrectfile")/.autocorrect-backup
-echo "Created backup at $autocorrectfile/.autocorrect-backup"
+autocorrectdir=$(dirname "$autocorrectfile")
+
+cp "$autocorrectfile" "$autocorrectdir"/.autocorrect-backup
+echo "Created backup at "$autocorrectdir"/.autocorrect-backup"
 
 # Clear the autocorrect file.
 > "$autocorrectfile"
