@@ -6,6 +6,7 @@ iabbrev accompolish accomplish
 iabbrev Accordiing According
 iabbrev accoriding according
 iabbrev accoreidnly accordingly
+iabbrev accoutn account
 iabbrev accross across
 iabbrev acutal actual
 iabbrev actaully actually
@@ -148,6 +149,7 @@ iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
 iabbrev behing behind
 iabbrev beign being
+iabbrev belive believe
 iabbrev besdies besides
 iabbrev beteween between
 iabbrev betwen between
@@ -618,6 +620,7 @@ iabbrev fixutre fixture
 iabbrev Floro Floor
 iabbrev flolw flow
 iabbrev lfow flow
+iabbrev flucuation fluctuation
 iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev folloiwing following
@@ -1286,6 +1289,7 @@ iabbrev sinlge single
 iabbrev skilsl skills
 iabbrev lslides slides
 iabbrev sloep slope
+iabbrev samll small
 iabbrev samrt smart
 iabbrev Simth Smith
 iabbrev spo so
@@ -1626,6 +1630,7 @@ iabbrev vlaves valves
 iabbrev variaglbe variable
 iabbrev varialbe variable
 iabbrev varialbes variables
+iabbrev variarnce variance
 iabbrev vairation variation
 iabbrev variabtion variation
 iabbrev varitions variations
