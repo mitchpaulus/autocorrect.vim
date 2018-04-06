@@ -44,8 +44,10 @@ iabbrev analygous analogous
 iabbrev analyis analysis
 iabbrev analyiss analysis
 iabbrev Analyiss Analysis
+iabbrev analyuiss analysis
 iabbrev anlayiss analysis
 iabbrev anlaysis analysis
+iabbrev anlysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
 iabbrev alnaalyze analyze
@@ -92,6 +94,7 @@ iabbrev apprpoximatley approximately
 iabbrev approximatation approximation
 iabbrev arbitralily arbitrarily
 iabbrev arbirary arbitrary
+iabbrev arbitary arbitrary
 iabbrev aree are
 iabbrev raea area
 iabbrev Arthimetic Arithmetic
@@ -291,8 +294,10 @@ iabbrev Commjissiong Commissioning
 iabbrev commsisiongin commissioning
 iabbrev Commsissiong Commissioning
 iabbrev commsssioning commissioning
+iabbrev commmit commit
 iabbrev ocmmon common
 iabbrev commonlky commonly
+iabbrev communicaiton communication
 iabbrev coumunicaiton communication
 iabbrev compnay company
 iabbrev comapred compared
@@ -403,6 +408,7 @@ iabbrev Dallsa Dallas
 iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
+iabbrev databse database
 iabbrev DAve Dave
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -412,6 +418,7 @@ iabbrev deafult default
 iabbrev defualt default
 iabbrev fdefine define
 iabbrev definned defined
+iabbrev Defintion Definition
 iabbrev dnesity density
 iabbrev Deparment Department
 iabbrev depdnd depend
@@ -453,6 +460,7 @@ iabbrev Developement Development
 iabbrev devleopment development
 iabbrev developes develops
 iabbrev devleops develops
+iabbrev devicee device
 iabbrev edevices devices
 iabbrev Difff Diff
 iabbrev diffentert different
@@ -555,6 +563,7 @@ iabbrev euqipment equipment
 iabbrev qeuipment equipment
 iabbrev eerror error
 iabbrev errrors errors
+iabbrev errros errors
 iabbrev espciallly especially
 iabbrev Especailly Especially
 iabbrev eestimate estimate
@@ -580,6 +589,7 @@ iabbrev exericse exercise
 iabbrev exercieses exercises
 iabbrev Exisiting Existing
 iabbrev exisitng existing
+iabbrev existng existing
 iabbrev expannding expanding
 iabbrev exapansion expansion
 iabbrev expansionj expansion
@@ -587,6 +597,7 @@ iabbrev expecst expect
 iabbrev Explaingin Explaining
 iabbrev explroeing exploring
 iabbrev exponnets exponents
+iabbrev exproted exported
 iabbrev extensibile extensible
 iabbrev facebook Facebook
 iabbrev Facililty Facility
@@ -686,6 +697,7 @@ iabbrev ahndling handling
 iabbrev handaling handling
 iabbrev handlaing handling
 iabbrev handlign handling
+iabbrev hndling handling
 iabbrev ahrd hard
 iabbrev ahas has
 iabbrev ahs has
@@ -708,6 +720,7 @@ iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
 iabbrev hositpal hospital
+iabbrev hoursin hours in
 iabbrev howerver however
 iabbrev Howerver However
 iabbrev HOwever However
@@ -797,6 +810,7 @@ iabbrev inot into
 iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev invserse inverse
+iabbrev invesitgation investigation
 iabbrev investement investment
 iabbrev invitue invite
 iabbrev irreversilbe irreversible
@@ -819,10 +833,14 @@ iabbrev lable label
 iabbrev lbael label
 iabbrev labeld labeled
 iabbrev lableled labeled
+iabbrev lables labels
 iabbrev Laboratoyrt Laboratory
 iabbrev liack lack
+iabbrev lamdba lambda
+iabbrev Leakding Leaking
 iabbrev leanring learning
 iabbrev Leanring Learning
+iabbrev lenght length
 iabbrev LIbrary Library
 iabbrev librayr library
 iabbrev lgighting lighting
@@ -836,6 +854,7 @@ iabbrev littel little
 iabbrev laod load
 iabbrev Laod Load
 iabbrev laods loads
+iabbrev localshot localhost
 iabbrev Lcoate Locate
 iabbrev lcoated located
 iabbrev locaiton location
@@ -966,6 +985,7 @@ iabbrev opitions options
 iabbrev origianl original
 iabbrev oriigal original
 iabbrev oringial original
+iabbrev origianlly originally
 iabbrev originatign originating
 iabbrev Ohter Other
 iabbrev toher other
@@ -1004,6 +1024,7 @@ iabbrev partail partial
 iabbrev paraticlaur particular
 iabbrev particaulr particular
 iabbrev particualr particular
+iabbrev particulary particularly
 iabbrev aprtition partition
 iabbrev penatlty penalty
 iabbrev penatly penalty
@@ -1023,6 +1044,7 @@ iabbrev pland plan
 iabbrev plna plan
 iabbrev palusible plausible
 iabbrev polts plots
+iabbrev piont point
 iabbrev poitn point
 iabbrev poitns points
 iabbrev pooints points
@@ -1129,6 +1151,7 @@ iabbrev quesitionarrir questionnaire
 iabbrev questionaire questionnaire
 iabbrev questionanaire questionnaire
 iabbrev quesitons questions
+iabbrev Quesitons Questions
 iabbrev qauicly quickly
 iabbrev quilckly quickly
 iabbrev radiof radio
@@ -1182,6 +1205,7 @@ iabbrev Reporeter Reporter
 iabbrev Reproter Reporter
 iabbrev reoports reports
 iabbrev reporst reports
+iabbrev rports reports
 iabbrev reporsitoyr repository
 iabbrev requiere require
 iabbrev requied required
@@ -1194,6 +1218,7 @@ iabbrev residentiali residential
 iabbrev residitnetal residential
 iabbrev resistnace resistance
 iabbrev resistnatce resistance
+iabbrev resoelves resolves
 iabbrev respcet respect
 iabbrev respecdt respect
 iabbrev respirarotyr respiratory
@@ -1305,6 +1330,7 @@ iabbrev somehting something
 iabbrev Somethimes Sometimes
 iabbrev SPeaker Speaker
 iabbrev sepcila special
+iabbrev speical special
 iabbrev Specilized Specialized
 iabbrev spciifc specific
 iabbrev specidic specific
@@ -1518,11 +1544,13 @@ iabbrev thermodynamci thermodynamic
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
+iabbrev htese these
 iabbrev thsee these
 iabbrev thye they
 iabbrev Thye They
 iabbrev tyhy they
 iabbrev thigns things
+iabbrev thrid third
 iabbrev htis this
 iabbrev Thjis This
 iabbrev Thsi This
