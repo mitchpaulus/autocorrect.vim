@@ -21,6 +21,7 @@ iabbrev adopeted adopted
 iabbrev adviosr advisor
 iabbrev Adviosr Advisor
 iabbrev afftecting affecting
+iabbrev aftenronon afternoon
 iabbrev ahir air
 iabbrev ari air
 iabbrev Ari Air
@@ -121,6 +122,7 @@ iabbrev atmosphereic atmospheric
 iabbrev Attachemnts Attachments
 iabbrev attemping attempting
 iabbrev Attendence Attendance
+iabbrev attritbue attribute
 iabbrev automaitcllay automatically
 iabbrev avaiable available
 iabbrev avaialbable available
@@ -240,6 +242,8 @@ iabbrev checkedd checked
 iabbrev checkdlists checklists
 iabbrev chekcout checkout
 iabbrev checkes checks
+iabbrev Cheerry Cherry
+iabbrev Chery Cherry
 iabbrev childern children
 iabbrev Chiled Chilled
 iabbrev chillled chilled
@@ -266,6 +270,7 @@ iabbrev coli coil
 iabbrev coollected collected
 iabbrev colleciton collection
 iabbrev Coollege College
+iabbrev COlumn Column
 iabbrev comlum column
 iabbrev coolumn column
 iabbrev coulmn column
@@ -288,6 +293,7 @@ iabbrev commissiongin commissioning
 iabbrev Commissionging Commissioning
 iabbrev commissionign commissioning
 iabbrev Commissionign Commissioning
+iabbrev Commissionings Commissioning
 iabbrev Commisssiong Commissioning
 iabbrev Commisssiongin Commissioning
 iabbrev Commjissiong Commissioning
@@ -311,6 +317,7 @@ iabbrev compleeted completed
 iabbrev completey completely
 iabbrev completley completely
 iabbrev compeletes completes
+iabbrev componenets components
 iabbrev compoonents components
 iabbrev comrpession compression
 iabbrev comptuer compute
@@ -322,6 +329,8 @@ iabbrev ocnclusions conclusions
 iabbrev ocndenser condenser
 iabbrev conditinos conditions
 iabbrev condifience confidence
+iabbrev configuraiton configuration
+iabbrev configutration configuration
 iabbrev conenction connection
 iabbrev consectuive consecutive
 iabbrev consectuvive consecutive
@@ -353,6 +362,7 @@ iabbrev Continousous Continuous
 iabbrev Contionous Continuous
 iabbrev contractiors contractors
 iabbrev contirubted contributed
+iabbrev Contriubtued Contributed
 iabbrev contributrion contribution
 iabbrev contirbutors contributors
 iabbrev contorl control
@@ -419,6 +429,7 @@ iabbrev defualt default
 iabbrev fdefine define
 iabbrev definned defined
 iabbrev Defintion Definition
+iabbrev dehumidifcation dehumidification
 iabbrev dnesity density
 iabbrev Deparment Department
 iabbrev depdnd depend
@@ -532,6 +543,7 @@ iabbrev enteer enter
 iabbrev neter enter
 iabbrev enertered entered
 iabbrev enterd entered
+iabbrev enterin entering
 iabbrev entier entire
 iabbrev etneir entire
 iabbrev entrace entrance
@@ -720,6 +732,7 @@ iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
 iabbrev hositpal hospital
+iabbrev horus hours
 iabbrev hoursin hours in
 iabbrev howerver however
 iabbrev Howerver However
@@ -732,6 +745,7 @@ iabbrev ingored ignored
 iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
+iabbrev Impelmemtner Implementer
 iabbrev Implementner Implementer
 iabbrev Implemetner Implementer
 iabbrev Implemneter Implementer
@@ -739,6 +753,7 @@ iabbrev IMplemneter Implementer
 iabbrev Implemnter Implementer
 iabbrev importantance importance
 iabbrev impoartant important
+iabbrev imporatant important
 iabbrev importatn important
 iabbrev improtant important
 iabbrev imporve improve
@@ -810,6 +825,7 @@ iabbrev inot into
 iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev invserse inverse
+iabbrev investigaet investigate
 iabbrev invesitgation investigation
 iabbrev investement investment
 iabbrev invitue invite
@@ -857,6 +873,7 @@ iabbrev laods loads
 iabbrev localshot localhost
 iabbrev Lcoate Locate
 iabbrev lcoated located
+iabbrev lociated located
 iabbrev locaiton location
 iabbrev loose lose
 iabbrev loower lower
@@ -908,6 +925,7 @@ iabbrev modifeid modified
 iabbrev MOdified Modified
 iabbrev moels moles
 iabbrev moement moment
+iabbrev MOnday Monday
 iabbrev monitoringn monitoring
 iabbrev montiors monitors
 iabbrev montly monthly
@@ -1046,6 +1064,7 @@ iabbrev palusible plausible
 iabbrev polts plots
 iabbrev piont point
 iabbrev poitn point
+iabbrev Poitn Point
 iabbrev poitns points
 iabbrev pooints points
 iabbrev ploytropic polytropic
@@ -1072,6 +1091,7 @@ iabbrev possilby possibly
 iabbrev posssilby possibly
 iabbrev potentail potential
 iabbrev potentila potential
+iabbrev potnetial potential
 iabbrev ptoentail potential
 iabbrev ptotently potentially
 iabbrev pwoer power
@@ -1126,6 +1146,7 @@ iabbrev fprofile profile
 iabbrev profjiels profiles
 iabbrev progrma program
 iabbrev prommed programmed
+iabbrev programmihng programming
 iabbrev proejgress progress
 iabbrev profject project
 iabbrev projfct project
@@ -1172,6 +1193,7 @@ iabbrev reasonalbly reasonably
 iabbrev recieve receive
 iabbrev recoginition recognition
 iabbrev reduciton reduction
+iabbrev refacotr refactor
 iabbrev referecne reference
 iabbrev refrigeratant refrigerant
 iabbrev refigerator refrigerator
@@ -1186,6 +1208,7 @@ iabbrev rehate reheat
 iabbrev reheta reheat
 iabbrev frelated related
 iabbrev realted related
+iabbrev rleated related
 iabbrev relationnship relationship
 iabbrev relationsihp relationship
 iabbrev Relationjships Relationships
@@ -1222,6 +1245,7 @@ iabbrev resoelves resolves
 iabbrev respcet respect
 iabbrev respecdt respect
 iabbrev respirarotyr respiratory
+iabbrev REpsonding Responding
 iabbrev repsonse response
 iabbrev restul result
 iabbrev resutl result
@@ -1271,6 +1295,7 @@ iabbrev senseor sensor
 iabbrev sensosrs sensors
 iabbrev snesors sensors
 iabbrev snet sent
+iabbrev seaparate separate
 iabbrev seperated separated
 iabbrev Sequience Sequence
 iabbrev squesnces sequences
@@ -1288,6 +1313,7 @@ iabbrev sevearl several
 iabbrev sheeet sheet
 iabbrev hsould should
 iabbrev shoudl should
+iabbrev Shoudl Should
 iabbrev shouuuld should
 iabbrev shyould should
 iabbrev whould should
@@ -1570,6 +1596,7 @@ iabbrev throuugh through
 iabbrev trhought through
 iabbrev throughtout throughout
 iabbrev trhoughout throughout
+iabbrev Thrusday Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev teimstamp timestamp
@@ -1585,6 +1612,7 @@ iabbrev totla total
 iabbrev toltals totals
 iabbrev traingin training
 iabbrev trainign training
+iabbrev tansfer transfer
 iabbrev trnasfer transfer
 iabbrev rtrend trend
 iabbrev trned trend
@@ -1631,7 +1659,9 @@ iabbrev unikts units
 iabbrev unjits units
 iabbrev unnits units
 iabbrev untis units
+iabbrev unecessary unnecessary
 iabbrev updlaoded uploaded
+iabbrev Uploadeed Uploaded
 iabbrev updlads uploads
 iabbrev url URL
 iabbrev useage usage
@@ -1680,6 +1710,7 @@ iabbrev Volunttering Volunteering
 iabbrev wiating waiting
 iabbrev wtaer water
 iabbrev Wwater Water
+iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev weke week
 iabbrev weeekends weekends
