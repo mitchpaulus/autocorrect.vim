@@ -46,6 +46,7 @@ iabbrev analyis analysis
 iabbrev analyiss analysis
 iabbrev Analyiss Analysis
 iabbrev analyuiss analysis
+iabbrev analysisi analysis
 iabbrev anlayiss analysis
 iabbrev anlaysis analysis
 iabbrev anlysis analysis
@@ -186,6 +187,9 @@ iabbrev buildigns buildings
 iabbrev builgins buildings
 iabbrev buioldings buildings
 iabbrev buiolgings buildings
+iabbrev buldigns buildings
+iabbrev buldings buildings
+iabbrev Buyildings Buildings
 iabbrev buit but
 iabbrev butoton button
 iabbrev yb by
@@ -238,6 +242,8 @@ iabbrev changeing changing
 iabbrev cahpter chapter
 iabbrev Chatper Chapter
 iabbrev cahractersictic characteristic
+iabbrev characteritsics characteristics
+iabbrev Cheeck Check
 iabbrev checkedd checked
 iabbrev checkdlists checklists
 iabbrev chekcout checkout
@@ -257,6 +263,7 @@ iabbrev Clairdige Claridge
 iabbrev cleanign cleaning
 iabbrev clcked clicked
 iabbrev lickcing clicking
+iabbrev lcinet client
 iabbrev xlosed closed
 iabbrev clous cloud
 iabbrev ocde code
@@ -297,6 +304,7 @@ iabbrev Commissionings Commissioning
 iabbrev Commisssiong Commissioning
 iabbrev Commisssiongin Commissioning
 iabbrev Commjissiong Commissioning
+iabbrev Commsiiongin Commissioning
 iabbrev commsisiongin commissioning
 iabbrev Commsissiong Commissioning
 iabbrev commsssioning commissioning
@@ -341,6 +349,7 @@ iabbrev consistnetn consistent
 iabbrev consistnely consistently
 iabbrev constatn constant
 iabbrev Constatn Constant
+iabbrev Contstant Constant
 iabbrev ocnsatnt constant
 iabbrev ocnstant constant
 iabbrev coinsumption consumption
@@ -468,6 +477,8 @@ iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev determineing determining
 iabbrev Developement Development
+iabbrev developemnet development
+iabbrev developemnt development
 iabbrev devleopment development
 iabbrev developes develops
 iabbrev devleops develops
@@ -615,6 +626,7 @@ iabbrev facebook Facebook
 iabbrev Facililty Facility
 iabbrev Facilty Facility
 iabbrev fractor factor
+iabbrev Facotry Factory
 iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
 iabbrev failry fairly
@@ -658,6 +670,7 @@ iabbrev fro for
 iabbrev Fro For
 iabbrev ofr for
 iabbrev Froest Forest
+iabbrev fomr form
 iabbrev formulats formulas
 iabbrev foudn found
 iabbrev Foiruier Fourier
@@ -701,6 +714,7 @@ iabbrev graviational gravitational
 iabbrev gropu group
 iabbrev Grup Group
 iabbrev gropus groups
+iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
 iabbrev guideines guidelines
 iabbrev Guidleines Guidelines
@@ -727,6 +741,7 @@ iabbrev hree: here:
 iabbrev hueristics heuristics
 iabbrev hiddne hidden
 iabbrev hgiher higher
+iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
@@ -761,6 +776,8 @@ iabbrev ina in a
 iabbrev inb in
 iabbrev inthe in the
 iabbrev ni in
+iabbrev INclude Include
+iabbrev inlcude include
 iabbrev inclucded included
 iabbrev Inclucded Included
 iabbrev includede included
@@ -808,6 +825,7 @@ iabbrev insated instead
 iabbrev Institutue Institute
 iabbrev insturction instruction
 iabbrev Insturcitons Instructions
+iabbrev intanible intangible
 iabbrev Integratign Integrating
 iabbrev initended intended
 iabbrev Interace Interface
@@ -857,6 +875,7 @@ iabbrev Leakding Leaking
 iabbrev leanring learning
 iabbrev Leanring Learning
 iabbrev lenght length
+iabbrev lvevl level
 iabbrev LIbrary Library
 iabbrev librayr library
 iabbrev lgighting lighting
@@ -886,6 +905,8 @@ iabbrev maintence maintenance
 iabbrev makea make a
 iabbrev managmeent management
 iabbrev mapas maps
+iabbrev Marhc March
+iabbrev Marhd March
 iabbrev makr mark
 iabbrev amster master
 iabbrev matcing matching
@@ -961,6 +982,7 @@ iabbrev netural neutral
 iabbrev neturla neutral
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
+iabbrev nomencaluture nomenclature
 iabbrev nomenclautere nomenclature
 iabbrev nomencluature nomenclature
 iabbrev nomial nominal
@@ -1046,9 +1068,11 @@ iabbrev particulary particularly
 iabbrev aprtition partition
 iabbrev penatlty penalty
 iabbrev penatly penalty
+iabbrev peiople people
 iabbrev pepople people
 iabbrev perfomance performance
 iabbrev perforamcne performance
+iabbrev performaning performing
 iabbrev peroid period
 iabbrev pwersonal personal
 iabbrev philospohy philosophy
@@ -1119,6 +1143,7 @@ iabbrev Prerequistiee Prerequisite
 iabbrev prerequitsite prerequisite
 iabbrev preseentaiotn presentation
 iabbrev presentaiton presentation
+iabbrev Presentationg Presentation
 iabbrev presneted presented
 iabbrev apressure pressure
 iabbrev pressrue pressure
@@ -1252,6 +1277,7 @@ iabbrev resutl result
 iabbrev reuslt result
 iabbrev resutls results
 iabbrev reulsts results
+iabbrev reaturn return
 iabbrev retun return
 iabbrev Reveiew Review
 iabbrev reveiw review
@@ -1283,6 +1309,7 @@ iabbrev scrreen screen
 iabbrev searhc search
 iabbrev sedond second
 iabbrev seciton section
+iabbrev securtiy security
 iabbrev selct select
 iabbrev slecet select
 iabbrev sleected selected
@@ -1393,6 +1420,7 @@ iabbrev stroed stored
 iabbrev storeis stories
 iabbrev straighforward straightforward
 iabbrev striaghtforward straightforward
+iabbrev stragne strange
 iabbrev straem stream
 iabbrev Streches Stretches
 iabbrev striclty strictly
@@ -1431,6 +1459,7 @@ iabbrev sytem system
 iabbrev sytesm system
 iabbrev ssytems systems
 iabbrev Ssytems Systems
+iabbrev syhstems systems
 iabbrev Systesm Systems
 iabbrev systmes systems
 iabbrev tabv tab
@@ -1490,6 +1519,7 @@ iabbrev tempeartures temperatures
 iabbrev tempearutes temperatures
 iabbrev tempeatueras temperatures
 iabbrev tempeatures temperatures
+iabbrev temperatreus temperatures
 iabbrev temperatues temperatures
 iabbrev temperaturres temperatures
 iabbrev temperautres temperatures
@@ -1549,6 +1579,7 @@ iabbrev th the
 iabbrev trhe the
 iabbrev tyhe the
 iabbrev hteir their
+iabbrev thier their
 iabbrev hten then
 iabbrev thne then
 iabbrev theorteical theoretical
@@ -1678,6 +1709,7 @@ iabbrev utiltliy utility
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
 iabbrev Validatort Validator
+iabbrev valubale valuable
 iabbrev avlue value
 iabbrev valeu value
 iabbrev vlaue value
@@ -1734,6 +1766,7 @@ iabbrev wiht with
 iabbrev wirth with
 iabbrev witha with a
 iabbrev withing within
+iabbrev Witneess Witness
 iabbrev owkr work
 iabbrev owrk work
 iabbrev workl work
