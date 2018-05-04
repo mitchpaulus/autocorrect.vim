@@ -2,6 +2,12 @@
 
 set -e
 
+scriptdir=$(dirname "$0")
+
+cd "$scriptdir"
+
+git pull || (echo "Not clean merge"; exit 1)
+
 if [[ "$#" -eq 1 ]]; then
     autocorrectfile="$1"
 else
@@ -10,7 +16,7 @@ fi
 
 if [[ ! -f "$autocorrectfile" ]]; then
     echo "$autocorrectfile does not exist."
-    exit 0
+    exit 2
 fi
 
 cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -f -k 3,3 > tmp && mv tmp corrections.vim
@@ -24,3 +30,6 @@ echo "Created backup at "$autocorrectdir"/.autocorrect-backup"
 # Clear the autocorrect file.
 > "$autocorrectfile"
 echo "Cleared $autocorrectfile"
+
+git commit -am "Add iabbrevs"
+git push

@@ -45,8 +45,8 @@ iabbrev analygous analogous
 iabbrev analyis analysis
 iabbrev analyiss analysis
 iabbrev Analyiss Analysis
-iabbrev analyuiss analysis
 iabbrev analysisi analysis
+iabbrev analyuiss analysis
 iabbrev anlayiss analysis
 iabbrev anlaysis analysis
 iabbrev anlysis analysis
@@ -66,6 +66,7 @@ iabbrev tand and
 iabbrev annula annual
 iabbrev annother another
 iabbrev antoher another
+iabbrev Antoionio Antonio
 iabbrev anythign anything
 iabbrev anytihng anything
 iabbrev anywereh anywhere
@@ -141,6 +142,7 @@ iabbrev avialbable available
 iabbrev avialbalbe available
 iabbrev avialbe available
 iabbrev Backgroudn Background
+iabbrev bakcup backup
 iabbrev abackwards backwards
 iabbrev backwareds backwards
 iabbrev balnace balance
@@ -175,6 +177,7 @@ iabbrev buiilding building
 iabbrev buikdlign building
 iabbrev buildign building
 iabbrev Buildign Building
+iabbrev BUilding Building
 iabbrev buildnig building
 iabbrev builgin building
 iabbrev bulding building
@@ -309,6 +312,7 @@ iabbrev commsisiongin commissioning
 iabbrev Commsissiong Commissioning
 iabbrev commsssioning commissioning
 iabbrev commmit commit
+iabbrev commti commit
 iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev communicaiton communication
@@ -476,6 +480,7 @@ iabbrev Determien Determine
 iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev determineing determining
+iabbrev develeopemnet development
 iabbrev Developement Development
 iabbrev developemnet development
 iabbrev developemnt development
@@ -528,6 +533,7 @@ iabbrev effectes effects
 iabbrev efficicency efficiency
 iabbrev efficienty efficiency
 iabbrev effortr effort
+iabbrev weitther either
 iabbrev electrici electric
 iabbrev electricial electrical
 iabbrev eelctricy electricity
@@ -617,6 +623,7 @@ iabbrev expannding expanding
 iabbrev exapansion expansion
 iabbrev expansionj expansion
 iabbrev expecst expect
+iabbrev expnse expense
 iabbrev Explaingin Explaining
 iabbrev explroeing exploring
 iabbrev exponnets exponents
@@ -642,6 +649,7 @@ iabbrev fiel file
 iabbrev figle file
 iabbrev gile file
 iabbrev ifle file
+iabbrev fiels files
 iabbrev iles files
 iabbrev finsih finish
 iabbrev fiinished finished
@@ -675,6 +683,7 @@ iabbrev formulats formulas
 iabbrev foudn found
 iabbrev Foiruier Fourier
 iabbrev Francsios Francisco
+iabbrev Firday Friday
 iabbrev Frday Friday
 iabbrev rom from
 iabbrev fornt front
@@ -844,6 +853,7 @@ iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev invserse inverse
 iabbrev investigaet investigate
+iabbrev investigatign investigating
 iabbrev invesitgation investigation
 iabbrev investement investment
 iabbrev invitue invite
@@ -1007,6 +1017,7 @@ iabbrev oftne often
 iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev OneNtoe OneNote
+iabbrev nonly only
 iabbrev operatie operate
 iabbrev operatre operate
 iabbrev operaties operates
@@ -1104,6 +1115,7 @@ iabbrev protion portion
 iabbrev protions portions
 iabbrev postiong position
 iabbrev Posistions Positions
+iabbrev posoitions positions
 iabbrev positivie positive
 iabbrev possitve positive
 iabbrev postive positive
@@ -1187,6 +1199,7 @@ iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev pulliing pulling
 iabbrev upmps pumps
+iabbrev quailty quality
 iabbrev Quailty Quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
@@ -1216,6 +1229,7 @@ iabbrev resaonable reasonable
 iabbrev REasonably Reasonably
 iabbrev reasonalbly reasonably
 iabbrev recieve receive
+iabbrev recevied received
 iabbrev recoginition recognition
 iabbrev reduciton reduction
 iabbrev refacotr refactor
@@ -1319,6 +1333,7 @@ iabbrev snese sense
 iabbrev sensitivtiy sensitivity
 iabbrev senstivity sensitivity
 iabbrev senseor sensor
+iabbrev snesor sensor
 iabbrev sensosrs sensors
 iabbrev snesors sensors
 iabbrev snet sent
@@ -1330,6 +1345,8 @@ iabbrev sequencialy sequentially
 iabbrev sequenctially sequentially
 iabbrev sereis series
 iabbrev Sereis Series
+iabbrev septoint setpoint
+iabbrev sestpoint setpoint
 iabbrev setipiont setpoint
 iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
@@ -1430,6 +1447,7 @@ iabbrev styel style
 iabbrev stye style
 iabbrev sytle style
 iabbrev sytles styles
+iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev subsance substance
 iabbrev substantce substance
@@ -1639,6 +1657,7 @@ iabbrev Tooll Toll
 iabbrev toolos tools
 iabbrev topci topic
 iabbrev thotal total
+iabbrev toatl total
 iabbrev totla total
 iabbrev toltals totals
 iabbrev traingin training
@@ -1682,6 +1701,7 @@ iabbrev udnerstand understand
 iabbrev udnerstanding understanding
 iabbrev understandiung understanding
 iabbrev udnertaken undertaken
+iabbrev Underwod Underwood
 iabbrev uint unit
 iabbrev unti unit
 iabbrev lunits units
@@ -1702,6 +1722,7 @@ iabbrev usefullness usefulness
 iabbrev suer user
 iabbrev usign using
 iabbrev usingn using
+iabbrev utilites utilities
 iabbrev Uiltity Utility
 iabbrev uitlilty utility
 iabbrev utiltiy utility
@@ -1717,6 +1738,7 @@ iabbrev avlues values
 iabbrev vlues values
 iabbrev vlave valve
 iabbrev vlaves valves
+iabbrev vairalbe variable
 iabbrev variaglbe variable
 iabbrev varialbe variable
 iabbrev varialbes variables
@@ -1770,11 +1792,14 @@ iabbrev Witneess Witness
 iabbrev owkr work
 iabbrev owrk work
 iabbrev workl work
+iabbrev WOrked Worked
 iabbrev Wokring Working
 iabbrev WOkring Working
 iabbrev woriking working
 iabbrev Woriking Working
 iabbrev workign working
+iabbrev Workign Working
+iabbrev Workikng Working
 iabbrev WOrking Working
 iabbrev Worlking Working
 iabbrev Wroking Working
