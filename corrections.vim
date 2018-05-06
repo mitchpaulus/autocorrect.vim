@@ -831,6 +831,7 @@ iabbrev insentive insensitive
 iabbrev inistalled installed
 iabbrev instanteous instantaneous
 iabbrev insated instead
+iabbrev instaed instead
 iabbrev Institutue Institute
 iabbrev insturction instruction
 iabbrev Insturcitons Instructions
@@ -1222,6 +1223,7 @@ iabbrev reange range
 iabbrev artes rates
 iabbrev artio ratio
 iabbrev realy really
+iabbrev rearrage rearrange
 iabbrev reasonbable reasonable
 iabbrev reasonlabe reasonable
 iabbrev reasonlable reasonable
