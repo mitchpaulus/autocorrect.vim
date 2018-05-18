@@ -1200,6 +1200,7 @@ iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev pulliing pulling
 iabbrev upmps pumps
+iabbrev quaility quality
 iabbrev quailty quality
 iabbrev Quailty Quality
 iabbrev quaklity quality
