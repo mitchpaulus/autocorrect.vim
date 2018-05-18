@@ -46,6 +46,7 @@ iabbrev analyis analysis
 iabbrev analyiss analysis
 iabbrev Analyiss Analysis
 iabbrev analysisi analysis
+iabbrev analyssi analysis
 iabbrev analyuiss analysis
 iabbrev anlayiss analysis
 iabbrev anlaysis analysis
@@ -369,6 +370,7 @@ iabbrev containg containing
 iabbrev conatins contains
 iabbrev contians contains
 iabbrev conent content
+iabbrev contnent content
 iabbrev Contens Contents
 iabbrev Continous Continuous
 iabbrev Continousous Continuous
@@ -419,6 +421,7 @@ iabbrev creiterion criterion
 iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev currtent current
+iabbrev curosr cursor
 iabbrev curvativure curvature
 iabbrev cusomt custom
 iabbrev custiom custom
@@ -431,6 +434,7 @@ iabbrev Dallsa Dallas
 iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
+iabbrev databasew database
 iabbrev databse database
 iabbrev DAve Dave
 iabbrev decidied decided
@@ -574,6 +578,7 @@ iabbrev equzl equal
 iabbrev equlaity equality
 iabbrev equaiton equation
 iabbrev eequations equations
+iabbrev equaionts equations
 iabbrev equaitons equations
 iabbrev equationas equations
 iabbrev equilbrium equilibrium
@@ -651,12 +656,14 @@ iabbrev gile file
 iabbrev ifle file
 iabbrev fiels files
 iabbrev iles files
+iabbrev Finlaly Finally
 iabbrev finsih finish
 iabbrev fiinished finished
 iabbrev Finsihed Finished
 iabbrev Finsished Finished
 iabbrev Finishding Finishing
 iabbrev Finsiheng Finishing
+iabbrev finsihing finishing
 iabbrev ifxes fixes
 iabbrev finxing fixing
 iabbrev fixutre fixture
@@ -685,6 +692,7 @@ iabbrev Foiruier Fourier
 iabbrev Francsios Francisco
 iabbrev Firday Friday
 iabbrev Frday Friday
+iabbrev Fridya Friday
 iabbrev rom from
 iabbrev fornt front
 iabbrev fule fuel
@@ -770,6 +778,7 @@ iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev Impelmemtner Implementer
+iabbrev Impelmenter Implementer
 iabbrev Implementner Implementer
 iabbrev Implemetner Implementer
 iabbrev Implemneter Implementer
@@ -878,6 +887,7 @@ iabbrev lable label
 iabbrev lbael label
 iabbrev labeld labeled
 iabbrev lableled labeled
+iabbrev lableing labeling
 iabbrev lables labels
 iabbrev Laboratoyrt Laboratory
 iabbrev liack lack
@@ -895,6 +905,7 @@ iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev lienar linear
 iabbrev liquied liquid
+iabbrev liests lists
 iabbrev literuate literate
 iabbrev littel little
 iabbrev laod load
@@ -1019,6 +1030,7 @@ iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev OneNtoe OneNote
 iabbrev nonly only
+iabbrev ONly Only
 iabbrev operatie operate
 iabbrev operatre operate
 iabbrev operaties operates
@@ -1041,6 +1053,7 @@ iabbrev origianlly originally
 iabbrev originatign originating
 iabbrev Ohter Other
 iabbrev toher other
+iabbrev otu out
 iabbrev otudoor outdoor
 iabbrev outdooar outdoor
 iabbrev Outdooor Outdoor
@@ -1089,6 +1102,7 @@ iabbrev peroid period
 iabbrev pwersonal personal
 iabbrev philospohy philosophy
 iabbrev Pheonix Phoenix
+iabbrev phoen phone
 iabbrev physcally physically
 iabbrev picutres pictures
 iabbrev peices pieces
@@ -1099,6 +1113,7 @@ iabbrev plna plan
 iabbrev palusible plausible
 iabbrev polts plots
 iabbrev piont point
+iabbrev POint Point
 iabbrev poitn point
 iabbrev Poitn Point
 iabbrev poitns points
@@ -1167,6 +1182,7 @@ iabbrev princeple principle
 iabbrev Prioriteis Priorities
 iabbrev Pritorities Priorities
 iabbrev priortization prioritization
+iabbrev pritiorizing prioritizing
 iabbrev prlblem problem
 iabbrev probelm problem
 iabbrev problekm problem
@@ -1233,6 +1249,7 @@ iabbrev REasonably Reasonably
 iabbrev reasonalbly reasonably
 iabbrev recieve receive
 iabbrev recevied received
+iabbrev Recieved Received
 iabbrev recoginition recognition
 iabbrev reduciton reduction
 iabbrev refacotr refactor
@@ -1321,6 +1338,7 @@ iabbrev asy say
 iabbrev scenarious scenarios
 iabbrev schdeule schedule
 iabbrev schmatic schematic
+iabbrev schmeatic schematic
 iabbrev socpe scope
 iabbrev scrreen screen
 iabbrev searhc search
@@ -1462,6 +1480,7 @@ iabbrev sunslight sunlight
 iabbrev supplky supply
 iabbrev suppply supply
 iabbrev suppy supply
+iabbrev usre sure
 iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
@@ -1572,6 +1591,7 @@ iabbrev termainl terminal
 iabbrev termain terminal
 iabbrev Termain Terminal
 iabbrev termanil terminal
+iabbrev termiajnl terminal
 iabbrev termianil terminal
 iabbrev termianl terminal
 iabbrev terminail terminal
@@ -1767,8 +1787,10 @@ iabbrev Volunttering Volunteering
 iabbrev wiating waiting
 iabbrev wtaer water
 iabbrev Wwater Water
+iabbrev Wedneday Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
+iabbrev Wednessday Wednesday
 iabbrev weke week
 iabbrev weeekends weekends
 iabbrev wieght weight
