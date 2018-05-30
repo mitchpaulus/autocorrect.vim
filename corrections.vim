@@ -92,6 +92,7 @@ iabbrev approahc approach
 iabbrev approriate appropriate
 iabbrev approimated approximated
 iabbrev approximatled approximated
+iabbrev approximaltey approximately
 iabbrev approximatley approximately
 iabbrev approximatlye approximately
 iabbrev apprpoximatley approximately
@@ -126,6 +127,7 @@ iabbrev Attachemnts Attachments
 iabbrev attemping attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
+iabbrev authenticaiton authentication
 iabbrev automaitcllay automatically
 iabbrev avaiable available
 iabbrev avaialbable available
@@ -149,6 +151,7 @@ iabbrev backwareds backwards
 iabbrev balnace balance
 iabbrev balnaces balances
 iabbrev absed based
+iabbrev basleine baseline
 iabbrev basleines baselines
 iabbrev Bascially Basically
 iabbrev becaues because
@@ -179,6 +182,7 @@ iabbrev buikdlign building
 iabbrev buildign building
 iabbrev Buildign Building
 iabbrev BUilding Building
+iabbrev buildng building
 iabbrev buildnig building
 iabbrev builgin building
 iabbrev bulding building
@@ -292,6 +296,7 @@ iabbrev comibned combined
 iabbrev conformt comfort
 iabbrev comand command
 iabbrev commannd command
+iabbrev COmments Comments
 iabbrev commerecial commercial
 iabbrev commerical commercial
 iabbrev Commerical Commercial
@@ -711,6 +716,7 @@ iabbrev funcitoning functioning
 iabbrev fucntions functions
 iabbrev Fucnttions Functions
 iabbrev funcitons functions
+iabbrev furhter further
 iabbrev rurther further
 iabbrev furture future
 iabbrev Garge Garage
@@ -815,6 +821,7 @@ iabbrev inforamtion information
 iabbrev Informaation Information
 iabbrev informaiont information
 iabbrev Informaiont Information
+iabbrev informaiotn information
 iabbrev informaitno information
 iabbrev informaiton information
 iabbrev INformaiton Information
@@ -838,6 +845,7 @@ iabbrev insenstive insensitive
 iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inistalled installed
+iabbrev Instantenous Instantaneous
 iabbrev instanteous instantaneous
 iabbrev insated instead
 iabbrev instaed instead
@@ -916,6 +924,7 @@ iabbrev Lcoate Locate
 iabbrev lcoated located
 iabbrev lociated located
 iabbrev locaiton location
+iabbrev locaiotns locations
 iabbrev loose lose
 iabbrev loower lower
 iabbrev Macrosciptic Macroscopic
@@ -938,12 +947,14 @@ iabbrev maximimum maximum
 iabbrev menaing meaning
 iabbrev maesured measured
 iabbrev measruedd measured
+iabbrev measrued measured
 iabbrev Measrued Measured
 iabbrev measuresed measured
 iabbrev measuremnt measurement
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
 iabbrev mechanicla mechanical
+iabbrev meadian median
 iabbrev memeter meter
 iabbrev mehtod method
 iabbrev methjod method
@@ -1075,6 +1086,8 @@ iabbrev apge page
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
 iabbrev aprameter parameter
+iabbrev paraameter parameter
+iabbrev paramter parameter
 iabbrev aprameters parameters
 iabbrev apratemters parameters
 iabbrev paraemters parameters
@@ -1129,6 +1142,7 @@ iabbrev porition portion
 iabbrev poriton portion
 iabbrev protion portion
 iabbrev protions portions
+iabbrev positon position
 iabbrev postiong position
 iabbrev Posistions Positions
 iabbrev posoitions positions
@@ -1212,6 +1226,8 @@ iabbrev properityes properties
 iabbrev porperty property
 iabbrev proeprty property
 iabbrev porportion proportion
+iabbrev proportialn proportional
+iabbrev proportioanl proportional
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev pulliing pulling
@@ -1337,6 +1353,7 @@ iabbrev svaings savings
 iabbrev asy say
 iabbrev scenarious scenarios
 iabbrev schdeule schedule
+iabbrev scheudle schedule
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
 iabbrev socpe scope
@@ -1446,6 +1463,7 @@ iabbrev strated started
 iabbrev astatemtn statement
 iabbrev statemetn statement
 iabbrev statemnt statement
+iabbrev statemtn statement
 iabbrev statment statement
 iabbrev staes states
 iabbrev sattic static
@@ -1734,6 +1752,7 @@ iabbrev unjits units
 iabbrev unnits units
 iabbrev untis units
 iabbrev unecessary unnecessary
+iabbrev unnessecary unnecessary
 iabbrev updlaoded uploaded
 iabbrev Uploadeed Uploaded
 iabbrev updlads uploads
@@ -1787,6 +1806,7 @@ iabbrev Volunttering Volunteering
 iabbrev wiating waiting
 iabbrev wtaer water
 iabbrev Wwater Water
+iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
