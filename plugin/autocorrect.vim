@@ -24,14 +24,14 @@ function! LoadAutocorrect()
     " Load custom words.
     if filereadable(personalFile)
         execute 'source ' . personalFile
-        echom "Read in personal autocorrect file."
+        echom "Read in personal .autocorrect file."
     endif
 
     " Change working directory back to previous
     execute "cd " . fnameescape(previousDirectory)
 
-    " [a]dd [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
-    nnoremap <leader>aa yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
+    " add [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
+    nnoremap <leader>a yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
 endfunction
 
 command! -nargs=0 LoadAutocorrect :call LoadAutocorrect()
@@ -51,8 +51,6 @@ function! s:AddToAbbrev(wrongSpelledWord)
     endif
     "store misspelled word in s register, replace with first spell suggestion,
     "repaste misspelled word, append and insert space.
-    execute "normal! \"syiw1z=\"sPa\<space>"
-    "leave user in visual mode, in case the first selection wasn't good.
-    execute "normal! lviw"
+    execute "normal! \"syiw1z=\"sPa\<space>\<esc>l"
     setlocal filetype=vim
 endfunction
