@@ -195,6 +195,7 @@ iabbrev bulding building
 iabbrev buliding building
 iabbrev lubilding building
 iabbrev ubilding building
+iabbrev buidlings buildings
 iabbrev buidlligns buildings
 iabbrev buildgins buildings
 iabbrev buildigns buildings
@@ -283,6 +284,7 @@ iabbrev clcked clicked
 iabbrev lickcing clicking
 iabbrev lcinet client
 iabbrev xlosed closed
+iabbrev Clsoing Closing
 iabbrev clous cloud
 iabbrev ocde code
 iabbrev codiing coding
@@ -365,6 +367,7 @@ iabbrev configutration configuration
 iabbrev conenction connection
 iabbrev consectuive consecutive
 iabbrev consectuvive consecutive
+iabbrev Considerationd Considerations
 iabbrev condsidered considered
 iabbrev ocnsistency consistency
 iabbrev consistnet consistent
@@ -404,6 +407,7 @@ iabbrev controol control
 iabbrev Cotnrl Control
 iabbrev contrlled controlled
 iabbrev conttrolled controlled
+iabbrev contorller controller
 iabbrev contorls controls
 iabbrev Contrls Controls
 iabbrev ocntrosl controls
@@ -467,6 +471,8 @@ iabbrev fdefine define
 iabbrev definned defined
 iabbrev Defintion Definition
 iabbrev dehumidifcation dehumidification
+iabbrev dleeted deleted
+iabbrev deliveragble deliverable
 iabbrev dnesity density
 iabbrev Deparment Department
 iabbrev depdnd depend
@@ -564,6 +570,7 @@ iabbrev efficienty efficiency
 iabbrev effortr effort
 iabbrev weitther either
 iabbrev electrici electric
+iabbrev Eelctrical Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
 iabbrev electricial electrical
@@ -801,6 +808,8 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
+iabbrev Hoorry Horry
+iabbrev horespower horsepower
 iabbrev hositpal hospital
 iabbrev horus hours
 iabbrev hoursin hours in
@@ -858,12 +867,14 @@ iabbrev informaiotn information
 iabbrev informaitno information
 iabbrev informaiton information
 iabbrev INformaiton Information
+iabbrev informatin information
 iabbrev infromation information
 iabbrev iniofmration information
 iabbrev inoformation information
 iabbrev Inofrmaiton Information
 iabbrev inofrmation information
 iabbrev Inofrmaton Information
+iabbrev invofmaton information
 iabbrev Inherrently Inherently
 iabbrev inital initial
 iabbrev intial initial
@@ -916,6 +927,7 @@ iabbrev fis is
 iabbrev isoalted isolated
 iabbrev isothermla isothermal
 iabbrev itme item
+iabbrev ITems Items
 iabbrev itesm items
 iabbrev itmes items
 iabbrev itslf itself
@@ -1000,6 +1012,7 @@ iabbrev methjod method
 iabbrev methodoloyg methodology
 iabbrev mehtods methods
 iabbrev MEthods Methods
+iabbrev Microsfot Microsoft
 iabbrev mgiht might
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
@@ -1104,6 +1117,7 @@ iabbrev oriigal original
 iabbrev oringial original
 iabbrev origianlly originally
 iabbrev originatign originating
+iabbrev ohter other
 iabbrev Ohter Other
 iabbrev toher other
 iabbrev otu out
@@ -1347,6 +1361,7 @@ iabbrev reomved removed
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev replacemetn replacement
+iabbrev erport report
 iabbrev reprot report
 iabbrev rerpot report
 iabbrev rpeort report
@@ -1411,6 +1426,7 @@ iabbrev schmatic schematic
 iabbrev schmeatic schematic
 iabbrev socpe scope
 iabbrev scrreen screen
+iabbrev scritps scripts
 iabbrev searhc search
 iabbrev sedond second
 iabbrev seciton section
@@ -1531,6 +1547,7 @@ iabbrev statsistics statistics
 iabbrev satatus status
 iabbrev stuatus status
 iabbrev staem steam
+iabbrev stpes steps
 iabbrev stroed stored
 iabbrev storeis stories
 iabbrev straighforward straightforward
@@ -1571,6 +1588,7 @@ iabbrev sysetm system
 iabbrev sysmete system
 iabbrev sysmetm system
 iabbrev systme system
+iabbrev Systme System
 iabbrev systmne system
 iabbrev sytem system
 iabbrev sytesm system
@@ -1824,6 +1842,7 @@ iabbrev unnits units
 iabbrev untis units
 iabbrev unecessary unnecessary
 iabbrev unnessecary unnecessary
+iabbrev updaetgd updated
 iabbrev updlaoded uploaded
 iabbrev Uploadeed Uploaded
 iabbrev updlads uploads
