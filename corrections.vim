@@ -1,4 +1,5 @@
 iabbrev abiltily ability
+iabbrev aobut about
 iabbrev absoulte absolute
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
@@ -82,6 +83,7 @@ iabbrev applicaable applicable
 iabbrev Applicaiotn Application
 iabbrev applicaiton application
 iabbrev Applicaiton Application
+iabbrev Applciaitons Applications
 iabbrev applicaitons applications
 iabbrev Applicaitons Applications
 iabbrev apploied applied
@@ -243,6 +245,7 @@ iabbrev caess cases
 iabbrev categoraized categorized
 iabbrev cuase cause
 iabbrev clell cell
+iabbrev Celcius Celsius
 iabbrev cetner center
 iabbrev cnetal central
 iabbrev cnetral central
@@ -314,6 +317,7 @@ iabbrev COmments Comments
 iabbrev commerecial commercial
 iabbrev commerical commercial
 iabbrev Commerical Commercial
+iabbrev Commericial Commercial
 iabbrev Commissionieed Commissioned
 iabbrev commisioning commissioning
 iabbrev Commisisiong Commissioning
@@ -399,6 +403,7 @@ iabbrev Contionous Continuous
 iabbrev contractiors contractors
 iabbrev contirubted contributed
 iabbrev Contriubtued Contributed
+iabbrev contriubuting contributing
 iabbrev contributrion contribution
 iabbrev contirbutors contributors
 iabbrev contorl control
@@ -418,6 +423,7 @@ iabbrev Cooilng Cooling
 iabbrev coolign cooling
 iabbrev coolking cooling
 iabbrev cooloing cooling
+iabbrev Coorinate Coordinate
 iabbrev copeid copied
 iabbrev cipy copy
 iabbrev correclty correctly
@@ -460,6 +466,7 @@ iabbrev datapoints data points
 iabbrev dta data
 iabbrev databasew database
 iabbrev databse database
+iabbrev ddate date
 iabbrev DAve Dave
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -511,6 +518,7 @@ iabbrev determein determine
 iabbrev Determien Determine
 iabbrev detemrines determines
 iabbrev deteriming determining
+iabbrev deterining determining
 iabbrev determineing determining
 iabbrev develeopemnet development
 iabbrev Developement Development
@@ -556,6 +564,7 @@ iabbrev downotown downtown
 iabbrev Downtonw Downtown
 iabbrev drwawer drawer
 iabbrev drwaing drawing
+iabbrev drwan drawn
 iabbrev dorp drop
 iabbrev diuct duct
 iabbrev durnig during
@@ -568,6 +577,7 @@ iabbrev effectes effects
 iabbrev efficicency efficiency
 iabbrev efficienty efficiency
 iabbrev effortr effort
+iabbrev efforst efforts
 iabbrev weitther either
 iabbrev electrici electric
 iabbrev Eelctrical Electrical
@@ -580,6 +590,7 @@ iabbrev electiricyt electricity
 iabbrev electricay electricity
 iabbrev electriciyt electricity
 iabbrev evevation elevation
+iabbrev elevatiaonl elevational
 iabbrev elswe else
 iabbrev emial email
 iabbrev evmails emails
@@ -764,10 +775,12 @@ iabbrev Gneeral General
 iabbrev Generageted Generated
 iabbrev gneerated generated
 iabbrev gneeration generation
+iabbrev Github GitHub
 iabbrev givne given
 iabbrev cgoing going
 iabbrev Goiing Going
 iabbrev GOod Good
+iabbrev Googoel Google
 iabbrev graduyation graduation
 iabbrev grpahic graphic
 iabbrev grpahics graphics
@@ -900,6 +913,7 @@ iabbrev insturction instruction
 iabbrev Insturcitons Instructions
 iabbrev intanible intangible
 iabbrev Integratign Integrating
+iabbrev intelligcne intelligence
 iabbrev initended intended
 iabbrev Interace Interface
 iabbrev Interafce Interface
@@ -911,6 +925,7 @@ iabbrev interla internal
 iabbrev itnerla internal
 iabbrev interanlly internally
 iabbrev interpoleated interpolated
+iabbrev interpoation interpolation
 iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
@@ -1006,6 +1021,7 @@ iabbrev measuremnets measurements
 iabbrev measuremnts measurements
 iabbrev mechanicla mechanical
 iabbrev meadian median
+iabbrev meterological meteorological
 iabbrev memeter meter
 iabbrev mehtod method
 iabbrev methjod method
@@ -1166,6 +1182,7 @@ iabbrev penatly penalty
 iabbrev peiople people
 iabbrev pepople people
 iabbrev perfomance performance
+iabbrev Perfomrance Performance
 iabbrev perforamcne performance
 iabbrev performaning performing
 iabbrev periemater perimeter
@@ -1192,6 +1209,7 @@ iabbrev ponits points
 iabbrev pooints points
 iabbrev ploytropic polytropic
 iabbrev polytorpic polytropic
+iabbrev poplualar popular
 iabbrev popualte populate
 iabbrev popualted populated
 iabbrev protable portable
@@ -1320,6 +1338,7 @@ iabbrev reange range
 iabbrev artes rates
 iabbrev artio ratio
 iabbrev realy really
+iabbrev reanalysiss reanalysis
 iabbrev rearrage rearrange
 iabbrev reasonbable reasonable
 iabbrev reasonlabe reasonable
@@ -1379,6 +1398,7 @@ iabbrev requiements requirements
 iabbrev requiremnets requirements
 iabbrev reaseach research
 iabbrev reasearch research
+iabbrev researhc research
 iabbrev residentiali residential
 iabbrev residitnetal residential
 iabbrev resistnace resistance
@@ -1436,6 +1456,7 @@ iabbrev slecet select
 iabbrev sleected selected
 iabbrev selectdion selection
 iabbrev slection selection
+iabbrev smeinar seminar
 iabbrev snese sense
 iabbrev sensitivtiy sensitivity
 iabbrev senstivity sensitivity
@@ -1468,6 +1489,7 @@ iabbrev sheeet sheet
 iabbrev hsould should
 iabbrev shoudl should
 iabbrev Shoudl Should
+iabbrev SHould Should
 iabbrev shouuuld should
 iabbrev shyould should
 iabbrev whould should
@@ -1498,6 +1520,7 @@ iabbrev samll small
 iabbrev samrt smart
 iabbrev Simth Smith
 iabbrev spo so
+iabbrev socail social
 iabbrev softwaere software
 iabbrev softweare software
 iabbrev Soldi Solid
@@ -1526,6 +1549,7 @@ iabbrev specfieid specified
 iabbrev sepcifify specify
 iabbrev specifiy specify
 iabbrev spped speed
+iabbrev sponosr sponsor
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
 iabbrev spreadhseet spreadsheet
@@ -1536,6 +1560,7 @@ iabbrev strated started
 iabbrev Starign Starting
 iabbrev astatemtn statement
 iabbrev statemetn statement
+iabbrev statemnet statement
 iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
@@ -1599,6 +1624,7 @@ iabbrev Systesm Systems
 iabbrev systmes systems
 iabbrev tabv tab
 iabbrev TAble Table
+iabbrev taggins tagging
 iabbrev atake take
 iabbrev takne taken
 iabbrev taks task
@@ -1606,6 +1632,7 @@ iabbrev taought taught
 iabbrev techinal technical
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
+iabbrev Techonology Technology
 iabbrev Tmep Temp
 iabbrev emtperature temperature
 iabbrev taemperatue temperature
@@ -1727,6 +1754,7 @@ iabbrev hteir their
 iabbrev thier their
 iabbrev hten then
 iabbrev thne then
+iabbrev theoretcial theoretical
 iabbrev theorteical theoretical
 iabbrev theere there
 iabbrev theerre there
@@ -1753,6 +1781,9 @@ iabbrev thye they
 iabbrev Thye They
 iabbrev tyhy they
 iabbrev thigns things
+iabbrev THink Think
+iabbrev thingks thinks
+iabbrev THird Third
 iabbrev thrid third
 iabbrev htis this
 iabbrev Thjis This
@@ -1784,6 +1815,7 @@ iabbrev otkens tokens
 iabbrev Tooll Toll
 iabbrev toolos tools
 iabbrev topci topic
+iabbrev topcis topics
 iabbrev thotal total
 iabbrev toatl total
 iabbrev totla total
@@ -1885,6 +1917,7 @@ iabbrev ventialtiaon ventilation
 iabbrev verificaiton verification
 iabbrev verifiy verify
 iabbrev verison version
+iabbrev vresion version
 iabbrev veritcally vertically
 iabbrev iva via
 iabbrev vai via
@@ -1897,6 +1930,7 @@ iabbrev Volunttering Volunteering
 iabbrev wiating waiting
 iabbrev wtaer water
 iabbrev Wwater Water
+iabbrev wather weather
 iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
