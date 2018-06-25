@@ -7,9 +7,11 @@ endif
 let s:FilePath=expand('<sfile>:h')
 let g:AutocorrectScriptLoaded=1
 
-if !exists('g:Autocorrect_PersonalFile')
-    let g:Autocorrect_PersonalFile='~/.autocorrect'
+if !exists('g:AutocorrectPersonalFile')
+    let g:AutocorrectPersonalFile='~/.autocorrect'
 endif
+
+let g:AutocorrectLoaded=0
 
 function! LoadAutocorrect() 
     let previousDirectory = expand("%:p:h")
@@ -19,7 +21,7 @@ function! LoadAutocorrect()
     cd ..
     source corrections.vim
 
-    let personalFile = expand(g:Autocorrect_PersonalFile)
+    let personalFile = expand(g:AutocorrectPersonalFile)
 
     " Load custom words.
     if filereadable(personalFile)
@@ -32,6 +34,16 @@ function! LoadAutocorrect()
 
     " add [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
     nnoremap <leader>a yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
+
+    let g:AutocorrectLoaded=1
+endfunction
+
+function! LoadCheckAutocorrect()
+    if g:AutocorrectLoaded == 0
+        call LoadAutocorrect()
+    else
+        echom "Autocorrect already loaded."
+    endif
 endfunction
 
 command! -nargs=0 LoadAutocorrect :call LoadAutocorrect()
@@ -40,7 +52,7 @@ nnoremap <leader>lac :<c-u>LoadAutocorrect<cr>
 
 "This function is here to quickly be able to add word corrections.
 function! s:AddToAbbrev(wrongSpelledWord)
-    execute 'split ' . g:Autocorrect_PersonalFile
+    execute 'split ' . g:AutocorrectPersonalFile
     setlocal spell
     "G - to end of file, o - make new line and enter insert mode, iabbrev
     "[variable word]
