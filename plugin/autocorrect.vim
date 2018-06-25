@@ -24,7 +24,7 @@ function! LoadAutocorrect()
     " Load custom words.
     if filereadable(personalFile)
         execute 'source ' . personalFile
-        echom "Read in personal .autocorrect file."
+        echom "Read in personal file: " . personalFile
     endif
 
     " Change working directory back to previous
