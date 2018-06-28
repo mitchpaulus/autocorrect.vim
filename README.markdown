@@ -1,21 +1,18 @@
-autocorrect.vim
-===============
+# autocorrect.vim
 
 This is an autocorrect plugin built from scratch. Every word added to
 the autocorrect file was spelled incorrectly by me at some point during
 my usage with Vim. In fact, several were added during the writing of
 this README file.
 
-How to Install
-==============
+# How to Install
 
 VIM 8.0 does a much better job with package management (check
 out [this screen cast](https://vimcasts.org/episodes/packages)
 from one of the best, Drew Neil), although I personally use
 [Vundle.vim](https://github.com/VundleVim/Vundle.vim). Check them out.
 
-How to use this?
-================
+# How to Use
 
 By default, the autocorrect abbreviations are not run to keep Vim
 startup time fast. There are two main functions/commands to get started.
@@ -46,15 +43,14 @@ in your vimrc file.
 
 `ForceLoadAutocorrect` will always reread all the corrections. This is
 important when you add in corrections to your personal autocorrect file
-(See more on this [here](#Extending)). `AutocorrectTryLoad` will do the
+(See more on this [here](#extending)). `AutocorrectTryLoad` will do the
 same thing as `AutocorrectForceLoad`, but only if it has never been run
 before.
 
 At this point, type your prose as normal and let the autocorrections do
 the hard work for you!
 
-(Extending)
-===========
+# Extending
 
 You can easily extend the list with your own personal autocorrect file.
 By default, once the autocorrect plugin has been loaded you can quickly
@@ -70,8 +66,7 @@ directory, with the `iabbrev` command ready to go. If the first
 suggested option isn't what you want the correction to be, just change
 it.
 
-Can I have this automatically loaded for particular filetypes?
---------------------------------------------------------------
+## Can I have this automatically loaded for particular filetypes?
 
 Of course. All you have to do is add a List of filetypes to the variable
 `g:AutocorrectFiletypes` in your vimrc. As an example,
@@ -87,8 +82,8 @@ behind the scenes like:
 autocmd FileType text,markdown,tex AutocorrectTryLoad
 ```
 
-Can I change the default location of the `~/.autocorrect` file?
----------------------------------------------------------------
+## Can I change the default location of the `~/.autocorrect` file?
+
 Yes you can. Just put something like
 
 ```vim
@@ -97,8 +92,7 @@ let g:AutocorrectPersonalFile='~/mydirectory/mynewfile.someextension'
 
 in your vimrc file.
 
-How was this built?
-===================
+# How was this built?
 
 This list was built slowly, one word at a time, and only words that I
 have actually typed incorrectly with my own fingers are on the list.
