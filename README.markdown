@@ -7,16 +7,20 @@ this README file.
 
 # How to Install
 
-VIM 8.0 does a much better job with package management (check
-out [this screen cast](https://vimcasts.org/episodes/packages)
-from one of the best, Drew Neil), although I personally use
+I highly suggest the use of a Vim package manager plugin. Do a search in
+your favorite search engine, and you will see lots of examples.
+
+VIM 8.0 does do a much better job with package management (check out
+[this screen cast](https://vimcasts.org/episodes/packages) from one of
+the best, Drew Neil - every Vim user should read his book "Practical
+Vim"), although I personally use
 [Vundle.vim](https://github.com/VundleVim/Vundle.vim). Check them out.
 
 # How to Use
 
-By default, the autocorrect abbreviations are not run to keep Vim
+By default, the autocorrect abbreviations are not executed to keep Vim
 startup time fast. There are two main functions/commands to get started.
-There are the commands:
+They are the commands:
 
 ```vim
 :AutocorrectTryLoad
@@ -41,6 +45,12 @@ nmap {new map chars} <Plug>(AutocorrectForceLoad)
 
 in your vimrc file.
 
+For example, if you could change it to be `<leader>l` using
+
+```vim
+nmap <leader>l <Plug>(AutocorrectTryLoad)
+```
+
 `ForceLoadAutocorrect` will always reread all the corrections. This is
 important when you add in corrections to your personal autocorrect file
 (See more on this [here](#extending)). `AutocorrectTryLoad` will do the
@@ -62,9 +72,9 @@ for [A]dd Abbreviation).
 ```
 
 This mapping will by default open up a `.autocorrect` file in your home
-directory, with the `iabbrev` command ready to go. If the first
-suggested option isn't what you want the correction to be, just change
-it.
+directory, with the `iabbrev` command ready to go (`:h iabbrev`). If the
+first suggested option isn't what you want the correction to be, just
+change it.
 
 ## Can I have this automatically loaded for particular filetypes?
 
@@ -75,8 +85,8 @@ Of course. All you have to do is add a List of filetypes to the variable
 let g:AutocorrectFiletypes = ["text","markdown","tex"]
 ```
 
-These are case sensitive as they are directly put into an autocommand
-behind the scenes like:
+Be aware these are case sensitive as they are directly put into an
+autocommand behind the scenes like:
 
 ```vim
 autocmd FileType text,markdown,tex AutocorrectTryLoad
@@ -87,10 +97,30 @@ autocmd FileType text,markdown,tex AutocorrectTryLoad
 Yes you can. Just put something like
 
 ```vim
-let g:AutocorrectPersonalFile='~/mydirectory/mynewfile.someextension'
+let g:AutocorrectPersonalFile='~/mydirectory/mynewfile.anyextension'
 ```
 
 in your vimrc file.
+
+## Your corrections are terrible and I want to build my own list.
+
+You can do that as well. To disable loading my list, just set the
+variable `g:AutocorrectDisableBuiltIn` in your vimrc. Example:
+
+```vim
+let g:AutocorrectDisableBuiltIn = 1
+```
+
+Now you can start building up your own personal list!
+
+# Typical Workflow
+
+I typically will just write and type quickly, and then use the `[s`
+command to move backwards through the incorrect spellings. Then I use
+the `<leader>a` mapping to add the autocorrection, press `ZZ` to save
+and exit the file, and then use `1z=` to take the first autocorrection
+if the correct word appeared in the personal autocorrect file, or just
+`z=` if I want to see the other operations.
 
 # How was this built?
 

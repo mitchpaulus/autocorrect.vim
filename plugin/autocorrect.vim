@@ -4,7 +4,6 @@ if exists('g:AutocorrectScriptLoaded') || &compatible || v:version < 703
     finish
 endif
 
-
 let s:FilePath=expand('<sfile>:h')
 let g:AutocorrectScriptLoaded=1
 
@@ -17,17 +16,21 @@ let g:AutocorrectLoaded=0
 function! s:AutocorrectForceLoad()
     let previousDirectory = expand("%:p:h")
 
-    " Load built in abbreviations
-    execute "cd " . s:FilePath
-    cd ..
-    source corrections.vim
+    if !exists("g:AutocorrectDisableBuiltIn")
+        " Load built in abbreviations
+        execute "cd " . s:FilePath
+        cd ..
+        source corrections.vim
+    endif
 
-    let personalFile = expand(g:AutocorrectPersonalFile)
+    let s:personalFile = expand(g:AutocorrectPersonalFile)
 
     " Load custom words.
-    if filereadable(personalFile)
-        execute 'source ' . personalFile
-        echom "Read in personal autocorrect file: " . personalFile
+    if filereadable(s:personalFile)
+        execute 'source ' . s:personalFile
+        echom "Read in personal autocorrect file: " . s:personalFile
+    else
+        echom "Could not read in personal autocorrect file: " . s:personalFile
     endif
 
     " Change working directory back to previous
@@ -38,7 +41,6 @@ function! s:AutocorrectForceLoad()
         " add [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
         nmap <leader>a <Plug>(AutocorrectAddToAbbrev)
     endif
-
 
     let g:AutocorrectLoaded=1
 endfunction
