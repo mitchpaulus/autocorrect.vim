@@ -120,7 +120,7 @@ command to move backwards through the incorrect spellings. Then I use
 the `<leader>a` mapping to add the autocorrection, press `ZZ` to save
 and exit the file, and then use `1z=` to take the first autocorrection
 if the correct word appeared in the personal autocorrect file, or just
-`z=` if I want to see the other operations.
+`z=` if I want to see the other spell check options.
 
 # How was this built?
 
