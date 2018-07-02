@@ -45,7 +45,7 @@ nmap {new map chars} <Plug>(AutocorrectForceLoad)
 
 in your vimrc file.
 
-For example, if you could change it to be `<leader>l` using
+For example, you could change it to be `<leader>l` using
 
 ```vim
 nmap <leader>l <Plug>(AutocorrectTryLoad)
@@ -65,7 +65,7 @@ the hard work for you!
 You can easily extend the list with your own personal autocorrect file.
 By default, once the autocorrect plugin has been loaded you can quickly
 add words to your personal autocorrect file with the mapping (standing
-for [A]dd Abbreviation).
+for [A]dd Abbreviation):
 
 ```vim
 <localleader>a
@@ -105,13 +105,16 @@ in your vimrc file.
 ## Your corrections are terrible and I want to build my own list.
 
 You can do that as well. To disable loading my list, just set the
-variable `g:AutocorrectDisableBuiltIn` in your vimrc. Example:
+variable `g:AutocorrectDisableBuiltIn` in your vimrc to anything. Now
+only the personal autocorrect file will be sourced.
+Example:
 
 ```vim
 let g:AutocorrectDisableBuiltIn = 1
 ```
 
-Now you can start building up your own personal list!
+Now you can start building up your own personal autocorrect list without
+any of my mistakes adding cruft!
 
 # Typical Workflow
 
@@ -121,6 +124,15 @@ the `<leader>a` mapping to add the autocorrection, press `ZZ` to save
 and exit the file, and then use `1z=` to take the first autocorrection
 if the correct word appeared in the personal autocorrect file, or just
 `z=` if I want to see the other spell check options.
+
+
+# Additional Notes
+
+Note that the personal autocorrect file is simply sourced as a vimscript
+file. So if you put other commands besides `iabbrev` in there, Vim will
+attempt to execute them. So if you put silly things in there and
+exceptions result, that will be on you.
+
 
 # How was this built?
 
