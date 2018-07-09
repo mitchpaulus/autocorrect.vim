@@ -731,7 +731,6 @@ iabbrev fanas fans
 iabbrev falults faults
 iabbrev fdaults faults
 iabbrev featrue feature
-iabbrev feedback Feedback
 iabbrev felied field
 iabbrev Figurte Figure
 iabbrev fiel file
@@ -1057,9 +1056,9 @@ iabbrev maximimum maximum
 iabbrev menaing meaning
 iabbrev maesured measured
 iabbrev mearued measured
-iabbrev measruedd measured
 iabbrev measrued measured
 iabbrev Measrued Measured
+iabbrev measruedd measured
 iabbrev measuresed measured
 iabbrev measuremnet measurement
 iabbrev measuremnt measurement
@@ -1117,8 +1116,8 @@ iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
-iabbrev NEedc Need
 iabbrev NEed Need
+iabbrev NEedc Need
 iabbrev n3egative negative
 iabbrev neagagive negative
 iabbrev negibor neighbor
@@ -1655,8 +1654,8 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
-iabbrev styel style
 iabbrev stye style
+iabbrev styel style
 iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
@@ -1722,9 +1721,9 @@ iabbrev tempeatuter temperature
 iabbrev temperaature temperature
 iabbrev temperateur temperature
 iabbrev temperatre temperature
+iabbrev temperatue temperature
 iabbrev temperatuer temperature
 iabbrev Temperatuer Temperature
-iabbrev temperatue temperature
 iabbrev temperaturea temperature
 iabbrev temperaturne temperature
 iabbrev temperatuter temperature
@@ -1781,8 +1780,8 @@ iabbrev etrmianl terminal
 iabbrev teminal terminal
 iabbrev temrainil terminal
 iabbrev temrainl terminal
-iabbrev temrialn terminal
 iabbrev temrial terminal
+iabbrev temrialn terminal
 iabbrev temrianl terminal
 iabbrev temrinal terminal
 iabbrev temrinaul terminal
@@ -1790,10 +1789,10 @@ iabbrev temrinla terminal
 iabbrev temrnal terminal
 iabbrev temrnial terminal
 iabbrev termailn terminal
-iabbrev termainal terminal
-iabbrev termainl terminal
 iabbrev termain terminal
 iabbrev Termain Terminal
+iabbrev termainal terminal
+iabbrev termainl terminal
 iabbrev termanil terminal
 iabbrev termiajnl terminal
 iabbrev termialn terminal
@@ -1820,11 +1819,11 @@ iabbrev hte the
 iabbrev tahe the
 iabbrev teh the
 iabbrev Teh The
-iabbrev ther the
+iabbrev th the
 iabbrev THe The
+iabbrev ther the
 iabbrev thge the
 iabbrev thre the
-iabbrev th the
 iabbrev trhe the
 iabbrev tyhe the
 iabbrev hteir their
@@ -1836,8 +1835,8 @@ iabbrev theorteical theoretical
 iabbrev theere there
 iabbrev theerre there
 iabbrev THere There
-iabbrev Threre There
 iabbrev threr there
+iabbrev Threre There
 iabbrev therfore therefore
 iabbrev Threfore Therefore
 iabbrev Threrfore Therefore
@@ -1847,8 +1846,8 @@ iabbrev thermla thermal
 iabbrev tehemodynamic thermodynamic
 iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
-iabbrev thermodynamcic thermodynamic
 iabbrev thermodynamci thermodynamic
+iabbrev thermodynamcic thermodynamic
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
@@ -1885,8 +1884,8 @@ iabbrev Thrusday Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev teimstamp timestamp
-iabbrev oto to
 iabbrev ot to
+iabbrev oto to
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev Tooll Toll
