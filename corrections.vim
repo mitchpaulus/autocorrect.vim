@@ -28,6 +28,7 @@ iabbrev Adviosr Advisor
 iabbrev afftecting affecting
 iabbrev aftenronon afternoon
 iabbrev ahir air
+iabbrev aiar air
 iabbrev ari air
 iabbrev Ari Air
 iabbrev iar air
@@ -40,6 +41,7 @@ iabbrev algoritm algorithm
 iabbrev alogrithm algorithm
 iabbrev alogrighms algorithms
 iabbrev aligened aligned
+iabbrev al all
 iabbrev alow allow
 iabbrev alogn along
 iabbrev alreayd already
@@ -594,6 +596,7 @@ iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
 iabbrev docuemntation documentation
 iabbrev documentaiton documentation
+iabbrev docuemnted documented
 iabbrev donig doing
 iabbrev doen done
 iabbrev doewn down
@@ -680,6 +683,7 @@ iabbrev equipmemtne equipment
 iabbrev EQuipment Equipment
 iabbrev equipmetn equipment
 iabbrev Equipmetn Equipment
+iabbrev equipoement equipment
 iabbrev equipoment equipment
 iabbrev equpiment equipment
 iabbrev euqipment equipment
@@ -795,6 +799,7 @@ iabbrev Foiruier Fourier
 iabbrev Francsios Francisco
 iabbrev Firday Friday
 iabbrev Frday Friday
+iabbrev Frdiay Friday
 iabbrev Fridya Friday
 iabbrev rom from
 iabbrev fornt front
@@ -838,6 +843,7 @@ iabbrev grpahics graphics
 iabbrev grpahsics graphics
 iabbrev graviational gravitational
 iabbrev Grenenwood Greenwood
+iabbrev Grennwood Greenwood
 iabbrev gropu group
 iabbrev Grup Group
 iabbrev gropus groups
@@ -858,6 +864,7 @@ iabbrev ahs has
 iabbrev ahve have
 iabbrev hvae have
 iabbrev thave have
+iabbrev hainvg having
 iabbrev haiving having
 iabbrev ehadings headings
 iabbrev Headquareters Headquarters
@@ -1159,6 +1166,7 @@ iabbrev nomenclautere nomenclature
 iabbrev nomencluature nomenclature
 iabbrev nomial nominal
 iabbrev nnormal normal
+iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
 iabbrev notse notes
@@ -1399,6 +1407,7 @@ iabbrev proportioanl proportional
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev pulliing pulling
+iabbrev Pulliung Pulling
 iabbrev pmpups pumps
 iabbrev poumps pumps
 iabbrev upmps pumps
@@ -1540,6 +1549,7 @@ iabbrev schmeatic schematic
 iabbrev socpe scope
 iabbrev scrreen screen
 iabbrev scritps scripts
+iabbrev sripts scripts
 iabbrev searhc search
 iabbrev sedond second
 iabbrev seciton section
@@ -1574,6 +1584,7 @@ iabbrev sestpoint setpoint
 iabbrev setipiont setpoint
 iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
+iabbrev setpoitn setpoint
 iabbrev stepoints setpoints
 iabbrev seetup setup
 iabbrev setps setups
@@ -1592,6 +1603,7 @@ iabbrev shonw shown
 iabbrev shwon shown
 iabbrev shwoon shown
 iabbrev showss shows
+iabbrev hsut shut
 iabbrev signficant significant
 iabbrev simialr similar
 iabbrev similarily similarly
@@ -1664,6 +1676,7 @@ iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
 iabbrev staes states
+iabbrev satatic static
 iabbrev sattic static
 iabbrev staitc static
 iabbrev stitic static
@@ -1739,6 +1752,7 @@ iabbrev emtperature temperature
 iabbrev taemperatue temperature
 iabbrev temaperatrure temperature
 iabbrev tempaeratuer temperature
+iabbrev tempaetuer temperature
 iabbrev tempartuer temperature
 iabbrev tempearature temperature
 iabbrev Tempearature Temperature
@@ -1845,6 +1859,7 @@ iabbrev thatt that
 iabbrev athe the
 iabbrev eht the
 iabbrev hte the
+iabbrev lthe the
 iabbrev tahe the
 iabbrev teh the
 iabbrev Teh The
@@ -1882,6 +1897,7 @@ iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
 iabbrev htese these
 iabbrev thsee these
+iabbrev THey They
 iabbrev thye they
 iabbrev Thye They
 iabbrev tyhy they
@@ -1911,6 +1927,7 @@ iabbrev throughtout throughout
 iabbrev trhoughout throughout
 iabbrev Thrusday Thursday
 iabbrev Thrusdya Thursday
+iabbrev Thurdsya Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev teimstamp timestamp
@@ -1928,6 +1945,7 @@ iabbrev totla total
 iabbrev toltals totals
 iabbrev otwer tower
 iabbrev traingin training
+iabbrev Traingin Training
 iabbrev trainign training
 iabbrev tansfer transfer
 iabbrev trnasfer transfer
@@ -2030,6 +2048,7 @@ iabbrev veritcally vertically
 iabbrev iva via
 iabbrev vai via
 iabbrev Visison Vision
+iabbrev viisti visit
 iabbrev VIsualization Visualization
 iabbrev voluem volume
 iabbrev Voluem Volume
