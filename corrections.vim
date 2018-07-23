@@ -760,6 +760,7 @@ iabbrev Finlaly Finally
 iabbrev ifnd find
 iabbrev finsih finish
 iabbrev fiinished finished
+iabbrev FInished Finished
 iabbrev Finsihed Finished
 iabbrev Finsished Finished
 iabbrev Finishding Finishing
@@ -1121,11 +1122,13 @@ iabbrev Modleing Modeling
 iabbrev modlieng modeling
 iabbrev mdoels models
 iabbrev modesl models
+iabbrev modificiations modifications
 iabbrev modifeid modified
 iabbrev MOdified Modified
 iabbrev moels moles
 iabbrev moement moment
 iabbrev MOnday Monday
+iabbrev Mondnay Monday
 iabbrev monitoringn monitoring
 iabbrev montiors monitors
 iabbrev montly monthly
