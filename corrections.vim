@@ -53,6 +53,7 @@ iabbrev amounto amount
 iabbrev amoutn amount
 iabbrev analougous analogous
 iabbrev analygous analogous
+iabbrev analsyis analysis
 iabbrev analyis analysis
 iabbrev analyiss analysis
 iabbrev Analyiss Analysis
@@ -73,6 +74,7 @@ iabbrev anscestors ancestors
 iabbrev adn and
 iabbrev Adn And
 iabbrev anbd and
+iabbrev annd and
 iabbrev nad and
 iabbrev nadn and
 iabbrev tand and
@@ -92,6 +94,7 @@ iabbrev apepndix appendix
 iabbrev applicaable applicable
 iabbrev appcoliacation application
 iabbrev applciation application
+iabbrev applicaiotn application
 iabbrev Applicaiotn Application
 iabbrev applicaiton application
 iabbrev Applicaiton Application
@@ -148,6 +151,7 @@ iabbrev attemping attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
 iabbrev authenticaiton authentication
+iabbrev autiomatic automatic
 iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
 iabbrev avaiable available
@@ -514,6 +518,7 @@ iabbrev fdefine define
 iabbrev definned defined
 iabbrev Defintion Definition
 iabbrev dehumidifcation dehumidification
+iabbrev Dehumidificaiton Dehumidification
 iabbrev dleeted deleted
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
@@ -545,6 +550,7 @@ iabbrev detial detail
 iabbrev Detial Detail
 iabbrev Dtetail Detail
 iabbrev etail detail
+iabbrev deatailed detailed
 iabbrev detailede detailed
 iabbrev detialed detailed
 iabbrev detials details
@@ -596,7 +602,10 @@ iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
 iabbrev docuemntation documentation
 iabbrev documentaiton documentation
+iabbrev Documentaiton Documentation
+iabbrev Documention Documentation
 iabbrev docuemnted documented
+iabbrev documentionat documenting
 iabbrev donig doing
 iabbrev doen done
 iabbrev doewn down
@@ -670,6 +679,7 @@ iabbrev equlaity equality
 iabbrev equaiton equation
 iabbrev eequations equations
 iabbrev equaionts equations
+iabbrev equaiotns equations
 iabbrev equaitons equations
 iabbrev equationas equations
 iabbrev equilbrium equilibrium
@@ -718,6 +728,7 @@ iabbrev execture execute
 iabbrev exectued executed
 iabbrev exericse exercise
 iabbrev exercieses exercises
+iabbrev exisited existed
 iabbrev Exisiting Existing
 iabbrev exisitng existing
 iabbrev existng existing
@@ -802,6 +813,7 @@ iabbrev Firday Friday
 iabbrev Frday Friday
 iabbrev Frdiay Friday
 iabbrev Fridya Friday
+iabbrev froam from
 iabbrev rom from
 iabbrev fornt front
 iabbrev fule fuel
@@ -830,6 +842,7 @@ iabbrev Genral General
 iabbrev gneeral general
 iabbrev Gneeral General
 iabbrev Generageted Generated
+iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev gneeration generation
 iabbrev Github GitHub
@@ -964,6 +977,7 @@ iabbrev initate initiate
 iabbrev intitiating initiating
 iabbrev inelt inlet
 iabbrev linet inlet
+iabbrev innput input
 iabbrev nput input
 iabbrev insensivitve insensitive
 iabbrev insenstive insensitive
@@ -1012,6 +1026,7 @@ iabbrev itme item
 iabbrev ITems Items
 iabbrev itesm items
 iabbrev itmes items
+iabbrev iteslf itself
 iabbrev itslf itself
 iabbrev Jhon John
 iabbrev JOhn John
@@ -1051,6 +1066,7 @@ iabbrev laod load
 iabbrev Laod Load
 iabbrev laods loads
 iabbrev lcoal local
+iabbrev Lcoal Local
 iabbrev localshot localhost
 iabbrev Lcoate Locate
 iabbrev lcoated located
@@ -1140,6 +1156,7 @@ iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
 iabbrev myslef myself
+iabbrev anme name
 iabbrev naems names
 iabbrev namign naming
 iabbrev enearest nearest
@@ -1187,6 +1204,7 @@ iabbrev occuring occurring
 iabbrev fo of
 iabbrev oif of
 iabbrev oftne often
+iabbrev Olvie Olive
 iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev OneNtoe OneNote
@@ -1417,6 +1435,7 @@ iabbrev upmps pumps
 iabbrev quaility quality
 iabbrev quailty quality
 iabbrev Quailty Quality
+iabbrev Quailyt Quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
 iabbrev Quantificaitons Quantifications
@@ -1593,6 +1612,7 @@ iabbrev seetup setup
 iabbrev setps setups
 iabbrev serval several
 iabbrev sevearl several
+iabbrev Sharepoitn Sharepoint
 iabbrev sheeet sheet
 iabbrev hsould should
 iabbrev shoudl should
@@ -1728,6 +1748,7 @@ iabbrev sstem system
 iabbrev sysetm system
 iabbrev sysmete system
 iabbrev sysmetm system
+iabbrev Sysmtme System
 iabbrev systme system
 iabbrev Systme System
 iabbrev systmne system
@@ -1776,6 +1797,7 @@ iabbrev temperauter temperature
 iabbrev temperautetr temperature
 iabbrev temperautre temperature
 iabbrev temperautrte temperature
+iabbrev Temperearture Temperature
 iabbrev tempertuare temperature
 iabbrev temperture temperature
 iabbrev temperuate temperature
