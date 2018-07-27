@@ -1061,6 +1061,7 @@ iabbrev lienar linear
 iabbrev liquied liquid
 iabbrev liests lists
 iabbrev literuate literate
+iabbrev lieterature literature
 iabbrev littel little
 iabbrev laod load
 iabbrev Laod Load
@@ -1096,6 +1097,7 @@ iabbrev amster master
 iabbrev matcing matching
 iabbrev materla material
 iabbrev mathematica Mathematica
+iabbrev Matlba Matlab
 iabbrev maximimum maximum
 iabbrev menaing meaning
 iabbrev maesured measured
@@ -1159,6 +1161,7 @@ iabbrev myslef myself
 iabbrev anme name
 iabbrev naems names
 iabbrev namign naming
+iabbrev nautral natural
 iabbrev enearest nearest
 iabbrev enearsets nearest
 iabbrev neccesarily necessarily
@@ -1185,6 +1188,7 @@ iabbrev nomencaluture nomenclature
 iabbrev nomenclautere nomenclature
 iabbrev nomencluature nomenclature
 iabbrev nomial nominal
+iabbrev nomianal nominal
 iabbrev nnormal normal
 iabbrev nto not
 iabbrev notaiton notation
@@ -1213,6 +1217,7 @@ iabbrev ONly Only
 iabbrev operatie operate
 iabbrev operatre operate
 iabbrev operaties operates
+iabbrev operaitgn operating
 iabbrev operatieng operating
 iabbrev operaiton operation
 iabbrev oeprational operational
@@ -1229,6 +1234,7 @@ iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
 iabbrev optimziation optimization
 iabbrev opitions options
+iabbrev ro or
 iabbrev orgainzation organization
 iabbrev origianl original
 iabbrev oriigal original
@@ -1515,6 +1521,7 @@ iabbrev rports reports
 iabbrev reporsitoyr repository
 iabbrev requiere require
 iabbrev requied required
+iabbrev requiredy required
 iabbrev reuqired required
 iabbrev requiements requirements
 iabbrev requiremnets requirements
