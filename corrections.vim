@@ -151,9 +151,11 @@ iabbrev attemping attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
 iabbrev authenticaiton authentication
+iabbrev automaated automated
 iabbrev autiomatic automatic
 iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
+iabbrev automatcially automatically
 iabbrev avaiable available
 iabbrev avaialbable available
 iabbrev avaialbe available
@@ -407,6 +409,7 @@ iabbrev confifguraiton configuration
 iabbrev configuraiton configuration
 iabbrev configutration configuration
 iabbrev conenction connection
+iabbrev conneciton connection
 iabbrev consectuive consecutive
 iabbrev consectuvive consecutive
 iabbrev Considerationd Considerations
@@ -429,6 +432,7 @@ iabbrev continaer container
 iabbrev coantainers containers
 iabbrev conntainers containers
 iabbrev contaienrs containers
+iabbrev containesr containers
 iabbrev containg containing
 iabbrev conatins contains
 iabbrev contians contains
@@ -812,6 +816,7 @@ iabbrev Francsios Francisco
 iabbrev Firday Friday
 iabbrev Frday Friday
 iabbrev Frdiay Friday
+iabbrev FRiday Friday
 iabbrev Fridya Friday
 iabbrev froam from
 iabbrev rom from
@@ -1028,6 +1033,7 @@ iabbrev itesm items
 iabbrev itmes items
 iabbrev iteslf itself
 iabbrev itslf itself
+iabbrev jvavascript JavaScript
 iabbrev Jhon John
 iabbrev JOhn John
 iabbrev jsut just
@@ -1074,6 +1080,7 @@ iabbrev lcoated located
 iabbrev lociated located
 iabbrev locaiton location
 iabbrev locaiotns locations
+iabbrev locaitons locations
 iabbrev slong long
 iabbrev loose lose
 iabbrev loower lower
@@ -1421,6 +1428,7 @@ iabbrev programmihng programming
 iabbrev proejgress progress
 iabbrev profject project
 iabbrev projfct project
+iabbrev porjects projects
 iabbrev projecdts projects
 iabbrev projets projects
 iabbrev projexts projects
@@ -1479,6 +1487,7 @@ iabbrev Recieved Received
 iabbrev recoginition recognition
 iabbrev reduciton reduction
 iabbrev refacotr refactor
+iabbrev Refacotring Refactoring
 iabbrev referecne reference
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
@@ -1517,6 +1526,7 @@ iabbrev Reporeter Reporter
 iabbrev Reproter Reporter
 iabbrev reoports reports
 iabbrev reporst reports
+iabbrev rpeorts reports
 iabbrev rports reports
 iabbrev reporsitoyr repository
 iabbrev requiere require
@@ -1905,6 +1915,7 @@ iabbrev tyhe the
 iabbrev hteir their
 iabbrev thier their
 iabbrev hten then
+iabbrev theen then
 iabbrev thne then
 iabbrev theoretcial theoretical
 iabbrev theorteical theoretical
@@ -1962,6 +1973,7 @@ iabbrev Thrusdya Thursday
 iabbrev Thurdsya Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
+iabbrev Tuhrsday Thursday
 iabbrev teimstamp timestamp
 iabbrev oto to
 iabbrev ot to
@@ -1988,6 +2000,7 @@ iabbrev trrended trended
 iabbrev trneds trends
 iabbrev trnes trends
 iabbrev Treid Tried
+iabbrev Tuedays Tuesday
 iabbrev Tuesady Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev tyupe type
@@ -2082,6 +2095,7 @@ iabbrev vai via
 iabbrev Visison Vision
 iabbrev viisti visit
 iabbrev VIsualization Visualization
+iabbrev voicemial voicemail
 iabbrev voluem volume
 iabbrev Voluem Volume
 iabbrev volumen volume
@@ -2130,6 +2144,7 @@ iabbrev Wokring Working
 iabbrev WOkring Working
 iabbrev woriking working
 iabbrev Woriking Working
+iabbrev Woriknig Working
 iabbrev workign working
 iabbrev Workign Working
 iabbrev Workikng Working
