@@ -36,6 +36,7 @@ iabbrev airlfow airflow
 iabbrev alram alarm
 iabbrev alrams alarms
 iabbrev Albequerqe Albuquerque
+iabbrev Albequerque Albuquerque
 iabbrev algorihgm algorithm
 iabbrev algoritm algorithm
 iabbrev alogrithm algorithm
@@ -202,6 +203,7 @@ iabbrev balnk blank
 iabbrev blendde blended
 iabbrev blokc block
 iabbrev biler boiler
+iabbrev BOilers Boilers
 iabbrev bookelt booklet
 iabbrev gboth both
 iabbrev boudn bound
@@ -300,6 +302,7 @@ iabbrev characteritsics characteristics
 iabbrev chartr chart
 iabbrev Cheeck Check
 iabbrev checkedd checked
+iabbrev CHecking Checking
 iabbrev Chekcing Checking
 iabbrev checkdlists checklists
 iabbrev chekcout checkout
@@ -492,6 +495,7 @@ iabbrev creaitng creating
 iabbrev credites credits
 iabbrev crediterion criterion
 iabbrev creiterion criterion
+iabbrev ciritical critical
 iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev currtent current
@@ -919,6 +923,7 @@ iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impelmentation implementation
+iabbrev Impelmentation Implementation
 iabbrev Impelmemtner Implementer
 iabbrev Impelmenter Implementer
 iabbrev Impelmentmer Implementer
@@ -1019,6 +1024,7 @@ iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev invserse inverse
 iabbrev investigaet investigate
+iabbrev Invesitgating Investigating
 iabbrev investigatign investigating
 iabbrev invesitgation investigation
 iabbrev investement investment
@@ -1094,6 +1100,7 @@ iabbrev maintinained maintained
 iabbrev Maintenacen Maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
+iabbrev moajority majority
 iabbrev makea make a
 iabbrev managmeent management
 iabbrev mapas maps
@@ -1130,6 +1137,7 @@ iabbrev methodoloyg methodology
 iabbrev mehtods methods
 iabbrev MEthods Methods
 iabbrev Microsfot Microsoft
+iabbrev midinght midnight
 iabbrev mgiht might
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
@@ -1582,7 +1590,9 @@ iabbrev asy say
 iabbrev scenarious scenarios
 iabbrev schdeule schedule
 iabbrev scheudle schedule
+iabbrev Scheudule Schedule
 iabbrev scheduleing scheduling
+iabbrev scheudling scheduling
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
 iabbrev socpe scope
@@ -1624,6 +1634,8 @@ iabbrev setipiont setpoint
 iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
 iabbrev setpoitn setpoint
+iabbrev Setpoitn Setpoint
+iabbrev setpoitns setpoints
 iabbrev stepoints setpoints
 iabbrev seetup setup
 iabbrev setps setups
@@ -1644,6 +1656,7 @@ iabbrev shwon shown
 iabbrev shwoon shown
 iabbrev showss shows
 iabbrev hsut shut
+iabbrev shuyt shut
 iabbrev signficant significant
 iabbrev simialr similar
 iabbrev similarily similarly
@@ -1789,6 +1802,7 @@ iabbrev techniquers techniques
 iabbrev technoilogies technologies
 iabbrev Techonology Technology
 iabbrev Tmep Temp
+iabbrev atemperature temperature
 iabbrev emtperature temperature
 iabbrev taemperatue temperature
 iabbrev temaperatrure temperature
@@ -1971,6 +1985,7 @@ iabbrev trhoughout throughout
 iabbrev Thrusday Thursday
 iabbrev Thrusdya Thursday
 iabbrev Thurdsya Thursday
+iabbrev THursday Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev Tuhrsday Thursday
@@ -2002,7 +2017,9 @@ iabbrev trnes trends
 iabbrev Treid Tried
 iabbrev Tuedays Tuesday
 iabbrev Tuesady Tuesday
+iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
+iabbrev Tusday Tuesday
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
