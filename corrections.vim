@@ -3,12 +3,14 @@ iabbrev aobut about
 iabbrev absoulte absolute
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
+iabbrev accessiblity accessibility
 iabbrev accompolish accomplish
 iabbrev Accordiing According
 iabbrev accoriding according
 iabbrev accoreidnly accordingly
 iabbrev accoutn account
 iabbrev acheived achieved
+iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev acutal actual
 iabbrev actaully actually
@@ -61,6 +63,7 @@ iabbrev Analyiss Analysis
 iabbrev analysisi analysis
 iabbrev analyssi analysis
 iabbrev analyuiss analysis
+iabbrev anaylis analysis
 iabbrev anlayiss analysis
 iabbrev anlaysi analysis
 iabbrev anlaysis analysis
@@ -113,6 +116,7 @@ iabbrev approriate appropriate
 iabbrev approimated approximated
 iabbrev approximatled approximated
 iabbrev approxiamtely approximately
+iabbrev approxiamtley approximately
 iabbrev approximaltey approximately
 iabbrev approximatley approximately
 iabbrev approximatlye approximately
@@ -126,6 +130,7 @@ iabbrev raea area
 iabbrev Arthimetic Arithmetic
 iabbrev arond around
 iabbrev aroudn around
+iabbrev artticle article
 iabbrev Artifical Artificial
 iabbrev aas as
 iabbrev AHSRAE ASHRAE
@@ -269,6 +274,7 @@ iabbrev canbe can be
 iabbrev cna can
 iabbrev cancelled canceled
 iabbrev capabiliity capability
+iabbrev capacitnace capacitance
 iabbrev capaciyt capacity
 iabbrev capicaity capacity
 iabbrev capicity capacity
@@ -316,6 +322,7 @@ iabbrev CHiller Chiller
 iabbrev chilllers chillers
 iabbrev cohice choice
 iabbrev chooosing choosing
+iabbrev chosne chosen
 iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
 iabbrev curcuit circuit
@@ -736,6 +743,7 @@ iabbrev execture execute
 iabbrev exectued executed
 iabbrev exericse exercise
 iabbrev exercieses exercises
+iabbrev Exhauset Exhaust
 iabbrev exisited existed
 iabbrev Exisiting Existing
 iabbrev exisitng existing
@@ -775,6 +783,7 @@ iabbrev gile file
 iabbrev ifle file
 iabbrev fiels files
 iabbrev iles files
+iabbrev finialize finalize
 iabbrev Finlaly Finally
 iabbrev ifnd find
 iabbrev finsih finish
@@ -901,6 +910,7 @@ iabbrev hueristics heuristics
 iabbrev hiddne hidden
 iabbrev hgiher higher
 iabbrev hihger higher
+iabbrev hihg-fidelity high-fidelity
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
@@ -973,6 +983,7 @@ iabbrev informatino information
 iabbrev infromation information
 iabbrev iniofmration information
 iabbrev inoformation information
+iabbrev inofrmaiton information
 iabbrev Inofrmaiton Information
 iabbrev inofrmation information
 iabbrev Inofrmaton Information
@@ -1005,6 +1016,7 @@ iabbrev intanible intangible
 iabbrev Integratign Integrating
 iabbrev intelligcne intelligence
 iabbrev initended intended
+iabbrev itnerest interest
 iabbrev Interace Interface
 iabbrev Interafce Interface
 iabbrev INterface Interface
@@ -1067,6 +1079,7 @@ iabbrev LIbrary Library
 iabbrev librayr library
 iabbrev lgighting lighting
 iabbrev liek like
+iabbrev likley likely
 iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev lienar linear
@@ -1296,6 +1309,7 @@ iabbrev paresr parser
 iabbrev aprtial partial
 iabbrev partail partial
 iabbrev paraticlaur particular
+iabbrev paritcular particular
 iabbrev particaulr particular
 iabbrev particualr particular
 iabbrev particulary particularly
@@ -1326,6 +1340,7 @@ iabbrev Paln Plan
 iabbrev pland plan
 iabbrev plna plan
 iabbrev palusible plausible
+iabbrev plto plot
 iabbrev polts plots
 iabbrev pnematic pneumatic
 iabbrev piont point
@@ -1359,6 +1374,7 @@ iabbrev positivie positive
 iabbrev possitve positive
 iabbrev postive positive
 iabbrev postivie positive
+iabbrev psotiive positive
 iabbrev possilbities possibilities
 iabbrev possiblity possibility
 iabbrev possilbe possible
@@ -1434,6 +1450,8 @@ iabbrev progrma program
 iabbrev prommed programmed
 iabbrev programmihng programming
 iabbrev proejgress progress
+iabbrev proejct project
+iabbrev proeject project
 iabbrev profject project
 iabbrev projfct project
 iabbrev porjects projects
@@ -1497,6 +1515,7 @@ iabbrev reduciton reduction
 iabbrev refacotr refactor
 iabbrev Refacotring Refactoring
 iabbrev referecne reference
+iabbrev referencem reference
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
 iabbrev refigerator refrigerator
@@ -2126,6 +2145,7 @@ iabbrev Wedneasday Wednesday
 iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
+iabbrev Wednedsayd Wednesday
 iabbrev Wednesayd Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
