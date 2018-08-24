@@ -37,6 +37,7 @@ iabbrev iar air
 iabbrev airlfow airflow
 iabbrev alram alarm
 iabbrev alrams alarms
+iabbrev Albequeque Albuquerque
 iabbrev Albequerqe Albuquerque
 iabbrev Albequerque Albuquerque
 iabbrev algorihgm algorithm
@@ -67,6 +68,7 @@ iabbrev anaylis analysis
 iabbrev anlayiss analysis
 iabbrev anlaysi analysis
 iabbrev anlaysis analysis
+iabbrev anlsyiss analysis
 iabbrev anlysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
@@ -334,6 +336,7 @@ iabbrev clcked clicked
 iabbrev lickcing clicking
 iabbrev lcinet client
 iabbrev xlosed closed
+iabbrev CLoseout Closeout
 iabbrev Clsoing Closing
 iabbrev clous cloud
 iabbrev ocde code
@@ -615,6 +618,7 @@ iabbrev doecuemnt document
 iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
+iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documentaiton documentation
 iabbrev Documentaiton Documentation
@@ -760,6 +764,7 @@ iabbrev exproted exported
 iabbrev extensibile extensible
 iabbrev facebook Facebook
 iabbrev Facililty Facility
+iabbrev FAcility Facility
 iabbrev Facilty Facility
 iabbrev facotr factor
 iabbrev fractor factor
@@ -775,6 +780,7 @@ iabbrev falults faults
 iabbrev fdaults faults
 iabbrev fdd FDD
 iabbrev featrue feature
+iabbrev Fideliuty Fidelity
 iabbrev felied field
 iabbrev Figurte Figure
 iabbrev fiel file
@@ -783,7 +789,9 @@ iabbrev gile file
 iabbrev ifle file
 iabbrev fiels files
 iabbrev iles files
+iabbrev finla final
 iabbrev finialize finalize
+iabbrev FInializing Finalizing
 iabbrev Finlaly Finally
 iabbrev ifnd find
 iabbrev finsih finish
@@ -1101,6 +1109,7 @@ iabbrev locaiton location
 iabbrev locaiotns locations
 iabbrev locaitons locations
 iabbrev slong long
+iabbrev Looiking Looking
 iabbrev loose lose
 iabbrev loower lower
 iabbrev Macrosciptic Macroscopic
@@ -1236,6 +1245,7 @@ iabbrev occuring occurring
 iabbrev fo of
 iabbrev oif of
 iabbrev oftne often
+iabbrev oftentiems oftentimes
 iabbrev Olvie Olive
 iabbrev ommited omitted
 iabbrev ommitted omitted
@@ -1454,6 +1464,7 @@ iabbrev proejct project
 iabbrev proeject project
 iabbrev profject project
 iabbrev projfct project
+iabbrev projfect project
 iabbrev porjects projects
 iabbrev projecdts projects
 iabbrev projets projects
@@ -1689,6 +1700,7 @@ iabbrev simulaiton simulation
 iabbrev Simulaiton Simulation
 iabbrev simulaitons simulations
 iabbrev Simulataneous Simultaneous
+iabbrev siunce since
 iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
@@ -1826,6 +1838,7 @@ iabbrev emtperature temperature
 iabbrev taemperatue temperature
 iabbrev temaperatrure temperature
 iabbrev tempaeratuer temperature
+iabbrev tempaeruter temperature
 iabbrev tempaetuer temperature
 iabbrev tempartuer temperature
 iabbrev tempearature temperature
@@ -2008,6 +2021,7 @@ iabbrev THursday Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev Tuhrsday Thursday
+iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev oto to
 iabbrev ot to
@@ -2177,6 +2191,7 @@ iabbrev owkr work
 iabbrev owrk work
 iabbrev workl work
 iabbrev WOrked Worked
+iabbrev Wokringi Working
 iabbrev Wokring Working
 iabbrev WOkring Working
 iabbrev woriking working
@@ -2186,6 +2201,7 @@ iabbrev workign working
 iabbrev Workign Working
 iabbrev Workikng Working
 iabbrev WOrking Working
+iabbrev Workiung Working
 iabbrev Worlking Working
 iabbrev Wroking Working
 iabbrev WOrks Works
