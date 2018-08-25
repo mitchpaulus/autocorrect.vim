@@ -1,6 +1,8 @@
 iabbrev abiltily ability
+iabbrev ABout About
 iabbrev aobut about
 iabbrev absoulte absolute
+iabbrev Acadmey Academy
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
 iabbrev accessiblity accessibility
@@ -61,6 +63,7 @@ iabbrev analsyis analysis
 iabbrev analyis analysis
 iabbrev analyiss analysis
 iabbrev Analyiss Analysis
+iabbrev analyliss analysis
 iabbrev analysisi analysis
 iabbrev analyssi analysis
 iabbrev analyuiss analysis
@@ -76,7 +79,9 @@ iabbrev alnaalyze analyze
 iabbrev anlayzxed analyzed
 iabbrev analzer analyzer
 iabbrev anlayzing analyzing
+iabbrev Anatormy Anatomy
 iabbrev anscestors ancestors
+iabbrev aand and
 iabbrev adn and
 iabbrev Adn And
 iabbrev anbd and
@@ -90,6 +95,7 @@ iabbrev antoher another
 iabbrev Antoionio Antonio
 iabbrev anythign anything
 iabbrev anytihng anything
+iabbrev Anytihng Anything
 iabbrev anywereh anywhere
 iabbrev appartent apparent
 iabbrev apear appear
@@ -133,6 +139,7 @@ iabbrev Arthimetic Arithmetic
 iabbrev arond around
 iabbrev aroudn around
 iabbrev artticle article
+iabbrev ARticles Articles
 iabbrev Artifical Artificial
 iabbrev aas as
 iabbrev AHSRAE ASHRAE
@@ -146,6 +153,7 @@ iabbrev Assitatn Assistant
 iabbrev assocaited associated
 iabbrev assuem assume
 iabbrev Assuem Assume
+iabbrev aassumed assumed
 iabbrev assuemd assumed
 iabbrev assusmed assumed
 iabbrev assuems assumes
@@ -164,6 +172,7 @@ iabbrev autiomatic automatic
 iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
 iabbrev automatcially automatically
+iabbrev automaation automation
 iabbrev avaiable available
 iabbrev avaialbable available
 iabbrev avaialbe available
@@ -217,6 +226,7 @@ iabbrev boudn bound
 iabbrev boudnary boundary
 iabbrev brining bringing
 iabbrev braod broad
+iabbrev buidign building
 iabbrev Buidlign Building
 iabbrev Buidling Building
 iabbrev buiilding building
@@ -247,6 +257,7 @@ iabbrev Buyidligns Buildings
 iabbrev Buyildings Buildings
 iabbrev bvuidlgnis buildings
 iabbrev buit but
+iabbrev ubt but
 iabbrev butoton button
 iabbrev yb by
 iabbrev chacehd cached
@@ -296,6 +307,7 @@ iabbrev ceratin certain
 iabbrev Certian Certain
 iabbrev certina certain
 iabbrev certaintly certainly
+iabbrev certianly certainly
 iabbrev certificaiton certification
 iabbrev chnage change
 iabbrev chagnes changes
@@ -509,6 +521,7 @@ iabbrev ciritical critical
 iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev currtent current
+iabbrev currenlty currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
 iabbrev cusomt custom
@@ -540,6 +553,7 @@ iabbrev Dehumidificaiton Dehumidification
 iabbrev dleeted deleted
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
+iabbrev develiverables deliverables
 iabbrev dnesity density
 iabbrev Deparment Department
 iabbrev depdnd depend
@@ -596,6 +610,8 @@ iabbrev Deval Devil
 iabbrev Deveil Devil
 iabbrev Difff Diff
 iabbrev diffentert different
+iabbrev differnt different
+iabbrev diffierent different
 iabbrev idfferent different
 iabbrev difficutl difficult
 iabbrev directins directions
@@ -696,6 +712,7 @@ iabbrev eqaul equal
 iabbrev equzl equal
 iabbrev equlaity equality
 iabbrev equaiton equation
+iabbrev equatoin equation
 iabbrev eequations equations
 iabbrev equaionts equations
 iabbrev equaiotns equations
@@ -736,6 +753,7 @@ iabbrev Eruopean European
 iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
 iabbrev evalueaiton evaluation
+iabbrev everytone everyone
 iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exmaple example
@@ -758,6 +776,7 @@ iabbrev expansionj expansion
 iabbrev expecst expect
 iabbrev expnse expense
 iabbrev Explaingin Explaining
+iabbrev explicti explicit
 iabbrev explroeing exploring
 iabbrev exponnets exponents
 iabbrev exproted exported
@@ -778,6 +797,8 @@ iabbrev fna fan
 iabbrev fanas fans
 iabbrev falults faults
 iabbrev fdaults faults
+iabbrev faovirte favorite
+iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev Fideliuty Fidelity
@@ -828,6 +849,8 @@ iabbrev Fro For
 iabbrev ofr for
 iabbrev Froest Forest
 iabbrev fomr form
+iabbrev formual formula
+iabbrev fomraulas formulas
 iabbrev formulats formulas
 iabbrev foudn found
 iabbrev Foudn Found
@@ -1078,6 +1101,7 @@ iabbrev lables labels
 iabbrev Laboratoyrt Laboratory
 iabbrev liack lack
 iabbrev lamdba lambda
+iabbrev lnaguage language
 iabbrev Leakding Leaking
 iabbrev leanring learning
 iabbrev Leanring Learning
@@ -1123,6 +1147,7 @@ iabbrev Maintenacen Maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
 iabbrev moajority majority
+iabbrev amke make
 iabbrev makea make a
 iabbrev managmeent management
 iabbrev mapas maps
@@ -1186,14 +1211,18 @@ iabbrev MOnday Monday
 iabbrev Mondnay Monday
 iabbrev monitoringn monitoring
 iabbrev montiors monitors
+iabbrev monthylo monthly
 iabbrev montly monthly
 iabbrev montyhly monthly
+iabbrev monthds months
 iabbrev mroe more
 iabbrev moring morning
+iabbrev MOst Most
 iabbrev moter motor
 iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
+iabbrev multipling multiplying
 iabbrev myslef myself
 iabbrev anme name
 iabbrev naems names
@@ -1227,6 +1256,7 @@ iabbrev nomencluature nomenclature
 iabbrev nomial nominal
 iabbrev nomianal nominal
 iabbrev nnormal normal
+iabbrev nomral normal
 iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
@@ -1272,6 +1302,7 @@ iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
 iabbrev optimziation optimization
 iabbrev opitions options
+iabbrev optiosn options
 iabbrev ro or
 iabbrev orgainzation organization
 iabbrev origianl original
@@ -1350,6 +1381,7 @@ iabbrev Paln Plan
 iabbrev pland plan
 iabbrev plna plan
 iabbrev palusible plausible
+iabbrev pllt plot
 iabbrev plto plot
 iabbrev polts plots
 iabbrev pnematic pneumatic
@@ -1394,6 +1426,7 @@ iabbrev possilby possibly
 iabbrev posssilby possibly
 iabbrev potentail potential
 iabbrev potentila potential
+iabbrev potnetail potential
 iabbrev potnetial potential
 iabbrev ptoentail potential
 iabbrev ptotently potentially
@@ -1449,6 +1482,7 @@ iabbrev prfoceed proceed
 iabbrev Porocess Process
 iabbrev proces process
 iabbrev Processs Process
+iabbrev proecess process
 iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev produciton production
@@ -1509,6 +1543,7 @@ iabbrev reange range
 iabbrev artes rates
 iabbrev artio ratio
 iabbrev realy really
+iabbrev relaly really
 iabbrev reanalysiss reanalysis
 iabbrev rearrage rearrange
 iabbrev reasonbable reasonable
@@ -1586,6 +1621,7 @@ iabbrev respecdt respect
 iabbrev respirarotyr respiratory
 iabbrev REpsonding Responding
 iabbrev repsonse response
+iabbrev restaturant restaurant
 iabbrev restul result
 iabbrev resutl result
 iabbrev reuslt result
@@ -1636,6 +1672,7 @@ iabbrev securtiy security
 iabbrev selct select
 iabbrev slecet select
 iabbrev sleected selected
+iabbrev sleecting selecting
 iabbrev selectdion selection
 iabbrev slection selection
 iabbrev smeinar seminar
@@ -1787,6 +1824,7 @@ iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev subsance substance
 iabbrev substantce substance
+iabbrev substituing substituting
 iabbrev substituations substitutions
 iabbrev succesful successful
 iabbrev usch such
@@ -1996,6 +2034,7 @@ iabbrev thingks thinks
 iabbrev THird Third
 iabbrev thrid third
 iabbrev htis this
+iabbrev THis This
 iabbrev Thjis This
 iabbrev Thsi This
 iabbrev THree Three
@@ -2041,6 +2080,8 @@ iabbrev Traingin Training
 iabbrev trainign training
 iabbrev tansfer transfer
 iabbrev trnasfer transfer
+iabbrev transporation transportation
+iabbrev transportionat transportation
 iabbrev rtrend trend
 iabbrev trned trend
 iabbrev trendend trended
@@ -2121,6 +2162,7 @@ iabbrev avlue value
 iabbrev valeu value
 iabbrev vlaue value
 iabbrev avlues values
+iabbrev valuse values
 iabbrev vlues values
 iabbrev vlave valve
 iabbrev vlaves valves
@@ -2128,12 +2170,14 @@ iabbrev vairalbe variable
 iabbrev variaglbe variable
 iabbrev varialbe variable
 iabbrev varialbes variables
+iabbrev varialbles variables
 iabbrev variarnce variance
 iabbrev vairation variation
 iabbrev variabtion variation
 iabbrev varitions variations
 iabbrev vareid varied
 iabbrev varietly variety
+iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
 iabbrev verificaiton verification
 iabbrev verifiy verify
@@ -2173,6 +2217,7 @@ iabbrev hwat what
 iabbrev waht what
 iabbrev whta what
 iabbrev whne when
+iabbrev Whne When
 iabbrev whearas whereas
 iabbrev wehther whether
 iabbrev whthere whether
@@ -2185,6 +2230,7 @@ iabbrev iwth with
 iabbrev wiht with
 iabbrev wirth with
 iabbrev witha with a
+iabbrev Wtih With
 iabbrev withing within
 iabbrev Witneess Witness
 iabbrev owkr work
