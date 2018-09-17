@@ -21,6 +21,7 @@ iabbrev actulaly actually
 iabbrev Actuatoar Actuator
 iabbrev addiiton addition
 iabbrev Addiitonal Additional
+iabbrev additonitnal additional
 iabbrev dadditional additional
 iabbrev addresssed addressed
 iabbrev addsd adds
@@ -67,12 +68,14 @@ iabbrev analyliss analysis
 iabbrev analysisi analysis
 iabbrev analyssi analysis
 iabbrev analyuiss analysis
+iabbrev anaslysis analysis
 iabbrev anaylis analysis
 iabbrev anlayiss analysis
 iabbrev anlaysi analysis
 iabbrev anlaysis analysis
 iabbrev anlsyiss analysis
 iabbrev anlysis analysis
+iabbrev anslysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
 iabbrev alnaalyze analyze
@@ -118,6 +121,7 @@ iabbrev applky apply
 iabbrev paply apply
 iabbrev appreicable appreciable
 iabbrev apporach approach
+iabbrev apprach approach
 iabbrev appraoch approach
 iabbrev approahc approach
 iabbrev approriate appropriate
@@ -401,6 +405,7 @@ iabbrev Commsissiong Commissioning
 iabbrev commsssioning commissioning
 iabbrev commmit commit
 iabbrev commti commit
+iabbrev commmon common
 iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev communicaiton communication
@@ -409,6 +414,7 @@ iabbrev compnay company
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev competiting competing
+iabbrev ocmplield compiled
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compeleted completed
@@ -442,6 +448,7 @@ iabbrev condsidered considered
 iabbrev ocnsistency consistency
 iabbrev consistnet consistent
 iabbrev consistnetn consistent
+iabbrev consistenly consistently
 iabbrev consistnely consistently
 iabbrev constatn constant
 iabbrev Constatn Constant
@@ -693,6 +700,7 @@ iabbrev eneryg energy
 iabbrev nergy energy
 iabbrev Enginereing Engineering
 iabbrev egineers engineers
+iabbrev enought enough
 iabbrev enrollement enrollment
 iabbrev eneter enter
 iabbrev enteer enter
@@ -1067,6 +1075,7 @@ iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev invserse inverse
 iabbrev investigaet investigate
+iabbrev Investiaged Investigated
 iabbrev Invesitgating Investigating
 iabbrev investigatign investigating
 iabbrev invesitgation investigation
@@ -1137,6 +1146,7 @@ iabbrev Looiking Looking
 iabbrev loose lose
 iabbrev loower lower
 iabbrev Macrosciptic Macroscopic
+iabbrev mage made
 iabbrev magentic magnetic
 iabbrev magintuide magnitude
 iabbrev mial mail
@@ -1209,6 +1219,7 @@ iabbrev moels moles
 iabbrev moement moment
 iabbrev MOnday Monday
 iabbrev Mondnay Monday
+iabbrev MOnitoring Monitoring
 iabbrev monitoringn monitoring
 iabbrev montiors monitors
 iabbrev monthylo monthly
@@ -1217,6 +1228,7 @@ iabbrev montyhly monthly
 iabbrev monthds months
 iabbrev mroe more
 iabbrev moring morning
+iabbrev morngin morning
 iabbrev MOst Most
 iabbrev moter motor
 iabbrev multiople multiple
@@ -1261,6 +1273,7 @@ iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
 iabbrev notse notes
+iabbrev NOtes: Notes:
 iabbrev Novemenber November
 iabbrev Novermber November
 iabbrev nozle nozzle
@@ -1316,6 +1329,7 @@ iabbrev toher other
 iabbrev otu out
 iabbrev otudoor outdoor
 iabbrev outdooar outdoor
+iabbrev outdooir outdoor
 iabbrev Outdooor Outdoor
 iabbrev outdoora outdoor
 iabbrev outtdor outdoor
@@ -1349,6 +1363,7 @@ iabbrev paretns parents
 iabbrev paresr parser
 iabbrev aprtial partial
 iabbrev partail partial
+iabbrev aprticular particular
 iabbrev paraticlaur particular
 iabbrev paritcular particular
 iabbrev particaulr particular
@@ -1433,6 +1448,7 @@ iabbrev ptotently potentially
 iabbrev pwoer power
 iabbrev pwoered powered
 iabbrev practivce practice
+iabbrev precisly precisely
 iabbrev predition prediciton
 iabbrev pedicted predicted
 iabbrev prediced predicted
@@ -1494,6 +1510,7 @@ iabbrev progrma program
 iabbrev prommed programmed
 iabbrev programmihng programming
 iabbrev proejgress progress
+iabbrev progess progress
 iabbrev proejct project
 iabbrev proeject project
 iabbrev profject project
@@ -1557,6 +1574,7 @@ iabbrev recevied received
 iabbrev recieved received
 iabbrev Recieved Received
 iabbrev recoginition recognition
+iabbrev recoomendations recommendations
 iabbrev reduciton reduction
 iabbrev refacotr refactor
 iabbrev Refacotring Refactoring
@@ -1592,6 +1610,7 @@ iabbrev rpelaced replaced
 iabbrev replacemetn replacement
 iabbrev erport report
 iabbrev reprot report
+iabbrev rerport report
 iabbrev rerpot report
 iabbrev rpeort report
 iabbrev rpeot report
@@ -1687,6 +1706,7 @@ iabbrev snesors sensors
 iabbrev snet sent
 iabbrev seaparate separate
 iabbrev sepaate separate
+iabbrev speaarte separate
 iabbrev seperated separated
 iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
@@ -1788,6 +1808,7 @@ iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
 iabbrev strated started
+iabbrev starign starting
 iabbrev Starign Starting
 iabbrev starst starts
 iabbrev astatemtn statement
@@ -1968,6 +1989,7 @@ iabbrev termianil terminal
 iabbrev termianl terminal
 iabbrev Termianl Terminal
 iabbrev terminail terminal
+iabbrev Terminail Terminal
 iabbrev terminla terminal
 iabbrev termnial terminal
 iabbrev tmenial terminal
@@ -2055,6 +2077,7 @@ iabbrev throughtout throughout
 iabbrev trhoughout throughout
 iabbrev Thrusday Thursday
 iabbrev Thrusdya Thursday
+iabbrev Thurdays Thursday
 iabbrev Thurdsya Thursday
 iabbrev THursday Thursday
 iabbrev Thursdday Thursday
@@ -2179,6 +2202,7 @@ iabbrev vareid varied
 iabbrev varietly variety
 iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
+iabbrev verficaiton verification
 iabbrev verificaiton verification
 iabbrev verifiy verify
 iabbrev verison version
