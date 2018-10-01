@@ -52,6 +52,7 @@ iabbrev aligened aligned
 iabbrev al all
 iabbrev alow allow
 iabbrev alogn along
+iabbrev alreaedy already
 iabbrev alreayd already
 iabbrev alos also
 iabbrev aslo also
@@ -120,6 +121,7 @@ iabbrev Applicaitons Applications
 iabbrev apploied applied
 iabbrev applky apply
 iabbrev paply apply
+iabbrev appoinmement appointment
 iabbrev appreicable appreciable
 iabbrev apporach approach
 iabbrev apprach approach
@@ -170,6 +172,7 @@ iabbrev assumptiosn assumptions
 iabbrev atmosphereic atmospheric
 iabbrev Attachemnts Attachments
 iabbrev attemping attempting
+iabbrev Attmepting Attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
 iabbrev authenticaiton authentication
@@ -180,6 +183,7 @@ iabbrev automaitcllay automatically
 iabbrev automatcially automatically
 iabbrev automaation automation
 iabbrev avaiable available
+iabbrev avaialabe available
 iabbrev avaialbable available
 iabbrev avaialbe available
 iabbrev avaialble available
@@ -226,6 +230,7 @@ iabbrev blendde blended
 iabbrev blokc block
 iabbrev biler boiler
 iabbrev Boielr Boiler
+iabbrev BOiler Boiler
 iabbrev BOilers Boilers
 iabbrev bookelt booklet
 iabbrev gboth both
@@ -268,7 +273,9 @@ iabbrev buit but
 iabbrev ubt but
 iabbrev butoton button
 iabbrev yb by
+iabbrev cabliing cabling
 iabbrev chacehd cached
+iabbrev calcualte calculate
 iabbrev Calcualte Calculate
 iabbrev Calcuate Calculate
 iabbrev caluclate calculate
@@ -629,6 +636,7 @@ iabbrev differnt different
 iabbrev diffierent different
 iabbrev idfferent different
 iabbrev difficutl difficult
+iabbrev Difficutl Difficult
 iabbrev directins directions
 iabbrev direclty directly
 iabbrev drieclty directly
@@ -638,6 +646,7 @@ iabbrev directoyr directory
 iabbrev dissagregate disaggregate
 iabbrev sdiscern discern
 iabbrev dscovery discovery
+iabbrev discussiung discussing
 iabbrev disscussionn discussion
 iabbrev dispaly display
 iabbrev disply display
@@ -918,6 +927,7 @@ iabbrev Generageted Generated
 iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev gneeration generation
+iabbrev geetting getting
 iabbrev Github GitHub
 iabbrev givne given
 iabbrev cgoing going
@@ -926,6 +936,7 @@ iabbrev GOod Good
 iabbrev Googoel Google
 iabbrev graduyation graduation
 iabbrev grpahic graphic
+iabbrev grpahcis graphics
 iabbrev grpahics graphics
 iabbrev grpahsics graphics
 iabbrev graviational gravitational
@@ -1029,6 +1040,7 @@ iabbrev ifnormation information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev Informaation Information
+iabbrev informaion information
 iabbrev informaiont information
 iabbrev Informaiont Information
 iabbrev informaiotn information
@@ -1047,6 +1059,7 @@ iabbrev Inofrmaton Information
 iabbrev invofmaton information
 iabbrev Inherrently Inherently
 iabbrev inital initial
+iabbrev INitial Initial
 iabbrev intial initial
 iabbrev intiial initial
 iabbrev nitial initial
@@ -1193,12 +1206,13 @@ iabbrev maximimum maximum
 iabbrev menaing meaning
 iabbrev maesured measured
 iabbrev mearued measured
+iabbrev measruedd measured
 iabbrev measrued measured
 iabbrev Measrued Measured
-iabbrev measruedd measured
 iabbrev measuresed measured
 iabbrev measuremnet measurement
 iabbrev measuremnt measurement
+iabbrev measuremensts measurements
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
 iabbrev mechanicla mechanical
@@ -1216,6 +1230,7 @@ iabbrev MEthods Methods
 iabbrev Microsfot Microsoft
 iabbrev midinght midnight
 iabbrev mgiht might
+iabbrev migraiton migration
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
 iabbrev minimimum minimum
@@ -1224,6 +1239,7 @@ iabbrev Mintue Minute
 iabbrev mintues minutes
 iabbrev maixing mixing
 iabbrev minxing mixing
+iabbrev mdoe mode
 iabbrev mdoel model
 iabbrev modle model
 iabbrev mdoeling modeling
@@ -1266,8 +1282,8 @@ iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
-iabbrev NEed Need
 iabbrev NEedc Need
+iabbrev NEed Need
 iabbrev n3egative negative
 iabbrev neagagive negative
 iabbrev negibor neighbor
@@ -1461,6 +1477,7 @@ iabbrev possilbe possible
 iabbrev posssible possible
 iabbrev possiblyh possibly
 iabbrev possilby possibly
+iabbrev Possilby Possibly
 iabbrev posssilby possibly
 iabbrev potentail potential
 iabbrev potentila potential
@@ -1535,11 +1552,13 @@ iabbrev programmihng programming
 iabbrev proejgress progress
 iabbrev progess progress
 iabbrev proejct project
+iabbrev Proejct Project
 iabbrev proeject project
 iabbrev profject project
 iabbrev projfct project
 iabbrev projfect project
 iabbrev porjects projects
+iabbrev proejcts projects
 iabbrev projecdts projects
 iabbrev projets projects
 iabbrev projexts projects
@@ -1764,6 +1783,7 @@ iabbrev SHould Should
 iabbrev shouuuld should
 iabbrev shyould should
 iabbrev whould should
+iabbrev Shoudler Shoulder
 iabbrev SHowing Showing
 iabbrev shonw shown
 iabbrev shwon shown
@@ -1794,6 +1814,7 @@ iabbrev sloep slope
 iabbrev samll small
 iabbrev samrt smart
 iabbrev Simth Smith
+iabbrev smtp SMTP
 iabbrev spo so
 iabbrev socail social
 iabbrev softwaere software
@@ -1865,8 +1886,8 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
-iabbrev stye style
 iabbrev styel style
+iabbrev stye style
 iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
@@ -1939,9 +1960,9 @@ iabbrev tempeatuter temperature
 iabbrev temperaature temperature
 iabbrev temperateur temperature
 iabbrev temperatre temperature
-iabbrev temperatue temperature
 iabbrev temperatuer temperature
 iabbrev Temperatuer Temperature
+iabbrev temperatue temperature
 iabbrev temperaturea temperature
 iabbrev temperaturne temperature
 iabbrev temperatuter temperature
@@ -1999,8 +2020,8 @@ iabbrev etrmianl terminal
 iabbrev teminal terminal
 iabbrev temrainil terminal
 iabbrev temrainl terminal
-iabbrev temrial terminal
 iabbrev temrialn terminal
+iabbrev temrial terminal
 iabbrev temrianl terminal
 iabbrev temrinal terminal
 iabbrev temrinaul terminal
@@ -2008,10 +2029,10 @@ iabbrev temrinla terminal
 iabbrev temrnal terminal
 iabbrev temrnial terminal
 iabbrev termailn terminal
-iabbrev termain terminal
-iabbrev Termain Terminal
 iabbrev termainal terminal
 iabbrev termainl terminal
+iabbrev termain terminal
+iabbrev Termain Terminal
 iabbrev termanil terminal
 iabbrev termiajnl terminal
 iabbrev termialn terminal
@@ -2041,11 +2062,11 @@ iabbrev lthe the
 iabbrev tahe the
 iabbrev teh the
 iabbrev Teh The
-iabbrev th the
-iabbrev THe The
 iabbrev ther the
+iabbrev THe The
 iabbrev thge the
 iabbrev thre the
+iabbrev th the
 iabbrev trhe the
 iabbrev tyhe the
 iabbrev hteir their
@@ -2058,8 +2079,8 @@ iabbrev theorteical theoretical
 iabbrev theere there
 iabbrev theerre there
 iabbrev THere There
-iabbrev threr there
 iabbrev Threre There
+iabbrev threr there
 iabbrev therfore therefore
 iabbrev Threfore Therefore
 iabbrev Threrfore Therefore
@@ -2069,8 +2090,8 @@ iabbrev thermla thermal
 iabbrev tehemodynamic thermodynamic
 iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
-iabbrev thermodynamci thermodynamic
 iabbrev thermodynamcic thermodynamic
+iabbrev thermodynamci thermodynamic
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
@@ -2116,8 +2137,8 @@ iabbrev Tuhrsday Thursday
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev tilte title
-iabbrev ot to
 iabbrev oto to
+iabbrev ot to
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev Tooll Toll
@@ -2129,6 +2150,7 @@ iabbrev toatl total
 iabbrev totla total
 iabbrev toltals totals
 iabbrev otwer tower
+iabbrev Tyotoa Toyota
 iabbrev traingin training
 iabbrev Traingin Training
 iabbrev trainign training
@@ -2264,6 +2286,7 @@ iabbrev Wednesayd Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wednessday Wednesday
+iabbrev Wennedsay Wednesday
 iabbrev weke week
 iabbrev weeekends weekends
 iabbrev wieght weight
@@ -2287,21 +2310,24 @@ iabbrev wiht with
 iabbrev wirth with
 iabbrev witha with a
 iabbrev Wtih With
+iabbrev wihtin within
 iabbrev withing within
 iabbrev Witneess Witness
 iabbrev owkr work
 iabbrev owrk work
+iabbrev wokr work
 iabbrev workl work
 iabbrev WOrked Worked
+iabbrev Wokringi Working
 iabbrev Wokring Working
 iabbrev WOkring Working
-iabbrev Wokringi Working
 iabbrev woriking working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev workign working
 iabbrev Workign Working
 iabbrev Workikng Working
+iabbrev Workingo Working
 iabbrev WOrking Working
 iabbrev Workiung Working
 iabbrev Worlking Working
