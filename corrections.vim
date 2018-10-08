@@ -15,6 +15,7 @@ iabbrev accoutn account
 iabbrev acheived achieved
 iabbrev acroyms acronyms
 iabbrev accross across
+iabbrev activiation activation
 iabbrev acutal actual
 iabbrev actaully actually
 iabbrev actucally actually
@@ -258,7 +259,9 @@ iabbrev ubilding building
 iabbrev buidlings buildings
 iabbrev buidlligns buildings
 iabbrev buildgins buildings
+iabbrev Buildgins Buildings
 iabbrev buildigns buildings
+iabbrev Buildigns Buildings
 iabbrev builgins buildings
 iabbrev buioldings buildings
 iabbrev buiolgings buildings
@@ -786,7 +789,7 @@ iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exmaple example
 iabbrev exmpale example
-iabbrev Exmpale: Example:
+iabbrev Exmpale Example
 iabbrev Excle Excel
 iabbrev exceptionatlly exceptionally
 iabbrev exchanger exchange
@@ -972,12 +975,11 @@ iabbrev heaing heating
 iabbrev heaint heating
 iabbrev heaitng heating
 iabbrev helpuful helpful
-iabbrev hree: here:
+iabbrev hree here
 iabbrev hueristics heuristics
 iabbrev hiddne hidden
 iabbrev hgiher higher
 iabbrev hihger higher
-iabbrev hihg-fidelity high-fidelity
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev HOliddays Holidays
@@ -1027,6 +1029,7 @@ iabbrev inclucded included
 iabbrev Inclucded Included
 iabbrev includede included
 iabbrev incompressibiility incompressibility
+iabbrev incrorect incorrect
 iabbrev incorectly incorrectly
 iabbrev incorrecdlty incorrectly
 iabbrev incorreclty incorrectly
@@ -1310,7 +1313,7 @@ iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
 iabbrev notse notes
-iabbrev NOtes: Notes:
+iabbrev notificaitons notifications
 iabbrev Novemenber November
 iabbrev Novermber November
 iabbrev nozle nozzle
@@ -2312,6 +2315,7 @@ iabbrev witha with a
 iabbrev Wtih With
 iabbrev wihtin within
 iabbrev withing within
+iabbrev iwthout without
 iabbrev Witneess Witness
 iabbrev owkr work
 iabbrev owrk work
