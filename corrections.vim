@@ -226,6 +226,7 @@ iabbrev besdies besides
 iabbrev beteween between
 iabbrev betwen between
 iabbrev billtion billion
+iabbrev bindgin binding
 iabbrev balnk blank
 iabbrev blendde blended
 iabbrev blokc block
@@ -347,6 +348,7 @@ iabbrev checkdlists checklists
 iabbrev chekcout checkout
 iabbrev checkes checks
 iabbrev Cheerry Cherry
+iabbrev Cherrpy Cherry
 iabbrev Chery Cherry
 iabbrev childern children
 iabbrev Chiled Chilled
@@ -519,6 +521,7 @@ iabbrev cooloing cooling
 iabbrev Coorinate Coordinate
 iabbrev copeid copied
 iabbrev cipy copy
+iabbrev copyting copying
 iabbrev correclty correctly
 iabbrev correspodn correspond
 iabbrev correspoding corresponding
@@ -635,6 +638,7 @@ iabbrev Deval Devil
 iabbrev Deveil Devil
 iabbrev Difff Diff
 iabbrev diffentert different
+iabbrev differetn different
 iabbrev differnt different
 iabbrev diffierent different
 iabbrev idfferent different
@@ -752,6 +756,7 @@ iabbrev equationas equations
 iabbrev equilbrium equilibrium
 iabbrev eqiupment equipment
 iabbrev equiepment equipment
+iabbrev equipaemtn equipment
 iabbrev equipement equipment
 iabbrev equipemnt equipment
 iabbrev Equipemnt Equipment
@@ -766,6 +771,7 @@ iabbrev equpiment equipment
 iabbrev euqipment equipment
 iabbrev qeuipment equipment
 iabbrev eerror error
+iabbrev erros errors
 iabbrev errrors errors
 iabbrev errros errors
 iabbrev espciallly especially
@@ -1423,6 +1429,7 @@ iabbrev performaning performing
 iabbrev periemater perimeter
 iabbrev peroid period
 iabbrev perisonal personal
+iabbrev perosnal personal
 iabbrev personla personal
 iabbrev pwersonal personal
 iabbrev pahases phases
@@ -2105,6 +2112,7 @@ iabbrev thye they
 iabbrev Thye They
 iabbrev tyhy they
 iabbrev thigns things
+iabbrev THings Things
 iabbrev THink Think
 iabbrev thingks thinks
 iabbrev THird Third
@@ -2137,6 +2145,7 @@ iabbrev THursday Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev Tuhrsday Thursday
+iabbrev Thursdsay Thursdays
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev tilte title
