@@ -87,6 +87,7 @@ iabbrev analzer analyzer
 iabbrev anlayzing analyzing
 iabbrev Anatormy Anatomy
 iabbrev anscestors ancestors
+iabbrev ansectors ancestors
 iabbrev aand and
 iabbrev adn and
 iabbrev Adn And
@@ -393,8 +394,11 @@ iabbrev columsn columns
 iabbrev coolumsn columns
 iabbrev coulnmsn columns
 iabbrev combinatino combination
+iabbrev combonations combinations
 iabbrev comibned combined
 iabbrev conformt comfort
+iabbrev comforltable comfortable
+iabbrev comfortbalbe comfortable
 iabbrev comand command
 iabbrev commannd command
 iabbrev commmands commands
@@ -452,7 +456,9 @@ iabbrev conculsions conclusions
 iabbrev Conslusions Conclusions
 iabbrev ocnclusions conclusions
 iabbrev ocndenser condenser
+iabbrev conditiojing conditioning
 iabbrev conditinos conditions
+iabbrev conditnions conditions
 iabbrev condusive conducive
 iabbrev condifience confidence
 iabbrev confifguraiton configuration
@@ -595,6 +601,7 @@ iabbrev deriviatives derivatives
 iabbrev descentdants descendants
 iabbrev descripti description
 iabbrev descriptio description
+iabbrev Descripton Description
 iabbrev descritpion description
 iabbrev Descriptiosn Descriptions
 iabbrev descritive descriptive
@@ -637,6 +644,7 @@ iabbrev edevices devices
 iabbrev Deval Devil
 iabbrev Deveil Devil
 iabbrev Difff Diff
+iabbrev differenrces differences
 iabbrev diffentert different
 iabbrev differetn different
 iabbrev differnt different
@@ -735,6 +743,7 @@ iabbrev neter enter
 iabbrev enertered entered
 iabbrev enterd entered
 iabbrev enterin entering
+iabbrev enthlpy enthalpy
 iabbrev entier entire
 iabbrev etneir entire
 iabbrev entrace entrance
@@ -932,6 +941,7 @@ iabbrev Genealr General
 iabbrev Genral General
 iabbrev gneeral general
 iabbrev Gneeral General
+iabbrev gnerally generally
 iabbrev Generageted Generated
 iabbrev gerneated generated
 iabbrev gneerated generated
@@ -958,6 +968,7 @@ iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
 iabbrev guideines guidelines
 iabbrev Guidleines Guidelines
+iabbrev hbad had
 iabbrev ahlls halls
 iabbrev ahndling handling
 iabbrev handaling handling
@@ -1023,6 +1034,7 @@ iabbrev importantance importance
 iabbrev impoartant important
 iabbrev imporatant important
 iabbrev importatn important
+iabbrev improatnt important
 iabbrev improtant important
 iabbrev imporve improve
 iabbrev ina in a
@@ -1260,6 +1272,7 @@ iabbrev modesl models
 iabbrev modificiations modifications
 iabbrev modifeid modified
 iabbrev MOdified Modified
+iabbrev mositure moisture
 iabbrev moels moles
 iabbrev moement moment
 iabbrev MOnday Monday
@@ -1286,6 +1299,7 @@ iabbrev anme name
 iabbrev naems names
 iabbrev namign naming
 iabbrev nautral natural
+iabbrev narturally naturally
 iabbrev enearest nearest
 iabbrev enearsets nearest
 iabbrev neccesarily necessarily
@@ -1536,6 +1550,7 @@ iabbrev Prioriteis Priorities
 iabbrev Pritorities Priorities
 iabbrev priortization prioritization
 iabbrev pritiorizing prioritizing
+iabbrev porbablyb probably
 iabbrev prlblem problem
 iabbrev probelm problem
 iabbrev problekm problem
@@ -1632,6 +1647,7 @@ iabbrev refacotr refactor
 iabbrev Refacotring Refactoring
 iabbrev referecne reference
 iabbrev referencem reference
+iabbrev refernece reference
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
 iabbrev refigerator refrigerator
@@ -1758,6 +1774,7 @@ iabbrev snesor sensor
 iabbrev sensosr sensors
 iabbrev sensosrs sensors
 iabbrev snesors sensors
+iabbrev Snesors Sensors
 iabbrev snet sent
 iabbrev seaparate separate
 iabbrev sepaate separate
@@ -1780,6 +1797,7 @@ iabbrev Setpoitn Setpoint
 iabbrev setpoitns setpoints
 iabbrev stepoints setpoints
 iabbrev stpeoints setpoints
+iabbrev setintg setting
 iabbrev seetup setup
 iabbrev setps setups
 iabbrev serval several
@@ -1886,6 +1904,7 @@ iabbrev satatus status
 iabbrev stuatus status
 iabbrev staem steam
 iabbrev stpes steps
+iabbrev sitll still
 iabbrev stroed stored
 iabbrev storeis stories
 iabbrev straighforward straightforward
@@ -2014,6 +2033,7 @@ iabbrev tempeatures temperatures
 iabbrev temperatreus temperatures
 iabbrev temperatues temperatures
 iabbrev temperaturres temperatures
+iabbrev temperatutres temperatures
 iabbrev temperautres temperatures
 iabbrev temperautrtes temperatures
 iabbrev temprautes temperatures
@@ -2121,6 +2141,7 @@ iabbrev htis this
 iabbrev THis This
 iabbrev Thjis This
 iabbrev Thsi This
+iabbrev THose Those
 iabbrev THree Three
 iabbrev trhee three
 iabbrev thershold threshold
@@ -2185,6 +2206,7 @@ iabbrev Tusday Tuesday
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
+iabbrev typiuckal typical
 iabbrev typeiclaly typically
 iabbrev tyupically typically
 iabbrev ultrasonci ultrasonic
