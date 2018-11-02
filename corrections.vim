@@ -242,6 +242,7 @@ iabbrev boudnary boundary
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev buidign building
+iabbrev Buidlgin Building
 iabbrev Buidlign Building
 iabbrev Buidling Building
 iabbrev buiilding building
@@ -437,6 +438,7 @@ iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev competiting competing
 iabbrev ocmplield compiled
+iabbrev pcompiled compiled
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compeleted completed
@@ -445,6 +447,7 @@ iabbrev compleeted completed
 iabbrev completey completely
 iabbrev completley completely
 iabbrev compeletes completes
+iabbrev compeltion completion
 iabbrev componenets components
 iabbrev compoonents components
 iabbrev comrpession compression
@@ -455,6 +458,7 @@ iabbrev Conclustions Conclusions
 iabbrev conculsions conclusions
 iabbrev Conslusions Conclusions
 iabbrev ocnclusions conclusions
+iabbrev condensser condenser
 iabbrev ocndenser condenser
 iabbrev conditiojing conditioning
 iabbrev conditinos conditions
@@ -520,10 +524,12 @@ iabbrev convensition convention
 iabbrev convetino convention
 iabbrev convetion convention
 iabbrev ocnvention convention
+iabbrev cooeld cooled
 iabbrev Cooilng Cooling
 iabbrev coolign cooling
 iabbrev coolking cooling
 iabbrev cooloing cooling
+iabbrev cooolign cooling
 iabbrev Coorinate Coordinate
 iabbrev copeid copied
 iabbrev cipy copy
@@ -558,6 +564,7 @@ iabbrev currenlty currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
 iabbrev cusomt custom
+iabbrev cusotm custom
 iabbrev custiom custom
 iabbrev cusotmoer customer
 iabbrev cycel cycle
@@ -656,6 +663,7 @@ iabbrev directins directions
 iabbrev direclty directly
 iabbrev drieclty directly
 iabbrev driectly directly
+iabbrev direcotry directory
 iabbrev directoy directory
 iabbrev directoyr directory
 iabbrev dissagregate disaggregate
@@ -688,6 +696,7 @@ iabbrev donw down
 iabbrev DOwnlaoded Downloaded
 iabbrev dowenloads downloads
 iabbrev downotown downtown
+iabbrev downtonn downtown
 iabbrev Downtonw Downtown
 iabbrev drwawer drawer
 iabbrev drwaing drawing
@@ -767,6 +776,7 @@ iabbrev eqiupment equipment
 iabbrev equiepment equipment
 iabbrev equipaemtn equipment
 iabbrev equipement equipment
+iabbrev equipemetn equipment
 iabbrev equipemnt equipment
 iabbrev Equipemnt Equipment
 iabbrev equipemtn equipment
@@ -786,6 +796,7 @@ iabbrev errros errors
 iabbrev espciallly especially
 iabbrev espcially especially
 iabbrev Especailly Especially
+iabbrev especitaly especially
 iabbrev essentialy essentially
 iabbrev eestimate estimate
 iabbrev esitmate estimate
@@ -955,6 +966,7 @@ iabbrev GOod Good
 iabbrev Googoel Google
 iabbrev graduyation graduation
 iabbrev grpahic graphic
+iabbrev graphcis graphics
 iabbrev grpahcis graphics
 iabbrev grpahics graphics
 iabbrev grpahsics graphics
@@ -1067,6 +1079,7 @@ iabbrev Informaiont Information
 iabbrev informaiotn information
 iabbrev informaitno information
 iabbrev informaiton information
+iabbrev Informaiton Information
 iabbrev INformaiton Information
 iabbrev informatin information
 iabbrev informatino information
@@ -1280,6 +1293,7 @@ iabbrev Mondnay Monday
 iabbrev monitioring monitoring
 iabbrev MOnitoring Monitoring
 iabbrev monitoringn monitoring
+iabbrev MOntiriongn Monitoring
 iabbrev montiors monitors
 iabbrev monthylo monthly
 iabbrev montly monthly
@@ -1387,6 +1401,7 @@ iabbrev originatign originating
 iabbrev ohter other
 iabbrev Ohter Other
 iabbrev toher other
+iabbrev otherse others
 iabbrev otu out
 iabbrev otudoor outdoor
 iabbrev outdooar outdoor
@@ -1403,6 +1418,7 @@ iabbrev Outolok Outlook
 iabbrev ouptut output
 iabbrev ouput output
 iabbrev outup output
+iabbrev outupt output
 iabbrev outuptu output
 iabbrev outliers outwears
 iabbrev overaching overarching
@@ -1423,6 +1439,7 @@ iabbrev paretn parent
 iabbrev partent parent
 iabbrev paretns parents
 iabbrev paresr parser
+iabbrev aprt part
 iabbrev aprtial partial
 iabbrev partail partial
 iabbrev aprticular particular
@@ -1508,6 +1525,7 @@ iabbrev potentila potential
 iabbrev potnetail potential
 iabbrev potnetial potential
 iabbrev ptoentail potential
+iabbrev potentailly potentially
 iabbrev ptotently potentially
 iabbrev pwoer power
 iabbrev pwoered powered
@@ -1580,6 +1598,7 @@ iabbrev proejct project
 iabbrev Proejct Project
 iabbrev proeject project
 iabbrev profject project
+iabbrev projecdt project
 iabbrev projfct project
 iabbrev projfect project
 iabbrev porjects projects
@@ -1589,6 +1608,7 @@ iabbrev projets projects
 iabbrev projexts projects
 iabbrev projgects projects
 iabbrev properityes properties
+iabbrev properteis properties
 iabbrev porperty property
 iabbrev proeprty property
 iabbrev porportion proportion
@@ -1626,6 +1646,7 @@ iabbrev ranodm random
 iabbrev reange range
 iabbrev artes rates
 iabbrev artio ratio
+iabbrev reayd ready
 iabbrev realy really
 iabbrev relaly really
 iabbrev reanalysiss reanalysis
@@ -1682,10 +1703,12 @@ iabbrev rerport report
 iabbrev rerpot report
 iabbrev rpeort report
 iabbrev rpeot report
+iabbrev rperot report
 iabbrev Reporeter Reporter
 iabbrev Reproter Reporter
 iabbrev reoports reports
 iabbrev reporst reports
+iabbrev reprots reports
 iabbrev rpeorts reports
 iabbrev rports reports
 iabbrev reporsitoyr repository
@@ -1742,14 +1765,20 @@ iabbrev svaings savings
 iabbrev asy say
 iabbrev scenarious scenarios
 iabbrev schdeule schedule
+iabbrev schdule schedule
 iabbrev scheudle schedule
 iabbrev Scheudule Schedule
+iabbrev scheduleted scheduled
 iabbrev scheduleing scheduling
 iabbrev scheudling scheduling
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
+iabbrev socope scope
 iabbrev socpe scope
 iabbrev scrreen screen
+iabbrev scrdipt script
+iabbrev scritp script
+iabbrev Scirpts Scripts
 iabbrev scritps scripts
 iabbrev sripts scripts
 iabbrev searhc search
@@ -1771,6 +1800,7 @@ iabbrev sensitivtiy sensitivity
 iabbrev senstivity sensitivity
 iabbrev senseor sensor
 iabbrev snesor sensor
+iabbrev sensores sensors
 iabbrev sensosr sensors
 iabbrev sensosrs sensors
 iabbrev snesors sensors
@@ -1820,6 +1850,7 @@ iabbrev showss shows
 iabbrev hsut shut
 iabbrev shuyt shut
 iabbrev signficant significant
+iabbrev significat significant
 iabbrev simialr similar
 iabbrev similarily similarly
 iabbrev sijmple simple
@@ -1921,6 +1952,7 @@ iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
+iabbrev Sbumittal Submittal
 iabbrev subsance substance
 iabbrev substantce substance
 iabbrev substituing substituting
@@ -1929,7 +1961,9 @@ iabbrev succesful successful
 iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sunslight sunlight
+iabbrev supercede supersede
 iabbrev su7pply supply
+iabbrev suply supply
 iabbrev supplky supply
 iabbrev suppply supply
 iabbrev suppy supply
@@ -1937,6 +1971,7 @@ iabbrev usre sure
 iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
+iabbrev surveryed surveyed
 iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev Syunc Sync
@@ -1948,6 +1983,7 @@ iabbrev sysetm system
 iabbrev sysmete system
 iabbrev sysmetm system
 iabbrev Sysmtme System
+iabbrev syst6em system
 iabbrev systme system
 iabbrev Systme System
 iabbrev systmne system
@@ -2101,6 +2137,7 @@ iabbrev trhe the
 iabbrev tyhe the
 iabbrev hteir their
 iabbrev thier their
+iabbrev htem them
 iabbrev hten then
 iabbrev theen then
 iabbrev thne then
@@ -2131,6 +2168,7 @@ iabbrev THey They
 iabbrev thye they
 iabbrev Thye They
 iabbrev tyhy they
+iabbrev thnig thing
 iabbrev thigns things
 iabbrev THings Things
 iabbrev THink Think
@@ -2291,6 +2329,7 @@ iabbrev varietly variety
 iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
 iabbrev verficaiton verification
+iabbrev verifiaciaton verification
 iabbrev verificaiton verification
 iabbrev verifiy verify
 iabbrev verison version
