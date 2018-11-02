@@ -19,7 +19,7 @@ if [[ ! -f "$autocorrectfile" ]]; then
     exit 2
 fi
 
-cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -f -k 3,3 > tmp && mv tmp corrections.vim
+cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -k 3,3 > tmp && mv tmp corrections.vim
 echo "Added $(cat "$autocorrectfile" | wc -l) new iabbrevs into the correction list. $(cat corrections.vim | wc -l) total."
 
 autocorrectdir=$(dirname "$autocorrectfile")
