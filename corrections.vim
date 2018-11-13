@@ -356,6 +356,7 @@ iabbrev checkedd checked
 iabbrev CHecking Checking
 iabbrev Chekcing Checking
 iabbrev checkdlists checklists
+iabbrev chekclists checklists
 iabbrev chekcout checkout
 iabbrev checkes checks
 iabbrev Cheerry Cherry
@@ -667,6 +668,7 @@ iabbrev devicee device
 iabbrev edevices devices
 iabbrev Deval Devil
 iabbrev Deveil Devil
+iabbrev Dictiorany Dictionary
 iabbrev Difff Diff
 iabbrev differenrces differences
 iabbrev diffentert different
@@ -738,6 +740,7 @@ iabbrev effortr effort
 iabbrev efforst efforts
 iabbrev weitther either
 iabbrev electrici electric
+iabbrev Eelctric Electric
 iabbrev electricial electrical
 iabbrev Eelctrical Electrical
 iabbrev Electircial Electrical
@@ -845,6 +848,7 @@ iabbrev exectued executed
 iabbrev executuion execution
 iabbrev exericse exercise
 iabbrev exercieses exercises
+iabbrev Exhasust Exhaust
 iabbrev Exhauset Exhaust
 iabbrev exisited existed
 iabbrev elxisting existing
@@ -877,6 +881,7 @@ iabbrev fiarly fairly
 iabbrev fna fan
 iabbrev FAn Fan
 iabbrev fanas fans
+iabbrev fautl fault
 iabbrev falults faults
 iabbrev fdaults faults
 iabbrev faovirte favorite
@@ -894,8 +899,10 @@ iabbrev fiels files
 iabbrev iles files
 iabbrev finla final
 iabbrev finialize finalize
+iabbrev Finalziing Finalizing
 iabbrev FInializing Finalizing
 iabbrev Finlaly Finally
+iabbrev fidn find
 iabbrev ifnd find
 iabbrev finsih finish
 iabbrev fiinished finished
@@ -979,6 +986,7 @@ iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev Generageted Generated
 iabbrev gneeration generation
+iabbrev gnerator generator
 iabbrev geetting getting
 iabbrev Github GitHub
 iabbrev givne given
@@ -998,6 +1006,7 @@ iabbrev Grennwood Greenwood
 iabbrev gropu group
 iabbrev Grup Group
 iabbrev gropus groups
+iabbrev guarantted guaranteed
 iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
 iabbrev guideines guidelines
@@ -1088,6 +1097,7 @@ iabbrev incorreclty incorrectly
 iabbrev incrteasing increasing
 iabbrev indedependt independent
 iabbrev indiciatiton indication
+iabbrev ijndividual individual
 iabbrev indifivalu individual
 iabbrev inddor indoor
 iabbrev iinform inform
@@ -1261,6 +1271,7 @@ iabbrev mapas maps
 iabbrev Marhc March
 iabbrev Marhd March
 iabbrev makr mark
+iabbrev markdonw markdown
 iabbrev amster master
 iabbrev matcing matching
 iabbrev materla material
@@ -1268,6 +1279,7 @@ iabbrev mathematica Mathematica
 iabbrev Matlba Matlab
 iabbrev maximimum maximum
 iabbrev menaing meaning
+iabbrev measrue measure
 iabbrev Measrue Measure
 iabbrev maesured measured
 iabbrev mearued measured
@@ -1288,6 +1300,7 @@ iabbrev meetign meeting
 iabbrev Meeitng Meeting
 iabbrev meterological meteorological
 iabbrev memeter meter
+iabbrev Meteringin Metering
 iabbrev mehtod method
 iabbrev methjod method
 iabbrev methodoloyg methodology
@@ -1322,10 +1335,12 @@ iabbrev moels moles
 iabbrev moement moment
 iabbrev MOnday Monday
 iabbrev Mondnay Monday
+iabbrev montiro monitor
 iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
 iabbrev MOnitoring Monitoring
 iabbrev MOntiriongn Monitoring
+iabbrev Montiroing Monitoring
 iabbrev montiors monitors
 iabbrev monthylo monthly
 iabbrev montly monthly
@@ -1505,6 +1520,7 @@ iabbrev pahases phases
 iabbrev philospohy philosophy
 iabbrev Pheonix Phoenix
 iabbrev phoen phone
+iabbrev phycisal physical
 iabbrev physcally physically
 iabbrev pcitures pictures
 iabbrev picutres pictures
@@ -1641,6 +1657,7 @@ iabbrev profject project
 iabbrev projecdt project
 iabbrev projfct project
 iabbrev projfect project
+iabbrev projgect project
 iabbrev Proejct Project
 iabbrev porjects projects
 iabbrev proejcts projects
@@ -1657,6 +1674,7 @@ iabbrev proportialn proportional
 iabbrev proportioanl proportional
 iabbrev propsed proposed
 iabbrev propsoed proposed
+iabbrev Porposed Proposed
 iabbrev pulliing pulling
 iabbrev Pulliung Pulling
 iabbrev pmpups pumps
@@ -1935,6 +1953,7 @@ iabbrev sove solve
 iabbrev soem some
 iabbrev somehting something
 iabbrev Somethimes Sometimes
+iabbrev soemwhere somewhere
 iabbrev soruces sources
 iabbrev psace space
 iabbrev SPeaker Speaker
@@ -2016,6 +2035,7 @@ iabbrev suply supply
 iabbrev supplky supply
 iabbrev suppply supply
 iabbrev suppy supply
+iabbrev supprot support
 iabbrev usre sure
 iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
@@ -2045,6 +2065,7 @@ iabbrev Ssytems Systems
 iabbrev Systesm Systems
 iabbrev tabv tab
 iabbrev TAble Table
+iabbrev tagblse tables
 iabbrev taggins tagging
 iabbrev atake take
 iabbrev takne taken
@@ -2158,6 +2179,7 @@ iabbrev termnial terminal
 iabbrev tmenial terminal
 iabbrev tmerinal terminal
 iabbrev tyerminal terminal
+iabbrev Temrianil Terminal
 iabbrev Termain Terminal
 iabbrev Termianl Terminal
 iabbrev Terminail Terminal
@@ -2253,6 +2275,7 @@ iabbrev Thurdsya Thursday
 iabbrev THursday Thursday
 iabbrev Thursdday Thursday
 iabbrev Thursdya Thursday
+iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
 iabbrev tiems times
@@ -2410,6 +2433,7 @@ iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
 iabbrev Wednedsayd Wednesday
 iabbrev Wednesayd Wednesday
+iabbrev Wednesdayd Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wednessday Wednesday
