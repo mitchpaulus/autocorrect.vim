@@ -35,6 +35,7 @@ iabbrev adviosr advisor
 iabbrev Adviosr Advisor
 iabbrev afftecting affecting
 iabbrev aftenronon afternoon
+iabbrev aggregatrion aggregation
 iabbrev ahir air
 iabbrev aiar air
 iabbrev ari air
@@ -127,6 +128,7 @@ iabbrev apploied applied
 iabbrev applky apply
 iabbrev paply apply
 iabbrev appoinmement appointment
+iabbrev appointmetn appointment
 iabbrev appreicable appreciable
 iabbrev apporach approach
 iabbrev apprach approach
@@ -365,6 +367,7 @@ iabbrev Chery Cherry
 iabbrev childern children
 iabbrev chillled chilled
 iabbrev Chiled Chilled
+iabbrev Chiler Chiller
 iabbrev CHiller Chiller
 iabbrev chilllers chillers
 iabbrev cohice choice
@@ -500,6 +503,7 @@ iabbrev Constatn Constant
 iabbrev Contstant Constant
 iabbrev coinsumption consumption
 iabbrev constumption consumption
+iabbrev consukmption consumption
 iabbrev consumptiohj consumption
 iabbrev contianer container
 iabbrev continaer container
@@ -699,6 +703,7 @@ iabbrev Distribuiton Distribution
 iabbrev distercit district
 iabbrev dirunal diurnal
 iabbrev docuemnt document
+iabbrev docuemtn document
 iabbrev doecuemnt document
 iabbrev doecument document
 iabbrev coeumentation documentation
@@ -968,6 +973,7 @@ iabbrev Fucnttional Functional
 iabbrev Functianl Functional
 iabbrev Functinal Functional
 iabbrev Functioanl Functional
+iabbrev fucntionality functionality
 iabbrev funcitoning functioning
 iabbrev fucntions functions
 iabbrev funcitons functions
@@ -1038,6 +1044,7 @@ iabbrev helpuful helpful
 iabbrev hree here
 iabbrev hueristics heuristics
 iabbrev hiddne hidden
+iabbrev dhigher higher
 iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev hgihlighting highlighting
@@ -1102,6 +1109,7 @@ iabbrev indifivalu individual
 iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
+iabbrev infolmraotn information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev informaion information
@@ -1180,6 +1188,7 @@ iabbrev investigatign investigating
 iabbrev Invesitgating Investigating
 iabbrev invesitgation investigation
 iabbrev investement investment
+iabbrev inviation invitation
 iabbrev invitue invite
 iabbrev irreversilbe irreversible
 iabbrev fis is
@@ -1386,6 +1395,7 @@ iabbrev netural neutral
 iabbrev neturla neutral
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
+iabbrev nomencalute nomenclature
 iabbrev nomencaluture nomenclature
 iabbrev nomenclautere nomenclature
 iabbrev nomencluature nomenclature
@@ -1495,6 +1505,7 @@ iabbrev partail partial
 iabbrev aprticular particular
 iabbrev paraticlaur particular
 iabbrev paritcular particular
+iabbrev particaular particular
 iabbrev particaulr particular
 iabbrev particualr particular
 iabbrev particulary particularly
@@ -1655,6 +1666,7 @@ iabbrev proejct project
 iabbrev proeject project
 iabbrev profject project
 iabbrev projecdt project
+iabbrev projedt project
 iabbrev projfct project
 iabbrev projfect project
 iabbrev projgect project
@@ -1684,6 +1696,7 @@ iabbrev quaility quality
 iabbrev quailty quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
+iabbrev quialyt quality
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev Quantificaitons Quantifications
@@ -1732,6 +1745,7 @@ iabbrev refernece reference
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
 iabbrev refigerator refrigerator
+iabbrev regartding regarding
 iabbrev reagrds regards
 iabbrev Regenearrte Regenerate
 iabbrev Regeneratre Regenerate
@@ -1918,6 +1932,7 @@ iabbrev hsut shut
 iabbrev shuyt shut
 iabbrev signficant significant
 iabbrev significat significant
+iabbrev Significatly Significantly
 iabbrev simialr similar
 iabbrev similarily similarly
 iabbrev sijmple simple
@@ -2296,6 +2311,7 @@ iabbrev totla total
 iabbrev toltals totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
+iabbrev tradiation tradition
 iabbrev traingin training
 iabbrev trainign training
 iabbrev Traingin Training
@@ -2304,6 +2320,7 @@ iabbrev tansfer transfer
 iabbrev trnasfer transfer
 iabbrev transporation transportation
 iabbrev transportionat transportation
+iabbrev travelled traveled
 iabbrev rtrend trend
 iabbrev trned trend
 iabbrev trendend trended
