@@ -148,6 +148,7 @@ iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
 iabbrev arbitary arbitrary
+iabbrev aqre are
 iabbrev aree are
 iabbrev raea area
 iabbrev Arthimetic Arithmetic
@@ -348,6 +349,7 @@ iabbrev changds changes
 iabbrev chantges changes
 iabbrev changeing changing
 iabbrev cahpter chapter
+iabbrev chaper chapter
 iabbrev Chatper Chapter
 iabbrev caharcteristic characteristic
 iabbrev cahractersictic characteristic
@@ -355,6 +357,7 @@ iabbrev characteritsics characteristics
 iabbrev chartr chart
 iabbrev Cheeck Check
 iabbrev checkedd checked
+iabbrev chekcing checking
 iabbrev CHecking Checking
 iabbrev Chekcing Checking
 iabbrev checkdlists checklists
@@ -551,9 +554,11 @@ iabbrev Cooilng Cooling
 iabbrev Coorinate Coordinate
 iabbrev copeid copied
 iabbrev cipy copy
+iabbrev ocpy copy
 iabbrev copyting copying
 iabbrev correclty correctly
 iabbrev correspodn correspond
+iabbrev correspoind correspond
 iabbrev correspoding corresponding
 iabbrev correspoidng corresponding
 iabbrev correspoindg corresponding
@@ -597,6 +602,7 @@ iabbrev databasew database
 iabbrev databse database
 iabbrev dtaabase database
 iabbrev ddate date
+iabbrev DAte Date
 iabbrev DAve Dave
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -675,6 +681,7 @@ iabbrev Deveil Devil
 iabbrev Dictiorany Dictionary
 iabbrev Difff Diff
 iabbrev differenrces differences
+iabbrev diferent different
 iabbrev diffentert different
 iabbrev differetn different
 iabbrev differnt different
@@ -996,8 +1003,10 @@ iabbrev gnerator generator
 iabbrev geetting getting
 iabbrev Github GitHub
 iabbrev givne given
+iabbrev globablly globally
 iabbrev cgoing going
 iabbrev Goiing Going
+iabbrev GOing Going
 iabbrev GOod Good
 iabbrev Googoel Google
 iabbrev graduyation graduation
@@ -1054,6 +1063,7 @@ iabbrev horizonatal horizontal
 iabbrev Hoorry Horry
 iabbrev horespower horsepower
 iabbrev hositpal hospital
+iabbrev hto hot
 iabbrev horus hours
 iabbrev hoursin hours in
 iabbrev howerver however
@@ -1106,6 +1116,7 @@ iabbrev indedependt independent
 iabbrev indiciatiton indication
 iabbrev ijndividual individual
 iabbrev indifivalu individual
+iabbrev indiviudal individual
 iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
@@ -1473,6 +1484,7 @@ iabbrev outelt outlet
 iabbrev Outlone Outline
 iabbrev Outpline Outline
 iabbrev outliened outlined
+iabbrev Outlooko Outlook
 iabbrev Outolloik Outlook
 iabbrev Outolok Outlook
 iabbrev ouptut output
@@ -1521,6 +1533,7 @@ iabbrev Perfomrance Performance
 iabbrev performaning performing
 iabbrev periemater perimeter
 iabbrev peroid period
+iabbrev permannet permanent
 iabbrev perisonal personal
 iabbrev perosnal personal
 iabbrev personla personal
@@ -1596,6 +1609,7 @@ iabbrev ptotently potentially
 iabbrev pwoer power
 iabbrev Poweer Power
 iabbrev pwoered powered
+iabbrev PRactical Practical
 iabbrev practivce practice
 iabbrev precisly precisely
 iabbrev predition prediciton
@@ -2093,6 +2107,7 @@ iabbrev technoilogies technologies
 iabbrev Techonology Technology
 iabbrev Tmep Temp
 iabbrev atemperature temperature
+iabbrev atmpeature temperature
 iabbrev emtperature temperature
 iabbrev taemperatue temperature
 iabbrev temaperatrure temperature
@@ -2308,6 +2323,7 @@ iabbrev topcis topics
 iabbrev thotal total
 iabbrev toatl total
 iabbrev totla total
+iabbrev Totoal Total
 iabbrev toltals totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
@@ -2330,6 +2346,7 @@ iabbrev trnes trends
 iabbrev Treid Tried
 iabbrev Tuedays Tuesday
 iabbrev Tuesady Tuesday
+iabbrev Tuesdday Tuesday
 iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
@@ -2373,6 +2390,7 @@ iabbrev unikts units
 iabbrev unjits units
 iabbrev unnits units
 iabbrev untis units
+iabbrev unix Unix
 iabbrev unecessary unnecessary
 iabbrev unnessecary unnecessary
 iabbrev upodate update
@@ -2444,6 +2462,7 @@ iabbrev wtaer water
 iabbrev Wwater Water
 iabbrev wather weather
 iabbrev webdsiyte website
+iabbrev webstie website
 iabbrev Wedneasday Wednesday
 iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
@@ -2486,6 +2505,7 @@ iabbrev owkr work
 iabbrev owrk work
 iabbrev wokr work
 iabbrev workl work
+iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev owrking working
 iabbrev woriking working
@@ -2499,6 +2519,7 @@ iabbrev Workign Working
 iabbrev Workikng Working
 iabbrev Workingo Working
 iabbrev WOrking Working
+iabbrev WOrkiong Working
 iabbrev Workiung Working
 iabbrev Worlking Working
 iabbrev Wroking Working
