@@ -21,6 +21,7 @@ iabbrev actaully actually
 iabbrev actauully actually
 iabbrev actucally actually
 iabbrev actulaly actually
+iabbrev Actulaly Actually
 iabbrev Actuatoar Actuator
 iabbrev addiiton addition
 iabbrev additonitnal additional
@@ -245,6 +246,7 @@ iabbrev bookelt booklet
 iabbrev gboth both
 iabbrev boudn bound
 iabbrev boudnary boundary
+iabbrev Breka Break
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev buidign building
@@ -253,6 +255,7 @@ iabbrev buiilding building
 iabbrev buikdlign building
 iabbrev buildgin building
 iabbrev buildign building
+iabbrev buildling building
 iabbrev buildng building
 iabbrev buildnig building
 iabbrev builgin building
@@ -350,6 +353,7 @@ iabbrev chantges changes
 iabbrev changeing changing
 iabbrev cahpter chapter
 iabbrev chaper chapter
+iabbrev chatper chapter
 iabbrev Chatper Chapter
 iabbrev caharcteristic characteristic
 iabbrev cahractersictic characteristic
@@ -487,6 +491,7 @@ iabbrev condifience confidence
 iabbrev confifguraiton configuration
 iabbrev configuraiton configuration
 iabbrev configutration configuration
+iabbrev COnfirm Confirm
 iabbrev conenction connection
 iabbrev conneciton connection
 iabbrev consectuive consecutive
@@ -539,6 +544,7 @@ iabbrev contrlled controlled
 iabbrev conttrolled controlled
 iabbrev contorller controller
 iabbrev contorls controls
+iabbrev contreols controls
 iabbrev ocntrosl controls
 iabbrev Contrls Controls
 iabbrev convensition convention
@@ -577,6 +583,7 @@ iabbrev coures course
 iabbrev creatd created
 iabbrev creaitng creating
 iabbrev credites credits
+iabbrev Cresent Crescent
 iabbrev crediterion criterion
 iabbrev creiterion criterion
 iabbrev ciritical critical
@@ -718,6 +725,7 @@ iabbrev dcoumentaiton documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documentaiton documentation
+iabbrev Documenation Documentation
 iabbrev Documentaiton Documentation
 iabbrev Documention Documentation
 iabbrev docuemnted documented
@@ -975,6 +983,7 @@ iabbrev funciton function
 iabbrev functdion function
 iabbrev fundction function
 iabbrev funcationl functional
+iabbrev funcitonal functional
 iabbrev functioanl functional
 iabbrev Fucnttional Functional
 iabbrev Functianl Functional
@@ -1093,6 +1102,7 @@ iabbrev Implemnter Implementer
 iabbrev importantance importance
 iabbrev impoartant important
 iabbrev imporatant important
+iabbrev imporatnt important
 iabbrev importatn important
 iabbrev improatnt important
 iabbrev improtant important
@@ -1197,6 +1207,7 @@ iabbrev INvestigate Investigate
 iabbrev Investiaged Investigated
 iabbrev investigatign investigating
 iabbrev Invesitgating Investigating
+iabbrev Investingating Investigating
 iabbrev invesitgation investigation
 iabbrev investement investment
 iabbrev inviation invitation
@@ -1284,6 +1295,7 @@ iabbrev Maintenacen Maintenance
 iabbrev moajority majority
 iabbrev amke make
 iabbrev makea make a
+iabbrev magnage manage
 iabbrev managmeent management
 iabbrev Managnemnt Management
 iabbrev mnay many
@@ -1317,6 +1329,7 @@ iabbrev mechanicla mechanical
 iabbrev Mechanicla Mechanical
 iabbrev meadian median
 iabbrev meetign meeting
+iabbrev meetring meeting
 iabbrev Meeitng Meeting
 iabbrev meterological meteorological
 iabbrev memeter meter
@@ -1369,6 +1382,7 @@ iabbrev monthds months
 iabbrev mroe more
 iabbrev moring morning
 iabbrev morngin morning
+iabbrev mornign morning
 iabbrev MOst Most
 iabbrev Mosty Mostly
 iabbrev moter motor
@@ -1460,6 +1474,7 @@ iabbrev optiomal optimal
 iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
 iabbrev optimziation optimization
+iabbrev Optimziation Optimization
 iabbrev opitions options
 iabbrev optiosn options
 iabbrev ro or
@@ -1817,6 +1832,7 @@ iabbrev residitnetal residential
 iabbrev resistnace resistance
 iabbrev resistnatce resistance
 iabbrev resoelves resolves
+iabbrev erspect respect
 iabbrev respcet respect
 iabbrev respecdt respect
 iabbrev respirarotyr respiratory
@@ -2033,6 +2049,7 @@ iabbrev stuatus status
 iabbrev staem steam
 iabbrev stpes steps
 iabbrev sitll still
+iabbrev stil still
 iabbrev stroed stored
 iabbrev storeis stories
 iabbrev straighforward straightforward
@@ -2407,6 +2424,7 @@ iabbrev suer user
 iabbrev us9ing using
 iabbrev usign using
 iabbrev usingn using
+iabbrev usula usual
 iabbrev usallly usually
 iabbrev utilites utilities
 iabbrev uitlilty utility
@@ -2505,6 +2523,7 @@ iabbrev owkr work
 iabbrev owrk work
 iabbrev wokr work
 iabbrev workl work
+iabbrev Wrok Work
 iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev owrking working
@@ -2523,6 +2542,7 @@ iabbrev WOrkiong Working
 iabbrev Workiung Working
 iabbrev Worlking Working
 iabbrev Wroking Working
+iabbrev workds works
 iabbrev WOrks Works
 iabbrev owuld would
 iabbrev wiould would
