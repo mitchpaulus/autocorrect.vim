@@ -7,8 +7,10 @@ iabbrev Acadmey Academy
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
 iabbrev accessiblity accessibility
+iabbrev accompying accompanying
 iabbrev accompolish accomplish
 iabbrev accoriding according
+iabbrev accoridng according
 iabbrev Accordiing According
 iabbrev accoreidnly accordingly
 iabbrev accoutn account
@@ -180,6 +182,8 @@ iabbrev assumjption assumption
 iabbrev assukmptions assumptions
 iabbrev assumptiosn assumptions
 iabbrev atmosphereic atmospheric
+iabbrev attachements attachments
+iabbrev attachgements attachments
 iabbrev Attachemnts Attachments
 iabbrev attemping attempting
 iabbrev Attmepting Attempting
@@ -459,6 +463,7 @@ iabbrev commti commit
 iabbrev commmon common
 iabbrev ocmmon common
 iabbrev commonlky commonly
+iabbrev communciates communicates
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
 iabbrev compnay company
@@ -476,6 +481,7 @@ iabbrev completey completely
 iabbrev completley completely
 iabbrev compeletes completes
 iabbrev compeltion completion
+iabbrev compoennts components
 iabbrev componenets components
 iabbrev compoonents components
 iabbrev comrpession compression
@@ -587,11 +593,13 @@ iabbrev Coutnyt County
 iabbrev coures course
 iabbrev creatd created
 iabbrev creaitng creating
+iabbrev credentails credentials
 iabbrev credites credits
 iabbrev Cresent Crescent
 iabbrev crediterion criterion
 iabbrev creiterion criterion
 iabbrev ciritical critical
+iabbrev critcial critical
 iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev currtent current
@@ -676,6 +684,7 @@ iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev deterining determining
 iabbrev determineing determining
+iabbrev devleoped developed
 iabbrev develeopemnet development
 iabbrev developemnet development
 iabbrev developemnt development
@@ -869,6 +878,7 @@ iabbrev Excle Excel
 iabbrev exceptionatlly exceptionally
 iabbrev exchanger exchange
 iabbrev exhcange exchange
+iabbrev exectuable executable
 iabbrev execture execute
 iabbrev exectued executed
 iabbrev executuion execution
@@ -972,6 +982,7 @@ iabbrev Foudn Found
 iabbrev foru four
 iabbrev Foiruier Fourier
 iabbrev Francsios Francisco
+iabbrev Frnak Frank
 iabbrev Firday Friday
 iabbrev Frday Friday
 iabbrev Frdiay Friday
@@ -1006,6 +1017,7 @@ iabbrev rurther further
 iabbrev furture future
 iabbrev Garge Garage
 iabbrev gneeral general
+iabbrev gneral general
 iabbrev Genealr General
 iabbrev Genral General
 iabbrev Gneeral General
@@ -1323,10 +1335,11 @@ iabbrev maximimum maximum
 iabbrev menaing meaning
 iabbrev measrue measure
 iabbrev Measrue Measure
+iabbrev Meaurse Measure
 iabbrev maesured measured
 iabbrev mearued measured
-iabbrev measruedd measured
 iabbrev measrued measured
+iabbrev measruedd measured
 iabbrev measuresed measured
 iabbrev Measrued Measured
 iabbrev measuremnet measurement
@@ -1412,8 +1425,8 @@ iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
-iabbrev NEedc Need
 iabbrev NEed Need
+iabbrev NEedc Need
 iabbrev neeeds needs
 iabbrev n3egative negative
 iabbrev neagagive negative
@@ -1868,6 +1881,7 @@ iabbrev Reveiw Review
 iabbrev reisit revisit
 iabbrev rightt right
 iabbrev riese rise
+iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
 iabbrev Roayl Royal
@@ -1908,6 +1922,7 @@ iabbrev scritps scripts
 iabbrev sripts scripts
 iabbrev Scirpts Scripts
 iabbrev searhc search
+iabbrev seraching searching
 iabbrev sedond second
 iabbrev seciotn section
 iabbrev seciton section
@@ -2081,8 +2096,8 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
-iabbrev styel style
 iabbrev stye style
+iabbrev styel style
 iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
@@ -2162,8 +2177,8 @@ iabbrev tempeatuter temperature
 iabbrev temperaature temperature
 iabbrev temperateur temperature
 iabbrev temperatre temperature
-iabbrev temperatuer temperature
 iabbrev temperatue temperature
+iabbrev temperatuer temperature
 iabbrev temperaturea temperature
 iabbrev temperaturne temperature
 iabbrev temperatuter temperature
@@ -2225,8 +2240,8 @@ iabbrev etrmianl terminal
 iabbrev teminal terminal
 iabbrev temrainil terminal
 iabbrev temrainl terminal
-iabbrev temrialn terminal
 iabbrev temrial terminal
+iabbrev temrialn terminal
 iabbrev temrianl terminal
 iabbrev temrinal terminal
 iabbrev temrinaul terminal
@@ -2234,9 +2249,9 @@ iabbrev temrinla terminal
 iabbrev temrnal terminal
 iabbrev temrnial terminal
 iabbrev termailn terminal
+iabbrev termain terminal
 iabbrev termainal terminal
 iabbrev termainl terminal
-iabbrev termain terminal
 iabbrev termanil terminal
 iabbrev termiajnl terminal
 iabbrev termialn terminal
@@ -2268,10 +2283,10 @@ iabbrev hte the
 iabbrev lthe the
 iabbrev tahe the
 iabbrev teh the
+iabbrev th the
 iabbrev ther the
 iabbrev thge the
 iabbrev thre the
-iabbrev th the
 iabbrev trhe the
 iabbrev tyhe the
 iabbrev Teh The
@@ -2298,8 +2313,8 @@ iabbrev thermla thermal
 iabbrev tehemodynamic thermodynamic
 iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
-iabbrev thermodynamcic thermodynamic
 iabbrev thermodynamci thermodynamic
+iabbrev thermodynamcic thermodynamic
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
@@ -2350,8 +2365,8 @@ iabbrev Thursdsay Thursdays
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev tilte title
-iabbrev oto to
 iabbrev ot to
+iabbrev oto to
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev TOld Told
@@ -2511,8 +2526,8 @@ iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
 iabbrev Wednedsayd Wednesday
 iabbrev Wednesayd Wednesday
-iabbrev Wednesdayd Wednesday
 iabbrev WEdnesday Wednesday
+iabbrev Wednesdayd Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wednessday Wednesday
 iabbrev Wennedsay Wednesday
@@ -2553,15 +2568,15 @@ iabbrev WOrked Worked
 iabbrev owrking working
 iabbrev woriking working
 iabbrev workign working
-iabbrev Wokringi Working
 iabbrev Wokring Working
 iabbrev WOkring Working
+iabbrev Wokringi Working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev Workign Working
 iabbrev Workikng Working
-iabbrev Workingo Working
 iabbrev WOrking Working
+iabbrev Workingo Working
 iabbrev WOrkiong Working
 iabbrev Workiung Working
 iabbrev Worlking Working
