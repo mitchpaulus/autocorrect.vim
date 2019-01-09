@@ -19,10 +19,13 @@ if [[ ! -f "$autocorrectfile" ]]; then
     exit 2
 fi
 
-cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -k 3,3 > tmp && mv tmp corrections.vim
+cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -d -k 3,3 > tmp && mv tmp corrections.vim
 echo "Added $(cat "$autocorrectfile" | wc -l) new iabbrevs into the correction list. $(cat corrections.vim | wc -l) total."
 
 autocorrectdir=$(dirname "$autocorrectfile")
+
+git commit -am "Add iabbrevs"
+git push
 
 cp "$autocorrectfile" "$autocorrectdir"/.autocorrect-backup
 echo "Created backup at "$autocorrectdir"/.autocorrect-backup"
@@ -31,5 +34,3 @@ echo "Created backup at "$autocorrectdir"/.autocorrect-backup"
 > "$autocorrectfile"
 echo "Cleared $autocorrectfile"
 
-git commit -am "Add iabbrevs"
-git push
