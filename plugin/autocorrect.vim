@@ -28,7 +28,6 @@ function! s:AutocorrectForceLoad()
     " Load custom words.
     if filereadable(s:personalFile)
         execute 'source ' . s:personalFile
-        echom "Read in personal autocorrect file: " . s:personalFile
     else
         echom "Could not read in personal autocorrect file: " . s:personalFile
     endif
