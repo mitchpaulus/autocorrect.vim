@@ -39,6 +39,7 @@ iabbrev adviosr advisor
 iabbrev Adviosr Advisor
 iabbrev afftecting affecting
 iabbrev aftenronon afternoon
+iabbrev aggregatre aggregate
 iabbrev aggregatrion aggregation
 iabbrev ahir air
 iabbrev aiar air
@@ -221,6 +222,7 @@ iabbrev abackwards backwards
 iabbrev backwareds backwards
 iabbrev balnace balance
 iabbrev balnaces balances
+iabbrev Badn Band
 iabbrev Bararcks Barracks
 iabbrev absed based
 iabbrev baslein baseline
@@ -244,6 +246,7 @@ iabbrev bindgin binding
 iabbrev balnk blank
 iabbrev blendde blended
 iabbrev blokc block
+iabbrev Blcok Block
 iabbrev biler boiler
 iabbrev Boielr Boiler
 iabbrev BOiler Boiler
@@ -252,6 +255,7 @@ iabbrev bookelt booklet
 iabbrev gboth both
 iabbrev boudn bound
 iabbrev boudnary boundary
+iabbrev Bouqet Bouquet
 iabbrev Breka Break
 iabbrev brining bringing
 iabbrev braod broad
@@ -623,6 +627,7 @@ iabbrev databse database
 iabbrev dtaabase database
 iabbrev ddate date
 iabbrev DAte Date
+iabbrev Daughther Daughter
 iabbrev DAve Dave
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -704,6 +709,7 @@ iabbrev Dictiorany Dictionary
 iabbrev Difff Diff
 iabbrev differenrces differences
 iabbrev diferent different
+iabbrev diffeernt different
 iabbrev diffentert different
 iabbrev differetn different
 iabbrev differnt different
@@ -760,6 +766,7 @@ iabbrev drwan drawn
 iabbrev dorp drop
 iabbrev dropwdown dropdown
 iabbrev diuct duct
+iabbrev dupcliate duplicate
 iabbrev durnig during
 iabbrev dynamci dynamic
 iabbrev easilyi easily
@@ -902,6 +909,7 @@ iabbrev explroeing exploring
 iabbrev exponnets exponents
 iabbrev exproted exported
 iabbrev extensibile extensible
+iabbrev extemrely extremely
 iabbrev facebook Facebook
 iabbrev Facililty Facility
 iabbrev FAcility Facility
@@ -941,6 +949,7 @@ iabbrev Finlaly Finally
 iabbrev fidn find
 iabbrev ifnd find
 iabbrev finsih finish
+iabbrev FInish Finish
 iabbrev fiinished finished
 iabbrev FInished Finished
 iabbrev Finsihed Finished
@@ -974,9 +983,11 @@ iabbrev ofr for
 iabbrev Fro For
 iabbrev Froest Forest
 iabbrev fomr form
+iabbrev fomrat format
 iabbrev formual formula
 iabbrev fomraulas formulas
 iabbrev formulats formulas
+iabbrev forwareded forwarded
 iabbrev foudn found
 iabbrev Foudn Found
 iabbrev foru four
@@ -1019,6 +1030,7 @@ iabbrev Garge Garage
 iabbrev gneeral general
 iabbrev gneral general
 iabbrev Genealr General
+iabbrev Generla General
 iabbrev Genral General
 iabbrev Gneeral General
 iabbrev gnerally generally
@@ -1027,6 +1039,7 @@ iabbrev gneerated generated
 iabbrev Generageted Generated
 iabbrev gneeration generation
 iabbrev gnerator generator
+iabbrev Georger George
 iabbrev geetting getting
 iabbrev Github GitHub
 iabbrev givne given
@@ -1117,6 +1130,7 @@ iabbrev Implemetner Implementer
 iabbrev Implemneter Implementer
 iabbrev IMplemneter Implementer
 iabbrev Implemnter Implementer
+iabbrev Implmeneter Implementer
 iabbrev importantance importance
 iabbrev impoartant important
 iabbrev imporatant important
@@ -1150,6 +1164,7 @@ iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
 iabbrev infolmraotn information
+iabbrev infomraiotn information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev informaion information
@@ -1189,7 +1204,9 @@ iabbrev insensivitve insensitive
 iabbrev insenstive insensitive
 iabbrev insenstivie insensitive
 iabbrev insentive insensitive
+iabbrev inseration insertion
 iabbrev inistalled installed
+iabbrev isntalled installed
 iabbrev instanteous instantaneous
 iabbrev Instantenous Instantaneous
 iabbrev insated instead
@@ -1212,6 +1229,7 @@ iabbrev interanl internal
 iabbrev interla internal
 iabbrev itnerla internal
 iabbrev interanlly internally
+iabbrev Internaitional International
 iabbrev interpoleated interpolated
 iabbrev interpoation interpolation
 iabbrev internavl interval
@@ -1244,10 +1262,12 @@ iabbrev ITems Items
 iabbrev Itmes Items
 iabbrev iteslf itself
 iabbrev itslf itself
+iabbrev Janurayr January
 iabbrev jvavascript JavaScript
 iabbrev Jhon John
 iabbrev JOhn John
 iabbrev Hohnson Johnson
+iabbrev Juilian Julian
 iabbrev jsut just
 iabbrev ujst just
 iabbrev Kettucky Kentucky
@@ -1338,8 +1358,8 @@ iabbrev Measrue Measure
 iabbrev Meaurse Measure
 iabbrev maesured measured
 iabbrev mearued measured
-iabbrev measrued measured
 iabbrev measruedd measured
+iabbrev measrued measured
 iabbrev measuresed measured
 iabbrev Measrued Measured
 iabbrev measuremnet measurement
@@ -1395,6 +1415,7 @@ iabbrev Mondnay Monday
 iabbrev montiro monitor
 iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
+iabbrev montiroing monitoring
 iabbrev MOnitoring Monitoring
 iabbrev MOntiriongn Monitoring
 iabbrev Montiroing Monitoring
@@ -1425,8 +1446,8 @@ iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
-iabbrev NEed Need
 iabbrev NEedc Need
+iabbrev NEed Need
 iabbrev neeeds needs
 iabbrev n3egative negative
 iabbrev neagagive negative
@@ -1450,8 +1471,10 @@ iabbrev nomenclautere nomenclature
 iabbrev nomencluature nomenclature
 iabbrev nomial nominal
 iabbrev nomianal nominal
+iabbrev nnon noon
 iabbrev nnormal normal
 iabbrev nomral normal
+iabbrev normnally normally
 iabbrev nto not
 iabbrev notaiton notation
 iabbrev notse notes
@@ -1498,6 +1521,7 @@ iabbrev optiomal optimal
 iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
 iabbrev optimziation optimization
+iabbrev OPptimziation Optimization
 iabbrev Optimziation Optimization
 iabbrev opitions options
 iabbrev optiosn options
@@ -1587,9 +1611,12 @@ iabbrev Pheonix Phoenix
 iabbrev phoen phone
 iabbrev phycisal physical
 iabbrev physcally physically
+iabbrev pinao piano
 iabbrev pcitures pictures
 iabbrev picutres pictures
+iabbrev peice piece
 iabbrev peices pieces
+iabbrev placehodler placeholder
 iabbrev paln plan
 iabbrev pland plan
 iabbrev plna plan
@@ -1604,6 +1631,7 @@ iabbrev piont point
 iabbrev poitn point
 iabbrev POint Point
 iabbrev Poitn Point
+iabbrev pointss points
 iabbrev poisnt points
 iabbrev poitns points
 iabbrev ponits points
@@ -1707,6 +1735,7 @@ iabbrev Processs Process
 iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev produciton production
+iabbrev PRoduction Production
 iabbrev prodcuts products
 iabbrev fprofile profile
 iabbrev profeil profile
@@ -1793,6 +1822,7 @@ iabbrev recieved received
 iabbrev Recieved Received
 iabbrev recoginition recognition
 iabbrev recoomendations recommendations
+iabbrev recoreded recorded
 iabbrev reduciton reduction
 iabbrev refacotr refactor
 iabbrev Refacotring Refactoring
@@ -1917,6 +1947,7 @@ iabbrev socope scope
 iabbrev socpe scope
 iabbrev scrreen screen
 iabbrev scrdipt script
+iabbrev scripot script
 iabbrev scritp script
 iabbrev scritps scripts
 iabbrev sripts scripts
@@ -1939,6 +1970,7 @@ iabbrev selectdion selection
 iabbrev slection selection
 iabbrev smeinar seminar
 iabbrev snese sense
+iabbrev sensical sensical
 iabbrev sensitivtiy sensitivity
 iabbrev senstivity sensitivity
 iabbrev senseor sensor
@@ -1979,6 +2011,7 @@ iabbrev sevearl several
 iabbrev Sharepoitn Sharepoint
 iabbrev sheeet sheet
 iabbrev shootouyt shootout
+iabbrev shrot short
 iabbrev hsould should
 iabbrev shoudl should
 iabbrev shouuuld should
@@ -2096,8 +2129,8 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
-iabbrev stye style
 iabbrev styel style
+iabbrev stye style
 iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
@@ -2123,6 +2156,7 @@ iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
 iabbrev surveryed surveyed
+iabbrev suscepible susceptible
 iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev Syunc Sync
@@ -2177,8 +2211,8 @@ iabbrev tempeatuter temperature
 iabbrev temperaature temperature
 iabbrev temperateur temperature
 iabbrev temperatre temperature
-iabbrev temperatue temperature
 iabbrev temperatuer temperature
+iabbrev temperatue temperature
 iabbrev temperaturea temperature
 iabbrev temperaturne temperature
 iabbrev temperatuter temperature
@@ -2240,8 +2274,8 @@ iabbrev etrmianl terminal
 iabbrev teminal terminal
 iabbrev temrainil terminal
 iabbrev temrainl terminal
-iabbrev temrial terminal
 iabbrev temrialn terminal
+iabbrev temrial terminal
 iabbrev temrianl terminal
 iabbrev temrinal terminal
 iabbrev temrinaul terminal
@@ -2249,9 +2283,9 @@ iabbrev temrinla terminal
 iabbrev temrnal terminal
 iabbrev temrnial terminal
 iabbrev termailn terminal
-iabbrev termain terminal
 iabbrev termainal terminal
 iabbrev termainl terminal
+iabbrev termain terminal
 iabbrev termanil terminal
 iabbrev termiajnl terminal
 iabbrev termialn terminal
@@ -2283,11 +2317,12 @@ iabbrev hte the
 iabbrev lthe the
 iabbrev tahe the
 iabbrev teh the
-iabbrev th the
 iabbrev ther the
 iabbrev thge the
 iabbrev thre the
+iabbrev th the
 iabbrev trhe the
+iabbrev tye the
 iabbrev tyhe the
 iabbrev Teh The
 iabbrev THe The
@@ -2313,8 +2348,8 @@ iabbrev thermla thermal
 iabbrev tehemodynamic thermodynamic
 iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
-iabbrev thermodynamci thermodynamic
 iabbrev thermodynamcic thermodynamic
+iabbrev thermodynamci thermodynamic
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
@@ -2365,8 +2400,9 @@ iabbrev Thursdsay Thursdays
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev tilte title
-iabbrev ot to
 iabbrev oto to
+iabbrev ot to
+iabbrev togehter together
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev TOld Told
@@ -2499,6 +2535,7 @@ iabbrev verifiaciaton verification
 iabbrev verificaiton verification
 iabbrev verifiy verify
 iabbrev verison version
+iabbrev verseion version
 iabbrev vresion version
 iabbrev veritcally vertically
 iabbrev iva via
@@ -2514,9 +2551,11 @@ iabbrev Voluem Volume
 iabbrev Volunttering Volunteering
 iabbrev wiating waiting
 iabbrev Waitning Waiting
+iabbrev walthrough walkthrough
 iabbrev wnat want
 iabbrev wtaer water
 iabbrev Wwater Water
+iabbrev wya way
 iabbrev wather weather
 iabbrev webdsiyte website
 iabbrev webstie website
@@ -2526,8 +2565,8 @@ iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
 iabbrev Wednedsayd Wednesday
 iabbrev Wednesayd Wednesday
-iabbrev WEdnesday Wednesday
 iabbrev Wednesdayd Wednesday
+iabbrev WEdnesday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wednessday Wednesday
 iabbrev Wennedsay Wednesday
@@ -2568,15 +2607,15 @@ iabbrev WOrked Worked
 iabbrev owrking working
 iabbrev woriking working
 iabbrev workign working
+iabbrev Wokringi Working
 iabbrev Wokring Working
 iabbrev WOkring Working
-iabbrev Wokringi Working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev Workign Working
 iabbrev Workikng Working
-iabbrev WOrking Working
 iabbrev Workingo Working
+iabbrev WOrking Working
 iabbrev WOrkiong Working
 iabbrev Workiung Working
 iabbrev Worlking Working
