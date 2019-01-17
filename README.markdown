@@ -68,13 +68,21 @@ add words to your personal autocorrect file with the mapping (standing
 for [A]dd Abbreviation):
 
 ```vim
-<localleader>a
+<leader>a
 ```
 
 This mapping will by default open up a `.autocorrect` file in your home
 directory, with the `iabbrev` command ready to go (`:h iabbrev`). If the
 first suggested option isn't what you want the correction to be, just
 change it.
+
+You can modify the key binding for adding words to the autocorrect list
+by mapping to:
+
+```vim
+nmap {new map chars} <Plug>(AutocorrectAddToAbbrev)
+
+```
 
 ## Can I have this automatically loaded for particular filetypes?
 
