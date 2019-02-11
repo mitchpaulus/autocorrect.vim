@@ -14,6 +14,8 @@ else
     autocorrectfile=~/.autocorrect
 fi
 
+printf "attemping to upload the autocorrect file: %s\n" "$autocorrectfile"
+
 if [[ ! -f "$autocorrectfile" ]]; then
     echo "$autocorrectfile does not exist."
     exit 2

@@ -218,6 +218,7 @@ iabbrev avialbable available
 iabbrev avialbalbe available
 iabbrev avialbe available
 iabbrev avialble available
+iabbrev Bakc Back
 iabbrev Backgroudn Background
 iabbrev backupa backup
 iabbrev bakcup backup
@@ -317,9 +318,11 @@ iabbrev Caluclated Calculated
 iabbrev claculation calculation
 iabbrev dalculation calculation
 iabbrev caluclations calculations
+iabbrev claculations calculations
 iabbrev Calcuaitons Calculations
 iabbrev calcualtoar calculator
 iabbrev calcualtor calculator
+iabbrev calculatior calculator
 iabbrev caluclator calculator
 iabbrev Calander Calendar
 iabbrev calicbrated calibrated
@@ -600,6 +603,7 @@ iabbrev coiuld could
 iabbrev Coutn Count
 iabbrev Coutnyt County
 iabbrev coures course
+iabbrev crnaked cranked
 iabbrev creatd created
 iabbrev creaitng creating
 iabbrev credentails credentials
@@ -777,6 +781,7 @@ iabbrev dupcliate duplicate
 iabbrev durnig during
 iabbrev dynamci dynamic
 iabbrev easilyi easily
+iabbrev easliy easily
 iabbrev econcomier economizer
 iabbrev economzier economizer
 iabbrev Ediston Edison
@@ -790,6 +795,7 @@ iabbrev efforst efforts
 iabbrev weitther either
 iabbrev electrici electric
 iabbrev Eelctric Electric
+iabbrev eelectyrical electrical
 iabbrev electricial electrical
 iabbrev Eelctrical Electrical
 iabbrev Electircial Electrical
@@ -845,6 +851,7 @@ iabbrev equaionts equations
 iabbrev equaiotns equations
 iabbrev equaitons equations
 iabbrev equationas equations
+iabbrev EQuations Equations
 iabbrev equilbrium equilibrium
 iabbrev eqiupment equipment
 iabbrev equiepment equipment
@@ -918,6 +925,7 @@ iabbrev Explations Explanations
 iabbrev explicti explicit
 iabbrev explroeing exploring
 iabbrev exponnets exponents
+iabbrev exprot export
 iabbrev exproted exported
 iabbrev extensibile extensible
 iabbrev extemrely extremely
@@ -967,6 +975,7 @@ iabbrev Finsihed Finished
 iabbrev Finsished Finished
 iabbrev finsihing finishing
 iabbrev Finishding Finishing
+iabbrev FInisheing Finishing
 iabbrev FInishing Finishing
 iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
@@ -1053,6 +1062,7 @@ iabbrev gneeration generation
 iabbrev gnerator generator
 iabbrev Georger George
 iabbrev geetting getting
+iabbrev Geting Getting
 iabbrev Github GitHub
 iabbrev givne given
 iabbrev globablly globally
@@ -1330,6 +1340,7 @@ iabbrev localshot localhost
 iabbrev Lcoate Locate
 iabbrev lcoated located
 iabbrev lociated located
+iabbrev lcoation location
 iabbrev locaiton location
 iabbrev locaiotns locations
 iabbrev locaitons locations
@@ -1347,6 +1358,7 @@ iabbrev Mian Main
 iabbrev maintinained maintained
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
+iabbrev maintenence maintenance
 iabbrev Maintenacen Maintenance
 iabbrev moajority majority
 iabbrev amke make
@@ -1638,6 +1650,7 @@ iabbrev paln plan
 iabbrev pland plan
 iabbrev plna plan
 iabbrev Paln Plan
+iabbrev palnt plant
 iabbrev palusible plausible
 iabbrev pllt plot
 iabbrev plto plot
@@ -1938,6 +1951,7 @@ iabbrev runnign running
 iabbrev RUnning Running
 iabbrev smae same
 iabbrev sameple sample
+iabbrev sampele sample
 iabbrev sampel sample
 iabbrev smapel sample
 iabbrev smaple sample
@@ -2507,6 +2521,7 @@ iabbrev unecessary unnecessary
 iabbrev unnessecary unnecessary
 iabbrev upodate update
 iabbrev updaetgd updated
+iabbrev updload upload
 iabbrev updlaoded uploaded
 iabbrev Uploadeed Uploaded
 iabbrev updlads uploads
@@ -2590,6 +2605,7 @@ iabbrev Wednedsayd Wednesday
 iabbrev Wednesayd Wednesday
 iabbrev Wednesdayd Wednesday
 iabbrev WEdnesday Wednesday
+iabbrev Wednesdday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wednessday Wednesday
 iabbrev Wennedsay Wednesday
