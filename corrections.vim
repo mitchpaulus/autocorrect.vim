@@ -158,6 +158,7 @@ iabbrev arbitary arbitrary
 iabbrev aqre are
 iabbrev aree are
 iabbrev raea area
+iabbrev argumentets arguments
 iabbrev Arthimetic Arithmetic
 iabbrev arond around
 iabbrev aroudn around
@@ -189,10 +190,12 @@ iabbrev attachements attachments
 iabbrev attachgements attachments
 iabbrev Attachemnts Attachments
 iabbrev attemping attempting
+iabbrev Attmept9ing Attempting
 iabbrev Attmepting Attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
 iabbrev authenticaiton authentication
+iabbrev auot auto
 iabbrev automaated automated
 iabbrev autiomatic automatic
 iabbrev autaomatically automatically
@@ -245,6 +248,7 @@ iabbrev belive believe
 iabbrev besdies besides
 iabbrev beteween between
 iabbrev betwen between
+iabbrev betwene between
 iabbrev billtion billion
 iabbrev bindgin binding
 iabbrev balnk blank
@@ -254,6 +258,7 @@ iabbrev Blcok Block
 iabbrev biler boiler
 iabbrev Boielr Boiler
 iabbrev BOiler Boiler
+iabbrev bilers boilers
 iabbrev BOilers Boilers
 iabbrev bookelt booklet
 iabbrev gboth both
@@ -422,6 +427,7 @@ iabbrev coefficinets coefficients
 iabbrev coerfficiednts coefficients
 iabbrev coli coil
 iabbrev COil Coil
+iabbrev collabloariton collaboration
 iabbrev coollected collected
 iabbrev colleciotns collection
 iabbrev colleciton collection
@@ -441,9 +447,11 @@ iabbrev comofrt comfort
 iabbrev conformt comfort
 iabbrev comforltable comfortable
 iabbrev comfortbalbe comfortable
+iabbrev comign coming
 iabbrev comand command
 iabbrev commadn command
 iabbrev commannd command
+iabbrev Commadn Command
 iabbrev commmands commands
 iabbrev COmments Comments
 iabbrev commerecial commercial
@@ -923,6 +931,7 @@ iabbrev expnse expense
 iabbrev Explaingin Explaining
 iabbrev Explations Explanations
 iabbrev explicti explicit
+iabbrev explicity explicitly
 iabbrev explroeing exploring
 iabbrev exponnets exponents
 iabbrev exprot export
@@ -1148,6 +1157,7 @@ iabbrev Impelmemtner Implementer
 iabbrev Impelmenter Implementer
 iabbrev Impelmentmer Implementer
 iabbrev Impelmentner Implementer
+iabbrev IMplelemneter Implementer
 iabbrev Implementner Implementer
 iabbrev Implemetner Implementer
 iabbrev Implemneter Implementer
@@ -1308,6 +1318,7 @@ iabbrev lables labels
 iabbrev Laboratoyrt Laboratory
 iabbrev liack lack
 iabbrev lamdba lambda
+iabbrev alnding landing
 iabbrev lnaguage language
 iabbrev alst last
 iabbrev Leakding Leaking
@@ -1344,6 +1355,7 @@ iabbrev lcoation location
 iabbrev locaiton location
 iabbrev locaiotns locations
 iabbrev locaitons locations
+iabbrev logisitcs logistics
 iabbrev slong long
 iabbrev Looiking Looking
 iabbrev loose lose
@@ -1527,6 +1539,7 @@ iabbrev Olvie Olive
 iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev OneNtoe OneNote
+iabbrev ongonig ongoing
 iabbrev nonly only
 iabbrev ONly Only
 iabbrev operatie operate
@@ -2522,6 +2535,7 @@ iabbrev unnessecary unnecessary
 iabbrev upodate update
 iabbrev updaetgd updated
 iabbrev updload upload
+iabbrev upldoad upload
 iabbrev updlaoded uploaded
 iabbrev Uploadeed Uploaded
 iabbrev updlads uploads
@@ -2595,6 +2609,7 @@ iabbrev wtaer water
 iabbrev Wwater Water
 iabbrev wya way
 iabbrev wather weather
+iabbrev Weahter Weather
 iabbrev webdsiyte website
 iabbrev webstie website
 iabbrev Wedneasday Wednesday
