@@ -1075,6 +1075,7 @@ iabbrev Geting Getting
 iabbrev Github GitHub
 iabbrev givne given
 iabbrev globablly globally
+iabbrev gola goal
 iabbrev cgoing going
 iabbrev Goiing Going
 iabbrev GOing Going
@@ -1296,6 +1297,7 @@ iabbrev Itmes Items
 iabbrev iteslf itself
 iabbrev itslf itself
 iabbrev Janurayr January
+iabbrev javascript JavaScript
 iabbrev Javascript JavaScript
 iabbrev jvavascript JavaScript
 iabbrev Jhon John
