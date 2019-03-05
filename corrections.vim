@@ -594,6 +594,7 @@ iabbrev cipy copy
 iabbrev ocpy copy
 iabbrev copyting copying
 iabbrev correclty correctly
+iabbrev correpsnd correspond
 iabbrev correspodn correspond
 iabbrev correspoind correspond
 iabbrev correspoding corresponding
@@ -697,6 +698,7 @@ iabbrev Dtetail Detail
 iabbrev deatailed detailed
 iabbrev detailede detailed
 iabbrev detialed detailed
+iabbrev deatials details
 iabbrev detials details
 iabbrev determiation determination
 iabbrev determiniation determination
@@ -1567,6 +1569,7 @@ iabbrev optimziation optimization
 iabbrev OPptimziation Optimization
 iabbrev Optimziation Optimization
 iabbrev opitions options
+iabbrev opitons options
 iabbrev optiosn options
 iabbrev ro or
 iabbrev ordinacne ordinance
@@ -2338,6 +2341,7 @@ iabbrev termain terminal
 iabbrev termanil terminal
 iabbrev termiajnl terminal
 iabbrev termialn terminal
+iabbrev termial terminal
 iabbrev termianil terminal
 iabbrev termianl terminal
 iabbrev terminail terminal
