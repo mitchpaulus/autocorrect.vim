@@ -131,6 +131,7 @@ iabbrev applciaitons applications
 iabbrev applicaitons applications
 iabbrev Applciaitons Applications
 iabbrev Applicaitons Applications
+iabbrev appleid applied
 iabbrev apploied applied
 iabbrev applky apply
 iabbrev paply apply
@@ -256,6 +257,7 @@ iabbrev blendde blended
 iabbrev blokc block
 iabbrev Blcok Block
 iabbrev biler boiler
+iabbrev boielr boiler
 iabbrev Boielr Boiler
 iabbrev BOiler Boiler
 iabbrev bilers boilers
@@ -329,6 +331,7 @@ iabbrev calcualtoar calculator
 iabbrev calcualtor calculator
 iabbrev calculatior calculator
 iabbrev caluclator calculator
+iabbrev Calcuoator Calculator
 iabbrev Calander Calendar
 iabbrev calicbrated calibrated
 iabbrev Calcibrated Calibrated
@@ -369,6 +372,7 @@ iabbrev certaintly certainly
 iabbrev certianly certainly
 iabbrev certificaiton certification
 iabbrev chanin chain
+iabbrev chagne change
 iabbrev chnage change
 iabbrev chagnes changes
 iabbrev changds changes
@@ -505,6 +509,7 @@ iabbrev componenets components
 iabbrev compoonents components
 iabbrev comrpession compression
 iabbrev comptuer compute
+iabbrev concewpt concept
 iabbrev corencen concern
 iabbrev concertns concerns
 iabbrev conculsions conclusions
@@ -574,6 +579,7 @@ iabbrev Cotnrl Control
 iabbrev contrlled controlled
 iabbrev conttrolled controlled
 iabbrev contorller controller
+iabbrev contorels controls
 iabbrev contorls controls
 iabbrev contreols controls
 iabbrev ocntrosl controls
@@ -597,7 +603,9 @@ iabbrev correclty correctly
 iabbrev correpsnd correspond
 iabbrev correspodn correspond
 iabbrev correspoind correspond
+iabbrev correspnded corresponded
 iabbrev correspoding corresponding
+iabbrev correspodnign corresponding
 iabbrev correspoidng corresponding
 iabbrev correspoindg corresponding
 iabbrev correspoindgin corresponding
@@ -712,6 +720,7 @@ iabbrev deterining determining
 iabbrev determineing determining
 iabbrev devleoped developed
 iabbrev develeopemnet development
+iabbrev developement development
 iabbrev developemnet development
 iabbrev developemnt development
 iabbrev devleopemtn development
@@ -728,6 +737,7 @@ iabbrev Deval Devil
 iabbrev Deveil Devil
 iabbrev Dictiorany Dictionary
 iabbrev Difff Diff
+iabbrev differnece difference
 iabbrev differenrces differences
 iabbrev diferent different
 iabbrev diffeernt different
@@ -757,6 +767,7 @@ iabbrev disply display
 iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev distercit district
+iabbrev Distrcit District
 iabbrev dirunal diurnal
 iabbrev docuemnt document
 iabbrev docuemtn document
@@ -873,6 +884,7 @@ iabbrev equipemtn equipment
 iabbrev equipmemtne equipment
 iabbrev equipmetn equipment
 iabbrev equipoement equipment
+iabbrev equipoemtn equipment
 iabbrev equipoment equipment
 iabbrev equpiment equipment
 iabbrev euqipment equipment
@@ -891,6 +903,7 @@ iabbrev especitaly especially
 iabbrev Especailly Especially
 iabbrev essentialy essentially
 iabbrev eestimate estimate
+iabbrev esimate estimate
 iabbrev esitmate estimate
 iabbrev estiamted estimated
 iabbrev estitamed estimated
@@ -922,6 +935,7 @@ iabbrev Exhasust Exhaust
 iabbrev Exhauset Exhaust
 iabbrev exisited existed
 iabbrev elxisting existing
+iabbrev exisitn existing
 iabbrev exisitng existing
 iabbrev existng existing
 iabbrev Exisiting Existing
@@ -1002,6 +1016,7 @@ iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev folloiwing following
 iabbrev follwoing following
+iabbrev folowing following
 iabbrev folowoing following
 iabbrev footgae footage
 iabbrev footgaet footage
@@ -1015,6 +1030,7 @@ iabbrev Fro For
 iabbrev Froest Forest
 iabbrev fomr form
 iabbrev fomrat format
+iabbrev fomrs forms
 iabbrev formual formula
 iabbrev fomraulas formulas
 iabbrev formulats formulas
@@ -1027,6 +1043,7 @@ iabbrev Francsios Francisco
 iabbrev Frnak Frank
 iabbrev Firday Friday
 iabbrev Frday Friday
+iabbrev Frdiayf Friday
 iabbrev Frdiay Friday
 iabbrev FRiday Friday
 iabbrev Fridya Friday
@@ -1192,15 +1209,19 @@ iabbrev incorrecdlty incorrectly
 iabbrev incorreclty incorrectly
 iabbrev incrteasing increasing
 iabbrev indedependt independent
+iabbrev indentpent independent
+iabbrev indepenedent independent
 iabbrev indiciatiton indication
 iabbrev ijndividual individual
 iabbrev indifivalu individual
+iabbrev indiviual individual
 iabbrev indiviudal individual
 iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
 iabbrev infolmraotn information
 iabbrev infomraiotn information
+iabbrev infomraiton information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev informaion information
@@ -1313,6 +1334,7 @@ iabbrev dkey key
 iabbrev Kimal Kimla 
 iabbrev ktichen kitchen
 iabbrev knoiwldege knowledge
+iabbrev albvel label
 iabbrev lable label
 iabbrev lbael label
 iabbrev labeld labeled
@@ -1398,6 +1420,7 @@ iabbrev Matlba Matlab
 iabbrev maximimum maximum
 iabbrev menaing meaning
 iabbrev measrue measure
+iabbrev meausre measure
 iabbrev Measrue Measure
 iabbrev Meaurse Measure
 iabbrev maesured measured
@@ -1438,6 +1461,7 @@ iabbrev Mintue Minute
 iabbrev mintues minutes
 iabbrev maixing mixing
 iabbrev minxing mixing
+iabbrev MMBUT MMBTU
 iabbrev mdoe mode
 iabbrev mdoel model
 iabbrev modle model
@@ -1451,6 +1475,8 @@ iabbrev modesl models
 iabbrev modificiations modifications
 iabbrev modifeid modified
 iabbrev MOdified Modified
+iabbrev moduel module
+iabbrev modulel module
 iabbrev mositure moisture
 iabbrev moels moles
 iabbrev moement moment
@@ -1459,6 +1485,7 @@ iabbrev Mondnay Monday
 iabbrev montiro monitor
 iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
+iabbrev montioroing monitoring
 iabbrev montiroing monitoring
 iabbrev MOnitoring Monitoring
 iabbrev MOntiriongn Monitoring
@@ -1480,6 +1507,7 @@ iabbrev multple multiple
 iabbrev multiopleyer multiplier
 iabbrev multipling multiplying
 iabbrev myslef myself
+iabbrev anem name
 iabbrev anme name
 iabbrev naems names
 iabbrev namign naming
@@ -1507,6 +1535,7 @@ iabbrev nerutla neutral
 iabbrev netrual neutral
 iabbrev netural neutral
 iabbrev neturla neutral
+iabbrev nexzt next
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
 iabbrev nomencalute nomenclature
@@ -1523,6 +1552,7 @@ iabbrev nto not
 iabbrev notaiton notation
 iabbrev notse notes
 iabbrev NOtes Notes
+iabbrev notificaiton notification
 iabbrev notificaitons notifications
 iabbrev Novemenber November
 iabbrev Novermber November
@@ -1542,6 +1572,7 @@ iabbrev oftentiems oftentimes
 iabbrev Olvie Olive
 iabbrev ommited omitted
 iabbrev ommitted omitted
+iabbrev onr on
 iabbrev OneNtoe OneNote
 iabbrev ongonig ongoing
 iabbrev nonly only
@@ -1605,6 +1636,7 @@ iabbrev outupt output
 iabbrev outuptu output
 iabbrev outliers outwears
 iabbrev overaching overarching
+iabbrev overestimat overestimate
 iabbrev packgae package
 iabbrev pakcaged packaged
 iabbrev apge page
@@ -1634,6 +1666,7 @@ iabbrev particaulr particular
 iabbrev particualr particular
 iabbrev particulary particularly
 iabbrev aprtition partition
+iabbrev apssed passed
 iabbrev penatlty penalty
 iabbrev penatly penalty
 iabbrev peiople people
@@ -1668,6 +1701,7 @@ iabbrev paln plan
 iabbrev pland plan
 iabbrev plna plan
 iabbrev Paln Plan
+iabbrev Plannin8g Planning
 iabbrev palnt plant
 iabbrev palusible plausible
 iabbrev pllt plot
@@ -1679,6 +1713,7 @@ iabbrev piont point
 iabbrev poitn point
 iabbrev POint Point
 iabbrev Poitn Point
+iabbrev Ponit Point
 iabbrev pointss points
 iabbrev poisnt points
 iabbrev poitns points
@@ -1758,6 +1793,8 @@ iabbrev presneted presented
 iabbrev apressure pressure
 iabbrev pressrue pressure
 iabbrev dprevious previous
+iabbrev preiovus previous
+iabbrev preivous previous
 iabbrev precviously previously
 iabbrev previulsy previously
 iabbrev priece price
@@ -1771,6 +1808,7 @@ iabbrev prlblem problem
 iabbrev probelm problem
 iabbrev problekm problem
 iabbrev progblem problem
+iabbrev proglem problem
 iabbrev PRoblem Problem
 iabbrev probalems problems
 iabbrev probelms problems
@@ -1782,6 +1820,7 @@ iabbrev Porocess Process
 iabbrev Processs Process
 iabbrev prodcue produce
 iabbrev prodcued produced
+iabbrev Prodcues Produces
 iabbrev produciton production
 iabbrev PRoduction Production
 iabbrev prodcuts products
@@ -1851,6 +1890,7 @@ iabbrev ranodm random
 iabbrev reange range
 iabbrev artes rates
 iabbrev artio ratio
+iabbrev reaidng reading
 iabbrev reayd ready
 iabbrev reaffrim reaffirm
 iabbrev realy really
@@ -1866,6 +1906,7 @@ iabbrev reasonalbly reasonably
 iabbrev REasonably Reasonably
 iabbrev recieve receive
 iabbrev recevied received
+iabbrev recevived received
 iabbrev recieved received
 iabbrev Recieved Received
 iabbrev recoginition recognition
@@ -1904,6 +1945,7 @@ iabbrev relateive relative
 iabbrev relavent relevant
 iabbrev REly Rely
 iabbrev remtoe remote
+iabbrev Reomve Remove
 iabbrev reomved removed
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
@@ -1925,6 +1967,7 @@ iabbrev reprots reports
 iabbrev rpeorts reports
 iabbrev rports reports
 iabbrev reporsitoyr repository
+iabbrev requrested requested
 iabbrev requiere require
 iabbrev requied required
 iabbrev requiredy required
@@ -1952,6 +1995,7 @@ iabbrev resutl result
 iabbrev reuslt result
 iabbrev resutls results
 iabbrev reulsts results
+iabbrev reuslts results
 iabbrev reaturn return
 iabbrev retun return
 iabbrev reveiw review
@@ -2000,6 +2044,7 @@ iabbrev scrreen screen
 iabbrev scrdipt script
 iabbrev scripot script
 iabbrev scritp script
+iabbrev Scirpted Scripted
 iabbrev scritps scripts
 iabbrev sripts scripts
 iabbrev Scirpts Scripts
@@ -2044,6 +2089,7 @@ iabbrev sequencialy sequentially
 iabbrev sequenctially sequentially
 iabbrev sereis series
 iabbrev Sereis Series
+iabbrev servcie service
 iabbrev septoint setpoint
 iabbrev sestpoint setpoint
 iabbrev setipiont setpoint
@@ -2078,6 +2124,7 @@ iabbrev shwoon shown
 iabbrev showss shows
 iabbrev hsut shut
 iabbrev shuyt shut
+iabbrev sidse side
 iabbrev signficant significant
 iabbrev significat significant
 iabbrev Significatly Significantly
@@ -2147,6 +2194,7 @@ iabbrev sqauare square
 iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
+iabbrev Standand Standard
 iabbrev strated started
 iabbrev starign starting
 iabbrev Starign Starting
@@ -2169,6 +2217,7 @@ iabbrev staem steam
 iabbrev stpes steps
 iabbrev sitll still
 iabbrev stil still
+iabbrev stoped stopped
 iabbrev stoarge storage
 iabbrev stroed stored
 iabbrev storeis stories
@@ -2228,10 +2277,12 @@ iabbrev Sysmtme System
 iabbrev Systme System
 iabbrev ssytems systems
 iabbrev syhstems systems
+iabbrev sysetms systems
 iabbrev systmes systems
 iabbrev Ssytems Systems
 iabbrev Systesm Systems
 iabbrev tabv tab
+iabbrev talbe table
 iabbrev TAble Table
 iabbrev tagblse tables
 iabbrev taggins tagging
@@ -2366,6 +2417,7 @@ iabbrev taht that
 iabbrev thatt that
 iabbrev athe the
 iabbrev eht the
+iabbrev ethe the
 iabbrev hte the
 iabbrev lthe the
 iabbrev tahe the
@@ -2450,6 +2502,7 @@ iabbrev Thursdya Thursday
 iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
+iabbrev TIm Tim
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev tilte title
@@ -2634,6 +2687,7 @@ iabbrev weke week
 iabbrev weeekends weekends
 iabbrev wieght weight
 iabbrev wlel well
+iabbrev WEnt Went
 iabbrev wree were
 iabbrev hwat what
 iabbrev waht what
@@ -2662,6 +2716,7 @@ iabbrev owrk work
 iabbrev wokr work
 iabbrev workl work
 iabbrev Wrok Work
+iabbrev Wokred Worked
 iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev owrking working
