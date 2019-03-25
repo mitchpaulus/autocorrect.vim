@@ -270,6 +270,7 @@ iabbrev Bouqet Bouquet
 iabbrev Breka Break
 iabbrev brining bringing
 iabbrev braod broad
+iabbrev browswer browser
 iabbrev buidign building
 iabbrev buiding building
 iabbrev buiilding building
@@ -386,6 +387,7 @@ iabbrev caharcteristic characteristic
 iabbrev cahractersictic characteristic
 iabbrev characteritsics characteristics
 iabbrev chartr chart
+iabbrev chekc check
 iabbrev Cheeck Check
 iabbrev checkedd checked
 iabbrev chekcing checking
@@ -1058,6 +1060,7 @@ iabbrev funcitno function
 iabbrev funciton function
 iabbrev functdion function
 iabbrev fundction function
+iabbrev Fucntion Function
 iabbrev funcationl functional
 iabbrev funcitonal functional
 iabbrev functioanl functional
@@ -1066,6 +1069,7 @@ iabbrev Functianl Functional
 iabbrev Functinal Functional
 iabbrev Functioanl Functional
 iabbrev fucntionality functionality
+iabbrev functioanlity functionality
 iabbrev funcitoning functioning
 iabbrev fucntions functions
 iabbrev funcitons functions
@@ -1379,6 +1383,7 @@ iabbrev lcoated located
 iabbrev lociated located
 iabbrev lcoation location
 iabbrev locaiton location
+iabbrev loction location
 iabbrev locaiotns locations
 iabbrev locaitons locations
 iabbrev logisitcs logistics
@@ -1401,6 +1406,7 @@ iabbrev Maintenacen Maintenance
 iabbrev moajority majority
 iabbrev amke make
 iabbrev makea make a
+iabbrev Mkaefile Makefile
 iabbrev magnage manage
 iabbrev managmeent management
 iabbrev mangagment management
@@ -1477,6 +1483,7 @@ iabbrev modifeid modified
 iabbrev MOdified Modified
 iabbrev moduel module
 iabbrev modulel module
+iabbrev moduels modules
 iabbrev mositure moisture
 iabbrev moels moles
 iabbrev moement moment
@@ -1650,6 +1657,7 @@ iabbrev apratemters parameters
 iabbrev paraemters parameters
 iabbrev parametesr parameters
 iabbrev pareameters parameters
+iabbrev parmaetesr parameters
 iabbrev Parmaetesr Parameters
 iabbrev paretn parent
 iabbrev partent parent
@@ -1743,7 +1751,9 @@ iabbrev possitve positive
 iabbrev postive positive
 iabbrev postivie positive
 iabbrev psotiive positive
+iabbrev possibilites possibilities
 iabbrev possilbities possibilities
+iabbrev possilblities possibilities
 iabbrev possiblity possibility
 iabbrev possilbe possible
 iabbrev posssible possible
@@ -1960,6 +1970,7 @@ iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
 iabbrev Reporeter Reporter
+iabbrev Reporetr Reporter
 iabbrev Reproter Reporter
 iabbrev reoports reports
 iabbrev reporst reports
@@ -2246,6 +2257,7 @@ iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sunslight sunlight
 iabbrev supercede supersede
+iabbrev Superceded Superseded
 iabbrev su7pply supply
 iabbrev suply supply
 iabbrev supplky supply
@@ -2368,6 +2380,7 @@ iabbrev tmeperatures temperatures
 iabbrev tameplate template
 iabbrev tmeplate template
 iabbrev Tempalte Template
+iabbrev tempaltes templates
 iabbrev templasets templates
 iabbrev Tempelatse Templates
 iabbrev tennants tenants
@@ -2527,6 +2540,7 @@ iabbrev Tyotoa Toyota
 iabbrev tradiation tradition
 iabbrev traingin training
 iabbrev trainign training
+iabbrev trianing training
 iabbrev Traingin Training
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
@@ -2542,6 +2556,8 @@ iabbrev trneds trends
 iabbrev trnes trends
 iabbrev Treid Tried
 iabbrev Tuedays Tuesday
+iabbrev Tuedsay Tuesday
+iabbrev Tuedsday Tuesday
 iabbrev Tuesady Tuesday
 iabbrev Tuesdday Tuesday
 iabbrev Tuesdeya Tuesday
