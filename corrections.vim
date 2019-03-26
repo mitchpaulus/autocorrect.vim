@@ -27,6 +27,7 @@ iabbrev actulaly actually
 iabbrev Actulaly Actually
 iabbrev Actuatoar Actuator
 iabbrev addiiton addition
+iabbrev addiitonal additional
 iabbrev additonitnal additional
 iabbrev dadditional additional
 iabbrev Addiitonal Additional
@@ -457,6 +458,7 @@ iabbrev comign coming
 iabbrev comand command
 iabbrev commadn command
 iabbrev commannd command
+iabbrev commmand command
 iabbrev Commadn Command
 iabbrev commmands commands
 iabbrev COmments Comments
