@@ -435,6 +435,7 @@ iabbrev coerfficiednts coefficients
 iabbrev coli coil
 iabbrev COil Coil
 iabbrev collabloariton collaboration
+iabbrev collaboartion collaboration
 iabbrev coollected collected
 iabbrev colleciotns collection
 iabbrev colleciton collection
@@ -779,6 +780,7 @@ iabbrev doecuemnt document
 iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
+iabbrev docuemantiona documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documentaiton documentation
@@ -1016,6 +1018,7 @@ iabbrev flolw flow
 iabbrev flwo flow
 iabbrev lfow flow
 iabbrev flucuation fluctuation
+iabbrev fodler folder
 iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev folloiwing following
@@ -1461,6 +1464,7 @@ iabbrev Microsfot Microsoft
 iabbrev midinght midnight
 iabbrev mgiht might
 iabbrev migraiton migration
+iabbrev migraitons migrations
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
 iabbrev minimimum minimum
@@ -2202,6 +2206,7 @@ iabbrev sponosr sponsor
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
 iabbrev spreadhseet spreadsheet
+iabbrev spreadseheet spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev sqauare square
 iabbrev sqwuare square
@@ -2662,8 +2667,10 @@ iabbrev verficaiton verification
 iabbrev verifiaciaton verification
 iabbrev verificaiton verification
 iabbrev verifiy verify
+iabbrev veriosn version
 iabbrev verison version
 iabbrev verseion version
+iabbrev versino version
 iabbrev vresion version
 iabbrev veritcally vertically
 iabbrev iva via
