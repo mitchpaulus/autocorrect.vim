@@ -328,6 +328,7 @@ iabbrev claculated calculated
 iabbrev Caluclated Calculated
 iabbrev claculation calculation
 iabbrev dalculation calculation
+iabbrev calcualtions calculations
 iabbrev caluclations calculations
 iabbrev claculations calculations
 iabbrev Calcuaitons Calculations
@@ -624,6 +625,7 @@ iabbrev correspongin corresponding
 iabbrev corresponidign corresponding
 iabbrev corrsponding corresponding
 iabbrev correspoinds corresponds
+iabbrev corrput corrupt
 iabbrev coiuld could
 iabbrev Coutn Count
 iabbrev Coutnyt County
@@ -652,7 +654,9 @@ iabbrev cycel cycle
 iabbrev cyclie cycle
 iabbrev cylce cycle
 iabbrev dialy daily
+iabbrev Dalals Dallas
 iabbrev Dallsa Dallas
+iabbrev Dalls Dallas
 iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
@@ -1057,8 +1061,8 @@ iabbrev Francsios Francisco
 iabbrev Frnak Frank
 iabbrev Firday Friday
 iabbrev Frday Friday
-iabbrev Frdiay Friday
 iabbrev Frdiayf Friday
+iabbrev Frdiay Friday
 iabbrev FRiday Friday
 iabbrev Fridya Friday
 iabbrev froam from
@@ -1342,6 +1346,7 @@ iabbrev Janurayr January
 iabbrev javascript JavaScript
 iabbrev Javascript JavaScript
 iabbrev jvavascript JavaScript
+iabbrev jbos jobs
 iabbrev Jhon John
 iabbrev JOhn John
 iabbrev Hohnson Johnson
@@ -1349,6 +1354,7 @@ iabbrev Juilian Julian
 iabbrev jsut just
 iabbrev ujst just
 iabbrev Kettucky Kentucky
+iabbrev kernal kernel
 iabbrev dkey key
 iabbrev Kimal Kimla 
 iabbrev ktichen kitchen
@@ -1447,8 +1453,8 @@ iabbrev Measrue Measure
 iabbrev Meaurse Measure
 iabbrev maesured measured
 iabbrev mearued measured
-iabbrev measrued measured
 iabbrev measruedd measured
+iabbrev measrued measured
 iabbrev measuresed measured
 iabbrev Measrued Measured
 iabbrev measuremnet measurement
@@ -1544,8 +1550,8 @@ iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
-iabbrev NEed Need
 iabbrev NEedc Need
+iabbrev NEed Need
 iabbrev neeeds needs
 iabbrev n3egative negative
 iabbrev neagagive negative
@@ -1706,6 +1712,7 @@ iabbrev Perfomrance Performance
 iabbrev performaning performing
 iabbrev periemater perimeter
 iabbrev peroid period
+iabbrev preiod period
 iabbrev permannet permanent
 iabbrev perisonal personal
 iabbrev perosnal personal
@@ -1857,6 +1864,7 @@ iabbrev prodcuts products
 iabbrev fprofile profile
 iabbrev profeil profile
 iabbrev profjiels profiles
+iabbrev porgram program
 iabbrev progrma program
 iabbrev PRogram Program
 iabbrev prommed programmed
@@ -1952,6 +1960,7 @@ iabbrev refernece reference
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
 iabbrev refigerator refrigerator
+iabbrev reagardiung regarding
 iabbrev regartding regarding
 iabbrev reagrds regards
 iabbrev Regenearrte Regenerate
@@ -2046,8 +2055,8 @@ iabbrev runnign running
 iabbrev RUnning Running
 iabbrev smae same
 iabbrev sameple sample
-iabbrev sampel sample
 iabbrev sampele sample
+iabbrev sampel sample
 iabbrev smapel sample
 iabbrev smaple sample
 iabbrev Smaple Sample
@@ -2266,8 +2275,8 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
-iabbrev stye style
 iabbrev styel style
+iabbrev stye style
 iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
@@ -2311,6 +2320,7 @@ iabbrev systme system
 iabbrev systmne system
 iabbrev sytem system
 iabbrev sytesm system
+iabbrev syustem system
 iabbrev Sysmtme System
 iabbrev Systme System
 iabbrev ssytems systems
@@ -2327,6 +2337,7 @@ iabbrev taggins tagging
 iabbrev atake take
 iabbrev takne taken
 iabbrev taks task
+iabbrev Taks Task
 iabbrev taought taught
 iabbrev teacing teaching
 iabbrev techinal technical
@@ -2352,8 +2363,8 @@ iabbrev tempeatuter temperature
 iabbrev temperaature temperature
 iabbrev temperateur temperature
 iabbrev temperatre temperature
-iabbrev temperatue temperature
 iabbrev temperatuer temperature
+iabbrev temperatue temperature
 iabbrev temperaturea temperature
 iabbrev temperaturne temperature
 iabbrev temperatuter temperature
@@ -2416,8 +2427,8 @@ iabbrev etrmianl terminal
 iabbrev teminal terminal
 iabbrev temrainil terminal
 iabbrev temrainl terminal
-iabbrev temrial terminal
 iabbrev temrialn terminal
+iabbrev temrial terminal
 iabbrev temrianl terminal
 iabbrev temrinal terminal
 iabbrev temrinaul terminal
@@ -2425,13 +2436,13 @@ iabbrev temrinla terminal
 iabbrev temrnal terminal
 iabbrev temrnial terminal
 iabbrev termailn terminal
-iabbrev termain terminal
 iabbrev termainal terminal
 iabbrev termainl terminal
+iabbrev termain terminal
 iabbrev termanil terminal
 iabbrev termiajnl terminal
-iabbrev termial terminal
 iabbrev termialn terminal
+iabbrev termial terminal
 iabbrev termianil terminal
 iabbrev termianl terminal
 iabbrev terminail terminal
@@ -2461,10 +2472,10 @@ iabbrev hte the
 iabbrev lthe the
 iabbrev tahe the
 iabbrev teh the
-iabbrev th the
 iabbrev ther the
 iabbrev thge the
 iabbrev thre the
+iabbrev th the
 iabbrev trhe the
 iabbrev tye the
 iabbrev tyhe the
@@ -2493,8 +2504,8 @@ iabbrev THermal Thermal
 iabbrev tehemodynamic thermodynamic
 iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
-iabbrev thermodynamci thermodynamic
 iabbrev thermodynamcic thermodynamic
+iabbrev thermodynamci thermodynamic
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
@@ -2546,8 +2557,8 @@ iabbrev TIm Tim
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev tilte title
-iabbrev ot to
 iabbrev oto to
+iabbrev ot to
 iabbrev togehter together
 iabbrev toekn token
 iabbrev otkens tokens
@@ -2565,8 +2576,8 @@ iabbrev totlas totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
 iabbrev tradiation tradition
-iabbrev traingin training
 iabbrev trainging training
+iabbrev traingin training
 iabbrev trainign training
 iabbrev trianing training
 iabbrev Traingin Training
@@ -2655,8 +2666,8 @@ iabbrev usula usual
 iabbrev usallly usually
 iabbrev utilites utilities
 iabbrev uitlilty utility
-iabbrev utiltiy utility
 iabbrev utiltiyt utility
+iabbrev utiltiy utility
 iabbrev utiltliy utility
 iabbrev Uiltity Utility
 iabbrev vaccum vacuum
@@ -2725,8 +2736,8 @@ iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
 iabbrev Wednedsayd Wednesday
 iabbrev Wednesayd Wednesday
-iabbrev WEdnesday Wednesday
 iabbrev Wednesdayd Wednesday
+iabbrev WEdnesday Wednesday
 iabbrev Wednesdday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wednessday Wednesday
@@ -2749,6 +2760,7 @@ iabbrev whilee while
 iabbrev whitle while
 iabbrev Whiel While
 iabbrev wholeheardely wholeheartedly
+iabbrev wikipedia wikipedia
 iabbrev widnow window
 iabbrev iwth with
 iabbrev wiht with
@@ -2771,15 +2783,15 @@ iabbrev owrking working
 iabbrev wokrking working
 iabbrev woriking working
 iabbrev workign working
+iabbrev Wokringi Working
 iabbrev Wokring Working
 iabbrev WOkring Working
-iabbrev Wokringi Working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev Workign Working
 iabbrev Workikng Working
-iabbrev WOrking Working
 iabbrev Workingo Working
+iabbrev WOrking Working
 iabbrev WOrkiong Working
 iabbrev Workiung Working
 iabbrev Worlking Working
