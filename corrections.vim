@@ -644,6 +644,7 @@ iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev currtent current
 iabbrev currenlty currently
+iabbrev Currenlty Currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
 iabbrev cusomt custom
@@ -655,6 +656,7 @@ iabbrev cyclie cycle
 iabbrev cylce cycle
 iabbrev dialy daily
 iabbrev Dalals Dallas
+iabbrev Dalas Dallas
 iabbrev Dallsa Dallas
 iabbrev Dalls Dallas
 iabbrev daat data
@@ -748,6 +750,7 @@ iabbrev devicee device
 iabbrev edevices devices
 iabbrev Deval Devil
 iabbrev Deveil Devil
+iabbrev dailog dialog
 iabbrev Dictiorany Dictionary
 iabbrev Difff Diff
 iabbrev differnece difference
@@ -1434,6 +1437,7 @@ iabbrev managmeent management
 iabbrev mangagment management
 iabbrev Managnemnt Management
 iabbrev mangatger manager
+iabbrev manmual manual
 iabbrev mnay many
 iabbrev mapas maps
 iabbrev Marhc March
@@ -1561,6 +1565,7 @@ iabbrev neighbort neighbor
 iabbrev neightbaor neighbor
 iabbrev neightbor neighbor
 iabbrev netowrk network
+iabbrev nework network
 iabbrev Netowrk Network
 iabbrev Nueral Neural
 iabbrev nerutla neutral
@@ -1714,6 +1719,9 @@ iabbrev periemater perimeter
 iabbrev peroid period
 iabbrev preiod period
 iabbrev permannet permanent
+iabbrev permissioniongs permissions
+iabbrev permissioniosn permissions
+iabbrev permissionnis permissions
 iabbrev perisonal personal
 iabbrev perosnal personal
 iabbrev personla personal
@@ -1875,6 +1883,7 @@ iabbrev proejct project
 iabbrev proeject project
 iabbrev profject project
 iabbrev projecdt project
+iabbrev projectd project
 iabbrev projedt project
 iabbrev projfct project
 iabbrev projfect project
@@ -1886,6 +1895,7 @@ iabbrev projecdts projects
 iabbrev projets projects
 iabbrev projexts projects
 iabbrev projgects projects
+iabbrev proepely properly
 iabbrev properityes properties
 iabbrev properteis properties
 iabbrev porperty property
@@ -2076,6 +2086,7 @@ iabbrev schdule schedule
 iabbrev scheudle schedule
 iabbrev Scheudule Schedule
 iabbrev scheduleted scheduled
+iabbrev scheudled scheduled
 iabbrev scheduleing scheduling
 iabbrev scheudling scheduling
 iabbrev schmatic schematic
@@ -2326,6 +2337,7 @@ iabbrev Systme System
 iabbrev ssytems systems
 iabbrev syhstems systems
 iabbrev sysetms systems
+iabbrev sysmtems systems
 iabbrev systmes systems
 iabbrev Ssytems Systems
 iabbrev Systesm Systems
@@ -2556,6 +2568,7 @@ iabbrev Thursdsay Thursdays
 iabbrev TIm Tim
 iabbrev tiems times
 iabbrev teimstamp timestamp
+iabbrev Tiemstamp Timestamp
 iabbrev tilte title
 iabbrev oto to
 iabbrev ot to
@@ -2580,6 +2593,7 @@ iabbrev trainging training
 iabbrev traingin training
 iabbrev trainign training
 iabbrev trianing training
+iabbrev trinaing training
 iabbrev Traingin Training
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
@@ -2740,6 +2754,7 @@ iabbrev Wednesdayd Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdday Wednesday
 iabbrev Wednesdya Wednesday
+iabbrev Wedneseady Wednesday
 iabbrev Wednessday Wednesday
 iabbrev Wennedsay Wednesday
 iabbrev weke week
@@ -2751,6 +2766,7 @@ iabbrev wree were
 iabbrev hwat what
 iabbrev waht what
 iabbrev whta what
+iabbrev WHat What
 iabbrev whne when
 iabbrev Whne When
 iabbrev whearas whereas
