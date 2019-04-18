@@ -547,6 +547,7 @@ iabbrev consistnet consistent
 iabbrev consistnetn consistent
 iabbrev consistenly consistently
 iabbrev consistnely consistently
+iabbrev consistign consisting
 iabbrev constatn constant
 iabbrev constnat constant
 iabbrev ocnsatnt constant
@@ -1189,6 +1190,7 @@ iabbrev html HTML
 iabbrev humdity humidity
 iabbrev humidty humidity
 iabbrev Huniting Hunting
+iabbrev Ina Ian
 iabbrev idael ideal
 iabbrev ingore ignore
 iabbrev ingored ignored
@@ -1201,6 +1203,7 @@ iabbrev Impelmemtner Implementer
 iabbrev Impelmenter Implementer
 iabbrev Impelmentmer Implementer
 iabbrev Impelmentner Implementer
+iabbrev Impelmetner Implementer
 iabbrev IMplelemneter Implementer
 iabbrev IMplementer Implementer
 iabbrev Implementner Implementer
@@ -1208,6 +1211,7 @@ iabbrev Implemetner Implementer
 iabbrev Implemneter Implementer
 iabbrev IMplemneter Implementer
 iabbrev Implemnter Implementer
+iabbrev Implemtner Implementer
 iabbrev Implmeneter Implementer
 iabbrev importantance importance
 iabbrev importantce importance
@@ -1907,6 +1911,7 @@ iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev Porposed Proposed
 iabbrev pulliing pulling
+iabbrev pulliung pulling
 iabbrev Pulliung Pulling
 iabbrev pmpups pumps
 iabbrev poumps pumps
@@ -2013,6 +2018,7 @@ iabbrev Reporeter Reporter
 iabbrev Reporetr Reporter
 iabbrev Reproter Reporter
 iabbrev reporitng reporting
+iabbrev reportign reporting
 iabbrev reoports reports
 iabbrev reporst reports
 iabbrev reprots reports
@@ -2353,6 +2359,7 @@ iabbrev Taks Task
 iabbrev taought taught
 iabbrev teacing teaching
 iabbrev techinal technical
+iabbrev techincal technical
 iabbrev Techinical Technical
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
@@ -2660,6 +2667,7 @@ iabbrev untis units
 iabbrev unix Unix
 iabbrev unecessary unnecessary
 iabbrev unnessecary unnecessary
+iabbrev unitl until
 iabbrev upodate update
 iabbrev updaetgd updated
 iabbrev updload upload
@@ -2796,6 +2804,7 @@ iabbrev Wokred Worked
 iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev owrking working
+iabbrev wokring working
 iabbrev wokrking working
 iabbrev woriking working
 iabbrev workign working
