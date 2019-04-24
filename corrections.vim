@@ -48,6 +48,7 @@ iabbrev ari air
 iabbrev iar air
 iabbrev Ari Air
 iabbrev airlfow airflow
+iabbrev Almao Alamo
 iabbrev alram alarm
 iabbrev alrams alarms
 iabbrev Albequeque Albuquerque
@@ -111,6 +112,7 @@ iabbrev annula annual
 iabbrev annother another
 iabbrev antoher another
 iabbrev Antoionio Antonio
+iabbrev Antoniao Antonio
 iabbrev anythign anything
 iabbrev anytihng anything
 iabbrev Anytihng Anything
@@ -825,6 +827,7 @@ iabbrev easliy easily
 iabbrev econcomier economizer
 iabbrev economzier economizer
 iabbrev Ediston Edison
+iabbrev Eidson Edison
 iabbrev effectiley effectively
 iabbrev effectes effects
 iabbrev efficicency efficiency
@@ -1008,6 +1011,7 @@ iabbrev fiels files
 iabbrev iles files
 iabbrev finla final
 iabbrev finialize finalize
+iabbrev FInalizing Finalizing
 iabbrev Finalziing Finalizing
 iabbrev FInializing Finalizing
 iabbrev Finlaly Finally
@@ -2215,6 +2219,7 @@ iabbrev spo so
 iabbrev socail social
 iabbrev softwaere software
 iabbrev softweare software
+iabbrev Softwaere Software
 iabbrev Soldi Solid
 iabbrev solutio solution
 iabbrev soultin solution
@@ -2434,6 +2439,7 @@ iabbrev temperautrtes temperatures
 iabbrev temprautes temperatures
 iabbrev tmeperatures temperatures
 iabbrev tameplate template
+iabbrev tempalte template
 iabbrev tmeplate template
 iabbrev Tempalte Template
 iabbrev tempaltes templates
@@ -2609,6 +2615,7 @@ iabbrev transporation transportation
 iabbrev transportionat transportation
 iabbrev travelled traveled
 iabbrev rtrend trend
+iabbrev tnred trend
 iabbrev trned trend
 iabbrev trendend trended
 iabbrev trrended trended
