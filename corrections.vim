@@ -462,6 +462,7 @@ iabbrev clenaup cleanup
 iabbrev clcked clicked
 iabbrev lickcing clicking
 iabbrev lcinet client
+iabbrev lcosed closed
 iabbrev xlosed closed
 iabbrev CLoseout Closeout
 iabbrev Clsoing Closing
@@ -1534,6 +1535,7 @@ iabbrev lcoated located
 iabbrev lociated located
 iabbrev locator locater
 iabbrev lcoation location
+iabbrev locaitno location
 iabbrev locaiton location
 iabbrev loction location
 iabbrev locaiotns locations
@@ -2132,6 +2134,7 @@ iabbrev referencem reference
 iabbrev refernece reference
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
+iabbrev refrigeratnt refrigerant
 iabbrev refigerator refrigerator
 iabbrev reagardiung regarding
 iabbrev regartding regarding
@@ -2324,6 +2327,7 @@ iabbrev seaparate separate
 iabbrev sepaate separate
 iabbrev speaarte separate
 iabbrev seperated separated
+iabbrev sequqence sequence
 iabbrev sqequence sequence
 iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
@@ -2578,6 +2582,7 @@ iabbrev tempaeruter temperature
 iabbrev tempaetuer temperature
 iabbrev tempartuer temperature
 iabbrev tempearature temperature
+iabbrev tempearture temperature
 iabbrev tempearutre temperature
 iabbrev tempeature temperature
 iabbrev tempeatuter temperature
@@ -3018,6 +3023,7 @@ iabbrev whta what
 iabbrev WHat What
 iabbrev whne when
 iabbrev Whne When
+iabbrev Wheer Where
 iabbrev whearas whereas
 iabbrev wehther whether
 iabbrev whthere whether
