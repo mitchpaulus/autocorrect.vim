@@ -575,6 +575,7 @@ iabbrev conent content
 iabbrev contnent content
 iabbrev Contens Contents
 iabbrev contineue continue
+iabbrev COntinued Continued
 iabbrev Continous Continuous
 iabbrev Continousous Continuous
 iabbrev Contionous Continuous
@@ -624,6 +625,7 @@ iabbrev correspoindgin corresponding
 iabbrev correspoindign corresponding
 iabbrev correspoinding corresponding
 iabbrev correspondign corresponding
+iabbrev correspongding corresponding
 iabbrev correspongin corresponding
 iabbrev corresponidign corresponding
 iabbrev corrsponding corresponding
@@ -782,6 +784,7 @@ iabbrev discussiung discussing
 iabbrev discusion discussion
 iabbrev disscussionn discussion
 iabbrev Discusison Discussion
+iabbrev Disucssion Discussion
 iabbrev dispaly display
 iabbrev disply display
 iabbrev dissertaiton dissertation
@@ -913,6 +916,7 @@ iabbrev equipoment equipment
 iabbrev equpiment equipment
 iabbrev euqipment equipment
 iabbrev qeuipment equipment
+iabbrev Equiapment Equipment
 iabbrev Equipement Equipment
 iabbrev Equipemnt Equipment
 iabbrev EQuipment Equipment
@@ -1224,6 +1228,7 @@ iabbrev imporatant important
 iabbrev imporatnt important
 iabbrev importatn important
 iabbrev importatnt important
+iabbrev improatnat important
 iabbrev improatnt important
 iabbrev improtant important
 iabbrev imporve improve
@@ -1266,6 +1271,7 @@ iabbrev informaiton information
 iabbrev informaotin information
 iabbrev informatin information
 iabbrev informatino information
+iabbrev informatoin information
 iabbrev infromation information
 iabbrev iniofmration information
 iabbrev inoformation information
@@ -1903,6 +1909,7 @@ iabbrev projecdts projects
 iabbrev projets projects
 iabbrev projexts projects
 iabbrev projgects projects
+iabbrev porper proper
 iabbrev proepely properly
 iabbrev properityes properties
 iabbrev properteis properties
@@ -2034,6 +2041,7 @@ iabbrev requiere require
 iabbrev requied required
 iabbrev requiredy required
 iabbrev reuqired required
+iabbrev Requrired Required
 iabbrev requiements requirements
 iabbrev requiremnets requirements
 iabbrev reaseach research
@@ -2115,6 +2123,7 @@ iabbrev searhc search
 iabbrev seraching searching
 iabbrev Sebastioan Sebastian
 iabbrev sedond second
+iabbrev Seocnd Second
 iabbrev seciotn section
 iabbrev seciton section
 iabbrev securtiy security
@@ -2725,6 +2734,7 @@ iabbrev varietly variety
 iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
 iabbrev verficaiton verification
+iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiton verification
 iabbrev verifiy verify
