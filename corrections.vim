@@ -192,6 +192,7 @@ iabbrev assumjption assumption
 iabbrev assukmptions assumptions
 iabbrev assumptiosn assumptions
 iabbrev atmosphereic atmospheric
+iabbrev atmosphreric atmospheric
 iabbrev attachements attachments
 iabbrev attachgements attachments
 iabbrev Attachemnts Attachments
@@ -532,6 +533,7 @@ iabbrev ocndenser condenser
 iabbrev conditiojing conditioning
 iabbrev conditinos conditions
 iabbrev conditnions conditions
+iabbrev conditoins conditions
 iabbrev condusive conducive
 iabbrev condifience confidence
 iabbrev confifguraiton configuration
@@ -738,6 +740,7 @@ iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev deterining determining
 iabbrev determineing determining
+iabbrev dtermining determining
 iabbrev devleoped developed
 iabbrev develeopemnet development
 iabbrev developement development
@@ -1462,6 +1465,7 @@ iabbrev amster master
 iabbrev matcing matching
 iabbrev materla material
 iabbrev mathematica Mathematica
+iabbrev mathematicans mathematicians
 iabbrev Matlba Matlab
 iabbrev maximimum maximum
 iabbrev menaing meaning
@@ -2419,6 +2423,7 @@ iabbrev tepmerature temperature
 iabbrev tepmrauter temperature
 iabbrev tmepaeruater temperature
 iabbrev tmepatuera temperature
+iabbrev tmepearture temperature
 iabbrev tmepearute temperature
 iabbrev tmeperature temperature
 iabbrev tmeperauter temperature
