@@ -1279,6 +1279,7 @@ iabbrev infromation information
 iabbrev iniofmration information
 iabbrev inoformation information
 iabbrev inofrmaiton information
+iabbrev inofrmaotn information
 iabbrev inofrmation information
 iabbrev invofmaton information
 iabbrev Informaation Information
@@ -1723,6 +1724,7 @@ iabbrev particaulr particular
 iabbrev particualr particular
 iabbrev particulary particularly
 iabbrev aprtition partition
+iabbrev partyy party
 iabbrev apssed passed
 iabbrev penatlty penalty
 iabbrev penatly penalty
@@ -1849,6 +1851,7 @@ iabbrev prerequitsite prerequisite
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
 iabbrev preseentaiotn presentation
+iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
 iabbrev presentatino presentation
 iabbrev Presentationg Presentation
@@ -2063,6 +2066,7 @@ iabbrev respecdt respect
 iabbrev respirarotyr respiratory
 iabbrev REpsonding Responding
 iabbrev repsonse response
+iabbrev responsiblities responsibilities
 iabbrev restaturant restaurant
 iabbrev restul result
 iabbrev resutl result
@@ -2274,6 +2278,7 @@ iabbrev sqauare square
 iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
+iabbrev stakced stacked
 iabbrev Standand Standard
 iabbrev strated started
 iabbrev starign starting
