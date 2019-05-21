@@ -1,5 +1,6 @@
 iabbrev abillity ability
 iabbrev abiltily ability
+iabbrev abourt about
 iabbrev aobut about
 iabbrev ABout About
 iabbrev absoulte absolute
@@ -357,6 +358,7 @@ iabbrev cna can
 iabbrev cancelled canceled
 iabbrev capabillites capabilities
 iabbrev capabiliity capability
+iabbrev capabiltiyt capability
 iabbrev capacitnace capacitance
 iabbrev capaciyt capacity
 iabbrev capicaity capacity
@@ -634,6 +636,7 @@ iabbrev corrsponding corresponding
 iabbrev correspoinds corresponds
 iabbrev corrput corrupt
 iabbrev coiuld could
+iabbrev coudl could
 iabbrev Coutn Count
 iabbrev Coutnyt County
 iabbrev coures course
@@ -664,6 +667,7 @@ iabbrev cylce cycle
 iabbrev dialy daily
 iabbrev Dalals Dallas
 iabbrev Dalas Dallas
+iabbrev DAllas Dallas
 iabbrev Dallsa Dallas
 iabbrev Dalls Dallas
 iabbrev daat data
@@ -832,6 +836,7 @@ iabbrev easilyi easily
 iabbrev easliy easily
 iabbrev econcomier economizer
 iabbrev economzier economizer
+iabbrev Edision Edison
 iabbrev Ediston Edison
 iabbrev Eidson Edison
 iabbrev effectiley effectively
@@ -863,6 +868,7 @@ iabbrev elswe else
 iabbrev emial email
 iabbrev evmails emails
 iabbrev emergingn emerging
+iabbrev empyt empty
 iabbrev enabeld enabled
 iabbrev ned end
 iabbrev endevor endeavor
@@ -882,6 +888,7 @@ iabbrev neter enter
 iabbrev enertered entered
 iabbrev enterd entered
 iabbrev enterin entering
+iabbrev enthlapy enthalpy
 iabbrev enthlpy enthalpy
 iabbrev entier entire
 iabbrev etneir entire
@@ -914,6 +921,7 @@ iabbrev equipemtn equipment
 iabbrev equipmemtne equipment
 iabbrev equipmetn equipment
 iabbrev equipoement equipment
+iabbrev equipoemnt equipment
 iabbrev equipoemtn equipment
 iabbrev equipoment equipment
 iabbrev equpiment equipment
@@ -970,6 +978,7 @@ iabbrev exisitn existing
 iabbrev exisitng existing
 iabbrev existng existing
 iabbrev Exisiting Existing
+iabbrev eapnd expand
 iabbrev expannding expanding
 iabbrev exapansion expansion
 iabbrev expansionj expansion
@@ -1003,12 +1012,14 @@ iabbrev fanas fans
 iabbrev fautl fault
 iabbrev falults faults
 iabbrev fdaults faults
+iabbrev FAults Faults
 iabbrev faovirte favorite
 iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev Fideliuty Fidelity
 iabbrev felied field
+iabbrev fileds fields
 iabbrev Figurte Figure
 iabbrev fiel file
 iabbrev figle file
@@ -1083,6 +1094,7 @@ iabbrev Fridya Friday
 iabbrev froam from
 iabbrev rom from
 iabbrev fornt front
+iabbrev ftp FTP
 iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
@@ -1361,6 +1373,7 @@ iabbrev itesm items
 iabbrev itmes items
 iabbrev ITems Items
 iabbrev Itmes Items
+iabbrev iteraotr iterator
 iabbrev iteslf itself
 iabbrev itslf itself
 iabbrev Janurayr January
@@ -1400,6 +1413,7 @@ iabbrev lenght length
 iabbrev levle level
 iabbrev lvel level
 iabbrev lvevl level
+iabbrev libary library
 iabbrev librayr library
 iabbrev Libarrya Library
 iabbrev LIbrary Library
@@ -1632,6 +1646,7 @@ iabbrev ommitted omitted
 iabbrev onr on
 iabbrev OneNtoe OneNote
 iabbrev ongonig ongoing
+iabbrev onlnie online
 iabbrev nonly only
 iabbrev ONly Only
 iabbrev operatie operate
@@ -1863,6 +1878,7 @@ iabbrev preiovus previous
 iabbrev preivous previous
 iabbrev precviously previously
 iabbrev previulsy previously
+iabbrev Previoulsy Previously
 iabbrev priece price
 iabbrev princeple principle
 iabbrev Prioriteis Priorities
@@ -2120,6 +2136,7 @@ iabbrev schmeatic schematic
 iabbrev socope scope
 iabbrev socpe scope
 iabbrev scrreen screen
+iabbrev sciprt script
 iabbrev scrdipt script
 iabbrev scripot script
 iabbrev scritp script
@@ -2225,6 +2242,7 @@ iabbrev siunce since
 iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
+iabbrev Stie Site
 iabbrev skilsl skills
 iabbrev lslides slides
 iabbrev sloep slope
@@ -2383,6 +2401,7 @@ iabbrev taought taught
 iabbrev teacing teaching
 iabbrev techinal technical
 iabbrev techincal technical
+iabbrev techinial technical
 iabbrev Techinical Technical
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
@@ -2450,6 +2469,7 @@ iabbrev tempearutes temperatures
 iabbrev tempeatueras temperatures
 iabbrev tempeatures temperatures
 iabbrev temperatreus temperatures
+iabbrev temperatuers temperatures
 iabbrev temperatues temperatures
 iabbrev temperaturres temperatures
 iabbrev temperatutres temperatures
@@ -2555,6 +2575,7 @@ iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
 iabbrev htese these
 iabbrev thsee these
+iabbrev htey they
 iabbrev thye they
 iabbrev tyhy they
 iabbrev THey They
@@ -2615,6 +2636,7 @@ iabbrev topcis topics
 iabbrev thotal total
 iabbrev toatl total
 iabbrev totla total
+iabbrev TOtal Total
 iabbrev Totoal Total
 iabbrev toltals totals
 iabbrev totlas totals
@@ -2696,6 +2718,7 @@ iabbrev unnessecary unnecessary
 iabbrev unitl until
 iabbrev upodate update
 iabbrev updaetgd updated
+iabbrev UPdates Updates
 iabbrev updload upload
 iabbrev upldoad upload
 iabbrev updlaoded uploaded
