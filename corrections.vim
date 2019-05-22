@@ -43,6 +43,7 @@ iabbrev afftecting affecting
 iabbrev aftenronon afternoon
 iabbrev aggregatre aggregate
 iabbrev aggregatrion aggregation
+iabbrev aggregration aggregation
 iabbrev ahir air
 iabbrev aiar air
 iabbrev ari air
@@ -427,6 +428,7 @@ iabbrev Clairdge Claridge
 iabbrev Clairdige Claridge
 iabbrev Clardige Claridge
 iabbrev cleanign cleaning
+iabbrev clenaup cleanup
 iabbrev clcked clicked
 iabbrev lickcing clicking
 iabbrev lcinet client
@@ -962,7 +964,6 @@ iabbrev exmpale example
 iabbrev Exmpale Example
 iabbrev Excle Excel
 iabbrev exceptionatlly exceptionally
-iabbrev exchanger exchange
 iabbrev exhcange exchange
 iabbrev exectuable executable
 iabbrev execture execute
@@ -989,6 +990,7 @@ iabbrev Explations Explanations
 iabbrev explicti explicit
 iabbrev explicity explicitly
 iabbrev explroeing exploring
+iabbrev expononetials exponentials
 iabbrev exponnets exponents
 iabbrev exprot export
 iabbrev exproted exported
@@ -1390,7 +1392,7 @@ iabbrev ujst just
 iabbrev Kettucky Kentucky
 iabbrev kernal kernel
 iabbrev dkey key
-iabbrev Kimal Kimla 
+iabbrev Kimal Kimla
 iabbrev ktichen kitchen
 iabbrev knoiwldege knowledge
 iabbrev albvel label
@@ -1934,6 +1936,7 @@ iabbrev projexts projects
 iabbrev projgects projects
 iabbrev porper proper
 iabbrev proepely properly
+iabbrev properies properties
 iabbrev properityes properties
 iabbrev properteis properties
 iabbrev porperty property
@@ -2807,6 +2810,7 @@ iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
 iabbrev Wednedsayd Wednesday
+iabbrev Wednesady Wednesday
 iabbrev Wednesayd Wednesday
 iabbrev Wednesdayd Wednesday
 iabbrev WEdnesday Wednesday
