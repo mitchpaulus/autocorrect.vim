@@ -19,6 +19,7 @@ iabbrev acheived achieved
 iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev activiation activation
+iabbrev activies activities
 iabbrev Acdtivies Activities
 iabbrev acutal actual
 iabbrev actaully actually
@@ -40,6 +41,7 @@ iabbrev adopeted adopted
 iabbrev adviosr advisor
 iabbrev Adviosr Advisor
 iabbrev afftecting affecting
+iabbrev AFter After
 iabbrev aftenronon afternoon
 iabbrev aggregatre aggregate
 iabbrev aggregatrion aggregation
@@ -659,6 +661,7 @@ iabbrev currenlty currently
 iabbrev Currenlty Currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
+iabbrev cureves curves
 iabbrev cusomt custom
 iabbrev cusotm custom
 iabbrev custiom custom
@@ -842,6 +845,7 @@ iabbrev Edision Edison
 iabbrev Ediston Edison
 iabbrev Eidson Edison
 iabbrev effectiley effectively
+iabbrev effectivientss effectiveness
 iabbrev effectes effects
 iabbrev efficicency efficiency
 iabbrev efficienty efficiency
@@ -1200,6 +1204,7 @@ iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
+iabbrev HOliday Holiday
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
 iabbrev Hoorry Horry
@@ -2617,6 +2622,7 @@ iabbrev Thurdays Thursday
 iabbrev Thurdsya Thursday
 iabbrev THursday Thursday
 iabbrev Thursdday Thursday
+iabbrev THursdday Thursday
 iabbrev Thursdya Thursday
 iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
@@ -2716,6 +2722,7 @@ iabbrev unjits units
 iabbrev unnits units
 iabbrev untis units
 iabbrev unix Unix
+iabbrev uneccessary unnecessary
 iabbrev unecessary unnecessary
 iabbrev unnessecary unnecessary
 iabbrev unitl until
@@ -2810,6 +2817,7 @@ iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
 iabbrev Wednedsayd Wednesday
+iabbrev Wednedsay Wednesday
 iabbrev Wednesady Wednesday
 iabbrev Wednesayd Wednesday
 iabbrev Wednesdayd Wednesday
