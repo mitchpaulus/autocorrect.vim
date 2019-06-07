@@ -243,6 +243,7 @@ iabbrev balnaces balances
 iabbrev Badn Band
 iabbrev Bararcks Barracks
 iabbrev absed based
+iabbrev baseliune baseline
 iabbrev baslein baseline
 iabbrev basleine baseline
 iabbrev basleines baselines
@@ -278,6 +279,7 @@ iabbrev boudn bound
 iabbrev boudnary boundary
 iabbrev Bouqet Bouquet
 iabbrev Breka Break
+iabbrev brekadown breakdown
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev browswer browser
@@ -770,6 +772,7 @@ iabbrev Deveil Devil
 iabbrev dailog dialog
 iabbrev Dictiorany Dictionary
 iabbrev Difff Diff
+iabbrev differnce difference
 iabbrev differnece difference
 iabbrev differenrces differences
 iabbrev diferent different
@@ -1242,6 +1245,7 @@ iabbrev Implemneter Implementer
 iabbrev IMplemneter Implementer
 iabbrev Implemnter Implementer
 iabbrev Implemtner Implementer
+iabbrev Implmeenter Implementer
 iabbrev Implmeneter Implementer
 iabbrev importantance importance
 iabbrev importantce importance
@@ -1281,12 +1285,14 @@ iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
 iabbrev infolmraotn information
+iabbrev infomariotn information
 iabbrev infomraiotn information
 iabbrev infomraiton information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev informaion information
 iabbrev informaiont information
+iabbrev informaiootn information
 iabbrev informaiotn information
 iabbrev informaitno information
 iabbrev informaiton information
@@ -1755,6 +1761,7 @@ iabbrev pepople people
 iabbrev popele people
 iabbrev perfomance performance
 iabbrev perforamcne performance
+iabbrev performacne performance
 iabbrev Perfomrance Performance
 iabbrev performaning performing
 iabbrev periemater perimeter
@@ -2040,6 +2047,7 @@ iabbrev Relationjships Relationships
 iabbrev realitive relative
 iabbrev relateive relative
 iabbrev relavent relevant
+iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev remtoe remote
 iabbrev Reomve Remove
@@ -2072,6 +2080,7 @@ iabbrev requiere require
 iabbrev requied required
 iabbrev requiredy required
 iabbrev reuqired required
+iabbrev rueiquireed required
 iabbrev Requrired Required
 iabbrev requiements requirements
 iabbrev requiremnets requirements
@@ -2373,6 +2382,7 @@ iabbrev suscepible susceptible
 iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev Syunc Sync
+iabbrev synicng syncing
 iabbrev synatx syntax
 iabbrev sysntax syntax
 iabbrev syntehtic synthetic
@@ -2410,6 +2420,7 @@ iabbrev teacing teaching
 iabbrev techinal technical
 iabbrev techincal technical
 iabbrev techinial technical
+iabbrev techinical technical
 iabbrev Techinical Technical
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
