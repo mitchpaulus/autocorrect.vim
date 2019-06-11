@@ -746,6 +746,7 @@ iabbrev determiniation determination
 iabbrev detemrine determine
 iabbrev deteriming determine
 iabbrev determein determine
+iabbrev dewtermine determine
 iabbrev Determien Determine
 iabbrev detemrines determines
 iabbrev deteriming determining
@@ -817,6 +818,7 @@ iabbrev docuemantiona documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documentaiton documentation
+iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
 iabbrev Documentaiton Documentation
 iabbrev Documention Documentation
@@ -1876,6 +1878,7 @@ iabbrev prefunctiaonls prefunctionals
 iabbrev Prelimiary Preliminary
 iabbrev permier premier
 iabbrev preoparation preparation
+iabbrev preparting preparing
 iabbrev prerequitsite prerequisite
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
@@ -1930,6 +1933,7 @@ iabbrev prommed programmed
 iabbrev programmihng programming
 iabbrev proejgress progress
 iabbrev progess progress
+iabbrev porjecst project
 iabbrev proejct project
 iabbrev proeject project
 iabbrev profject project
@@ -2804,6 +2808,7 @@ iabbrev VIsion Vision
 iabbrev Visision Vision
 iabbrev Visison Vision
 iabbrev viisti visit
+iabbrev visti visit
 iabbrev VIsualization Visualization
 iabbrev volcabulary vocabulary
 iabbrev voicemial voicemail
@@ -2868,6 +2873,7 @@ iabbrev wihtin within
 iabbrev withing within
 iabbrev iwthout without
 iabbrev Witneess Witness
+iabbrev Wrod Word
 iabbrev owkr work
 iabbrev owrk work
 iabbrev wokr work
