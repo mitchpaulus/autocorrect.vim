@@ -408,6 +408,7 @@ iabbrev checkedd checked
 iabbrev chekcing checking
 iabbrev CHecking Checking
 iabbrev Chekcing Checking
+iabbrev Chekclist Checklist
 iabbrev checkdlists checklists
 iabbrev chekclists checklists
 iabbrev chekcout checkout
@@ -741,6 +742,7 @@ iabbrev detailede detailed
 iabbrev detialed detailed
 iabbrev deatials details
 iabbrev detials details
+iabbrev Detials Details
 iabbrev determiation determination
 iabbrev determiniation determination
 iabbrev detemrine determine
@@ -842,6 +844,7 @@ iabbrev diuct duct
 iabbrev dupcliate duplicate
 iabbrev durnig during
 iabbrev dynamci dynamic
+iabbrev dynaimally dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
 iabbrev econcomier economizer
@@ -1453,6 +1456,7 @@ iabbrev localshot localhost
 iabbrev Lcoate Locate
 iabbrev lcoated located
 iabbrev lociated located
+iabbrev locator locater
 iabbrev lcoation location
 iabbrev locaiton location
 iabbrev loction location
@@ -1564,6 +1568,7 @@ iabbrev mositure moisture
 iabbrev moels moles
 iabbrev moement moment
 iabbrev MOnday Monday
+iabbrev MONday Monday
 iabbrev Mondnay Monday
 iabbrev montiro monitor
 iabbrev monitioring monitoring
@@ -1756,6 +1761,7 @@ iabbrev particulary particularly
 iabbrev aprtition partition
 iabbrev partyy party
 iabbrev apssed passed
+iabbrev passted pasted
 iabbrev penatlty penalty
 iabbrev penatly penalty
 iabbrev peiople people
@@ -1921,6 +1927,7 @@ iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev Prodcues Produces
 iabbrev produciton production
+iabbrev Produciton Production
 iabbrev PRoduction Production
 iabbrev prodcuts products
 iabbrev fprofile profile
@@ -1988,6 +1995,7 @@ iabbrev Questinos Questions
 iabbrev qauicly quickly
 iabbrev quiclky quickly
 iabbrev quilckly quickly
+iabbrev Quiclkly Quickly
 iabbrev radiof radio
 iabbrev reaise raise
 iabbrev reaised raised
@@ -2053,6 +2061,7 @@ iabbrev relateive relative
 iabbrev relavent relevant
 iabbrev relocaitons relocations
 iabbrev REly Rely
+iabbrev remainging remaining
 iabbrev remtoe remote
 iabbrev Reomve Remove
 iabbrev reomved removed
@@ -2615,6 +2624,7 @@ iabbrev THis This
 iabbrev Thjis This
 iabbrev Thsi This
 iabbrev THose Those
+iabbrev Thoguhts Thoughts
 iabbrev trhee three
 iabbrev THree Three
 iabbrev thershold threshold
@@ -2789,6 +2799,8 @@ iabbrev variabtion variation
 iabbrev varitions variations
 iabbrev vareid varied
 iabbrev varietly variety
+iabbrev vaarious various
+iabbrev vaioruds various
 iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
 iabbrev verficaiton verification
@@ -2836,6 +2848,7 @@ iabbrev Wednedsayd Wednesday
 iabbrev Wednedsay Wednesday
 iabbrev Wednesady Wednesday
 iabbrev Wednesayd Wednesday
+iabbrev Wednesdady Wednesday
 iabbrev Wednesdayd Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdday Wednesday
