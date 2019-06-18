@@ -693,6 +693,7 @@ iabbrev decidied decided
 iabbrev decreaesed decreased
 iabbrev decreasees decreases
 iabbrev dedicaed dedicated
+iabbrev depper deeper
 iabbrev deafult default
 iabbrev defautl default
 iabbrev defualt default
@@ -999,6 +1000,7 @@ iabbrev expecst expect
 iabbrev expnse expense
 iabbrev Explaingin Explaining
 iabbrev Explations Explanations
+iabbrev expliclit explicit
 iabbrev explicti explicit
 iabbrev explicity explicitly
 iabbrev explroeing exploring
@@ -1043,6 +1045,7 @@ iabbrev fiels files
 iabbrev iles files
 iabbrev finla final
 iabbrev finialize finalize
+iabbrev finializing finalizing
 iabbrev FInalizing Finalizing
 iabbrev Finalziing Finalizing
 iabbrev FInializing Finalizing
@@ -1180,6 +1183,7 @@ iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
 iabbrev guideines guidelines
 iabbrev Guidleines Guidelines
+iabbrev ahd had
 iabbrev hbad had
 iabbrev ahlls halls
 iabbrev ahndling handling
@@ -1405,6 +1409,7 @@ iabbrev Hohnson Johnson
 iabbrev Juilian Julian
 iabbrev jsut just
 iabbrev ujst just
+iabbrev Ketih Keith
 iabbrev Kettucky Kentucky
 iabbrev kernal kernel
 iabbrev dkey key
@@ -1888,6 +1893,7 @@ iabbrev preparting preparing
 iabbrev prerequitsite prerequisite
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
+iabbrev presecne presence
 iabbrev preseentaiotn presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
@@ -2272,7 +2278,9 @@ iabbrev siunce since
 iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
+iabbrev iste site
 iabbrev Stie Site
+iabbrev siziung sizing
 iabbrev skilsl skills
 iabbrev lslides slides
 iabbrev sloep slope
@@ -2510,6 +2518,7 @@ iabbrev temperautrtes temperatures
 iabbrev temprautes temperatures
 iabbrev tmeperatures temperatures
 iabbrev tameplate template
+iabbrev tempalate template
 iabbrev tempalte template
 iabbrev tmeplate template
 iabbrev Tempalte Template
