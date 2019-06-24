@@ -43,6 +43,7 @@ iabbrev Adviosr Advisor
 iabbrev afftecting affecting
 iabbrev AFter After
 iabbrev aftenronon afternoon
+iabbrev agian again
 iabbrev aggregatre aggregate
 iabbrev aggregatrion aggregation
 iabbrev aggregration aggregation
@@ -716,6 +717,7 @@ iabbrev dependeiing depending
 iabbrev derivateive derivative
 iabbrev deriviate derivative
 iabbrev deriviateve derivative
+iabbrev deriviative derivative
 iabbrev derviate derivative
 iabbrev derviative derivative
 iabbrev deriviatives derivatives
@@ -919,6 +921,7 @@ iabbrev equzl equal
 iabbrev equlaity equality
 iabbrev equaiton equation
 iabbrev equatoin equation
+iabbrev Equaiton Equation
 iabbrev eequations equations
 iabbrev equaionts equations
 iabbrev equaiotns equations
@@ -970,6 +973,7 @@ iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
 iabbrev evalueaiton evaluation
 iabbrev everytone everyone
+iabbrev evertyhgin everything
 iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exmaple example
@@ -1535,6 +1539,7 @@ iabbrev meterological meteorological
 iabbrev memeter meter
 iabbrev Meteringin Metering
 iabbrev mehtod method
+iabbrev meothd method
 iabbrev methjod method
 iabbrev methodoloyg methodology
 iabbrev mehtods methods
@@ -2002,6 +2007,7 @@ iabbrev qauicly quickly
 iabbrev quiclky quickly
 iabbrev quilckly quickly
 iabbrev Quiclkly Quickly
+iabbrev quotoient quotient
 iabbrev radiof radio
 iabbrev reaise raise
 iabbrev reaised raised
@@ -2094,6 +2100,7 @@ iabbrev reprots reports
 iabbrev rpeorts reports
 iabbrev rports reports
 iabbrev reporsitoyr repository
+iabbrev represesnts represents
 iabbrev requrested requested
 iabbrev requiere require
 iabbrev requied required
@@ -2184,6 +2191,7 @@ iabbrev searhc search
 iabbrev seraching searching
 iabbrev Sebastioan Sebastian
 iabbrev sedond second
+iabbrev seocnd second
 iabbrev Seocnd Second
 iabbrev seciotn section
 iabbrev seciton section
@@ -2355,6 +2363,7 @@ iabbrev statsistics statistics
 iabbrev satatus status
 iabbrev stuatus status
 iabbrev staem steam
+iabbrev stpe step
 iabbrev stpes steps
 iabbrev sitll still
 iabbrev stil still
@@ -2383,6 +2392,7 @@ iabbrev substantce substance
 iabbrev substituing substituting
 iabbrev substituations substitutions
 iabbrev succesful successful
+iabbrev successivley successively
 iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sunslight sunlight
@@ -2706,6 +2716,7 @@ iabbrev trrended trended
 iabbrev trneds trends
 iabbrev trnes trends
 iabbrev Treid Tried
+iabbrev tyring trying
 iabbrev Tuedays Tuesday
 iabbrev Tuedsay Tuesday
 iabbrev Tuedsday Tuesday
