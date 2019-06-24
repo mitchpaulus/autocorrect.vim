@@ -573,6 +573,7 @@ iabbrev coinsumption consumption
 iabbrev constumption consumption
 iabbrev consukmption consumption
 iabbrev consumptiohj consumption
+iabbrev contaienr container
 iabbrev contianer container
 iabbrev continaer container
 iabbrev Conntainer Container
@@ -580,6 +581,7 @@ iabbrev coantainers containers
 iabbrev conntainers containers
 iabbrev contaienrs containers
 iabbrev containesr containers
+iabbrev contianers containers
 iabbrev containg containing
 iabbrev conatins contains
 iabbrev contians contains
@@ -777,6 +779,7 @@ iabbrev Deval Devil
 iabbrev Deveil Devil
 iabbrev dailog dialog
 iabbrev Dictiorany Dictionary
+iabbrev DId Did
 iabbrev Difff Diff
 iabbrev differnce difference
 iabbrev differnece difference
@@ -998,6 +1001,7 @@ iabbrev existng existing
 iabbrev Exisiting Existing
 iabbrev eapnd expand
 iabbrev expannding expanding
+iabbrev epansion expansion
 iabbrev exapansion expansion
 iabbrev expansionj expansion
 iabbrev expecst expect
@@ -1110,6 +1114,7 @@ iabbrev Firday Friday
 iabbrev Frday Friday
 iabbrev Frdiayf Friday
 iabbrev Frdiay Friday
+iabbrev Fridayf Friday
 iabbrev FRiday Friday
 iabbrev Fridya Friday
 iabbrev froam from
@@ -2769,6 +2774,7 @@ iabbrev untis units
 iabbrev unix Unix
 iabbrev uneccessary unnecessary
 iabbrev unecessary unnecessary
+iabbrev unneccessary unnecessary
 iabbrev unnessecary unnecessary
 iabbrev unitl until
 iabbrev upodate update
@@ -2778,6 +2784,7 @@ iabbrev updload upload
 iabbrev upldoad upload
 iabbrev updlaoded uploaded
 iabbrev Uploadeed Uploaded
+iabbrev UPloading Uploading
 iabbrev updlads uploads
 iabbrev url URL
 iabbrev useage usage
@@ -2897,6 +2904,7 @@ iabbrev Whiel While
 iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
 iabbrev widnow window
+iabbrev Windwos Windows
 iabbrev iwth with
 iabbrev wiht with
 iabbrev wirth with
