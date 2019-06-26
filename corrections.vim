@@ -8,6 +8,7 @@ iabbrev Acadmey Academy
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
 iabbrev accessiblity accessibility
+iabbrev accidently accidentally
 iabbrev accompying accompanying
 iabbrev accompolish accomplish
 iabbrev accoriding according
@@ -38,6 +39,7 @@ iabbrev addsd adds
 iabbrev adeqauyate adequate
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
+iabbrev Advnaced Advanced
 iabbrev adviosr advisor
 iabbrev Adviosr Advisor
 iabbrev afftecting affecting
@@ -239,6 +241,7 @@ iabbrev backupa backup
 iabbrev bakcup backup
 iabbrev abackwards backwards
 iabbrev backwareds backwards
+iabbrev balanace balance
 iabbrev balnace balance
 iabbrev balnaces balances
 iabbrev Badn Band
@@ -247,6 +250,7 @@ iabbrev absed based
 iabbrev baseliune baseline
 iabbrev baslein baseline
 iabbrev basleine baseline
+iabbrev bvaseline baseline
 iabbrev basleines baselines
 iabbrev Bascially Basically
 iabbrev becaues because
@@ -278,6 +282,7 @@ iabbrev bookelt booklet
 iabbrev gboth both
 iabbrev boudn bound
 iabbrev boudnary boundary
+iabbrev boudns bounds
 iabbrev Bouqet Bouquet
 iabbrev Breka Break
 iabbrev brekadown breakdown
@@ -359,6 +364,7 @@ iabbrev cliabration calibration
 iabbrev clibration calibration
 iabbrev clal call
 iabbrev Clal Call
+iabbrev cmae came
 iabbrev canbe can be
 iabbrev cna can
 iabbrev cancelled canceled
@@ -423,6 +429,7 @@ iabbrev Chiled Chilled
 iabbrev Chiler Chiller
 iabbrev CHiller Chiller
 iabbrev chilllers chillers
+iabbrev CHillers Chillers
 iabbrev cohice choice
 iabbrev chooosing choosing
 iabbrev chosne chosen
@@ -662,6 +669,7 @@ iabbrev ciritical critical
 iabbrev critcial critical
 iabbrev criticial critical
 iabbrev crtricial critical
+iabbrev curerent current
 iabbrev currtent current
 iabbrev currenlty currently
 iabbrev Currenlty Currently
@@ -715,6 +723,7 @@ iabbrev dnesity density
 iabbrev Deparment Department
 iabbrev depdnd depend
 iabbrev dependance dependence
+iabbrev dependecies dependencies
 iabbrev dependeiing depending
 iabbrev derivateive derivative
 iabbrev deriviate derivative
@@ -1234,10 +1243,12 @@ iabbrev hositpal hospital
 iabbrev hto hot
 iabbrev horus hours
 iabbrev hoursin hours in
+iabbrev HOw How
 iabbrev howerver however
 iabbrev Howerver However
 iabbrev HOwever However
 iabbrev html HTML
+iabbrev Html HTML
 iabbrev humdity humidity
 iabbrev humidty humidity
 iabbrev Huniting Hunting
@@ -1414,6 +1425,7 @@ iabbrev jvavascript JavaScript
 iabbrev jbos jobs
 iabbrev Jhon John
 iabbrev JOhn John
+iabbrev Joihn John
 iabbrev Hohnson Johnson
 iabbrev Juilian Julian
 iabbrev jsut just
@@ -1425,6 +1437,7 @@ iabbrev dkey key
 iabbrev Kimal Kimla
 iabbrev ktichen kitchen
 iabbrev knoiwldege knowledge
+iabbrev knwon known
 iabbrev albvel label
 iabbrev lable label
 iabbrev lbael label
@@ -1532,6 +1545,7 @@ iabbrev measuremnt measurement
 iabbrev measuremensts measurements
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
+iabbrev measrues measures
 iabbrev mechancila mechanical
 iabbrev mechanicla mechanical
 iabbrev Mechanicla Mechanical
@@ -1916,6 +1930,7 @@ iabbrev dprevious previous
 iabbrev preiovus previous
 iabbrev preivous previous
 iabbrev precviously previously
+iabbrev previlsy previously
 iabbrev previulsy previously
 iabbrev Previoulsy Previously
 iabbrev priece price
@@ -2094,6 +2109,7 @@ iabbrev rerpot report
 iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
+iabbrev Repoort Report
 iabbrev Reporeter Reporter
 iabbrev Reporetr Reporter
 iabbrev Reproter Reporter
@@ -2115,6 +2131,7 @@ iabbrev rueiquireed required
 iabbrev Requrired Required
 iabbrev requiements requirements
 iabbrev requiremnets requirements
+iabbrev reuqires requires
 iabbrev reaseach research
 iabbrev reasearch research
 iabbrev researhc research
@@ -2183,6 +2200,7 @@ iabbrev schmatic schematic
 iabbrev schmeatic schematic
 iabbrev socope scope
 iabbrev socpe scope
+iabbrev scroe score
 iabbrev scrreen screen
 iabbrev sciprt script
 iabbrev scrdipt script
@@ -2216,6 +2234,7 @@ iabbrev snese sense
 iabbrev sensical sensical
 iabbrev sensitivtiy sensitivity
 iabbrev senstivity sensitivity
+iabbrev senesor sensor
 iabbrev senseor sensor
 iabbrev snesor sensor
 iabbrev sensores sensors
@@ -2385,6 +2404,7 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
+iabbrev STuido Studio
 iabbrev styel style
 iabbrev stye style
 iabbrev sytle style
@@ -2781,6 +2801,7 @@ iabbrev upodate update
 iabbrev updaetgd updated
 iabbrev UPdates Updates
 iabbrev updload upload
+iabbrev uplaod upload
 iabbrev upldoad upload
 iabbrev updlaoded uploaded
 iabbrev Uploadeed Uploaded
