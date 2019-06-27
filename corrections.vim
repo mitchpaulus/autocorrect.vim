@@ -279,6 +279,7 @@ iabbrev BOiler Boiler
 iabbrev bilers boilers
 iabbrev BOilers Boilers
 iabbrev bookelt booklet
+iabbrev obsses bosses
 iabbrev gboth both
 iabbrev boudn bound
 iabbrev boudnary boundary
@@ -289,6 +290,7 @@ iabbrev brekadown breakdown
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev browswer browser
+iabbrev buidl build
 iabbrev buidign building
 iabbrev buiding building
 iabbrev buiilding building
@@ -655,6 +657,7 @@ iabbrev corrput corrupt
 iabbrev coiuld could
 iabbrev coudl could
 iabbrev Coutn Count
+iabbrev Coutnry Country
 iabbrev Coutnyt County
 iabbrev coures course
 iabbrev crnaked cranked
@@ -2750,6 +2753,7 @@ iabbrev Tuesdday Tuesday
 iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
+iabbrev TUrns Turns
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
