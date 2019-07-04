@@ -185,6 +185,7 @@ iabbrev asekd asked
 iabbrev ascpects aspects
 iabbrev assignead assigned
 iabbrev assigneing assigning
+iabbrev assignemnents assignments
 iabbrev Assitatn Assistant
 iabbrev assocaited associated
 iabbrev Assocaites Associates
@@ -293,6 +294,7 @@ iabbrev browswer browser
 iabbrev buidl build
 iabbrev buidign building
 iabbrev buiding building
+iabbrev buidling building
 iabbrev buiilding building
 iabbrev buikdlign building
 iabbrev buildgin building
@@ -411,6 +413,7 @@ iabbrev caharcteristic characteristic
 iabbrev cahractersictic characteristic
 iabbrev characteritsics characteristics
 iabbrev chartr chart
+iabbrev chrat chart
 iabbrev chekc check
 iabbrev Cheeck Check
 iabbrev checkedd checked
@@ -620,6 +623,7 @@ iabbrev contorls controls
 iabbrev contreols controls
 iabbrev ocntrosl controls
 iabbrev Contrls Controls
+iabbrev convient convenient
 iabbrev convensition convention
 iabbrev convetino convention
 iabbrev convetion convention
@@ -991,6 +995,7 @@ iabbrev everytone everyone
 iabbrev evertyhgin everything
 iabbrev everyting everything
 iabbrev everytingh everything
+iabbrev exampel example
 iabbrev exmaple example
 iabbrev exmpale example
 iabbrev Exmpale Example
@@ -1639,6 +1644,7 @@ iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
 iabbrev neeccessary necessary
+iabbrev ened need
 iabbrev NEedc Need
 iabbrev NEed Need
 iabbrev neeeds needs
@@ -2166,6 +2172,7 @@ iabbrev Reveiw Review
 iabbrev reisit revisit
 iabbrev rightt right
 iabbrev riese rise
+iabbrev rooom room
 iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
@@ -2185,6 +2192,7 @@ iabbrev sxampleing sampling
 iabbrev Smapling Sampling
 iabbrev satisfacotry satisfactory
 iabbrev satifies satisfies
+iabbrev staturated saturated
 iabbrev Saturadya Saturday
 iabbrev svae save
 iabbrev savinsg savings
@@ -2554,6 +2562,7 @@ iabbrev temperatutres temperatures
 iabbrev temperautres temperatures
 iabbrev temperautrtes temperatures
 iabbrev temprautes temperatures
+iabbrev tempreatures temperatures
 iabbrev tmeperatures temperatures
 iabbrev tameplate template
 iabbrev tempalate template
@@ -2974,9 +2983,12 @@ iabbrev wiould would
 iabbrev woudl would
 iabbrev wouold would
 iabbrev WOuld Would
+iabbrev worng wrong
 iabbrev yewt yet
+iabbrev yhou you
 iabbrev youy you
 iabbrev yuou you
+iabbrev YOu You
 iabbrev zerio zero
 iabbrev zoen zone
 iabbrev zonne zone
