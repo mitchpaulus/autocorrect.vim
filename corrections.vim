@@ -305,6 +305,7 @@ iabbrev buildnig building
 iabbrev builgin building
 iabbrev bulding building
 iabbrev buliding building
+iabbrev bulidng building
 iabbrev lubilding building
 iabbrev ubilding building
 iabbrev Buidlgin Building
@@ -491,6 +492,7 @@ iabbrev commannd command
 iabbrev commmand command
 iabbrev Commadn Command
 iabbrev commmands commands
+iabbrev commetn comment
 iabbrev COmments Comments
 iabbrev commerecial commercial
 iabbrev commerical commercial
@@ -529,6 +531,7 @@ iabbrev comparision comparison
 iabbrev competiting competing
 iabbrev ocmplield compiled
 iabbrev pcompiled compiled
+iabbrev compoiler compiler
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compeleted completed
@@ -882,6 +885,7 @@ iabbrev efficienty efficiency
 iabbrev efficincy efficiency
 iabbrev effortr effort
 iabbrev efforst efforts
+iabbrev Eikegra Eikagra
 iabbrev weitther either
 iabbrev electrici electric
 iabbrev Eelctric Electric
@@ -999,6 +1003,7 @@ iabbrev exampel example
 iabbrev exmaple example
 iabbrev exmpale example
 iabbrev Exmpale Example
+iabbrev Ecxel Excel
 iabbrev Excle Excel
 iabbrev exceptionatlly exceptionally
 iabbrev exhcange exchange
@@ -1091,6 +1096,7 @@ iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev ifxes fixes
 iabbrev finxing fixing
+iabbrev FIxing Fixing
 iabbrev fixutre fixture
 iabbrev Floro Floor
 iabbrev flolw flow
@@ -1520,6 +1526,7 @@ iabbrev makea make a
 iabbrev Mkaefile Makefile
 iabbrev magnage manage
 iabbrev managmeent management
+iabbrev mangaement management
 iabbrev mangagment management
 iabbrev Managnemnt Management
 iabbrev mangatger manager
@@ -2119,6 +2126,7 @@ iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
 iabbrev Repoort Report
+iabbrev Reprot Report
 iabbrev Reporeter Reporter
 iabbrev Reporetr Reporter
 iabbrev Reproter Reporter
@@ -2701,6 +2709,7 @@ iabbrev Thrusday Thursday
 iabbrev Thrusdya Thursday
 iabbrev Thurdays Thursday
 iabbrev Thurdsya Thursday
+iabbrev Thursdayd Thursday
 iabbrev THursday Thursday
 iabbrev Thursdday Thursday
 iabbrev THursdday Thursday
@@ -2742,6 +2751,7 @@ iabbrev Traingin Training
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
 iabbrev trnasfer transfer
+iabbrev Transferrign Transferring
 iabbrev transporation transportation
 iabbrev transportionat transportation
 iabbrev travelled traveled
@@ -2813,6 +2823,7 @@ iabbrev unitl until
 iabbrev upodate update
 iabbrev updaetgd updated
 iabbrev UPdates Updates
+iabbrev Updaitng Updating
 iabbrev updload upload
 iabbrev uplaod upload
 iabbrev upldoad upload
