@@ -205,6 +205,7 @@ iabbrev attachements attachments
 iabbrev attachgements attachments
 iabbrev Attachemnts Attachments
 iabbrev attemping attempting
+iabbrev Attemptiung Attempting
 iabbrev Attmept9ing Attempting
 iabbrev Attmepting Attempting
 iabbrev Attendence Attendance
@@ -264,6 +265,7 @@ iabbrev behing behind
 iabbrev beign being
 iabbrev belive believe
 iabbrev besdies besides
+iabbrev bset best
 iabbrev beteween between
 iabbrev betwen between
 iabbrev betwene between
@@ -370,6 +372,7 @@ iabbrev clibration calibration
 iabbrev clal call
 iabbrev Clal Call
 iabbrev cmae came
+iabbrev camerag camera
 iabbrev canbe can be
 iabbrev cna can
 iabbrev cancelled canceled
@@ -1447,6 +1450,7 @@ iabbrev ujst just
 iabbrev Ketih Keith
 iabbrev Kettucky Kentucky
 iabbrev kernal kernel
+iabbrev KEvin Kevin
 iabbrev dkey key
 iabbrev Kimal Kimla
 iabbrev ktichen kitchen
@@ -1508,6 +1512,7 @@ iabbrev slong long
 iabbrev Looiking Looking
 iabbrev loose lose
 iabbrev loower lower
+iabbrev Loower Lower
 iabbrev Macrosciptic Macroscopic
 iabbrev mage made
 iabbrev magentic magnetic
@@ -1531,6 +1536,7 @@ iabbrev mangagment management
 iabbrev Managnemnt Management
 iabbrev mangatger manager
 iabbrev manmual manual
+iabbrev manula manual
 iabbrev mnay many
 iabbrev mapas maps
 iabbrev Marhc March
@@ -1694,6 +1700,7 @@ iabbrev Novemenber November
 iabbrev Novermber November
 iabbrev nozle nozzle
 iabbrev nubmer number
+iabbrev nubmers numbers
 iabbrev numercial numerical
 iabbrev Numverical Numerical
 iabbrev occpunacy occupancy
@@ -1956,6 +1963,7 @@ iabbrev Pritorities Priorities
 iabbrev priortization prioritization
 iabbrev pritiorizing prioritizing
 iabbrev porbablyb probably
+iabbrev probalby probably
 iabbrev prlblem problem
 iabbrev probelm problem
 iabbrev problekm problem
@@ -1964,6 +1972,7 @@ iabbrev proglem problem
 iabbrev PRoblem Problem
 iabbrev probalems problems
 iabbrev probelms problems
+iabbrev procewdure procedure
 iabbrev procuedures procedures
 iabbrev prfoceed proceed
 iabbrev proces process
@@ -2013,6 +2022,7 @@ iabbrev porperty property
 iabbrev proeprty property
 iabbrev porportion proportion
 iabbrev proportialn proportional
+iabbrev proportinal proportional
 iabbrev proportioanl proportional
 iabbrev propsed proposed
 iabbrev propsoed proposed
@@ -2198,6 +2208,7 @@ iabbrev Smaple Sample
 iabbrev smapling sampling
 iabbrev sxampleing sampling
 iabbrev Smapling Sampling
+iabbrev Sarha Sarah
 iabbrev satisfacotry satisfactory
 iabbrev satifies satisfies
 iabbrev staturated saturated
@@ -2206,6 +2217,7 @@ iabbrev svae save
 iabbrev savinsg savings
 iabbrev svaings savings
 iabbrev asy say
+iabbrev syas says
 iabbrev scenarious scenarios
 iabbrev schdeule schedule
 iabbrev schdule schedule
@@ -2718,6 +2730,7 @@ iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
 iabbrev TIm Tim
+iabbrev teim time
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev Tiemstamp Timestamp
