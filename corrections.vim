@@ -1941,6 +1941,7 @@ iabbrev prerequitsite prerequisite
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
 iabbrev presecne presence
+iabbrev prensenation presentation
 iabbrev preseentaiotn presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
@@ -2989,6 +2990,7 @@ iabbrev workign working
 iabbrev Wokringi Working
 iabbrev Wokring Working
 iabbrev WOkring Working
+iabbrev WOkrking Working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev Workign Working
