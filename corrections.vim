@@ -732,6 +732,7 @@ iabbrev dleeted deleted
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
 iabbrev develiverables deliverables
+iabbrev Deamnd Demand
 iabbrev dnesity density
 iabbrev Deparment Department
 iabbrev depdnd depend
@@ -847,6 +848,7 @@ iabbrev dcoumentaiton documentation
 iabbrev docuemantiona documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
+iabbrev documentaion documentation
 iabbrev documentaiton documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
@@ -2307,6 +2309,7 @@ iabbrev serval several
 iabbrev sevearl several
 iabbrev Sharepoitn Sharepoint
 iabbrev sheeet sheet
+iabbrev sehell shell
 iabbrev shootouyt shootout
 iabbrev shrot short
 iabbrev hsould should
@@ -2779,6 +2782,7 @@ iabbrev trrended trended
 iabbrev trneds trends
 iabbrev trnes trends
 iabbrev Treid Tried
+iabbrev tyr try
 iabbrev tyring trying
 iabbrev Tuedays Tuesday
 iabbrev Tuedsay Tuesday
@@ -2840,6 +2844,7 @@ iabbrev upodate update
 iabbrev updaetgd updated
 iabbrev UPdates Updates
 iabbrev Updaitng Updating
+iabbrev UPdating Updating
 iabbrev updload upload
 iabbrev uplaod upload
 iabbrev upldoad upload
@@ -2966,6 +2971,7 @@ iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
 iabbrev widnow window
 iabbrev Windwos Windows
+iabbrev Windwows Windows
 iabbrev iwth with
 iabbrev wiht with
 iabbrev wirth with
