@@ -72,6 +72,7 @@ iabbrev alow allow
 iabbrev alogn along
 iabbrev alreaedy already
 iabbrev alreayd already
+iabbrev alrfeayd already
 iabbrev alos also
 iabbrev aslo also
 iabbrev Althouugh Although
@@ -91,6 +92,7 @@ iabbrev analyssi analysis
 iabbrev analyuiss analysis
 iabbrev anaslysis analysis
 iabbrev anaylis analysis
+iabbrev anaylsis analysis
 iabbrev anlayiss analysis
 iabbrev anlaysi analysis
 iabbrev anlaysis analysis
@@ -848,6 +850,7 @@ iabbrev dcoumentaiton documentation
 iabbrev docuemantiona documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
+iabbrev documenation documentation
 iabbrev documentaion documentation
 iabbrev documentaiton documentation
 iabbrev Docuemntaiton Documentation
@@ -911,6 +914,7 @@ iabbrev evevation elevation
 iabbrev elevatiaonl elevational
 iabbrev elswe else
 iabbrev emial email
+iabbrev Eamil Email
 iabbrev evmails emails
 iabbrev emergingn emerging
 iabbrev empyt empty
@@ -1080,6 +1084,7 @@ iabbrev fiels files
 iabbrev iles files
 iabbrev Fillign Filling
 iabbrev finla final
+iabbrev FInal Final
 iabbrev finialize finalize
 iabbrev finializing finalizing
 iabbrev FInalizing Finalizing
@@ -1436,6 +1441,7 @@ iabbrev itmes items
 iabbrev ITems Items
 iabbrev Itmes Items
 iabbrev iteraotr iterator
+iabbrev ist its
 iabbrev iteslf itself
 iabbrev itslf itself
 iabbrev Janurayr January
@@ -2441,6 +2447,7 @@ iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
 iabbrev studnet student
+iabbrev Stuido Studio
 iabbrev STuido Studio
 iabbrev styel style
 iabbrev stye style
@@ -2449,6 +2456,7 @@ iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
+iabbrev subimitteed submitted
 iabbrev subsance substance
 iabbrev substantce substance
 iabbrev substituing substituting
@@ -2474,6 +2482,7 @@ iabbrev surveryed surveyed
 iabbrev suscepible susceptible
 iabbrev switchees switches
 iabbrev swtiches switches
+iabbrev Sycn Sync
 iabbrev Syunc Sync
 iabbrev synicng syncing
 iabbrev synatx syntax
@@ -2796,6 +2805,7 @@ iabbrev TUrns Turns
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
+iabbrev TypeScirpt TypeScript
 iabbrev typiuckal typical
 iabbrev typeiclaly typically
 iabbrev typiucally typically
