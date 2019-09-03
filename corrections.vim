@@ -292,6 +292,7 @@ iabbrev boudns bounds
 iabbrev Bouqet Bouquet
 iabbrev Breka Break
 iabbrev brekadown breakdown
+iabbrev briging bringing
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev browswer browser
@@ -1083,6 +1084,7 @@ iabbrev ifle file
 iabbrev fiels files
 iabbrev iles files
 iabbrev Fillign Filling
+iabbrev filan final
 iabbrev finla final
 iabbrev FInal Final
 iabbrev finialize finalize
@@ -2035,6 +2037,7 @@ iabbrev porportion proportion
 iabbrev proportialn proportional
 iabbrev proportinal proportional
 iabbrev proportioanl proportional
+iabbrev proposla proposal
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev Porposed Proposed
@@ -2132,6 +2135,7 @@ iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev remainging remaining
 iabbrev remtoe remote
+iabbrev REmove Remove
 iabbrev Reomve Remove
 iabbrev reomved removed
 iabbrev repclaced replaced
@@ -2187,6 +2191,7 @@ iabbrev REpsonding Responding
 iabbrev repsonse response
 iabbrev responsiblities responsibilities
 iabbrev restaturant restaurant
+iabbrev resturcted restructured
 iabbrev restul result
 iabbrev resutl result
 iabbrev reuslt result
@@ -2405,6 +2410,7 @@ iabbrev sporatically sporadically
 iabbrev spreadhseet spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev Spreasheets Spreadsheets
+iabbrev sql SQL
 iabbrev sqauare square
 iabbrev sqwuare square
 iabbrev suare square
@@ -2793,6 +2799,7 @@ iabbrev trnes trends
 iabbrev Treid Tried
 iabbrev tyr try
 iabbrev tyring trying
+iabbrev Tuedasy Tuesday
 iabbrev Tuedays Tuesday
 iabbrev Tuedsay Tuesday
 iabbrev Tuedsday Tuesday
@@ -2806,6 +2813,7 @@ iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
 iabbrev TypeScirpt TypeScript
+iabbrev TYpeScript TypeScript
 iabbrev typiuckal typical
 iabbrev typeiclaly typically
 iabbrev typiucally typically
