@@ -1,6 +1,7 @@
 iabbrev abillity ability
 iabbrev abiltily ability
 iabbrev abourt about
+iabbrev aboutr about
 iabbrev aobut about
 iabbrev ABout About
 iabbrev absoulte absolute
@@ -154,6 +155,7 @@ iabbrev apporach approach
 iabbrev apprach approach
 iabbrev appraoch approach
 iabbrev approahc approach
+iabbrev Appraoch Approach
 iabbrev approriate appropriate
 iabbrev paproval approval
 iabbrev approimated approximated
@@ -1038,6 +1040,7 @@ iabbrev exapansion expansion
 iabbrev expansionj expansion
 iabbrev expecst expect
 iabbrev expnse expense
+iabbrev Experinece Experience
 iabbrev Explaingin Explaining
 iabbrev Explations Explanations
 iabbrev expliclit explicit
@@ -2948,6 +2951,7 @@ iabbrev wtaer water
 iabbrev Wwater Water
 iabbrev wya way
 iabbrev wather weather
+iabbrev weawther weather
 iabbrev Weahter Weather
 iabbrev webdsiyte website
 iabbrev webstie website
@@ -3025,6 +3029,7 @@ iabbrev Workingo Working
 iabbrev WOrking Working
 iabbrev WOrkiong Working
 iabbrev Workiung Working
+iabbrev WOrkiung Working
 iabbrev Worlking Working
 iabbrev Wroking Working
 iabbrev workds works
