@@ -501,6 +501,7 @@ iabbrev commmand command
 iabbrev Commadn Command
 iabbrev commmands commands
 iabbrev commetn comment
+iabbrev COmment Comment
 iabbrev COmments Comments
 iabbrev commerecial commercial
 iabbrev commerical commercial
@@ -1495,6 +1496,7 @@ iabbrev librayr library
 iabbrev Libarrya Library
 iabbrev LIbrary Library
 iabbrev lgighting lighting
+iabbrev Lighing Lighting
 iabbrev liek like
 iabbrev likley likely
 iabbrev limitaiton limitation
@@ -1603,6 +1605,7 @@ iabbrev midinght midnight
 iabbrev mgiht might
 iabbrev migraiton migration
 iabbrev migraitons migrations
+iabbrev minimual minimal
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
 iabbrev minimimum minimum
@@ -1631,6 +1634,7 @@ iabbrev moduels modules
 iabbrev mositure moisture
 iabbrev moels moles
 iabbrev moement moment
+iabbrev monaco Monaco
 iabbrev MOnday Monday
 iabbrev MONday Monday
 iabbrev Mondnay Monday
@@ -2192,6 +2196,7 @@ iabbrev respecdt respect
 iabbrev respirarotyr respiratory
 iabbrev REpsonding Responding
 iabbrev repsonse response
+iabbrev responsibilites responsibilities
 iabbrev responsiblities responsibilities
 iabbrev restaturant restaurant
 iabbrev resturcted restructured
@@ -2893,6 +2898,7 @@ iabbrev Uiltity Utility
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
 iabbrev Validatort Validator
+iabbrev VAlidator Validator
 iabbrev valubale valuable
 iabbrev avlue value
 iabbrev valeu value
@@ -2979,6 +2985,7 @@ iabbrev WEnt Went
 iabbrev wree were
 iabbrev hwat what
 iabbrev waht what
+iabbrev whqat what
 iabbrev whta what
 iabbrev WHat What
 iabbrev whne when
@@ -2998,6 +3005,7 @@ iabbrev iwth with
 iabbrev wiht with
 iabbrev wirth with
 iabbrev witha with a
+iabbrev wituh with
 iabbrev Wtih With
 iabbrev wihtin within
 iabbrev withing within
