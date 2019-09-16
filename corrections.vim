@@ -617,6 +617,7 @@ iabbrev COntinued Continued
 iabbrev Continous Continuous
 iabbrev Continousous Continuous
 iabbrev Contionous Continuous
+iabbrev Contracotr Contractor
 iabbrev contractiors contractors
 iabbrev contirubted contributed
 iabbrev Contriubtued Contributed
@@ -879,6 +880,7 @@ iabbrev dorp drop
 iabbrev dropwdown dropdown
 iabbrev diuct duct
 iabbrev dupcliate duplicate
+iabbrev duriung during
 iabbrev durnig during
 iabbrev dynamci dynamic
 iabbrev dynaimally dynamically
@@ -1210,6 +1212,7 @@ iabbrev givne given
 iabbrev globablly globally
 iabbrev gola goal
 iabbrev cgoing going
+iabbrev goinv going
 iabbrev Goiing Going
 iabbrev GOing Going
 iabbrev GOod Good
@@ -2198,6 +2201,7 @@ iabbrev REpsonding Responding
 iabbrev repsonse response
 iabbrev responsibilites responsibilities
 iabbrev responsiblities responsibilities
+iabbrev Repsonsible Responsible
 iabbrev restaturant restaurant
 iabbrev resturcted restructured
 iabbrev restul result
@@ -2712,6 +2716,7 @@ iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
 iabbrev htese these
 iabbrev thsee these
+iabbrev THese These
 iabbrev htey they
 iabbrev thye they
 iabbrev tyhy they
@@ -2865,6 +2870,7 @@ iabbrev uneccessary unnecessary
 iabbrev unecessary unnecessary
 iabbrev unneccessary unnecessary
 iabbrev unnessecary unnecessary
+iabbrev unoccupiied unoccupied
 iabbrev unitl until
 iabbrev upodate update
 iabbrev updaetgd updated
