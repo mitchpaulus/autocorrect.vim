@@ -178,6 +178,7 @@ iabbrev argumentets arguments
 iabbrev Arthimetic Arithmetic
 iabbrev arond around
 iabbrev aroudn around
+iabbrev arrya array
 iabbrev artticle article
 iabbrev ARticles Articles
 iabbrev Artifical Artificial
@@ -558,6 +559,7 @@ iabbrev comptuer compute
 iabbrev concewpt concept
 iabbrev corencen concern
 iabbrev concertns concerns
+iabbrev consise concise
 iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
 iabbrev Conclustions Conclusions
@@ -580,6 +582,8 @@ iabbrev consectuive consecutive
 iabbrev consectuvive consecutive
 iabbrev Considerationd Considerations
 iabbrev condsidered considered
+iabbrev consdiderd considered
+iabbrev consided considered
 iabbrev ocnsistency consistency
 iabbrev consistnet consistent
 iabbrev consistnetn consistent
@@ -1054,6 +1058,7 @@ iabbrev expononetials exponentials
 iabbrev exponnets exponents
 iabbrev exprot export
 iabbrev exproted exported
+iabbrev Expressoin Expression
 iabbrev extensibile extensible
 iabbrev extemrely extremely
 iabbrev facebook Facebook
@@ -1081,6 +1086,7 @@ iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev Fideliuty Fidelity
 iabbrev felied field
+iabbrev feilds fields
 iabbrev fileds fields
 iabbrev Figurte Figure
 iabbrev fiel file
@@ -1570,6 +1576,7 @@ iabbrev mathematicans mathematicians
 iabbrev Matlba Matlab
 iabbrev maximimum maximum
 iabbrev menaing meaning
+iabbrev menat meant
 iabbrev measrue measure
 iabbrev meausre measure
 iabbrev Measrue Measure
@@ -2212,6 +2219,8 @@ iabbrev reulsts results
 iabbrev reuslts results
 iabbrev reaturn return
 iabbrev retun return
+iabbrev reutn return
+iabbrev reutrn return
 iabbrev reveiw review
 iabbrev Reveiew Review
 iabbrev Reveiw Review
@@ -2479,6 +2488,7 @@ iabbrev subsance substance
 iabbrev substantce substance
 iabbrev substituing substituting
 iabbrev substituations substitutions
+iabbrev substiutions substitutions
 iabbrev succesful successful
 iabbrev successivley successively
 iabbrev usch such
