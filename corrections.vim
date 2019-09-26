@@ -1,3 +1,4 @@
+iabbrev abbreviatoin abbreviation
 iabbrev abillity ability
 iabbrev abiltily ability
 iabbrev abourt about
@@ -171,6 +172,7 @@ iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
 iabbrev arbitary arbitrary
+iabbrev aer are
 iabbrev aqre are
 iabbrev aree are
 iabbrev raea area
@@ -723,6 +725,7 @@ iabbrev ddate date
 iabbrev DAte Date
 iabbrev Daughther Daughter
 iabbrev DAve Dave
+iabbrev ady day
 iabbrev Decmember December
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -1187,6 +1190,7 @@ iabbrev Functinal Functional
 iabbrev Functioanl Functional
 iabbrev fucntionality functionality
 iabbrev functioanlity functionality
+iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
 iabbrev fucntions functions
 iabbrev funcitons functions
@@ -1359,6 +1363,7 @@ iabbrev infomraiotn information
 iabbrev infomraiton information
 iabbrev infomration information
 iabbrev inforamtion information
+iabbrev inforfation information
 iabbrev informaion information
 iabbrev informaiont information
 iabbrev informaiootn information
@@ -1500,6 +1505,7 @@ iabbrev lenght length
 iabbrev levle level
 iabbrev lvel level
 iabbrev lvevl level
+iabbrev libaries libraries
 iabbrev libary library
 iabbrev librayr library
 iabbrev Libarrya Library
@@ -1705,6 +1711,7 @@ iabbrev nerutla neutral
 iabbrev netrual neutral
 iabbrev netural neutral
 iabbrev neturla neutral
+iabbrev Nexasnt Nexant
 iabbrev nexzt next
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
@@ -1988,6 +1995,7 @@ iabbrev previulsy previously
 iabbrev Previoulsy Previously
 iabbrev priece price
 iabbrev princeple principle
+iabbrev pritn print
 iabbrev Prioriteis Priorities
 iabbrev Pritorities Priorities
 iabbrev priortization prioritization
@@ -2164,6 +2172,7 @@ iabbrev erport report
 iabbrev reprot report
 iabbrev rerport report
 iabbrev rerpot report
+iabbrev roeport report
 iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
@@ -2430,6 +2439,7 @@ iabbrev sporatic sporadic
 iabbrev sporatically sporadically
 iabbrev spreadhseet spreadsheet
 iabbrev spreadseheet spreadsheet
+iabbrev spreadsehet spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev sql SQL
 iabbrev sqauare square
@@ -2437,6 +2447,7 @@ iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
 iabbrev stakced stacked
+iabbrev satandrad standard
 iabbrev Standand Standard
 iabbrev strated started
 iabbrev starign starting
@@ -2896,6 +2907,7 @@ iabbrev UPloading Uploading
 iabbrev updlads uploads
 iabbrev url URL
 iabbrev useage usage
+iabbrev uesd used
 iabbrev useufl useful
 iabbrev usfeul useful
 iabbrev usefullness usefulness
