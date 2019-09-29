@@ -31,6 +31,7 @@ iabbrev actucally actually
 iabbrev actulaly actually
 iabbrev Actulaly Actually
 iabbrev Actuatoar Actuator
+iabbrev Adaptaiton Adaptation
 iabbrev addiiton addition
 iabbrev addiitonal additional
 iabbrev additonitnal additional
@@ -218,6 +219,7 @@ iabbrev Attmepting Attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
 iabbrev authenticaiton authentication
+iabbrev Authorizastion Authorization
 iabbrev auot auto
 iabbrev automaated automated
 iabbrev autiomatic automatic
@@ -260,6 +262,7 @@ iabbrev baseliune baseline
 iabbrev baslein baseline
 iabbrev basleine baseline
 iabbrev bvaseline baseline
+iabbrev Baseilne Baseline
 iabbrev basleines baselines
 iabbrev Bascially Basically
 iabbrev becaues because
@@ -297,6 +300,7 @@ iabbrev boudns bounds
 iabbrev Bouqet Bouquet
 iabbrev Breka Break
 iabbrev brekadown breakdown
+iabbrev Brikc Brick
 iabbrev briging bringing
 iabbrev brining bringing
 iabbrev braod broad
@@ -605,6 +609,7 @@ iabbrev constumption consumption
 iabbrev consukmption consumption
 iabbrev consumptiohj consumption
 iabbrev contaienr container
+iabbrev contaiuner container
 iabbrev contianer container
 iabbrev continaer container
 iabbrev Conntainer Container
@@ -623,6 +628,7 @@ iabbrev contineue continue
 iabbrev COntinued Continued
 iabbrev Continous Continuous
 iabbrev Continousous Continuous
+iabbrev Continuouss Continuous
 iabbrev Contionous Continuous
 iabbrev Contracotr Contractor
 iabbrev contractiors contractors
@@ -727,6 +733,7 @@ iabbrev DAte Date
 iabbrev Daughther Daughter
 iabbrev DAve Dave
 iabbrev ady day
+iabbrev dayas days
 iabbrev Decmember December
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -738,6 +745,7 @@ iabbrev defautl default
 iabbrev defualt default
 iabbrev fdefine define
 iabbrev definned defined
+iabbrev definiteyl definitely
 iabbrev Definiteyl Definitely
 iabbrev Defintion Definition
 iabbrev definiations definitions
@@ -861,6 +869,7 @@ iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
 iabbrev docuemantiona documentation
+iabbrev docuementation documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documenation documentation
@@ -941,10 +950,12 @@ iabbrev nergy energy
 iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev EnergtyStar EnergyStar
+iabbrev enginnering engineering
 iabbrev Enginereing Engineering
 iabbrev egineers engineers
 iabbrev enought enough
 iabbrev enrollement enrollment
+iabbrev Entch Entech
 iabbrev eneter enter
 iabbrev enteer enter
 iabbrev neter enter
@@ -1062,6 +1073,7 @@ iabbrev expononetials exponentials
 iabbrev exponnets exponents
 iabbrev exprot export
 iabbrev exproted exported
+iabbrev expowse expose
 iabbrev Expressoin Expression
 iabbrev extensibile extensible
 iabbrev extemrely extremely
@@ -1152,6 +1164,7 @@ iabbrev Froest Forest
 iabbrev fomr form
 iabbrev fomrat format
 iabbrev fomrs forms
+iabbrev forsm forms
 iabbrev formual formula
 iabbrev fomraulas formulas
 iabbrev formulats formulas
@@ -1228,6 +1241,7 @@ iabbrev Goiing Going
 iabbrev GOing Going
 iabbrev GOod Good
 iabbrev Googoel Google
+iabbrev govenrment government
 iabbrev governemnt government
 iabbrev graduyation graduation
 iabbrev grpahic graphic
@@ -1238,12 +1252,14 @@ iabbrev grpahsics graphics
 iabbrev graviational gravitational
 iabbrev Grenenwood Greenwood
 iabbrev Grennwood Greenwood
+iabbrev gorup group
 iabbrev gropu group
 iabbrev Grup Group
 iabbrev gropus groups
 iabbrev guarantted guaranteed
 iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
+iabbrev Guidleline Guideline
 iabbrev guideines guidelines
 iabbrev Guidleines Guidelines
 iabbrev ahd had
@@ -1270,6 +1286,7 @@ iabbrev ehating heating
 iabbrev heaing heating
 iabbrev heaint heating
 iabbrev heaitng heating
+iabbrev hleper helper
 iabbrev helpuful helpful
 iabbrev hree here
 iabbrev hueristics heuristics
@@ -1643,6 +1660,7 @@ iabbrev Modedling Modeling
 iabbrev Modleing Modeling
 iabbrev mdoels models
 iabbrev modesl models
+iabbrev modificatiuons modifications
 iabbrev modificiations modifications
 iabbrev modifeid modified
 iabbrev MOdified Modified
@@ -1653,6 +1671,7 @@ iabbrev mositure moisture
 iabbrev moels moles
 iabbrev moement moment
 iabbrev monaco Monaco
+iabbrev Mondayd Monday
 iabbrev MOnday Monday
 iabbrev MONday Monday
 iabbrev Mondnay Monday
@@ -1778,6 +1797,7 @@ iabbrev opitmal optimal
 iabbrev optiomal optimal
 iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
+iabbrev optimziatino optimization
 iabbrev optimziation optimization
 iabbrev OPptimziation Optimization
 iabbrev Optimziation Optimization
@@ -1785,6 +1805,7 @@ iabbrev opitions options
 iabbrev opitons options
 iabbrev optiosn options
 iabbrev ro or
+iabbrev organe orange
 iabbrev ordinacne ordinance
 iabbrev orgainzation organization
 iabbrev origianl original
@@ -1847,6 +1868,7 @@ iabbrev paritcular particular
 iabbrev particaular particular
 iabbrev particaulr particular
 iabbrev particualr particular
+iabbrev partiucular particular
 iabbrev particulary particularly
 iabbrev aprtition partition
 iabbrev partyy party
@@ -1878,6 +1900,7 @@ iabbrev PHawse Phase
 iabbrev pahases phases
 iabbrev philospohy philosophy
 iabbrev Pheonix Phoenix
+iabbrev phnoe phone
 iabbrev phoen phone
 iabbrev phycisal physical
 iabbrev physcally physically
@@ -1896,11 +1919,13 @@ iabbrev palnt plant
 iabbrev palusible plausible
 iabbrev pllt plot
 iabbrev plto plot
+iabbrev pltos plots
 iabbrev polts plots
 iabbrev pnematic pneumatic
 iabbrev pnumatic pneumatic
 iabbrev piont point
 iabbrev poitn point
+iabbrev popitn point
 iabbrev POint Point
 iabbrev Poitn Point
 iabbrev Ponit Point
@@ -2065,6 +2090,7 @@ iabbrev proportialn proportional
 iabbrev proportinal proportional
 iabbrev proportioanl proportional
 iabbrev proposla proposal
+iabbrev Proposlas Proposals
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev Porposed Proposed
@@ -2074,6 +2100,7 @@ iabbrev Pulliung Pulling
 iabbrev pmpups pumps
 iabbrev poumps pumps
 iabbrev upmps pumps
+iabbrev PUrple Purple
 iabbrev quaility quality
 iabbrev quailty quality
 iabbrev quaklity quality
@@ -2096,6 +2123,7 @@ iabbrev quilckly quickly
 iabbrev Quiclkly Quickly
 iabbrev quotoient quotient
 iabbrev radiof radio
+iabbrev RAdios Radios
 iabbrev reaise raise
 iabbrev reaised raised
 iabbrev rasing raising
@@ -2125,6 +2153,7 @@ iabbrev recieved received
 iabbrev Recieved Received
 iabbrev recoginition recognition
 iabbrev recoomendations recommendations
+iabbrev REconsile Reconcile
 iabbrev recoreded recorded
 iabbrev reduciton reduction
 iabbrev refacotr refactor
@@ -2166,6 +2195,7 @@ iabbrev remtoe remote
 iabbrev REmove Remove
 iabbrev Reomve Remove
 iabbrev reomved removed
+iabbrev reorganizatiojn reorganization
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev replacemetn replacement
@@ -2200,8 +2230,10 @@ iabbrev requiredy required
 iabbrev reuqired required
 iabbrev rueiquireed required
 iabbrev Requrired Required
+iabbrev requiremnet requirement
 iabbrev requiements requirements
 iabbrev requiremnets requirements
+iabbrev requrienments requirements
 iabbrev reuqires requires
 iabbrev reaseach research
 iabbrev reasearch research
@@ -2232,6 +2264,7 @@ iabbrev reuslts results
 iabbrev reaturn return
 iabbrev retun return
 iabbrev reutn return
+iabbrev reutnr return
 iabbrev reutrn return
 iabbrev reveiw review
 iabbrev Reveiew Review
@@ -2332,6 +2365,7 @@ iabbrev sqequence sequence
 iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
 iabbrev squesnces sequences
+iabbrev Sequencse Sequences
 iabbrev sequencialy sequentially
 iabbrev sequenctially sequentially
 iabbrev sereis series
@@ -2372,6 +2406,7 @@ iabbrev shwoon shown
 iabbrev showss shows
 iabbrev hsut shut
 iabbrev shuyt shut
+iabbrev shtudowns shutdowns
 iabbrev sidse side
 iabbrev signficant significant
 iabbrev significat significant
@@ -2508,6 +2543,7 @@ iabbrev succesful successful
 iabbrev successivley successively
 iabbrev usch such
 iabbrev suggesitons suggestions
+iabbrev sumarized summarized
 iabbrev sunslight sunlight
 iabbrev supercede supersede
 iabbrev Superceded Superseded
@@ -2742,6 +2778,7 @@ iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
 iabbrev htese these
 iabbrev thsee these
+iabbrev thses these
 iabbrev THese These
 iabbrev htey they
 iabbrev thye they
