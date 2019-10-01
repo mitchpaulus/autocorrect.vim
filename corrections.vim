@@ -949,6 +949,7 @@ iabbrev eneryg energy
 iabbrev nergy energy
 iabbrev ENergy Energy
 iabbrev Eneryg Energy
+iabbrev EenrgyPlus EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev enginnering engineering
 iabbrev Enginereing Engineering
@@ -1305,6 +1306,7 @@ iabbrev hositpal hospital
 iabbrev hto hot
 iabbrev horus hours
 iabbrev hoursin hours in
+iabbrev hrous hours
 iabbrev HOw How
 iabbrev howerver however
 iabbrev Howerver However
@@ -1536,6 +1538,7 @@ iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev lienar linear
 iabbrev liquied liquid
+iabbrev leisted listed
 iabbrev liests lists
 iabbrev literuate literate
 iabbrev lieterature literature
@@ -1693,6 +1696,7 @@ iabbrev mroe more
 iabbrev moring morning
 iabbrev morngin morning
 iabbrev mornign morning
+iabbrev mrongin morning
 iabbrev MOst Most
 iabbrev Mosty Mostly
 iabbrev moter motor
@@ -1724,6 +1728,7 @@ iabbrev neighbort neighbor
 iabbrev neightbaor neighbor
 iabbrev neightbor neighbor
 iabbrev NEssel Nessel
+iabbrev Nesslel Nessel
 iabbrev netowrk network
 iabbrev nework network
 iabbrev Netowrk Network
@@ -2157,6 +2162,7 @@ iabbrev REconsile Reconcile
 iabbrev recoreded recorded
 iabbrev reduciton reduction
 iabbrev refacotr refactor
+iabbrev Refacotr Refactor
 iabbrev Refacotring Refactoring
 iabbrev referecne reference
 iabbrev referencem reference
@@ -2811,6 +2817,7 @@ iabbrev Trhehsolds Thresholds
 iabbrev throght through
 iabbrev throught through
 iabbrev throuugh through
+iabbrev trhough through
 iabbrev trhought through
 iabbrev throughtout throughout
 iabbrev trhoughout throughout
