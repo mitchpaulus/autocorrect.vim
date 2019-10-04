@@ -5,6 +5,7 @@ iabbrev abourt about
 iabbrev aboutr about
 iabbrev aobut about
 iabbrev ABout About
+iabbrev absoule absolute
 iabbrev absoulte absolute
 iabbrev Acadmey Academy
 iabbrev accelearted accelerated
@@ -78,6 +79,7 @@ iabbrev alreayd already
 iabbrev alrfeayd already
 iabbrev alos also
 iabbrev aslo also
+iabbrev althoguh although
 iabbrev Althouugh Although
 iabbrev Athough Although
 iabbrev alsways always
@@ -644,6 +646,7 @@ iabbrev Cotnrl Control
 iabbrev contrlled controlled
 iabbrev conttrolled controlled
 iabbrev contorller controller
+iabbrev contreollers controllers
 iabbrev contorels controls
 iabbrev contorls controls
 iabbrev contreols controls
@@ -1085,6 +1088,7 @@ iabbrev Facilty Facility
 iabbrev facotr factor
 iabbrev fractor factor
 iabbrev Facotry Factory
+iabbrev Fahrenheti Fahrenheit
 iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
 iabbrev failry fairly
@@ -1169,6 +1173,7 @@ iabbrev forsm forms
 iabbrev formual formula
 iabbrev fomraulas formulas
 iabbrev formulats formulas
+iabbrev Fortunatlye Fortunately
 iabbrev forwareded forwarded
 iabbrev foudn found
 iabbrev Foudn Found
@@ -1350,6 +1355,7 @@ iabbrev importatnt important
 iabbrev improatnat important
 iabbrev improatnt important
 iabbrev improtant important
+iabbrev Improtant Important
 iabbrev imporve improve
 iabbrev ina in a
 iabbrev inb in
@@ -1806,6 +1812,7 @@ iabbrev optimziatino optimization
 iabbrev optimziation optimization
 iabbrev OPptimziation Optimization
 iabbrev Optimziation Optimization
+iabbrev optimzie optimize
 iabbrev opitions options
 iabbrev opitons options
 iabbrev optiosn options
@@ -1814,6 +1821,7 @@ iabbrev organe orange
 iabbrev ordinacne ordinance
 iabbrev orgainzation organization
 iabbrev origianl original
+iabbrev orignal original
 iabbrev oriigal original
 iabbrev oringial original
 iabbrev origianlly originally
@@ -1970,6 +1978,7 @@ iabbrev possiblity possibility
 iabbrev possilbe possible
 iabbrev posssible possible
 iabbrev possiblyh possibly
+iabbrev possilbiy possibly
 iabbrev possilby possibly
 iabbrev posssilby possibly
 iabbrev Possilby Possibly
@@ -2517,6 +2526,7 @@ iabbrev stpe step
 iabbrev stpes steps
 iabbrev sitll still
 iabbrev stil still
+iabbrev STill Still
 iabbrev stoped stopped
 iabbrev stoarge storage
 iabbrev stroed stored
@@ -2718,6 +2728,7 @@ iabbrev termialn terminal
 iabbrev termial terminal
 iabbrev termianil terminal
 iabbrev termianl terminal
+iabbrev termilan terminal
 iabbrev terminail terminal
 iabbrev terminla terminal
 iabbrev termnial terminal
@@ -2815,6 +2826,7 @@ iabbrev thresholld threshold
 iabbrev trhrehosld threshold
 iabbrev Trhehsolds Thresholds
 iabbrev throght through
+iabbrev throguh through
 iabbrev throught through
 iabbrev throuugh through
 iabbrev trhough through
@@ -3066,6 +3078,7 @@ iabbrev whqat what
 iabbrev whta what
 iabbrev WHat What
 iabbrev whne when
+iabbrev WHen When
 iabbrev Whne When
 iabbrev Wheer Where
 iabbrev whearas whereas
@@ -3110,6 +3123,7 @@ iabbrev WOkrking Working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev Workign Working
+iabbrev WOrkign Working
 iabbrev Workikng Working
 iabbrev Workingo Working
 iabbrev WOrking Working
