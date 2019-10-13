@@ -141,6 +141,7 @@ iabbrev applicaable applicable
 iabbrev appcoliacation application
 iabbrev applciation application
 iabbrev applicaiotn application
+iabbrev applicaitno application
 iabbrev applicaiton application
 iabbrev Applicaiotn Application
 iabbrev Applicaiton Application
@@ -220,6 +221,7 @@ iabbrev Attmept9ing Attempting
 iabbrev Attmepting Attempting
 iabbrev Attendence Attendance
 iabbrev attritbue attribute
+iabbrev Auguest August
 iabbrev authenticaiton authentication
 iabbrev Authorizastion Authorization
 iabbrev auot auto
@@ -347,6 +349,8 @@ iabbrev Buildgins Buildings
 iabbrev Buildigns Buildings
 iabbrev Buyidligns Buildings
 iabbrev Buyildings Buildings
+iabbrev builb bulb
+iabbrev bulib bulb
 iabbrev buit but
 iabbrev ubt but
 iabbrev butoton button
@@ -758,6 +762,8 @@ iabbrev dleeted deleted
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
 iabbrev develiverables deliverables
+iabbrev dmeand demand
+iabbrev dseamdn demand
 iabbrev Deamnd Demand
 iabbrev dnesity density
 iabbrev Deparment Department
@@ -1019,6 +1025,7 @@ iabbrev espciallly especially
 iabbrev espcially especially
 iabbrev especitaly especially
 iabbrev Especailly Especially
+iabbrev essense essence
 iabbrev essentialy essentially
 iabbrev eestimate estimate
 iabbrev esimate estimate
@@ -1081,6 +1088,7 @@ iabbrev expowse expose
 iabbrev Expressoin Expression
 iabbrev extensibile extensible
 iabbrev extemrely extremely
+iabbrev extrremely extremely
 iabbrev facebook Facebook
 iabbrev Facililty Facility
 iabbrev FAcility Facility
@@ -1716,6 +1724,7 @@ iabbrev anme name
 iabbrev naems names
 iabbrev namign naming
 iabbrev nautral natural
+iabbrev Natual Natural
 iabbrev narturally naturally
 iabbrev enearest nearest
 iabbrev enearsets nearest
@@ -1733,6 +1742,7 @@ iabbrev negithbor neighbor
 iabbrev neighbort neighbor
 iabbrev neightbaor neighbor
 iabbrev neightbor neighbor
+iabbrev NEessle Nessel
 iabbrev NEssel Nessel
 iabbrev Nesslel Nessel
 iabbrev netowrk network
@@ -1802,6 +1812,7 @@ iabbrev Operataitonal Operational
 iabbrev operaitons operations
 iabbrev Operaitons Operations
 iabbrev opportuniteis opportunities
+iabbrev opprotunity opportunity
 iabbrev oppsoed opposed
 iabbrev oppostie opposite
 iabbrev opitmal optimal
@@ -1825,6 +1836,7 @@ iabbrev orignal original
 iabbrev oriigal original
 iabbrev oringial original
 iabbrev origianlly originally
+iabbrev origined originated
 iabbrev originatign originating
 iabbrev ohter other
 iabbrev toher other
@@ -1845,11 +1857,13 @@ iabbrev Otulook Outlook
 iabbrev Outlooko Outlook
 iabbrev Outolloik Outlook
 iabbrev Outolok Outlook
+iabbrev otuptu output
 iabbrev ouptut output
 iabbrev ouput output
 iabbrev outup output
 iabbrev outupt output
 iabbrev outuptu output
+iabbrev outptus outputs
 iabbrev outliers outwears
 iabbrev overaching overarching
 iabbrev overestimat overestimate
@@ -2334,6 +2348,7 @@ iabbrev sciprt script
 iabbrev scrdipt script
 iabbrev scripot script
 iabbrev scritp script
+iabbrev Scirpt Script
 iabbrev Scirpted Scripted
 iabbrev scritps scripts
 iabbrev sripts scripts
@@ -2834,6 +2849,7 @@ iabbrev trhought through
 iabbrev throughtout throughout
 iabbrev trhoughout throughout
 iabbrev Thrusday Thursday
+iabbrev THrusday Thursday
 iabbrev Thrusdya Thursday
 iabbrev Thurdays Thursday
 iabbrev Thurdsya Thursday
@@ -2955,6 +2971,7 @@ iabbrev unnessecary unnecessary
 iabbrev unoccupiied unoccupied
 iabbrev unitl until
 iabbrev upodate update
+iabbrev UPdate Update
 iabbrev updaetgd updated
 iabbrev UPdates Updates
 iabbrev Updaitng Updating
@@ -3002,6 +3019,7 @@ iabbrev variaglbe variable
 iabbrev varialbe variable
 iabbrev varialbes variables
 iabbrev varialbles variables
+iabbrev varibables variables
 iabbrev variarnce variance
 iabbrev vairation variation
 iabbrev variabtion variation
@@ -3077,6 +3095,7 @@ iabbrev waht what
 iabbrev whqat what
 iabbrev whta what
 iabbrev WHat What
+iabbrev wehn when
 iabbrev whne when
 iabbrev WHen When
 iabbrev Whne When
