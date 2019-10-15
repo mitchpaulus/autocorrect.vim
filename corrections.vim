@@ -959,6 +959,7 @@ iabbrev nergy energy
 iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev EenrgyPlus EnergyPlus
+iabbrev ENergyPlus EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev enginnering engineering
 iabbrev Enginereing Engineering
@@ -1148,6 +1149,7 @@ iabbrev FInisheing Finishing
 iabbrev FInishing Finishing
 iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
+iabbrev FIx Fix
 iabbrev ifxes fixes
 iabbrev finxing fixing
 iabbrev FIxing Fixing
@@ -1781,6 +1783,7 @@ iabbrev nubmer number
 iabbrev nubmers numbers
 iabbrev numercial numerical
 iabbrev Numverical Numerical
+iabbrev obviusly obviously
 iabbrev occpunacy occupancy
 iabbrev occupnacy occupancy
 iabbrev occured occurred
@@ -2325,6 +2328,7 @@ iabbrev satifies satisfies
 iabbrev staturated saturated
 iabbrev Saturadya Saturday
 iabbrev svae save
+iabbrev saivngs savings
 iabbrev savinsg savings
 iabbrev svaings savings
 iabbrev asy say
