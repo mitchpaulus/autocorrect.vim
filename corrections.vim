@@ -23,6 +23,7 @@ iabbrev acheived achieved
 iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev activiation activation
+iabbrev Activew Active
 iabbrev activies activities
 iabbrev Acdtivies Activities
 iabbrev acutal actual
@@ -59,6 +60,7 @@ iabbrev ari air
 iabbrev iar air
 iabbrev Ari Air
 iabbrev airlfow airflow
+iabbrev ariflow airflow
 iabbrev Almao Alamo
 iabbrev alram alarm
 iabbrev alrams alarms
@@ -308,6 +310,7 @@ iabbrev Brikc Brick
 iabbrev briging bringing
 iabbrev brining bringing
 iabbrev braod broad
+iabbrev broek broke
 iabbrev browswer browser
 iabbrev buidl build
 iabbrev buidign building
@@ -382,6 +385,7 @@ iabbrev calicbrated calibrated
 iabbrev Calcibrated Calibrated
 iabbrev calibrationg calibrating
 iabbrev calbiraiton calibration
+iabbrev calibraiton calibration
 iabbrev calicbration calibration
 iabbrev calicration calibration
 iabbrev claibration calibration
@@ -589,6 +593,7 @@ iabbrev confifguraiton configuration
 iabbrev configuraiton configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
+iabbrev conencted connected
 iabbrev conenction connection
 iabbrev conneciton connection
 iabbrev consectuive consecutive
@@ -609,6 +614,7 @@ iabbrev ocnsatnt constant
 iabbrev ocnstant constant
 iabbrev Constatn Constant
 iabbrev Contstant Constant
+iabbrev construciton construction
 iabbrev constructoin construction
 iabbrev coinsumption consumption
 iabbrev constumption consumption
@@ -653,6 +659,7 @@ iabbrev contorller controller
 iabbrev contreollers controllers
 iabbrev contorels controls
 iabbrev contorls controls
+iabbrev contorrls controls
 iabbrev contreols controls
 iabbrev ocntrosl controls
 iabbrev Contrls Controls
@@ -729,6 +736,7 @@ iabbrev Dalas Dallas
 iabbrev DAllas Dallas
 iabbrev Dallsa Dallas
 iabbrev Dalls Dallas
+iabbrev DAmper Damper
 iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
@@ -741,6 +749,7 @@ iabbrev Daughther Daughter
 iabbrev DAve Dave
 iabbrev ady day
 iabbrev dayas days
+iabbrev Deadbaand Deadband
 iabbrev Decmember December
 iabbrev decidied decided
 iabbrev decreaesed decreased
@@ -817,6 +826,7 @@ iabbrev determineing determining
 iabbrev dtermining determining
 iabbrev devleoped developed
 iabbrev develeopemnet development
+iabbrev develeopment development
 iabbrev developement development
 iabbrev developemnet development
 iabbrev developemnt development
@@ -913,6 +923,7 @@ iabbrev dynaimally dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
 iabbrev econcomier economizer
+iabbrev econmizer economizer
 iabbrev economzier economizer
 iabbrev Edision Edison
 iabbrev Ediston Edison
@@ -935,6 +946,7 @@ iabbrev Eelctrical Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
 iabbrev eelctricy electricity
+iabbrev electicryyt electricity
 iabbrev electifcity electricity
 iabbrev electircity electricity
 iabbrev electiricyt electricity
@@ -950,6 +962,7 @@ iabbrev Eamil Email
 iabbrev evmails emails
 iabbrev emergingn emerging
 iabbrev empyt empty
+iabbrev eanble enable
 iabbrev enabeld enabled
 iabbrev ned end
 iabbrev endevor endeavor
@@ -1226,6 +1239,7 @@ iabbrev fucntions functions
 iabbrev funcitons functions
 iabbrev functdions functions
 iabbrev Fucnttions Functions
+iabbrev Furneral Funeral
 iabbrev furhter further
 iabbrev rurther further
 iabbrev furture future
@@ -1273,6 +1287,7 @@ iabbrev gropu group
 iabbrev Grup Group
 iabbrev gropus groups
 iabbrev guarantted guaranteed
+iabbrev GUardians Guardians
 iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
 iabbrev Guidleline Guideline
@@ -1431,10 +1446,13 @@ iabbrev nitial initial
 iabbrev INitial Initial
 iabbrev intially initially
 iabbrev initate initiate
+iabbrev Initialte Initiate
 iabbrev intitiating initiating
 iabbrev inelt inlet
 iabbrev linet inlet
 iabbrev innput input
+iabbrev inptu input
+iabbrev intput input
 iabbrev nput input
 iabbrev insensivitve insensitive
 iabbrev insenstive insensitive
@@ -1505,6 +1523,7 @@ iabbrev javascript JavaScript
 iabbrev Javascript JavaScript
 iabbrev jvavascript JavaScript
 iabbrev jbos jobs
+iabbrev JHohn John
 iabbrev Jhon John
 iabbrev JOhn John
 iabbrev Joihn John
@@ -1713,6 +1732,7 @@ iabbrev moring morning
 iabbrev morngin morning
 iabbrev mornign morning
 iabbrev mrongin morning
+iabbrev Mornigin Morning
 iabbrev MOst Most
 iabbrev Mosty Mostly
 iabbrev moter motor
@@ -1739,6 +1759,7 @@ iabbrev NEed Need
 iabbrev neeeds needs
 iabbrev n3egative negative
 iabbrev neagagive negative
+iabbrev Neglible Negligible
 iabbrev negibor neighbor
 iabbrev negithbor neighbor
 iabbrev neighbort neighbor
@@ -1870,6 +1891,7 @@ iabbrev outptus outputs
 iabbrev outliers outwears
 iabbrev overaching overarching
 iabbrev overestimat overestimate
+iabbrev OVerview Overview
 iabbrev packgae package
 iabbrev pakcaged packaged
 iabbrev apge page
@@ -1980,6 +2002,7 @@ iabbrev posistion position
 iabbrev positoin position
 iabbrev positon position
 iabbrev postiong position
+iabbrev Positon Position
 iabbrev positoins positions
 iabbrev posoitions positions
 iabbrev Posistions Positions
@@ -2044,6 +2067,7 @@ iabbrev Presentationg Presentation
 iabbrev presneted presented
 iabbrev apressure pressure
 iabbrev pressrue pressure
+iabbrev Preussue Pressure
 iabbrev dprevious previous
 iabbrev preiovus previous
 iabbrev preivous previous
@@ -2102,6 +2126,7 @@ iabbrev projedt project
 iabbrev projfct project
 iabbrev projfect project
 iabbrev projgect project
+iabbrev Porejct Project
 iabbrev Proejct Project
 iabbrev porjects projects
 iabbrev proejcts projects
@@ -2323,6 +2348,7 @@ iabbrev smapling sampling
 iabbrev sxampleing sampling
 iabbrev Smapling Sampling
 iabbrev Sarha Sarah
+iabbrev Sraah Sarah
 iabbrev satisfacotry satisfactory
 iabbrev satifies satisfies
 iabbrev staturated saturated
@@ -2412,6 +2438,9 @@ iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
 iabbrev setpoitn setpoint
 iabbrev Setpoitn Setpoint
+iabbrev Setpotin Setpoint
+iabbrev Stepoitn Setpoint
+iabbrev septoints setpoints
 iabbrev setpoitns setpoints
 iabbrev stepoints setpoints
 iabbrev stpeoints setpoints
@@ -2651,6 +2680,7 @@ iabbrev tempaeratuer temperature
 iabbrev tempaerautre temperature
 iabbrev tempaeruter temperature
 iabbrev tempaetuer temperature
+iabbrev tempareature temperature
 iabbrev tempartuer temperature
 iabbrev tempearature temperature
 iabbrev tempearture temperature
@@ -2759,6 +2789,7 @@ iabbrev Termain Terminal
 iabbrev Termianl Terminal
 iabbrev Terminail Terminal
 iabbrev termailns terminals
+iabbrev Temrinate Terminate
 iabbrev TExas Texas
 iabbrev texet text
 iabbrev htan than
@@ -2804,6 +2835,7 @@ iabbrev themal thermal
 iabbrev themral thermal
 iabbrev thermla thermal
 iabbrev THermal Thermal
+iabbrev Thermla Thermal
 iabbrev tehemodynamic thermodynamic
 iabbrev tehrmodyanmic thermodynamic
 iabbrev tehrmodynamic thermodynamic
@@ -2973,6 +3005,7 @@ iabbrev unecessary unnecessary
 iabbrev unneccessary unnecessary
 iabbrev unnessecary unnecessary
 iabbrev unoccupiied unoccupied
+iabbrev Unoccupeid Unoccupied
 iabbrev unitl until
 iabbrev upodate update
 iabbrev UPdate Update
@@ -3115,6 +3148,7 @@ iabbrev wikipedia wikipedia
 iabbrev widnow window
 iabbrev Windwos Windows
 iabbrev Windwows Windows
+iabbrev fwith with
 iabbrev iwth with
 iabbrev wiht with
 iabbrev wirth with
