@@ -3,6 +3,7 @@ iabbrev abillity ability
 iabbrev abiltily ability
 iabbrev abourt about
 iabbrev aboutr about
+iabbrev abvout about
 iabbrev aobut about
 iabbrev ABout About
 iabbrev absoule absolute
@@ -680,6 +681,7 @@ iabbrev convensition convention
 iabbrev convetino convention
 iabbrev convetion convention
 iabbrev ocnvention convention
+iabbrev convewrsation conversation
 iabbrev cooeld cooled
 iabbrev coolgin cooling
 iabbrev coolign cooling
@@ -740,6 +742,7 @@ iabbrev cusomt custom
 iabbrev cusotm custom
 iabbrev custiom custom
 iabbrev cusotmoer customer
+iabbrev CxRpeorter CxReporter
 iabbrev cycel cycle
 iabbrev cyclie cycle
 iabbrev cylce cycle
@@ -753,6 +756,7 @@ iabbrev damnper damper
 iabbrev dampe4r damper
 iabbrev dmaper damper
 iabbrev DAmper Damper
+iabbrev Danelli Daniel
 iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
@@ -799,6 +803,7 @@ iabbrev depdnd depend
 iabbrev dependance dependence
 iabbrev dependecies dependencies
 iabbrev dependeiing depending
+iabbrev dpeloying deploying
 iabbrev derivateive derivative
 iabbrev deriviate derivative
 iabbrev deriviateve derivative
@@ -821,6 +826,7 @@ iabbrev disgnation designation
 iabbrev edesignation designation
 iabbrev desiging designing
 iabbrev deesriable desirable
+iabbrev Desitny Destiny
 iabbrev detial detail
 iabbrev etail detail
 iabbrev Detial Detail
@@ -914,6 +920,7 @@ iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documenation documentation
 iabbrev documentaion documentation
+iabbrev documentaiont documentation
 iabbrev documentaiton documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
@@ -1084,6 +1091,7 @@ iabbrev Eruopean European
 iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
 iabbrev evalueaiton evaluation
+iabbrev ewven even
 iabbrev everytone everyone
 iabbrev evertyhgin everything
 iabbrev everyting everything
@@ -1170,6 +1178,7 @@ iabbrev ifle file
 iabbrev fiels files
 iabbrev iles files
 iabbrev Fillign Filling
+iabbrev Fuilling Filling
 iabbrev filan final
 iabbrev finla final
 iabbrev FInal Final
@@ -1422,6 +1431,7 @@ iabbrev importatnt important
 iabbrev improatnat important
 iabbrev improatnt important
 iabbrev improtant important
+iabbrev Improatant Important
 iabbrev Improtant Important
 iabbrev imporve improve
 iabbrev ina in a
@@ -1610,6 +1620,7 @@ iabbrev libary library
 iabbrev librayr library
 iabbrev Libarrya Library
 iabbrev LIbrary Library
+iabbrev Librayr Library
 iabbrev lgighting lighting
 iabbrev Lighing Lighting
 iabbrev liek like
@@ -1671,6 +1682,7 @@ iabbrev Managnemnt Management
 iabbrev mangatger manager
 iabbrev manmual manual
 iabbrev manula manual
+iabbrev mahy many
 iabbrev mnay many
 iabbrev mapas maps
 iabbrev Marhc March
@@ -1744,6 +1756,7 @@ iabbrev mdoel model
 iabbrev modle model
 iabbrev Modle Model
 iabbrev mdoeling modeling
+iabbrev mdoleing modeling
 iabbrev modleing modeling
 iabbrev modlieng modeling
 iabbrev Modedling Modeling
@@ -2142,8 +2155,10 @@ iabbrev Preussue Pressure
 iabbrev dprevious previous
 iabbrev preiovus previous
 iabbrev preivous previous
+iabbrev PRevious Previous
 iabbrev precviously previously
 iabbrev previlsy previously
+iabbrev previousy previously
 iabbrev previulsy previously
 iabbrev Previoulsy Previously
 iabbrev priece price
@@ -2375,6 +2390,7 @@ iabbrev resistnace resistance
 iabbrev resistnatce resistance
 iabbrev resoluution resolution
 iabbrev resoelves resolves
+iabbrev Resourees Resources
 iabbrev erspect respect
 iabbrev respcet respect
 iabbrev respecdt respect
@@ -2543,6 +2559,7 @@ iabbrev setpoins setpoints
 iabbrev setpoitns setpoints
 iabbrev stepoints setpoints
 iabbrev stpeoints setpoints
+iabbrev SEts Sets
 iabbrev setintg setting
 iabbrev seetup setup
 iabbrev setps setups
@@ -2574,6 +2591,7 @@ iabbrev signficant significant
 iabbrev significat significant
 iabbrev Significatly Significantly
 iabbrev simialr similar
+iabbrev smilar similar
 iabbrev similarily similarly
 iabbrev sijmple simple
 iabbrev simplications simplifications
@@ -2873,6 +2891,7 @@ iabbrev tempalate template
 iabbrev tempalte template
 iabbrev tmeplate template
 iabbrev Tempalte Template
+iabbrev TEmplate Template
 iabbrev tempaltes templates
 iabbrev templasets templates
 iabbrev Tempelatse Templates
@@ -3145,6 +3164,7 @@ iabbrev updaetgd updated
 iabbrev UPdates Updates
 iabbrev Updaitng Updating
 iabbrev UPdating Updating
+iabbrev Upodaitng Updating
 iabbrev updload upload
 iabbrev uplaod upload
 iabbrev upldoad upload
