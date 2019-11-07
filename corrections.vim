@@ -317,6 +317,7 @@ iabbrev briging bringing
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev broek broke
+iabbrev broekn broken
 iabbrev browswer browser
 iabbrev buidl build
 iabbrev buidign building
@@ -500,6 +501,7 @@ iabbrev coli coil
 iabbrev COil Coil
 iabbrev collabloariton collaboration
 iabbrev collaboartion collaboration
+iabbrev Collaboraiton Collaboration
 iabbrev coollected collected
 iabbrev colleciotns collection
 iabbrev colleciton collection
@@ -564,6 +566,7 @@ iabbrev compnay company
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev Comapss Compass
+iabbrev Coppmpass Compass
 iabbrev competiting competing
 iabbrev ocmplield compiled
 iabbrev pcompiled compiled
@@ -1063,6 +1066,7 @@ iabbrev equipoment equipment
 iabbrev equpiment equipment
 iabbrev euqipment equipment
 iabbrev qeuipment equipment
+iabbrev qeuiqpment equipment
 iabbrev Equiapment Equipment
 iabbrev Equipement Equipment
 iabbrev Equipemnt Equipment
@@ -1274,6 +1278,7 @@ iabbrev Functianl Functional
 iabbrev Functinal Functional
 iabbrev Functioanl Functional
 iabbrev fucntionality functionality
+iabbrev funcdtioanliy functionality
 iabbrev functioanlity functionality
 iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
@@ -1294,6 +1299,7 @@ iabbrev Generla General
 iabbrev Genral General
 iabbrev Gneeral General
 iabbrev gnerally generally
+iabbrev generatretd generated
 iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev Generageted Generated
@@ -1372,6 +1378,7 @@ iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
+iabbrev histoyr history
 iabbrev HOliday Holiday
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
@@ -1757,6 +1764,7 @@ iabbrev modle model
 iabbrev Modle Model
 iabbrev mdoeling modeling
 iabbrev mdoleing modeling
+iabbrev modelign modeling
 iabbrev modleing modeling
 iabbrev modlieng modeling
 iabbrev Modedling Modeling
@@ -2417,6 +2425,7 @@ iabbrev REturn Return
 iabbrev reveiw review
 iabbrev Reveiew Review
 iabbrev Reveiw Review
+iabbrev Reivewing Reviewing
 iabbrev reisit revisit
 iabbrev rightt right
 iabbrev riese rise
@@ -2471,6 +2480,7 @@ iabbrev sciprt script
 iabbrev scrdipt script
 iabbrev scripot script
 iabbrev scritp script
+iabbrev scsript script
 iabbrev Scirpt Script
 iabbrev Scirpted Scripted
 iabbrev scritps scripts
@@ -2919,6 +2929,7 @@ iabbrev termiajnl terminal
 iabbrev termialn terminal
 iabbrev termial terminal
 iabbrev termianil terminal
+iabbrev termianli terminal
 iabbrev termianl terminal
 iabbrev termilan terminal
 iabbrev terminail terminal
@@ -3101,6 +3112,7 @@ iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
 iabbrev TUrns Turns
+iabbrev twicew twice
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
@@ -3175,6 +3187,7 @@ iabbrev updlads uploads
 iabbrev url URL
 iabbrev useage usage
 iabbrev uesd used
+iabbrev usefuli useful
 iabbrev useufl useful
 iabbrev usfeul useful
 iabbrev usefullness usefulness
