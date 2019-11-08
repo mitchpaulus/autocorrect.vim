@@ -1984,6 +1984,7 @@ iabbrev pakcaged packaged
 iabbrev apge page
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
+iabbrev apramater parameter
 iabbrev aprameter parameter
 iabbrev paraameter parameter
 iabbrev paramter parameter
@@ -2623,6 +2624,7 @@ iabbrev siziung sizing
 iabbrev skilsl skills
 iabbrev lslides slides
 iabbrev sloep slope
+iabbrev slwodown slowdown
 iabbrev samll small
 iabbrev samrt smart
 iabbrev Simth Smith
@@ -3193,6 +3195,7 @@ iabbrev usfeul useful
 iabbrev usefullness usefulness
 iabbrev suer user
 iabbrev us9ing using
+iabbrev useing using
 iabbrev usign using
 iabbrev usingn using
 iabbrev usula usual
