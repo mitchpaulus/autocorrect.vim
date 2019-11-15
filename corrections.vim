@@ -825,6 +825,7 @@ iabbrev descritive descriptive
 iabbrev desgin design
 iabbrev desing design
 iabbrev Desing Design
+iabbrev Dessign Design
 iabbrev disgnation designation
 iabbrev edesignation designation
 iabbrev desiging designing
@@ -1560,6 +1561,7 @@ iabbrev INvestigate Investigate
 iabbrev Investiaged Investigated
 iabbrev investigatign investigating
 iabbrev Invesitgating Investigating
+iabbrev Investiagating Investigating
 iabbrev Investingating Investigating
 iabbrev invesitgation investigation
 iabbrev investement investment
@@ -2021,6 +2023,7 @@ iabbrev pepople people
 iabbrev popele people
 iabbrev perfomance performance
 iabbrev perforamcne performance
+iabbrev perforamnce performance
 iabbrev performacne performance
 iabbrev Perfomrance Performance
 iabbrev performaning performing
@@ -2145,6 +2148,7 @@ iabbrev prefunctiaonls prefunctionals
 iabbrev Prelimiary Preliminary
 iabbrev permier premier
 iabbrev preoparation preparation
+iabbrev preprationa preparation
 iabbrev preparting preparing
 iabbrev prerequitsite prerequisite
 iabbrev Prequisite Prerequisite
@@ -2152,6 +2156,7 @@ iabbrev Prerequistiee Prerequisite
 iabbrev presecne presence
 iabbrev prensenation presentation
 iabbrev preseentaiotn presentation
+iabbrev presentaion presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
 iabbrev presentatino presentation
@@ -2309,6 +2314,7 @@ iabbrev REconsile Reconcile
 iabbrev recoreded recorded
 iabbrev reduciton reduction
 iabbrev refacotr refactor
+iabbrev refactyor refactor
 iabbrev Refacotr Refactor
 iabbrev Refacotring Refactoring
 iabbrev referecne reference
@@ -3283,6 +3289,7 @@ iabbrev Wednesady Wednesday
 iabbrev Wednesayd Wednesday
 iabbrev Wednesdady Wednesday
 iabbrev Wednesdayd Wednesday
+iabbrev WednesdaY Wednesday
 iabbrev WEdnesday Wednesday
 iabbrev Wednesdday Wednesday
 iabbrev Wednesdya Wednesday
