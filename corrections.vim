@@ -90,6 +90,7 @@ iabbrev althoguh although
 iabbrev Althouugh Although
 iabbrev Athough Although
 iabbrev alsways always
+iabbrev alwyas always
 iabbrev amounto amount
 iabbrev amoutn amount
 iabbrev analougous analogous
@@ -233,6 +234,7 @@ iabbrev authenticaiton authentication
 iabbrev Authorizastion Authorization
 iabbrev auot auto
 iabbrev automaated automated
+iabbrev automateds automated
 iabbrev autiomatic automatic
 iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
@@ -317,6 +319,7 @@ iabbrev briging bringing
 iabbrev brining bringing
 iabbrev braod broad
 iabbrev broek broke
+iabbrev borken broken
 iabbrev broekn broken
 iabbrev browswer browser
 iabbrev buidl build
@@ -390,6 +393,7 @@ iabbrev caluclator calculator
 iabbrev Calcuoator Calculator
 iabbrev Calander Calendar
 iabbrev calicbrated calibrated
+iabbrev clabirated calibrated
 iabbrev Calcibrated Calibrated
 iabbrev calibrationg calibrating
 iabbrev calbiraiton calibration
@@ -604,6 +608,7 @@ iabbrev condusive conducive
 iabbrev conductinve conductive
 iabbrev condifience confidence
 iabbrev confifguraiton configuration
+iabbrev configuation configuration
 iabbrev configuraiton configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
@@ -638,6 +643,7 @@ iabbrev consukmption consumption
 iabbrev consumptiohj consumption
 iabbrev contaienr container
 iabbrev contaiuner container
+iabbrev conteirner container
 iabbrev contianer container
 iabbrev continaer container
 iabbrev Conntainer Container
@@ -685,6 +691,7 @@ iabbrev convetino convention
 iabbrev convetion convention
 iabbrev ocnvention convention
 iabbrev convewrsation conversation
+iabbrev convewrrt convert
 iabbrev cooeld cooled
 iabbrev coolgin cooling
 iabbrev coolign cooling
@@ -1010,6 +1017,7 @@ iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev EenrgyPlus EnergyPlus
 iabbrev ENergyPlus EnergyPlus
+iabbrev energypuls EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev enginnering engineering
 iabbrev Enginereing Engineering
@@ -1129,6 +1137,7 @@ iabbrev epansion expansion
 iabbrev exapansion expansion
 iabbrev expansionj expansion
 iabbrev expecst expect
+iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
 iabbrev Explaingin Explaining
@@ -1171,6 +1180,8 @@ iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev Fideliuty Fidelity
+iabbrev Fidleity Fidelity
+iabbrev Fielity Fidelity
 iabbrev feild field
 iabbrev felied field
 iabbrev feilds fields
@@ -1178,6 +1189,7 @@ iabbrev fileds fields
 iabbrev Figurte Figure
 iabbrev fiel file
 iabbrev figle file
+iabbrev filre file
 iabbrev gile file
 iabbrev ifle file
 iabbrev fiels files
@@ -1279,6 +1291,7 @@ iabbrev Functianl Functional
 iabbrev Functinal Functional
 iabbrev Functioanl Functional
 iabbrev fucntionality functionality
+iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
 iabbrev functioanlity functionality
 iabbrev ufnctionality functionality
@@ -1693,6 +1706,7 @@ iabbrev manmual manual
 iabbrev manula manual
 iabbrev mahy many
 iabbrev mnay many
+iabbrev mappign mapping
 iabbrev mapas maps
 iabbrev Marhc March
 iabbrev Marhd March
@@ -1768,6 +1782,7 @@ iabbrev mdoeling modeling
 iabbrev mdoleing modeling
 iabbrev modelign modeling
 iabbrev modleing modeling
+iabbrev modleling modeling
 iabbrev modlieng modeling
 iabbrev Modedling Modeling
 iabbrev Modleing Modeling
@@ -1811,6 +1826,7 @@ iabbrev Mornigin Morning
 iabbrev MOst Most
 iabbrev Mosty Mostly
 iabbrev moter motor
+iabbrev movew move
 iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
@@ -1938,6 +1954,7 @@ iabbrev origianl original
 iabbrev orignal original
 iabbrev oriigal original
 iabbrev oringial original
+iabbrev Origilan Original
 iabbrev origianlly originally
 iabbrev origined originated
 iabbrev originatign originating
@@ -2312,6 +2329,7 @@ iabbrev recoginition recognition
 iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
 iabbrev recoreded recorded
+iabbrev REdoing Redoing
 iabbrev reduciton reduction
 iabbrev refacotr refactor
 iabbrev refactyor refactor
@@ -2415,6 +2433,7 @@ iabbrev repsonse response
 iabbrev responsibilites responsibilities
 iabbrev responsiblities responsibilities
 iabbrev Repsonsible Responsible
+iabbrev restartign restarting
 iabbrev restaturant restaurant
 iabbrev resturcted restructured
 iabbrev restul result
@@ -2471,6 +2490,7 @@ iabbrev scenarious scenarios
 iabbrev schdeule schedule
 iabbrev schdule schedule
 iabbrev scheudle schedule
+iabbrev Scheudle Schedule
 iabbrev Scheudule Schedule
 iabbrev Schewdule Schedule
 iabbrev scheduleted scheduled
@@ -2767,6 +2787,7 @@ iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
 iabbrev surveryed surveyed
 iabbrev suscepible susceptible
+iabbrev Swithc Switch
 iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev Sycn Sync
@@ -3320,6 +3341,7 @@ iabbrev whitle while
 iabbrev Whiel While
 iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
+iabbrev iwndow window
 iabbrev widnow window
 iabbrev Windwos Windows
 iabbrev Windwows Windows
