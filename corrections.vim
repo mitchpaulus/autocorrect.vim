@@ -190,6 +190,7 @@ iabbrev aree are
 iabbrev raea area
 iabbrev argumentets arguments
 iabbrev Arthimetic Arithmetic
+iabbrev aorund around
 iabbrev arond around
 iabbrev aroudn around
 iabbrev arrya array
@@ -309,6 +310,7 @@ iabbrev bookelt booklet
 iabbrev obsses bosses
 iabbrev gboth both
 iabbrev boudn bound
+iabbrev boudnaries boundaries
 iabbrev boudnary boundary
 iabbrev boudns bounds
 iabbrev Bouqet Bouquet
@@ -1695,6 +1697,7 @@ iabbrev Maintenacen Maintenance
 iabbrev moajority majority
 iabbrev amke make
 iabbrev makea make a
+iabbrev Mkae Make
 iabbrev Mkaefile Makefile
 iabbrev magnage manage
 iabbrev managmeent management
@@ -1868,6 +1871,7 @@ iabbrev nerutla neutral
 iabbrev netrual neutral
 iabbrev netural neutral
 iabbrev neturla neutral
+iabbrev NExant Nexant
 iabbrev Nexasnt Nexant
 iabbrev nexzt next
 iabbrev nomeclature nomenclature
