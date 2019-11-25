@@ -753,7 +753,9 @@ iabbrev cureves curves
 iabbrev cusomt custom
 iabbrev cusotm custom
 iabbrev custiom custom
+iabbrev custmo custom
 iabbrev cusotmoer customer
+iabbrev CxReproter CxReporter
 iabbrev CxRpeorter CxReporter
 iabbrev cycel cycle
 iabbrev cyclie cycle
@@ -901,6 +903,7 @@ iabbrev directins directions
 iabbrev direclty directly
 iabbrev drieclty directly
 iabbrev driectly directly
+iabbrev direcdtory directory
 iabbrev direcotry directory
 iabbrev directoy directory
 iabbrev directoyr directory
@@ -1233,6 +1236,7 @@ iabbrev flwo flow
 iabbrev lfow flow
 iabbrev flucuation fluctuation
 iabbrev fodler folder
+iabbrev foler folder
 iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev folloiwing following
@@ -1295,6 +1299,7 @@ iabbrev Functioanl Functional
 iabbrev fucntionality functionality
 iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
+iabbrev funcitonality functionality
 iabbrev functioanlity functionality
 iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
@@ -1324,6 +1329,7 @@ iabbrev geneartor generator
 iabbrev gnerator generator
 iabbrev Georger George
 iabbrev geetting getting
+iabbrev gettign getting
 iabbrev Geting Getting
 iabbrev Github GitHub
 iabbrev givne given
@@ -1395,6 +1401,7 @@ iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev histoyr history
+iabbrev Holdity Holiday
 iabbrev HOliday Holiday
 iabbrev HOliddays Holidays
 iabbrev horizonatal horizontal
@@ -2074,6 +2081,7 @@ iabbrev pcitures pictures
 iabbrev picutres pictures
 iabbrev peice piece
 iabbrev peices pieces
+iabbrev palce place
 iabbrev placehodler placeholder
 iabbrev paln plan
 iabbrev pland plan
@@ -2455,6 +2463,7 @@ iabbrev REturn Return
 iabbrev reveiw review
 iabbrev Reveiew Review
 iabbrev Reveiw Review
+iabbrev Reiveiwing Reviewing
 iabbrev Reivewing Reviewing
 iabbrev reisit revisit
 iabbrev rightt right
@@ -3144,11 +3153,13 @@ iabbrev Tuesdday Tuesday
 iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
+iabbrev Tuyesdayf Tuesday
 iabbrev TUrns Turns
 iabbrev twicew twice
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
+iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
 iabbrev TYpeScript TypeScript
 iabbrev typiuckal typical
