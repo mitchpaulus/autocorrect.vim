@@ -20,6 +20,7 @@ iabbrev accoridng according
 iabbrev Accordiing According
 iabbrev accoreidnly accordingly
 iabbrev accoutn account
+iabbrev accoutned accounted
 iabbrev acheived achieved
 iabbrev acroyms acronyms
 iabbrev accross across
@@ -41,6 +42,7 @@ iabbrev Actuatoar Actuator
 iabbrev Adaptaiton Adaptation
 iabbrev addiiton addition
 iabbrev addiitonal additional
+iabbrev additioanl additional
 iabbrev additonitnal additional
 iabbrev dadditional additional
 iabbrev Addiitonal Additional
@@ -695,6 +697,7 @@ iabbrev ocnvention convention
 iabbrev convewrsation conversation
 iabbrev convewrrt convert
 iabbrev cooeld cooled
+iabbrev cooilng cooling
 iabbrev coolgin cooling
 iabbrev coolign cooling
 iabbrev coolking cooling
@@ -915,6 +918,7 @@ iabbrev dscovery discovery
 iabbrev discussiung discussing
 iabbrev discusion discussion
 iabbrev disscussionn discussion
+iabbrev disucssion discussion
 iabbrev Discusison Discussion
 iabbrev Disucssion Discussion
 iabbrev dispaly display
@@ -1013,6 +1017,7 @@ iabbrev emergingn emerging
 iabbrev empyt empty
 iabbrev eanble enable
 iabbrev enabeld enabled
+iabbrev enalbed enabled
 iabbrev ned end
 iabbrev endevor endeavor
 iabbrev enenrgy energy
@@ -1186,6 +1191,7 @@ iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev Fideliuty Fidelity
 iabbrev Fidleity Fidelity
+iabbrev Fiedlity Fidelity
 iabbrev Fielity Fidelity
 iabbrev feild field
 iabbrev felied field
@@ -1199,6 +1205,7 @@ iabbrev gile file
 iabbrev ifle file
 iabbrev fiels files
 iabbrev iles files
+iabbrev fil fill
 iabbrev Fillign Filling
 iabbrev Fuilling Filling
 iabbrev filan final
@@ -1267,6 +1274,7 @@ iabbrev foudn found
 iabbrev Foudn Found
 iabbrev foru four
 iabbrev Foiruier Fourier
+iabbrev frawerwork framework
 iabbrev Francsios Francisco
 iabbrev Frnak Frank
 iabbrev Firday Friday
@@ -1301,6 +1309,7 @@ iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
 iabbrev funcitonality functionality
 iabbrev functioanlity functionality
+iabbrev functionaliyt functionality
 iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
 iabbrev fucntions functions
@@ -1509,6 +1518,7 @@ iabbrev informatino information
 iabbrev informatoin information
 iabbrev infromation information
 iabbrev iniofmration information
+iabbrev inmfromation information
 iabbrev inoformation information
 iabbrev inofrmaiton information
 iabbrev inofrmaotn information
@@ -1625,6 +1635,7 @@ iabbrev dkey key
 iabbrev Kimal Kimla
 iabbrev ktichen kitchen
 iabbrev knoiwldege knowledge
+iabbrev knonw known
 iabbrev knwon known
 iabbrev albvel label
 iabbrev lable label
@@ -1696,6 +1707,7 @@ iabbrev magintuide magnitude
 iabbrev mial mail
 iabbrev mian main
 iabbrev Mian Main
+iabbrev maintainablity maintainability
 iabbrev maintinained maintained
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
@@ -1750,6 +1762,7 @@ iabbrev measuremensts measurements
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
 iabbrev measrues measures
+iabbrev mechancial mechanical
 iabbrev mechancila mechanical
 iabbrev mechanicla mechanical
 iabbrev Mechanicla Mechanical
@@ -1777,6 +1790,7 @@ iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
 iabbrev minimimum minimum
 iabbrev Minimmum Minimum
+iabbrev minnute minute
 iabbrev mintue minute
 iabbrev Mintue Minute
 iabbrev mintues minutes
@@ -1840,6 +1854,7 @@ iabbrev movew move
 iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
+iabbrev multipoliers multipliers
 iabbrev multipling multiplying
 iabbrev myslef myself
 iabbrev anem name
@@ -2466,6 +2481,7 @@ iabbrev Reveiw Review
 iabbrev Reiveiwing Reviewing
 iabbrev Reivewing Reviewing
 iabbrev reisit revisit
+iabbrev Ricahrd Richard
 iabbrev rightt right
 iabbrev riese rise
 iabbrev rooom room
@@ -2717,6 +2733,7 @@ iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev sql SQL
+iabbrev Sql SQL
 iabbrev sqauare square
 iabbrev sqwuare square
 iabbrev suare square
@@ -3358,6 +3375,7 @@ iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
 iabbrev iwndow window
 iabbrev widnow window
+iabbrev windwow window
 iabbrev Windwos Windows
 iabbrev Windwows Windows
 iabbrev fwith with
