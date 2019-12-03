@@ -431,6 +431,7 @@ iabbrev cuase cause
 iabbrev clell cell
 iabbrev Celcius Celsius
 iabbrev cetner center
+iabbrev cewtner center
 iabbrev cneter center
 iabbrev cnetal central
 iabbrev cnetral central
@@ -467,6 +468,7 @@ iabbrev checkdlists checklists
 iabbrev chekclists checklists
 iabbrev chekcout checkout
 iabbrev checkes checks
+iabbrev chekcs checks
 iabbrev Cheerry Cherry
 iabbrev Cherrpy Cherry
 iabbrev Chery Cherry
@@ -1197,6 +1199,7 @@ iabbrev feild field
 iabbrev felied field
 iabbrev feilds fields
 iabbrev fileds fields
+iabbrev filelds fields
 iabbrev Figurte Figure
 iabbrev fiel file
 iabbrev figle file
@@ -1336,6 +1339,7 @@ iabbrev Generageted Generated
 iabbrev gneeration generation
 iabbrev geneartor generator
 iabbrev gnerator generator
+iabbrev geometyr geometry
 iabbrev Georger George
 iabbrev geetting getting
 iabbrev gettign getting
@@ -2077,6 +2081,7 @@ iabbrev permannet permanent
 iabbrev permissioniongs permissions
 iabbrev permissioniosn permissions
 iabbrev permissionnis permissions
+iabbrev Premissions Permissions
 iabbrev perisonal personal
 iabbrev perosnal personal
 iabbrev personla personal
@@ -2089,6 +2094,7 @@ iabbrev philospohy philosophy
 iabbrev Pheonix Phoenix
 iabbrev phnoe phone
 iabbrev phoen phone
+iabbrev Phoen Phone
 iabbrev phycisal physical
 iabbrev physcally physically
 iabbrev pinao piano
@@ -2418,6 +2424,7 @@ iabbrev Repoort Report
 iabbrev Reprot Report
 iabbrev Reporeter Reporter
 iabbrev Reporetr Reporter
+iabbrev REporter Reporter
 iabbrev Reproter Reporter
 iabbrev reporitng reporting
 iabbrev reportign reporting
@@ -3006,6 +3013,7 @@ iabbrev temrinate terminate
 iabbrev Temrinate Terminate
 iabbrev TExas Texas
 iabbrev texet text
+iabbrev texst text
 iabbrev htan than
 iabbrev thna than
 iabbrev athat that
@@ -3274,6 +3282,7 @@ iabbrev avlue value
 iabbrev valeu value
 iabbrev vlaue value
 iabbrev avlues values
+iabbrev valeus values
 iabbrev valuse values
 iabbrev vlues values
 iabbrev vlave valve
@@ -3368,6 +3377,7 @@ iabbrev Wheer Where
 iabbrev whearas whereas
 iabbrev wehther whether
 iabbrev whthere whether
+iabbrev hwile while
 iabbrev whilee while
 iabbrev whitle while
 iabbrev Whiel While
