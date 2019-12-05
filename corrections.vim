@@ -458,6 +458,7 @@ iabbrev characteritsics characteristics
 iabbrev chartr chart
 iabbrev chrat chart
 iabbrev chekc check
+iabbrev CHeck Check
 iabbrev Cheeck Check
 iabbrev checkedd checked
 iabbrev chekcing checking
@@ -559,6 +560,7 @@ iabbrev Commissiongin Commissioning
 iabbrev Commissionging Commissioning
 iabbrev Commissionign Commissioning
 iabbrev Commissionings Commissioning
+iabbrev Commissiooing Commissioning
 iabbrev Commisssiong Commissioning
 iabbrev Commisssiongin Commissioning
 iabbrev Commjissiong Commissioning
@@ -576,7 +578,9 @@ iabbrev compnay company
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev Comapss Compass
+iabbrev Compas Compass
 iabbrev Coppmpass Compass
+iabbrev Compoatibility Compatibility
 iabbrev competiting competing
 iabbrev ocmplield compiled
 iabbrev pcompiled compiled
@@ -887,6 +891,7 @@ iabbrev devicee device
 iabbrev edevices devices
 iabbrev Deval Devil
 iabbrev Deveil Devil
+iabbrev digarm diagram
 iabbrev dailog dialog
 iabbrev Dictiorany Dictionary
 iabbrev DId Did
@@ -1012,6 +1017,7 @@ iabbrev elemnmet element
 iabbrev evevation elevation
 iabbrev elevatiaonl elevational
 iabbrev elswe else
+iabbrev emali email
 iabbrev emial email
 iabbrev Eamil Email
 iabbrev evmails emails
@@ -1121,6 +1127,7 @@ iabbrev everytone everyone
 iabbrev evertyhgin everything
 iabbrev everyting everything
 iabbrev everytingh everything
+iabbrev Everythign Everything
 iabbrev exampel example
 iabbrev exmaple example
 iabbrev exmpale example
@@ -1152,6 +1159,7 @@ iabbrev expecst expect
 iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
+iabbrev explainign explaining
 iabbrev Explaingin Explaining
 iabbrev Explations Explanations
 iabbrev expliclit explicit
@@ -1171,6 +1179,7 @@ iabbrev facebook Facebook
 iabbrev Facililty Facility
 iabbrev FAcility Facility
 iabbrev Facilty Facility
+iabbrev FacillityGrid FacilityGrid
 iabbrev facotr factor
 iabbrev fractor factor
 iabbrev Facotry Factory
@@ -1224,6 +1233,7 @@ iabbrev fidn find
 iabbrev ifnd find
 iabbrev finsih finish
 iabbrev FInish Finish
+iabbrev Finsih Finish
 iabbrev fiinished finished
 iabbrev FInished Finished
 iabbrev Finsihed Finished
@@ -1449,6 +1459,7 @@ iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impelmentation implementation
 iabbrev Impelmentation Implementation
+iabbrev Implemntation Implementation
 iabbrev Impelmemtner Implementer
 iabbrev Impelmenter Implementer
 iabbrev Impelmentmer Implementer
@@ -1500,6 +1511,7 @@ iabbrev ijndividual individual
 iabbrev indifivalu individual
 iabbrev indiviual individual
 iabbrev indiviudal individual
+iabbrev individaully individually
 iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
@@ -1698,6 +1710,7 @@ iabbrev locaiton location
 iabbrev loction location
 iabbrev locaiotns locations
 iabbrev locaitons locations
+iabbrev lgo log
 iabbrev logisitcs logistics
 iabbrev slong long
 iabbrev Looiking Looking
@@ -1769,6 +1782,7 @@ iabbrev measrues measures
 iabbrev mechancial mechanical
 iabbrev mechancila mechanical
 iabbrev mechanicla mechanical
+iabbrev Mechancial Mechanical
 iabbrev Mechanicla Mechanical
 iabbrev meadian median
 iabbrev meetign meeting
@@ -2082,6 +2096,7 @@ iabbrev permissioniongs permissions
 iabbrev permissioniosn permissions
 iabbrev permissionnis permissions
 iabbrev Premissions Permissions
+iabbrev prequisitve perquisite
 iabbrev perisonal personal
 iabbrev perosnal personal
 iabbrev personla personal
@@ -2102,6 +2117,7 @@ iabbrev pcitures pictures
 iabbrev picutres pictures
 iabbrev peice piece
 iabbrev peices pieces
+iabbrev pipelien pipeline
 iabbrev palce place
 iabbrev placehodler placeholder
 iabbrev paln plan
@@ -2136,6 +2152,7 @@ iabbrev popualted populated
 iabbrev protable portable
 iabbrev protfolio portfolio
 iabbrev Protfoilo Portfolio
+iabbrev Protfolio Portfolio
 iabbrev porition portion
 iabbrev poriton portion
 iabbrev protion portion
@@ -2210,6 +2227,7 @@ iabbrev presentaion presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
 iabbrev presentatino presentation
+iabbrev rpesentation presentation
 iabbrev Presentationg Presentation
 iabbrev presneted presented
 iabbrev apressure pressure
@@ -2278,6 +2296,7 @@ iabbrev projfect project
 iabbrev projgect project
 iabbrev Porejct Project
 iabbrev Proejct Project
+iabbrev PRoject Project
 iabbrev porjects projects
 iabbrev proejcts projects
 iabbrev projecdts projects
@@ -2300,6 +2319,7 @@ iabbrev Proposlas Proposals
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev Porposed Proposed
+iabbrev rpove prove
 iabbrev pulliing pulling
 iabbrev pulliung pulling
 iabbrev Pulliung Pulling
@@ -2428,6 +2448,7 @@ iabbrev REporter Reporter
 iabbrev Reproter Reporter
 iabbrev reporitng reporting
 iabbrev reportign reporting
+iabbrev reproitng reporting
 iabbrev reoports reports
 iabbrev reporst reports
 iabbrev reprots reports
@@ -2496,6 +2517,7 @@ iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
 iabbrev Roayl Royal
+iabbrev ruels rules
 iabbrev rulse rules
 iabbrev runnign running
 iabbrev RUnning Running
@@ -2511,6 +2533,7 @@ iabbrev smapling sampling
 iabbrev sxampleing sampling
 iabbrev Smapling Sampling
 iabbrev Sarha Sarah
+iabbrev Sarrah Sarah
 iabbrev Sraah Sarah
 iabbrev satisfacotry satisfactory
 iabbrev satifies satisfies
@@ -2735,6 +2758,7 @@ iabbrev SPent Spent
 iabbrev sponosr sponsor
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
+iabbrev speradhset spreadsheet
 iabbrev spreadhseet spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
@@ -3016,6 +3040,7 @@ iabbrev texet text
 iabbrev texst text
 iabbrev htan than
 iabbrev thna than
+iabbrev Thanskgiving Thanksgiving
 iabbrev athat that
 iabbrev htat that
 iabbrev tahht that
@@ -3120,8 +3145,10 @@ iabbrev Thursdya Thursday
 iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
+iabbrev til till
 iabbrev TIm Tim
 iabbrev teim time
+iabbrev tiem time
 iabbrev tiems times
 iabbrev teimstamp timestamp
 iabbrev Tiemstamp Timestamp
@@ -3438,6 +3465,7 @@ iabbrev woudl would
 iabbrev wouold would
 iabbrev WOuld Would
 iabbrev worng wrong
+iabbrev yaer year
 iabbrev yewt yet
 iabbrev yhou you
 iabbrev youy you
