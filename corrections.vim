@@ -146,6 +146,7 @@ iabbrev apear appear
 iabbrev appera appear
 iabbrev papear appear
 iabbrev ppear appear
+iabbrev appearancew appearance
 iabbrev apepndix appendix
 iabbrev applicaable applicable
 iabbrev appcoliacation application
@@ -334,6 +335,7 @@ iabbrev buiilding building
 iabbrev buikdlign building
 iabbrev buildgin building
 iabbrev buildign building
+iabbrev buildin building
 iabbrev buildling building
 iabbrev buildng building
 iabbrev buildnig building
@@ -604,6 +606,7 @@ iabbrev concewpt concept
 iabbrev corencen concern
 iabbrev concertns concerns
 iabbrev consise concise
+iabbrev consiseness conciseness
 iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
 iabbrev Conclustions Conclusions
@@ -942,15 +945,18 @@ iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
 iabbrev docuemantiona documentation
+iabbrev docuematnoin documentation
 iabbrev docuementation documentation
 iabbrev docuemnation documentation
 iabbrev docuemntation documentation
 iabbrev documenation documentation
 iabbrev documentaion documentation
 iabbrev documentaiont documentation
+iabbrev documentaiotn documentation
 iabbrev documentaiton documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
+iabbrev Documentaiont Documentation
 iabbrev Documentaiton Documentation
 iabbrev Documention Documentation
 iabbrev docuemnted documented
@@ -1134,12 +1140,14 @@ iabbrev exmpale example
 iabbrev Exmpale Example
 iabbrev Ecxel Excel
 iabbrev Excle Excel
+iabbrev excewption exception
 iabbrev exceptionatlly exceptionally
 iabbrev exhcange exchange
 iabbrev exectuable executable
 iabbrev execture execute
 iabbrev exectued executed
 iabbrev executuion execution
+iabbrev executivew executive
 iabbrev exericse exercise
 iabbrev exercieses exercises
 iabbrev Exhasust Exhaust
@@ -1189,6 +1197,7 @@ iabbrev farhenheit Fahrenheit
 iabbrev failry fairly
 iabbrev faily fairly
 iabbrev fiarly fairly
+iabbrev flase false
 iabbrev fna fan
 iabbrev FAn Fan
 iabbrev fanas fans
@@ -1669,6 +1678,7 @@ iabbrev alst last
 iabbrev Leakding Leaking
 iabbrev leanring learning
 iabbrev Leanring Learning
+iabbrev Lengend Legend
 iabbrev lenght length
 iabbrev levle level
 iabbrev lvel level
@@ -1990,6 +2000,8 @@ iabbrev optimzie optimize
 iabbrev opitions options
 iabbrev opitons options
 iabbrev optiosn options
+iabbrev optoins options
+iabbrev otpions options
 iabbrev ro or
 iabbrev organe orange
 iabbrev ordinacne ordinance
@@ -2005,6 +2017,7 @@ iabbrev originatign originating
 iabbrev ohter other
 iabbrev toher other
 iabbrev Ohter Other
+iabbrev OTher Other
 iabbrev otherse others
 iabbrev otu out
 iabbrev otudoor outdoor
@@ -2263,6 +2276,7 @@ iabbrev probelms problems
 iabbrev procewdure procedure
 iabbrev procuedures procedures
 iabbrev prfoceed proceed
+iabbrev prcoess process
 iabbrev proces process
 iabbrev proecess process
 iabbrev Porocess Process
@@ -2509,6 +2523,7 @@ iabbrev Reveiw Review
 iabbrev Reiveiwing Reviewing
 iabbrev Reivewing Reviewing
 iabbrev reisit revisit
+iabbrev Reichard Richard
 iabbrev Ricahrd Richard
 iabbrev rightt right
 iabbrev riese rise
@@ -2517,6 +2532,7 @@ iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
 iabbrev Roayl Royal
+iabbrev ruel rule
 iabbrev ruels rules
 iabbrev rulse rules
 iabbrev runnign running
@@ -2625,6 +2641,7 @@ iabbrev sequenctially sequentially
 iabbrev sereis series
 iabbrev Sereis Series
 iabbrev servcie service
+iabbrev ste set
 iabbrev sepoitn setpoint
 iabbrev septoin setpoint
 iabbrev septoint setpoint
@@ -2755,6 +2772,7 @@ iabbrev specifiy specify
 iabbrev spped speed
 iabbrev Spepd Speed
 iabbrev SPent Spent
+iabbrev spiunner spinner
 iabbrev sponosr sponsor
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
@@ -2830,6 +2848,7 @@ iabbrev successivley successively
 iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sumarized summarized
+iabbrev sumamry summary
 iabbrev sunslight sunlight
 iabbrev supercede supersede
 iabbrev Superceded Superseded
@@ -3075,6 +3094,7 @@ iabbrev theere there
 iabbrev theerre there
 iabbrev threr there
 iabbrev THere There
+iabbrev Therte There
 iabbrev Threre There
 iabbrev therfore therefore
 iabbrev Threfore Therefore
