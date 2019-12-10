@@ -49,6 +49,7 @@ iabbrev Addiitonal Additional
 iabbrev addresssed addressed
 iabbrev addsd adds
 iabbrev adeqauyate adequate
+iabbrev Adjsut Adjust
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
 iabbrev Advnaced Advanced
@@ -68,6 +69,7 @@ iabbrev iar air
 iabbrev Ari Air
 iabbrev airlfow airflow
 iabbrev ariflow airflow
+iabbrev Airprot Airport
 iabbrev Almao Alamo
 iabbrev alram alarm
 iabbrev alrams alarms
@@ -283,10 +285,12 @@ iabbrev basleine baseline
 iabbrev bvaseline baseline
 iabbrev Baseilne Baseline
 iabbrev basleines baselines
+iabbrev bascially basically
 iabbrev Bascially Basically
 iabbrev becaues because
 iabbrev becuase because
 iabbrev beeen been
+iabbrev befoer before
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
@@ -523,6 +527,7 @@ iabbrev colleciotns collection
 iabbrev colleciton collection
 iabbrev Coollege College
 iabbrev oclor color
+iabbrev columnm column
 iabbrev comlum column
 iabbrev coolumn column
 iabbrev coulmn column
@@ -594,7 +599,9 @@ iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compeleted completed
 iabbrev compelted completed
+iabbrev compleated completed
 iabbrev compleeted completed
+iabbrev comptleted completed
 iabbrev completey completely
 iabbrev completley completely
 iabbrev compeletes completes
@@ -1219,6 +1226,7 @@ iabbrev Fiedlity Fidelity
 iabbrev Fielity Fidelity
 iabbrev feild field
 iabbrev felied field
+iabbrev Fieldn Field
 iabbrev feilds fields
 iabbrev fileds fields
 iabbrev filelds fields
@@ -1312,6 +1320,7 @@ iabbrev Fridayf Friday
 iabbrev FRiday Friday
 iabbrev Fridya Friday
 iabbrev froam from
+iabbrev fromm from
 iabbrev rom from
 iabbrev fornt front
 iabbrev ftp FTP
@@ -1356,6 +1365,7 @@ iabbrev Generla General
 iabbrev Genral General
 iabbrev Gneeral General
 iabbrev gnerally generally
+iabbrev genreate generate
 iabbrev generatretd generated
 iabbrev gerneated generated
 iabbrev gneerated generated
@@ -1556,6 +1566,7 @@ iabbrev inofrmation information
 iabbrev invofmaton information
 iabbrev Informaation Information
 iabbrev Informaiont Information
+iabbrev Informaiotn Information
 iabbrev Informaiton Information
 iabbrev INformaiton Information
 iabbrev Inofrmaiton Information
@@ -1609,6 +1620,7 @@ iabbrev interla internal
 iabbrev itnerla internal
 iabbrev interanlly internally
 iabbrev Internaitional International
+iabbrev Internaitonal International
 iabbrev interpoleated interpolated
 iabbrev interpoation interpolation
 iabbrev internavl interval
@@ -2061,6 +2073,7 @@ iabbrev outliers outwears
 iabbrev overaching overarching
 iabbrev overestimat overestimate
 iabbrev OVerview Overview
+iabbrev onw own
 iabbrev packgae package
 iabbrev pakcaged packaged
 iabbrev apge page
@@ -2686,6 +2699,7 @@ iabbrev seetup setup
 iabbrev setps setups
 iabbrev serval several
 iabbrev sevearl several
+iabbrev sharepoint Sharepoint
 iabbrev Sharepoitn Sharepoint
 iabbrev sheeet sheet
 iabbrev sehell shell
@@ -2760,6 +2774,7 @@ iabbrev Sapce Space
 iabbrev SPace Space
 iabbrev Spacew Space
 iabbrev Speace Space
+iabbrev spacding spacing
 iabbrev SPeaker Speaker
 iabbrev sepcila special
 iabbrev speical special
@@ -3348,6 +3363,7 @@ iabbrev varialbe variable
 iabbrev varialbes variables
 iabbrev varialbles variables
 iabbrev varibables variables
+iabbrev verailbles variables
 iabbrev variarnce variance
 iabbrev vairation variation
 iabbrev variabtion variation
@@ -3363,6 +3379,7 @@ iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiton verification
 iabbrev verifiy verify
+iabbrev veresion version
 iabbrev veriosn version
 iabbrev verison version
 iabbrev verseion version
