@@ -83,6 +83,7 @@ iabbrev aligened aligned
 iabbrev al all
 iabbrev alow allow
 iabbrev alogn along
+iabbrev Alphabatize Alphabetize
 iabbrev alreaedy already
 iabbrev alreayd already
 iabbrev alrfeayd already
@@ -430,6 +431,7 @@ iabbrev cvase case
 iabbrev caess cases
 iabbrev categoraized categorized
 iabbrev cuase cause
+iabbrev cewilign ceiling
 iabbrev clell cell
 iabbrev Celcius Celsius
 iabbrev cetner center
@@ -475,6 +477,7 @@ iabbrev chekcs checks
 iabbrev Cheerry Cherry
 iabbrev Cherrpy Cherry
 iabbrev Chery Cherry
+iabbrev Cheryyp Cherry
 iabbrev childern children
 iabbrev chillled chilled
 iabbrev Chiled Chilled
@@ -718,6 +721,7 @@ iabbrev copeid copied
 iabbrev cipy copy
 iabbrev ocpy copy
 iabbrev copyting copying
+iabbrev COre Core
 iabbrev correclty correctly
 iabbrev correpsnd correspond
 iabbrev correspodn correspond
@@ -1244,6 +1248,7 @@ iabbrev finsih finish
 iabbrev FInish Finish
 iabbrev Finsih Finish
 iabbrev fiinished finished
+iabbrev Finisehd Finished
 iabbrev FInished Finished
 iabbrev Finsihed Finished
 iabbrev Finsished Finished
@@ -1941,6 +1946,7 @@ iabbrev NOt Not
 iabbrev notaiton notation
 iabbrev notse notes
 iabbrev NOtes Notes
+iabbrev Ntoes Notes
 iabbrev notificaiton notification
 iabbrev notificaitons notifications
 iabbrev novle novel
@@ -2460,6 +2466,7 @@ iabbrev Reporeter Reporter
 iabbrev Reporetr Reporter
 iabbrev REporter Reporter
 iabbrev Reproter Reporter
+iabbrev areporting reporting
 iabbrev reporitng reporting
 iabbrev reportign reporting
 iabbrev reproitng reporting
@@ -2528,6 +2535,7 @@ iabbrev Ricahrd Richard
 iabbrev rightt right
 iabbrev riese rise
 iabbrev rooom room
+iabbrev roattion rotation
 iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
@@ -3435,6 +3443,7 @@ iabbrev widnow window
 iabbrev windwow window
 iabbrev Windwos Windows
 iabbrev Windwows Windows
+iabbrev WIng Wing
 iabbrev fwith with
 iabbrev iwth with
 iabbrev wiht with
