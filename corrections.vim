@@ -833,6 +833,7 @@ iabbrev deliverables deliverables
 iabbrev develiverables deliverables
 iabbrev dmeand demand
 iabbrev dseamdn demand
+iabbrev emdand demand
 iabbrev Deamnd Demand
 iabbrev dnesity density
 iabbrev Deparment Department
@@ -865,6 +866,7 @@ iabbrev edesignation designation
 iabbrev desiging designing
 iabbrev deesriable desirable
 iabbrev Desitny Destiny
+iabbrev deatil detail
 iabbrev detial detail
 iabbrev etail detail
 iabbrev Detial Detail
@@ -987,6 +989,7 @@ iabbrev drwan drawn
 iabbrev dorp drop
 iabbrev dropwdown dropdown
 iabbrev diuct duct
+iabbrev ducct duct
 iabbrev dupcliate duplicate
 iabbrev duriung during
 iabbrev durnig during
@@ -2494,6 +2497,7 @@ iabbrev requrested requested
 iabbrev requiere require
 iabbrev requied required
 iabbrev requiredy required
+iabbrev requried required
 iabbrev reuqired required
 iabbrev rueiquireed required
 iabbrev Requrired Required
@@ -2524,6 +2528,7 @@ iabbrev responsiblities responsibilities
 iabbrev Repsonsible Responsible
 iabbrev restartign restarting
 iabbrev restaturant restaurant
+iabbrev restrictuion restriction
 iabbrev resturcted restructured
 iabbrev restul result
 iabbrev resutl result
@@ -2703,6 +2708,7 @@ iabbrev sharepoint Sharepoint
 iabbrev Sharepoitn Sharepoint
 iabbrev sheeet sheet
 iabbrev sehell shell
+iabbrev sehll shell
 iabbrev shootouyt shootout
 iabbrev shrot short
 iabbrev hsould should
@@ -2901,6 +2907,7 @@ iabbrev sysntax syntax
 iabbrev syntehtic synthetic
 iabbrev seystem system
 iabbrev sstem system
+iabbrev stystme system
 iabbrev sysetm system
 iabbrev sysmete system
 iabbrev sysmetm system
@@ -3222,6 +3229,7 @@ iabbrev trainign training
 iabbrev trianing training
 iabbrev trinaing training
 iabbrev Traingin Training
+iabbrev Trainign Training
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
 iabbrev trnasfer transfer
