@@ -25,6 +25,7 @@ iabbrev acheived achieved
 iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev acrsoss across
+iabbrev Aciton Action
 iabbrev activiation activation
 iabbrev Acitve Active
 iabbrev Actdive Active
@@ -950,7 +951,9 @@ iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev distercit district
 iabbrev Distrcit District
+iabbrev distributin distriubtion
 iabbrev dirunal diurnal
+iabbrev dcouemnt document
 iabbrev docuemnt document
 iabbrev docuemtn document
 iabbrev doecuemnt document
@@ -1129,6 +1132,7 @@ iabbrev especitaly especially
 iabbrev Especailly Especially
 iabbrev essense essence
 iabbrev essentialy essentially
+iabbrev Eseentially Essentially
 iabbrev eestimate estimate
 iabbrev esimate estimate
 iabbrev esitmate estimate
@@ -1259,6 +1263,7 @@ iabbrev finsih finish
 iabbrev FInish Finish
 iabbrev Finsih Finish
 iabbrev fiinished finished
+iabbrev finshed finished
 iabbrev Finisehd Finished
 iabbrev FInished Finished
 iabbrev Finsihed Finished
@@ -1303,6 +1308,7 @@ iabbrev fomr form
 iabbrev fomrat format
 iabbrev fomrs forms
 iabbrev forsm forms
+iabbrev Fomrs Forms
 iabbrev formual formula
 iabbrev fomraulas formulas
 iabbrev formulats formulas
@@ -1376,6 +1382,7 @@ iabbrev Generageted Generated
 iabbrev gneeration generation
 iabbrev geneartor generator
 iabbrev gnerator generator
+iabbrev geomerty geometry
 iabbrev geometyr geometry
 iabbrev Georger George
 iabbrev geetting getting
@@ -1387,12 +1394,14 @@ iabbrev globablly globally
 iabbrev gola goal
 iabbrev cgoing going
 iabbrev goinv going
+iabbrev gonig going
 iabbrev Goiing Going
 iabbrev GOing Going
 iabbrev GOod Good
 iabbrev Googoel Google
 iabbrev govenrment government
 iabbrev governemnt government
+iabbrev gmp gpm
 iabbrev graduyation graduation
 iabbrev grpahic graphic
 iabbrev graphcis graphics
@@ -1451,6 +1460,7 @@ iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev histoyr history
+iabbrev hodls holds
 iabbrev Holdity Holiday
 iabbrev HOliday Holiday
 iabbrev HOliddays Holidays
@@ -1880,6 +1890,7 @@ iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
 iabbrev montioroing monitoring
 iabbrev montiroing monitoring
+iabbrev Mointoring Monitoring
 iabbrev MOnitoring Monitoring
 iabbrev MOntiriongn Monitoring
 iabbrev Montiroing Monitoring
@@ -2446,6 +2457,7 @@ iabbrev reheta reheat
 iabbrev frelated related
 iabbrev realted related
 iabbrev releatd related
+iabbrev rlated related
 iabbrev rleated related
 iabbrev relatioinship relationship
 iabbrev relationnship relationship
@@ -2596,6 +2608,7 @@ iabbrev Scheudule Schedule
 iabbrev Schewdule Schedule
 iabbrev scheduleted scheduled
 iabbrev scheudled scheduled
+iabbrev scheuudles schedules
 iabbrev scheduleing scheduling
 iabbrev scheudling scheduling
 iabbrev schmatic schematic
@@ -2911,6 +2924,7 @@ iabbrev stystme system
 iabbrev sysetm system
 iabbrev sysmete system
 iabbrev sysmetm system
+iabbrev sysmte system
 iabbrev syst6em system
 iabbrev systme system
 iabbrev systmne system
@@ -3409,6 +3423,7 @@ iabbrev voluem volume
 iabbrev volumen volume
 iabbrev Voluem Volume
 iabbrev Volunttering Volunteering
+iabbrev wating waiting
 iabbrev wiating waiting
 iabbrev Waitning Waiting
 iabbrev walthrough walkthrough
