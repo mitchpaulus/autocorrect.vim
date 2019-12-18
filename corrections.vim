@@ -567,9 +567,11 @@ iabbrev commsssioning commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissiioning Commissioning
 iabbrev Commissinoing Commissioning
+iabbrev COmmissioign Commissioning
 iabbrev Commissiongin Commissioning
 iabbrev Commissionging Commissioning
 iabbrev Commissionign Commissioning
+iabbrev COmmissionign Commissioning
 iabbrev Commissionings Commissioning
 iabbrev Commissiooing Commissioning
 iabbrev Commisssiong Commissioning
@@ -1369,6 +1371,7 @@ iabbrev Furneral Funeral
 iabbrev furhter further
 iabbrev rurther further
 iabbrev furture future
+iabbrev futre future
 iabbrev ufture future
 iabbrev Garge Garage
 iabbrev gneeral general
@@ -2377,6 +2380,7 @@ iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev Porposed Proposed
 iabbrev rpove prove
+iabbrev PRovider Provider
 iabbrev pulliing pulling
 iabbrev pulliung pulling
 iabbrev Pulliung Pulling
@@ -2490,6 +2494,7 @@ iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev replacemetn replacement
 iabbrev repolacemnt replacement
+iabbrev Replacemnet Replacement
 iabbrev repalcaemnts replacements
 iabbrev erport report
 iabbrev reprot report
