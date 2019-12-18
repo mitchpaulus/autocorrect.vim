@@ -988,6 +988,7 @@ iabbrev downtonn downtown
 iabbrev Downtonw Downtown
 iabbrev drwawer drawer
 iabbrev drwaing drawing
+iabbrev draings drawings
 iabbrev drwan drawn
 iabbrev dorp drop
 iabbrev dropwdown dropdown
@@ -1136,6 +1137,7 @@ iabbrev Eseentially Essentially
 iabbrev eestimate estimate
 iabbrev esimate estimate
 iabbrev esitmate estimate
+iabbrev Esitmate Estimate
 iabbrev estiamted estimated
 iabbrev estitamed estimated
 iabbrev esitmating estimating
@@ -1185,6 +1187,7 @@ iabbrev expecst expect
 iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
+iabbrev expertice expertise
 iabbrev explainign explaining
 iabbrev Explaingin Explaining
 iabbrev Explations Explanations
@@ -1264,6 +1267,7 @@ iabbrev FInish Finish
 iabbrev Finsih Finish
 iabbrev fiinished finished
 iabbrev finshed finished
+iabbrev finsihed finished
 iabbrev Finisehd Finished
 iabbrev FInished Finished
 iabbrev Finsihed Finished
@@ -1620,6 +1624,7 @@ iabbrev insturction instruction
 iabbrev Insturcitons Instructions
 iabbrev intanible intangible
 iabbrev Integratign Integrating
+iabbrev integraiton integration
 iabbrev intelligcne intelligence
 iabbrev initended intended
 iabbrev itnerest interest
@@ -1654,6 +1659,7 @@ iabbrev invesitgation investigation
 iabbrev investement investment
 iabbrev inviation invitation
 iabbrev invitue invite
+iabbrev invovled involved
 iabbrev irreversilbe irreversible
 iabbrev fis is
 iabbrev isoalted isolated
@@ -1843,6 +1849,7 @@ iabbrev midinght midnight
 iabbrev mgiht might
 iabbrev migraiton migration
 iabbrev migraitons migrations
+iabbrev milluion million
 iabbrev minimual minimal
 iabbrev Mniiimzie Minimize
 iabbrev mimnimum minimum
@@ -1955,6 +1962,7 @@ iabbrev neturla neutral
 iabbrev NExant Nexant
 iabbrev Nexasnt Nexant
 iabbrev nexzt next
+iabbrev ngiht night
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
 iabbrev nomencalute nomenclature
@@ -2223,6 +2231,7 @@ iabbrev possibilites possibilities
 iabbrev possilbities possibilities
 iabbrev possilblities possibilities
 iabbrev possiblity possibility
+iabbrev possbile possible
 iabbrev possilbe possible
 iabbrev posssible possible
 iabbrev possiblyh possibly
@@ -2236,6 +2245,7 @@ iabbrev potnetail potential
 iabbrev potnetial potential
 iabbrev ptoentail potential
 iabbrev potentailly potentially
+iabbrev potentiallly potentially
 iabbrev ptotently potentially
 iabbrev pwoer power
 iabbrev Poweer Power
@@ -2429,6 +2439,7 @@ iabbrev recoginition recognition
 iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
 iabbrev recoreded recorded
+iabbrev reocrded recorded
 iabbrev REdoing Redoing
 iabbrev reduciton reduction
 iabbrev refacotr refactor
@@ -2548,6 +2559,7 @@ iabbrev reuslt result
 iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
+iabbrev retor retro
 iabbrev reaturn return
 iabbrev retun return
 iabbrev reutn return
@@ -2608,6 +2620,7 @@ iabbrev Scheudule Schedule
 iabbrev Schewdule Schedule
 iabbrev scheduleted scheduled
 iabbrev scheudled scheduled
+iabbrev scheudles schedules
 iabbrev scheuudles schedules
 iabbrev scheduleing scheduling
 iabbrev scheudling scheduling
@@ -2830,6 +2843,7 @@ iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
 iabbrev stakced stacked
+iabbrev staffign staffing
 iabbrev satandrad standard
 iabbrev Standand Standard
 iabbrev strated started
@@ -2932,6 +2946,7 @@ iabbrev sytem system
 iabbrev sytesm system
 iabbrev syustem system
 iabbrev Sysmtme System
+iabbrev SYstem System
 iabbrev Systme System
 iabbrev ssytems systems
 iabbrev syhstems systems
@@ -3228,6 +3243,7 @@ iabbrev toolos tools
 iabbrev topci topic
 iabbrev topcis topics
 iabbrev thotal total
+iabbrev toatla total
 iabbrev toatl total
 iabbrev totla total
 iabbrev TOtal Total
@@ -3256,6 +3272,7 @@ iabbrev tnred trend
 iabbrev trned trend
 iabbrev trendend trended
 iabbrev trrended trended
+iabbrev Trendign Trending
 iabbrev trneds trends
 iabbrev trnes trends
 iabbrev Treid Tried
@@ -3436,6 +3453,7 @@ iabbrev weawther weather
 iabbrev Weahter Weather
 iabbrev webdsiyte website
 iabbrev webstie website
+iabbrev Webiste Website
 iabbrev Wedneasday Wednesday
 iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
