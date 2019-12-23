@@ -300,6 +300,7 @@ iabbrev beign being
 iabbrev belive believe
 iabbrev besdies besides
 iabbrev bset best
+iabbrev bettter better
 iabbrev beteween between
 iabbrev betwen between
 iabbrev betwene between
@@ -444,6 +445,7 @@ iabbrev cewtner center
 iabbrev cneter center
 iabbrev cnetal central
 iabbrev cnetral central
+iabbrev Cnetral Central
 iabbrev ceratin certain
 iabbrev certina certain
 iabbrev Certian Certain
@@ -726,6 +728,7 @@ iabbrev coolking cooling
 iabbrev cooloing cooling
 iabbrev cooolign cooling
 iabbrev Cooilng Cooling
+iabbrev COoolint Cooling
 iabbrev Coorinate Coordinate
 iabbrev copeid copied
 iabbrev cipy copy
@@ -962,6 +965,7 @@ iabbrev doecuemnt document
 iabbrev doecument document
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
+iabbrev docuemanation documentation
 iabbrev docuemantiona documentation
 iabbrev docuematnoin documentation
 iabbrev docuementation documentation
@@ -983,6 +987,7 @@ iabbrev donig doing
 iabbrev doen done
 iabbrev doewn down
 iabbrev donw down
+iabbrev dowloaded downloaded
 iabbrev DOwnlaoded Downloaded
 iabbrev dowenloads downloads
 iabbrev downotown downtown
@@ -1149,6 +1154,7 @@ iabbrev estiamtion estimation
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
+iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
 iabbrev ewven even
 iabbrev everytone everyone
@@ -1555,6 +1561,8 @@ iabbrev ijndividual individual
 iabbrev indifivalu individual
 iabbrev indiviual individual
 iabbrev indiviudal individual
+iabbrev inidividual individual
+iabbrev Indiviudaul Individual
 iabbrev individaully individually
 iabbrev inddor indoor
 iabbrev iinform inform
@@ -1913,6 +1921,7 @@ iabbrev monthds months
 iabbrev mroe more
 iabbrev moring morning
 iabbrev morngin morning
+iabbrev mornigng morning
 iabbrev mornign morning
 iabbrev mrongin morning
 iabbrev Mornigin Morning
@@ -2129,6 +2138,7 @@ iabbrev particaular particular
 iabbrev particaulr particular
 iabbrev particualr particular
 iabbrev partiucular particular
+iabbrev Particularily Particularity
 iabbrev particulary particularly
 iabbrev aprtition partition
 iabbrev partyy party
@@ -2969,6 +2979,7 @@ iabbrev atake take
 iabbrev takne taken
 iabbrev taks task
 iabbrev Taks Task
+iabbrev TAsk Task
 iabbrev taought taught
 iabbrev teacing teaching
 iabbrev techinal technical
@@ -3274,6 +3285,7 @@ iabbrev transportionat transportation
 iabbrev travelled traveled
 iabbrev rtrend trend
 iabbrev tnred trend
+iabbrev trand trend
 iabbrev trned trend
 iabbrev trendend trended
 iabbrev trrended trended
@@ -3432,6 +3444,7 @@ iabbrev vresion version
 iabbrev veritcally vertically
 iabbrev iva via
 iabbrev vai via
+iabbrev virutal virtual
 iabbrev VIsion Vision
 iabbrev Visision Vision
 iabbrev Visison Vision
@@ -3551,6 +3564,7 @@ iabbrev Wroking Working
 iabbrev workds works
 iabbrev WOrks Works
 iabbrev owrksheet worksheet
+iabbrev wroth worth
 iabbrev owuld would
 iabbrev wiould would
 iabbrev woudl would
