@@ -305,6 +305,7 @@ iabbrev beteween between
 iabbrev betwen between
 iabbrev betwene between
 iabbrev billtion billion
+iabbrev bils bills
 iabbrev bindgin binding
 iabbrev balnk blank
 iabbrev blendde blended
@@ -987,6 +988,7 @@ iabbrev donig doing
 iabbrev doen done
 iabbrev doewn down
 iabbrev donw down
+iabbrev downlaod download
 iabbrev dowloaded downloaded
 iabbrev DOwnlaoded Downloaded
 iabbrev dowenloads downloads
@@ -1148,9 +1150,11 @@ iabbrev Esitmate Estimate
 iabbrev estiamted estimated
 iabbrev estitamed estimated
 iabbrev esitmating estimating
+iabbrev esimtaion estimation
 iabbrev esitimation estimation
 iabbrev esitmation estimation
 iabbrev estiamtion estimation
+iabbrev estimatoin estimation
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
@@ -1798,6 +1802,7 @@ iabbrev mangaement management
 iabbrev mangagment management
 iabbrev Managnemnt Management
 iabbrev mangatger manager
+iabbrev managerse managers
 iabbrev manmual manual
 iabbrev manula manual
 iabbrev mahy many
@@ -1962,6 +1967,7 @@ iabbrev neightbor neighbor
 iabbrev NEessle Nessel
 iabbrev NEssel Nessel
 iabbrev Nesslel Nessel
+iabbrev Nessxel Nessel
 iabbrev netowrk network
 iabbrev nework network
 iabbrev Netork Network
@@ -2218,6 +2224,7 @@ iabbrev popualte populate
 iabbrev popualted populated
 iabbrev protable portable
 iabbrev protfolio portfolio
+iabbrev Portfoilfo Portfolio
 iabbrev Protfoilo Portfolio
 iabbrev Protfolio Portfolio
 iabbrev porition portion
@@ -2537,6 +2544,7 @@ iabbrev requied required
 iabbrev requiredy required
 iabbrev requried required
 iabbrev reuqired required
+iabbrev rquired required
 iabbrev rueiquireed required
 iabbrev Requrired Required
 iabbrev requiremnet requirement
