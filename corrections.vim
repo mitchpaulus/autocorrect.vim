@@ -176,6 +176,7 @@ iabbrev apprach approach
 iabbrev appraoch approach
 iabbrev approahc approach
 iabbrev Appraoch Approach
+iabbrev appropirate appropriate
 iabbrev approriate appropriate
 iabbrev paproval approval
 iabbrev approimated approximated
@@ -309,6 +310,7 @@ iabbrev bils bills
 iabbrev bindgin binding
 iabbrev balnk blank
 iabbrev blendde blended
+iabbrev bleneded blended
 iabbrev blokc block
 iabbrev Blcok Block
 iabbrev biler boiler
@@ -1039,6 +1041,7 @@ iabbrev Eelctrical Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
 iabbrev eelctricy electricity
+iabbrev elecdtricity electricity
 iabbrev electicryyt electricity
 iabbrev electifcity electricity
 iabbrev electircity electricity
@@ -1146,6 +1149,7 @@ iabbrev Eseentially Essentially
 iabbrev eestimate estimate
 iabbrev esimate estimate
 iabbrev esitmate estimate
+iabbrev estimaate estimate
 iabbrev Esitmate Estimate
 iabbrev estiamted estimated
 iabbrev estitamed estimated
@@ -1478,6 +1482,7 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev histoyr history
 iabbrev hodls holds
+iabbrev HOldiay Holiday
 iabbrev Holdity Holiday
 iabbrev HOliday Holiday
 iabbrev HOliddays Holidays
@@ -2758,6 +2763,7 @@ iabbrev Sharepoitn Sharepoint
 iabbrev sheeet sheet
 iabbrev sehell shell
 iabbrev sehll shell
+iabbrev Shrit Shirt
 iabbrev shootouyt shootout
 iabbrev shrot short
 iabbrev hsould should
@@ -2858,6 +2864,7 @@ iabbrev speradhset spreadsheet
 iabbrev spreadhseet spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
+iabbrev Spreadsehet Spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev sql SQL
 iabbrev Sql SQL
@@ -2928,6 +2935,7 @@ iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sumarized summarized
 iabbrev sumamry summary
+iabbrev summayr summary
 iabbrev sunslight sunlight
 iabbrev supercede supersede
 iabbrev Superceded Superseded
@@ -3124,6 +3132,7 @@ iabbrev termianil terminal
 iabbrev termianli terminal
 iabbrev termianl terminal
 iabbrev termilan terminal
+iabbrev termila terminal
 iabbrev terminail terminal
 iabbrev terminla terminal
 iabbrev termnial terminal
@@ -3313,6 +3322,7 @@ iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
 iabbrev Tuyesdayf Tuesday
+iabbrev turing turning
 iabbrev TUrns Turns
 iabbrev twicew twice
 iabbrev tyupe type
@@ -3403,6 +3413,7 @@ iabbrev usula usual
 iabbrev usallly usually
 iabbrev utilites utilities
 iabbrev uitlilty utility
+iabbrev uitlity utility
 iabbrev utiltiyt utility
 iabbrev utiltiy utility
 iabbrev utiltliy utility
@@ -3480,6 +3491,7 @@ iabbrev Weahter Weather
 iabbrev webdsiyte website
 iabbrev webstie website
 iabbrev Webiste Website
+iabbrev Wedensday Wednesday
 iabbrev Wedneasday Wednesday
 iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
