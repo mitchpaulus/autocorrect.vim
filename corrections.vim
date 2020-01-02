@@ -942,6 +942,7 @@ iabbrev direcdtory directory
 iabbrev direcotry directory
 iabbrev directoy directory
 iabbrev directoyr directory
+iabbrev driectory directory
 iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
 iabbrev sdiscern discern
@@ -1085,6 +1086,7 @@ iabbrev neter enter
 iabbrev enertered entered
 iabbrev enterd entered
 iabbrev enterin entering
+iabbrev Enetering Entering
 iabbrev enthlapy enthalpy
 iabbrev enthlayp enthalpy
 iabbrev enthlpy enthalpy
@@ -1482,6 +1484,7 @@ iabbrev hgihlighting highlighting
 iabbrev hikstorical historical
 iabbrev histoyr history
 iabbrev hodls holds
+iabbrev holdiay holiday
 iabbrev HOldiay Holiday
 iabbrev Holdity Holiday
 iabbrev HOliday Holiday
@@ -2364,6 +2367,7 @@ iabbrev progrma program
 iabbrev PRogram Program
 iabbrev prommed programmed
 iabbrev programmihng programming
+iabbrev progrmas programs
 iabbrev proejgress progress
 iabbrev progess progress
 iabbrev porjecst project
@@ -2428,6 +2432,7 @@ iabbrev Quesitons Questions
 iabbrev Questinos Questions
 iabbrev qauicly quickly
 iabbrev quiclky quickly
+iabbrev quiclyi quickly
 iabbrev quilckly quickly
 iabbrev Quiclkly Quickly
 iabbrev quotoient quotient
@@ -2512,6 +2517,7 @@ iabbrev REmove Remove
 iabbrev Reomve Remove
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
+iabbrev repateing repeating
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev replacemetn replacement
@@ -2659,6 +2665,7 @@ iabbrev socpe scope
 iabbrev scroe score
 iabbrev scrreen screen
 iabbrev sciprt script
+iabbrev scirpt script
 iabbrev scrdipt script
 iabbrev scripot script
 iabbrev scritp script
@@ -2864,6 +2871,7 @@ iabbrev speradhset spreadsheet
 iabbrev spreadhseet spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
+iabbrev spreadshetet spreadsheet
 iabbrev Spreadsehet Spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev sql SQL
@@ -3435,6 +3443,7 @@ iabbrev vlaves valves
 iabbrev vairalbe variable
 iabbrev variaglbe variable
 iabbrev varialbe variable
+iabbrev vairlabes variables
 iabbrev varialbes variables
 iabbrev varialbles variables
 iabbrev varibables variables
