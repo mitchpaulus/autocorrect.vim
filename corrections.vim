@@ -99,6 +99,7 @@ iabbrev alsways always
 iabbrev alwyas always
 iabbrev amounto amount
 iabbrev amoutn amount
+iabbrev na an
 iabbrev analougous analogous
 iabbrev analygous analogous
 iabbrev analsyis analysis
@@ -278,6 +279,7 @@ iabbrev balanace balance
 iabbrev balnace balance
 iabbrev balnaces balances
 iabbrev Badn Band
+iabbrev bnak bank
 iabbrev abr bar
 iabbrev Bararcks Barracks
 iabbrev absed based
@@ -980,6 +982,7 @@ iabbrev documentaion documentation
 iabbrev documentaiont documentation
 iabbrev documentaiotn documentation
 iabbrev documentaiton documentation
+iabbrev documetiona documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
 iabbrev Documentaiont Documentation
@@ -1312,6 +1315,7 @@ iabbrev foler folder
 iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev folloiwing following
+iabbrev followign following
 iabbrev follwoing following
 iabbrev folowing following
 iabbrev folowoing following
@@ -1448,6 +1452,7 @@ iabbrev Guidleines Guidelines
 iabbrev ahd had
 iabbrev hbad had
 iabbrev ahlls halls
+iabbrev hande handle
 iabbrev ahndling handling
 iabbrev handaling handling
 iabbrev handlaing handling
@@ -1821,6 +1826,7 @@ iabbrev Marhc March
 iabbrev Marhd March
 iabbrev makr mark
 iabbrev markdonw markdown
+iabbrev markders markers
 iabbrev amster master
 iabbrev matcing matching
 iabbrev materla material
@@ -2328,6 +2334,7 @@ iabbrev previousy previously
 iabbrev previulsy previously
 iabbrev Previoulsy Previously
 iabbrev priece price
+iabbrev primeary primary
 iabbrev princeple principle
 iabbrev pritn print
 iabbrev Prioriteis Priorities
@@ -2518,8 +2525,11 @@ iabbrev Reomve Remove
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
 iabbrev repateing repeating
+iabbrev Repalce Replace
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
+iabbrev repalcement replacement
+iabbrev repalcemnt replacement
 iabbrev replacemetn replacement
 iabbrev repolacemnt replacement
 iabbrev Replacemnet Replacement
@@ -2542,6 +2552,7 @@ iabbrev areporting reporting
 iabbrev reporitng reporting
 iabbrev reportign reporting
 iabbrev reproitng reporting
+iabbrev reproting reporting
 iabbrev reoports reports
 iabbrev reporst reports
 iabbrev reprots reports
@@ -2860,6 +2871,7 @@ iabbrev sepecified specified
 iabbrev specfieid specified
 iabbrev sepcifify specify
 iabbrev specifiy specify
+iabbrev specifing specifying
 iabbrev spped speed
 iabbrev Spepd Speed
 iabbrev SPent Spent
@@ -3080,6 +3092,7 @@ iabbrev tmperature temperature
 iabbrev tmperautre temperature
 iabbrev tpemperature temperature
 iabbrev Tempearature Temperature
+iabbrev Tempearture Temperature
 iabbrev Tempeature Temperature
 iabbrev Tempeerature Temperature
 iabbrev TEmpeerature Temperature
@@ -3262,6 +3275,7 @@ iabbrev THursday Thursday
 iabbrev Thursdday Thursday
 iabbrev THursdday Thursday
 iabbrev Thursdya Thursday
+iabbrev Thursdy Thursday
 iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
@@ -3301,6 +3315,7 @@ iabbrev trianing training
 iabbrev trinaing training
 iabbrev Traingin Training
 iabbrev Trainign Training
+iabbrev Trinaing Training
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
 iabbrev trnasfer transfer
@@ -3426,6 +3441,7 @@ iabbrev utiltiyt utility
 iabbrev utiltiy utility
 iabbrev utiltliy utility
 iabbrev Uiltity Utility
+iabbrev utilitze utilize
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
 iabbrev Validatort Validator
