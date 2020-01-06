@@ -331,6 +331,7 @@ iabbrev boudnaries boundaries
 iabbrev boudnary boundary
 iabbrev boudns bounds
 iabbrev Bouqet Bouquet
+iabbrev brainstoriming brainstorming
 iabbrev Breka Break
 iabbrev brekadown breakdown
 iabbrev Brikc Brick
@@ -901,6 +902,7 @@ iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev deterining determining
 iabbrev determineing determining
+iabbrev determiniing determining
 iabbrev dtermining determining
 iabbrev devleoped developed
 iabbrev develeopemnet development
@@ -1134,6 +1136,7 @@ iabbrev equipoemnt equipment
 iabbrev equipoemtn equipment
 iabbrev equipoment equipment
 iabbrev equpiment equipment
+iabbrev euiqpment equipment
 iabbrev euqipment equipment
 iabbrev qeuipment equipment
 iabbrev qeuiqpment equipment
@@ -1225,6 +1228,7 @@ iabbrev exproted exported
 iabbrev expowse expose
 iabbrev Expressoin Expression
 iabbrev extensibile extensible
+iabbrev extermanl external
 iabbrev extemrely extremely
 iabbrev extrremely extremely
 iabbrev facebook Facebook
@@ -1311,6 +1315,7 @@ iabbrev Floro Floor
 iabbrev flolw flow
 iabbrev flwo flow
 iabbrev lfow flow
+iabbrev Flwo Flow
 iabbrev flucuation fluctuation
 iabbrev fodler folder
 iabbrev foler folder
@@ -1478,6 +1483,7 @@ iabbrev heaing heating
 iabbrev heaint heating
 iabbrev heaitng heating
 iabbrev HEating Heating
+iabbrev hlep help
 iabbrev hleper helper
 iabbrev helpuful helpful
 iabbrev hree here
@@ -2025,6 +2031,7 @@ iabbrev nubmer number
 iabbrev nubmers numbers
 iabbrev numercial numerical
 iabbrev Numverical Numerical
+iabbrev Ojbect Object
 iabbrev obviusly obviously
 iabbrev occpunacy occupancy
 iabbrev occupnacy occupancy
@@ -2491,6 +2498,7 @@ iabbrev Refacotring Refactoring
 iabbrev referecne reference
 iabbrev referencem reference
 iabbrev refernece reference
+iabbrev refernecing referencing
 iabbrev refrehsed refreshed
 iabbrev refrigeratant refrigerant
 iabbrev refrigeratnt refrigerant
@@ -2593,6 +2601,7 @@ iabbrev erspect respect
 iabbrev respcet respect
 iabbrev respecdt respect
 iabbrev respirarotyr respiratory
+iabbrev Repsond Respond
 iabbrev REpsonding Responding
 iabbrev repsonse response
 iabbrev responsibilites responsibilities
@@ -2688,6 +2697,7 @@ iabbrev scritp script
 iabbrev scsript script
 iabbrev Scirpt Script
 iabbrev Scirpted Scripted
+iabbrev scdripts scripts
 iabbrev scritps scripts
 iabbrev sripts scripts
 iabbrev Scirpts Scripts
@@ -2881,6 +2891,7 @@ iabbrev spped speed
 iabbrev Spepd Speed
 iabbrev SPent Spent
 iabbrev spiunner spinner
+iabbrev sptli split
 iabbrev sponosr sponsor
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
