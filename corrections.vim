@@ -140,6 +140,7 @@ iabbrev Adn And
 iabbrev annula annual
 iabbrev annother another
 iabbrev antoher another
+iabbrev Anythony Anthony
 iabbrev Antoionio Antonio
 iabbrev Antoniao Antonio
 iabbrev anythign anything
@@ -269,6 +270,7 @@ iabbrev avialbable available
 iabbrev avialbalbe available
 iabbrev avialbe available
 iabbrev avialble available
+iabbrev aviallaibe available
 iabbrev Bakc Back
 iabbrev Backgroudn Background
 iabbrev backupa backup
@@ -2124,6 +2126,7 @@ iabbrev Outsdie Outside
 iabbrev Outsdsie Outside
 iabbrev OUtside Outside
 iabbrev outliers outwears
+iabbrev ovewr over
 iabbrev overaching overarching
 iabbrev overestimat overestimate
 iabbrev OVerview Overview
@@ -2214,6 +2217,7 @@ iabbrev Paln Plan
 iabbrev Plannin8g Planning
 iabbrev palnt plant
 iabbrev palusible plausible
+iabbrev pzlaza plaza
 iabbrev pllt plot
 iabbrev plto plot
 iabbrev pltos plots
@@ -2611,6 +2615,7 @@ iabbrev reutn return
 iabbrev reutnr return
 iabbrev reutrn return
 iabbrev REturn Return
+iabbrev reivew review
 iabbrev reveiw review
 iabbrev Reveiew Review
 iabbrev Reveiw Review
@@ -2943,6 +2948,7 @@ iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
+iabbrev submittals submittals
 iabbrev subimitteed submitted
 iabbrev subsance substance
 iabbrev substantce substance
