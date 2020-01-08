@@ -138,6 +138,7 @@ iabbrev nadn and
 iabbrev tand and
 iabbrev Adn And
 iabbrev annula annual
+iabbrev naanual annual
 iabbrev annother another
 iabbrev antoher another
 iabbrev Anythony Anthony
@@ -1338,6 +1339,7 @@ iabbrev ofr for
 iabbrev Fro For
 iabbrev Froest Forest
 iabbrev fomr form
+iabbrev vorm form
 iabbrev fomrat format
 iabbrev fomrs forms
 iabbrev forsm forms
