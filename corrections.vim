@@ -8,6 +8,7 @@ iabbrev aobut about
 iabbrev ABout About
 iabbrev absoule absolute
 iabbrev absoulte absolute
+iabbrev abstarctions abstractions
 iabbrev Acadmey Academy
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
@@ -102,6 +103,7 @@ iabbrev amoutn amount
 iabbrev na an
 iabbrev analougous analogous
 iabbrev analygous analogous
+iabbrev analygousu analogous
 iabbrev analsyis analysis
 iabbrev analyfsis analysis
 iabbrev analyis analysis
@@ -943,6 +945,7 @@ iabbrev difficutl difficult
 iabbrev Difficutl Difficult
 iabbrev directins directions
 iabbrev direclty directly
+iabbrev direcly directly
 iabbrev drieclty directly
 iabbrev driectly directly
 iabbrev direcdtory directory
@@ -1081,6 +1084,7 @@ iabbrev Eneryg Energy
 iabbrev EenrgyPlus EnergyPlus
 iabbrev ENergyPlus EnergyPlus
 iabbrev energypuls EnergyPlus
+iabbrev ENerygpPlus EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev enginnering engineering
 iabbrev Enginereing Engineering
@@ -1341,6 +1345,7 @@ iabbrev Froest Forest
 iabbrev fomr form
 iabbrev vorm form
 iabbrev fomrat format
+iabbrev foramt format
 iabbrev fomrs forms
 iabbrev forsm forms
 iabbrev Fomrs Forms
@@ -1393,6 +1398,7 @@ iabbrev functionaliyt functionality
 iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
 iabbrev fucntions functions
+iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
 iabbrev Fucnttions Functions
@@ -1535,6 +1541,8 @@ iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impelmentation implementation
+iabbrev implementaiton implementation
+iabbrev implmentation implementation
 iabbrev Impelmentation Implementation
 iabbrev Implemntation Implementation
 iabbrev Impelmemtner Implementer
@@ -1958,6 +1966,7 @@ iabbrev MOst Most
 iabbrev Mosty Mostly
 iabbrev moter motor
 iabbrev movew move
+iabbrev myuch much
 iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
@@ -2016,6 +2025,7 @@ iabbrev nomianal nominal
 iabbrev nnon noon
 iabbrev nnormal normal
 iabbrev nomral normal
+iabbrev nomrally normally
 iabbrev normnally normally
 iabbrev nto not
 iabbrev NOt Not
@@ -2239,6 +2249,7 @@ iabbrev popitn point
 iabbrev POint Point
 iabbrev Poitn Point
 iabbrev Ponit Point
+iabbrev poitners pointers
 iabbrev pointss points
 iabbrev poisnt points
 iabbrev poitns points
@@ -2535,6 +2546,7 @@ iabbrev remainging remaining
 iabbrev remtoe remote
 iabbrev REmote Remote
 iabbrev REmove Remove
+iabbrev Remvoe Remove
 iabbrev Reomve Remove
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
@@ -2637,6 +2649,7 @@ iabbrev Reichard Richard
 iabbrev Ricahrd Richard
 iabbrev rightt right
 iabbrev riese rise
+iabbrev robuts robust
 iabbrev rooom room
 iabbrev roattion rotation
 iabbrev Rotuiens Routines
@@ -2866,6 +2879,7 @@ iabbrev soemwhere somewhere
 iabbrev soruces sources
 iabbrev psace space
 iabbrev sapce space
+iabbrev spacew space
 iabbrev Sapce Space
 iabbrev SPace Space
 iabbrev Spacew Space
@@ -3261,6 +3275,7 @@ iabbrev thingks thinks
 iabbrev thrid third
 iabbrev THird Third
 iabbrev htis this
+iabbrev thsi this
 iabbrev THis This
 iabbrev Thjis This
 iabbrev Thsi This
@@ -3537,6 +3552,7 @@ iabbrev webstie website
 iabbrev Webiste Website
 iabbrev Wedensday Wednesday
 iabbrev Wedneasday Wednesday
+iabbrev Wednedady Wednesday
 iabbrev Wednedasy Wednesday
 iabbrev Wedneday Wednesday
 iabbrev Wednedday Wednesday
@@ -3623,6 +3639,7 @@ iabbrev WOrking Working
 iabbrev WOrkiong Working
 iabbrev Workiung Working
 iabbrev WOrkiung Working
+iabbrev WOrknign Working
 iabbrev Worlking Working
 iabbrev Wroking Working
 iabbrev workds works
