@@ -586,6 +586,7 @@ iabbrev Commissionging Commissioning
 iabbrev Commissionign Commissioning
 iabbrev COmmissionign Commissioning
 iabbrev Commissionings Commissioning
+iabbrev Commissionoing Commissioning
 iabbrev Commissiooing Commissioning
 iabbrev Commisssiong Commissioning
 iabbrev Commisssiongin Commissioning
@@ -962,6 +963,7 @@ iabbrev discussiung discussing
 iabbrev discusion discussion
 iabbrev disscussionn discussion
 iabbrev disucssion discussion
+iabbrev Discusision Discussion
 iabbrev Discusison Discussion
 iabbrev Disucssion Discussion
 iabbrev dispaly display
@@ -2341,6 +2343,7 @@ iabbrev presentaion presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
 iabbrev presentatino presentation
+iabbrev pressentaiton presentation
 iabbrev rpesentation presentation
 iabbrev Presentationg Presentation
 iabbrev presneted presented
@@ -2852,6 +2855,7 @@ iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
 iabbrev iste site
+iabbrev stie site
 iabbrev Stie Site
 iabbrev siziung sizing
 iabbrev skilsl skills
