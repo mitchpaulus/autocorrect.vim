@@ -1266,6 +1266,7 @@ iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev Fideliuty Fidelity
 iabbrev Fidleity Fidelity
+iabbrev Fidlity Fidelity
 iabbrev Fiedlity Fidelity
 iabbrev Fielity Fidelity
 iabbrev feild field
@@ -1285,6 +1286,7 @@ iabbrev iles files
 iabbrev fil fill
 iabbrev Fillign Filling
 iabbrev Fuilling Filling
+iabbrev fianl final
 iabbrev filan final
 iabbrev finla final
 iabbrev FInal Final
@@ -2546,6 +2548,7 @@ iabbrev relavent relevant
 iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev remainging remaining
+iabbrev remaingin remaining
 iabbrev remtoe remote
 iabbrev REmote Remote
 iabbrev REmove Remove
@@ -3263,6 +3266,7 @@ iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
 iabbrev Thermodynamcis Thermodynamics
 iabbrev htese these
+iabbrev thiese these
 iabbrev thsee these
 iabbrev thses these
 iabbrev THese These
@@ -3516,6 +3520,7 @@ iabbrev verficaiton verification
 iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiton verification
+iabbrev Verifiatioon Verification
 iabbrev verifiy verify
 iabbrev veresion version
 iabbrev veriosn version
