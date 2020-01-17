@@ -1,6 +1,7 @@
 iabbrev abbreviatoin abbreviation
 iabbrev abillity ability
 iabbrev abiltily ability
+iabbrev Abilty Ability
 iabbrev abourt about
 iabbrev aboutr about
 iabbrev abvout about
@@ -197,6 +198,7 @@ iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
 iabbrev arbitary arbitrary
+iabbrev ARchitects Architects
 iabbrev aer are
 iabbrev aqre are
 iabbrev aree are
@@ -346,6 +348,7 @@ iabbrev borken broken
 iabbrev broekn broken
 iabbrev browswer browser
 iabbrev buidl build
+iabbrev Buyild Build
 iabbrev buidign building
 iabbrev buiding building
 iabbrev buidling building
@@ -363,6 +366,7 @@ iabbrev buliding building
 iabbrev bulidng building
 iabbrev lubilding building
 iabbrev ubilding building
+iabbrev uiblding building
 iabbrev Buidlgin Building
 iabbrev Buidlign Building
 iabbrev Buidling Building
@@ -845,6 +849,7 @@ iabbrev Defintion Definition
 iabbrev definiations definitions
 iabbrev dehumidifcation dehumidification
 iabbrev Dehumidificaiton Dehumidification
+iabbrev delte delete
 iabbrev dleeted deleted
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
@@ -1043,6 +1048,7 @@ iabbrev effectes effects
 iabbrev efficicency efficiency
 iabbrev efficienty efficiency
 iabbrev efficincy efficiency
+iabbrev Efficiewncy Efficiency
 iabbrev effortr effort
 iabbrev efforst efforts
 iabbrev Eikegra Eikagra
@@ -1192,6 +1198,7 @@ iabbrev exmaple example
 iabbrev exmpale example
 iabbrev Exmpale Example
 iabbrev Ecxel Excel
+iabbrev Excewl Excel
 iabbrev Excle Excel
 iabbrev excewption exception
 iabbrev exceptionatlly exceptionally
@@ -1753,6 +1760,7 @@ iabbrev lable label
 iabbrev lbael label
 iabbrev labeld labeled
 iabbrev lableled labeled
+iabbrev lbaeled labeled
 iabbrev lableing labeling
 iabbrev lables labels
 iabbrev Laboratoyrt Laboratory
@@ -1809,6 +1817,7 @@ iabbrev locaitons locations
 iabbrev lgo log
 iabbrev logisitcs logistics
 iabbrev slong long
+iabbrev lookign looking
 iabbrev Looiking Looking
 iabbrev loose lose
 iabbrev loower lower
@@ -1895,6 +1904,7 @@ iabbrev meothd method
 iabbrev methjod method
 iabbrev methodoloyg methodology
 iabbrev mehtods methods
+iabbrev meothds methods
 iabbrev MEthods Methods
 iabbrev Microsfot Microsoft
 iabbrev midinght midnight
@@ -2005,10 +2015,12 @@ iabbrev NEessle Nessel
 iabbrev NEssel Nessel
 iabbrev Nesslel Nessel
 iabbrev Nessxel Nessel
+iabbrev entwork network
 iabbrev netowrk network
 iabbrev nework network
 iabbrev Netork Network
 iabbrev Netowrk Network
+iabbrev netowrking networking
 iabbrev Nueral Neural
 iabbrev nerutla neutral
 iabbrev netrual neutral
@@ -2016,6 +2028,7 @@ iabbrev netural neutral
 iabbrev neturla neutral
 iabbrev NExant Nexant
 iabbrev Nexasnt Nexant
+iabbrev enxt next
 iabbrev nexzt next
 iabbrev ngiht night
 iabbrev nomeclature nomenclature
@@ -2239,6 +2252,7 @@ iabbrev plna plan
 iabbrev Paln Plan
 iabbrev Plannin8g Planning
 iabbrev palnt plant
+iabbrev Palnt Plant
 iabbrev palusible plausible
 iabbrev pzlaza plaza
 iabbrev pllt plot
@@ -2332,6 +2346,7 @@ iabbrev prefuncitonsla prefunctionals
 iabbrev prefunctiaonls prefunctionals
 iabbrev Prelimiary Preliminary
 iabbrev permier premier
+iabbrev preimum premium
 iabbrev preoparation preparation
 iabbrev preprationa preparation
 iabbrev preparting preparing
@@ -2541,6 +2556,7 @@ iabbrev rleated related
 iabbrev relatioinship relationship
 iabbrev relationnship relationship
 iabbrev relationsihp relationship
+iabbrev relationsyhiop relationship
 iabbrev Relationjships Relationships
 iabbrev realitive relative
 iabbrev relateive relative
@@ -2585,6 +2601,7 @@ iabbrev reporitng reporting
 iabbrev reportign reporting
 iabbrev reproitng reporting
 iabbrev reproting reporting
+iabbrev rpeorting reporting
 iabbrev reoports reports
 iabbrev reporst reports
 iabbrev reprots reports
@@ -3165,6 +3182,7 @@ iabbrev Tempalte Template
 iabbrev TEmplate Template
 iabbrev tempaltes templates
 iabbrev templasets templates
+iabbrev tempslates templates
 iabbrev Tempelatse Templates
 iabbrev tennants tenants
 iabbrev teerm term
