@@ -1724,6 +1724,7 @@ iabbrev isothermla isothermal
 iabbrev isseus issues
 iabbrev itme item
 iabbrev Itme Item
+iabbrev imtems items
 iabbrev itesm items
 iabbrev itmes items
 iabbrev ITems Items
@@ -2760,6 +2761,7 @@ iabbrev sleecting selecting
 iabbrev selectdion selection
 iabbrev slection selection
 iabbrev smeinar seminar
+iabbrev sned send
 iabbrev snese sense
 iabbrev sensical sensical
 iabbrev sensitivtiy sensitivity
@@ -3673,6 +3675,7 @@ iabbrev workds works
 iabbrev WOrks Works
 iabbrev owrksheet worksheet
 iabbrev wroth worth
+iabbrev ouwld would
 iabbrev owuld would
 iabbrev wiould would
 iabbrev woudl would
