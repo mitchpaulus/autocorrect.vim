@@ -473,6 +473,7 @@ iabbrev chnage change
 iabbrev chagnes changes
 iabbrev changds changes
 iabbrev chantges changes
+iabbrev hcanges changes
 iabbrev changeing changing
 iabbrev cahpter chapter
 iabbrev chaper chapter
@@ -487,6 +488,7 @@ iabbrev chekc check
 iabbrev CHeck Check
 iabbrev Cheeck Check
 iabbrev checkedd checked
+iabbrev ehcked checked
 iabbrev chekcing checking
 iabbrev CHecking Checking
 iabbrev Chekcing Checking
@@ -520,6 +522,7 @@ iabbrev Clardige Claridge
 iabbrev cleanign cleaning
 iabbrev clenaup cleanup
 iabbrev clcked clicked
+iabbrev clickign clicking
 iabbrev lickcing clicking
 iabbrev lcinet client
 iabbrev lcosed closed
@@ -633,6 +636,7 @@ iabbrev componenets components
 iabbrev compoonents components
 iabbrev comrpession compression
 iabbrev comptuer compute
+iabbrev comptuer computer
 iabbrev concewpt concept
 iabbrev corencen concern
 iabbrev concertns concerns
@@ -1092,6 +1096,7 @@ iabbrev Eneryg Energy
 iabbrev EenrgyPlus EnergyPlus
 iabbrev ENergyPlus EnergyPlus
 iabbrev energypuls EnergyPlus
+iabbrev EnergyPuls EnergyPlus
 iabbrev ENerygpPlus EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev enginnering engineering
@@ -2051,6 +2056,7 @@ iabbrev notaiton notation
 iabbrev notse notes
 iabbrev NOtes Notes
 iabbrev Ntoes Notes
+iabbrev noticiable noticeable
 iabbrev notificaiton notification
 iabbrev notificaitons notifications
 iabbrev novle novel
@@ -2377,6 +2383,7 @@ iabbrev precviously previously
 iabbrev previlsy previously
 iabbrev previousy previously
 iabbrev previulsy previously
+iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
 iabbrev priece price
 iabbrev primeary primary
@@ -2826,6 +2833,7 @@ iabbrev setpoitns setpoints
 iabbrev stepoints setpoints
 iabbrev stpeoints setpoints
 iabbrev SEts Sets
+iabbrev seteting setting
 iabbrev setintg setting
 iabbrev seetup setup
 iabbrev setps setups
@@ -2931,6 +2939,7 @@ iabbrev specifiy specify
 iabbrev specifing specifying
 iabbrev spped speed
 iabbrev Spepd Speed
+iabbrev sepll spell
 iabbrev SPent Spent
 iabbrev spiunner spinner
 iabbrev sptli split
@@ -3227,6 +3236,7 @@ iabbrev Terminail Terminal
 iabbrev termailns terminals
 iabbrev temrinate terminate
 iabbrev Temrinate Terminate
+iabbrev testgin testing
 iabbrev TExas Texas
 iabbrev texet text
 iabbrev texst text
@@ -3615,6 +3625,7 @@ iabbrev WHen When
 iabbrev Whne When
 iabbrev Wheer Where
 iabbrev whearas whereas
+iabbrev wehtehrt whether
 iabbrev wehther whether
 iabbrev whthere whether
 iabbrev hwile while
