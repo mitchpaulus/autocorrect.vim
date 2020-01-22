@@ -1452,6 +1452,7 @@ iabbrev globablly globally
 iabbrev gola goal
 iabbrev cgoing going
 iabbrev goinv going
+iabbrev goiung going
 iabbrev gonig going
 iabbrev Goiing Going
 iabbrev GOing Going
@@ -2123,6 +2124,7 @@ iabbrev ro or
 iabbrev organe orange
 iabbrev ordinacne ordinance
 iabbrev orgainzation organization
+iabbrev organiation organization
 iabbrev origianl original
 iabbrev orignal original
 iabbrev oriigal original
@@ -2324,6 +2326,7 @@ iabbrev posssilby possibly
 iabbrev Possilby Possibly
 iabbrev potentail potential
 iabbrev potentila potential
+iabbrev potentla potential
 iabbrev potnetail potential
 iabbrev potnetial potential
 iabbrev ptoentail potential
