@@ -534,6 +534,7 @@ iabbrev Operataitonal Operational
 iabbrev Operaitons Operations
 iabbrev OPptimziation Optimization
 iabbrev Optimziation Optimization
+iabbrev Orgainzing Organizing
 iabbrev Origilan Original
 iabbrev OTher Other
 iabbrev Ohter Other
@@ -600,6 +601,7 @@ iabbrev PRogram Program
 iabbrev PRoject Project
 iabbrev Porejct Project
 iabbrev Proejct Project
+iabbrev Propelry Properly
 iabbrev Proposlas Proposals
 iabbrev Porposed Proposed
 iabbrev PRovider Provider
@@ -1584,6 +1586,7 @@ iabbrev depper deeper
 iabbrev deafult default
 iabbrev defautl default
 iabbrev defualt default
+iabbrev defatuls defaults
 iabbrev fdefine define
 iabbrev definned defined
 iabbrev definiteyl definitely
@@ -1935,6 +1938,7 @@ iabbrev filan final
 iabbrev finla final
 iabbrev finialize finalize
 iabbrev finializing finalizing
+iabbrev fuinally finally
 iabbrev fidn find
 iabbrev ifnd find
 iabbrev finsih finish
@@ -2529,6 +2533,7 @@ iabbrev ordinacne ordinance
 iabbrev orgainazation organization
 iabbrev orgainzation organization
 iabbrev organiation organization
+iabbrev organizaiton organization
 iabbrev origianl original
 iabbrev orignal original
 iabbrev oriigal original
@@ -2926,8 +2931,10 @@ iabbrev reporst reports
 iabbrev reprots reports
 iabbrev rpeorts reports
 iabbrev rports reports
+iabbrev repostiroes repositories
 iabbrev reporsitoyr repository
 iabbrev repositoyr repository
+iabbrev reposotiyr repository
 iabbrev represesnts represents
 iabbrev requrested requested
 iabbrev requiere require
@@ -3066,6 +3073,7 @@ iabbrev snesors sensors
 iabbrev snet sent
 iabbrev seaparate separate
 iabbrev sepaate separate
+iabbrev serpate separate
 iabbrev speaarte separate
 iabbrev seperated separated
 iabbrev sequqence sequence
