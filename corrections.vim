@@ -182,6 +182,7 @@ iabbrev Dalls Dallas
 iabbrev Dallsa Dallas
 iabbrev DAmper Damper
 iabbrev Danelli Daniel
+iabbrev DAta Data
 iabbrev DAte Date
 iabbrev Daughther Daughter
 iabbrev DAve Dave
@@ -299,6 +300,7 @@ iabbrev Fielity Fidelity
 iabbrev Fildelty Fidelity
 iabbrev Fieldn Field
 iabbrev Figurte Figure
+iabbrev Figrues Figures
 iabbrev Fillign Filling
 iabbrev Fuilling Filling
 iabbrev FInal Final
@@ -366,9 +368,11 @@ iabbrev Guidleline Guideline
 iabbrev Guidleines Guidelines
 iabbrev Html HTML
 iabbrev html HTML
+iabbrev Heaidng Heading
 iabbrev Headquareters Headquarters
 iabbrev HEat Heat
 iabbrev HEating Heating
+iabbrev Heres Here's
 iabbrev HOldiay Holiday
 iabbrev HOliday Holiday
 iabbrev Holdity Holiday
@@ -431,6 +435,7 @@ iabbrev Investiaged Investigated
 iabbrev Invesitgating Investigating
 iabbrev Investiagating Investigating
 iabbrev Investingating Investigating
+iabbrev ITem Item
 iabbrev Itme Item
 iabbrev ITems Items
 iabbrev Itmes Items
@@ -460,6 +465,7 @@ iabbrev Lmit Limit
 iabbrev Laod Load
 iabbrev Lcoal Local
 iabbrev Lcoate Locate
+iabbrev Lockotu Lockout
 iabbrev Looiking Looking
 iabbrev Loower Lower
 iabbrev MMBUT MMBTU
@@ -584,6 +590,7 @@ iabbrev Prelimiary Preliminary
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
 iabbrev Prerequisitevs Prerequisites
+iabbrev PResenation Presentation
 iabbrev Presentationg Presentation
 iabbrev Preussue Pressure
 iabbrev PRevious Previous
@@ -660,6 +667,7 @@ iabbrev sa SA
 iabbrev smtp SMTP
 iabbrev Sql SQL
 iabbrev sql SQL
+iabbrev SAlly Sally
 iabbrev Smaple Sample
 iabbrev Smapling Sampling
 iabbrev Sarha Sarah
@@ -724,6 +732,7 @@ iabbrev Spreadsehet Spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev Standand Standard
 iabbrev Starign Starting
+iabbrev Staiton Station
 iabbrev Satsu Status
 iabbrev STill Still
 iabbrev Streches Stretches
@@ -1319,6 +1328,7 @@ iabbrev chrat chart
 iabbrev chekc check
 iabbrev checkedd checked
 iabbrev ehcked checked
+iabbrev checkiung checking
 iabbrev chekcing checking
 iabbrev checkdlists checklists
 iabbrev chekclists checklists
@@ -1334,6 +1344,7 @@ iabbrev chosne chosen
 iabbrev cohsen chosen
 iabbrev curcuit circuit
 iabbrev curcuites circuits
+iabbrev lcass class
 iabbrev cleanign cleaning
 iabbrev clenaup cleanup
 iabbrev clcked clicked
@@ -1772,6 +1783,7 @@ iabbrev eamil email
 iabbrev emali email
 iabbrev emial email
 iabbrev evmails emails
+iabbrev meails emails
 iabbrev emergingn emerging
 iabbrev empyt empty
 iabbrev eanble enable
@@ -1903,6 +1915,7 @@ iabbrev exprot export
 iabbrev exproted exported
 iabbrev expowse expose
 iabbrev extensibile extensible
+iabbrev exterioro exterior
 iabbrev extermanl external
 iabbrev extemrely extremely
 iabbrev extrremely extremely
@@ -1958,6 +1971,7 @@ iabbrev fodler folder
 iabbrev foler folder
 iabbrev oflder folder
 iabbrev fodlers folders
+iabbrev folloow follow
 iabbrev folloiwing following
 iabbrev followign following
 iabbrev follwoing following
@@ -2112,9 +2126,11 @@ iabbrev ingored ignored
 iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
+iabbrev impelmentaiotn implementation
 iabbrev impelmentation implementation
 iabbrev implementaiton implementation
 iabbrev implmentation implementation
+iabbrev impelmented implemented
 iabbrev importantance importance
 iabbrev importantce importance
 iabbrev impoartant important
@@ -2152,6 +2168,7 @@ iabbrev individaully individually
 iabbrev inddor indoor
 iabbrev iinform inform
 iabbrev ifnormation information
+iabbrev infmraiont information
 iabbrev infolmraotn information
 iabbrev infomariotn information
 iabbrev infomraiotn information
@@ -2198,6 +2215,7 @@ iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev instlalation installation
+iabbrev instlaliont installation
 iabbrev inistalled installed
 iabbrev isntalled installed
 iabbrev instanteous instantaneous
@@ -2734,6 +2752,7 @@ iabbrev presentaion presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
 iabbrev presentatino presentation
+iabbrev presnetioan presentation
 iabbrev pressentaiton presentation
 iabbrev rpesentation presentation
 iabbrev presneted presented
@@ -3040,6 +3059,7 @@ iabbrev searhc search
 iabbrev seraching searching
 iabbrev sedond second
 iabbrev seocnd second
+iabbrev secdtion section
 iabbrev seciotn section
 iabbrev seciton section
 iabbrev securtiy security
@@ -3342,6 +3362,7 @@ iabbrev temperatuter temperature
 iabbrev temperauter temperature
 iabbrev temperautetr temperature
 iabbrev temperautre temperature
+iabbrev temperautret temperature
 iabbrev temperautrte temperature
 iabbrev tempererature temperature
 iabbrev tempertuare temperature
@@ -3543,6 +3564,7 @@ iabbrev trand trend
 iabbrev trned trend
 iabbrev trendend trended
 iabbrev trrended trended
+iabbrev rtends trends
 iabbrev trneds trends
 iabbrev trnes trends
 iabbrev tyr try

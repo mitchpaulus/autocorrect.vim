@@ -4,6 +4,8 @@ set -e
 
 scriptdir=$(dirname "$0")
 
+printf "%s\n" "$scriptdir"
+
 cd "$scriptdir"
 
 git pull || (echo "Not clean merge"; exit 1)
