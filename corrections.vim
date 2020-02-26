@@ -41,6 +41,7 @@ iabbrev Applicaiotn Application
 iabbrev Applicaiton Application
 iabbrev Applciaitons Applications
 iabbrev Applicaitons Applications
+iabbrev Appyly Apply
 iabbrev Appraoch Approach
 iabbrev ARchitects Architects
 iabbrev Arthimetic Arithmetic
@@ -61,6 +62,7 @@ iabbrev Bakc Back
 iabbrev Backgroudn Background
 iabbrev Badn Band
 iabbrev Bararcks Barracks
+iabbrev BGased Based
 iabbrev Baseilne Baseline
 iabbrev Baslein Baseline
 iabbrev Baslien Baseline
@@ -162,10 +164,13 @@ iabbrev Continuouss Continuous
 iabbrev Contionous Continuous
 iabbrev Contracotr Contractor
 iabbrev Contriubtued Contributed
+iabbrev Cointrol Control
 iabbrev Cotnrl Control
+iabbrev Cotnrol Control
 iabbrev Contrls Controls
 iabbrev COoolint Cooling
 iabbrev Cooilng Cooling
+iabbrev Coolign Cooling
 iabbrev Coorinate Coordinate
 iabbrev COre Core
 iabbrev Coutn Count
@@ -212,6 +217,7 @@ iabbrev Dictiorany Dictionary
 iabbrev DId Did
 iabbrev Difff Diff
 iabbrev Difficutl Difficult
+iabbrev Dingin Dining
 iabbrev Disabeld Disabled
 iabbrev Discharege Discharge
 iabbrev Discusision Discussion
@@ -291,6 +297,8 @@ iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
 iabbrev FAn Fan
 iabbrev FAults Faults
+iabbrev FIdelity Fidelity
+iabbrev FIdleity Fidelity
 iabbrev Fideelity Fidelity
 iabbrev Fideliuty Fidelity
 iabbrev Fidleity Fidelity
@@ -321,6 +329,7 @@ iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev FIx Fix
 iabbrev FIxing Fixing
+iabbrev Fllor Floor
 iabbrev Floro Floor
 iabbrev Flwo Flow
 iabbrev Fro For
@@ -453,6 +462,7 @@ iabbrev Ketih Keith
 iabbrev Kettucky Kentucky
 iabbrev KEvin Kevin
 iabbrev Kimal Kimla
+iabbrev Ktichen Kitchen
 iabbrev Laboratoyrt Laboratory
 iabbrev Leakding Leaking
 iabbrev Leanring Learning
@@ -460,11 +470,13 @@ iabbrev Lengend Legend
 iabbrev LIbrary Library
 iabbrev Libarrya Library
 iabbrev Librayr Library
+iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
 iabbrev Lmit Limit
 iabbrev Laod Load
 iabbrev Lcoal Local
 iabbrev Lcoate Locate
+iabbrev Lockoout Lockout
 iabbrev Lockotu Lockout
 iabbrev Looiking Looking
 iabbrev Loower Lower
@@ -561,6 +573,7 @@ iabbrev Outsdie Outside
 iabbrev Outsdsie Outside
 iabbrev OVerview Overview
 iabbrev Parmaetesr Parameters
+iabbrev Particiapnts Participants
 iabbrev Particularily Particularity
 iabbrev Perfomrance Performance
 iabbrev Premissions Permissions
@@ -653,6 +666,7 @@ iabbrev Repsond Respond
 iabbrev REpsonding Responding
 iabbrev Repsonsible Responsible
 iabbrev REturn Return
+iabbrev Referencewr Reverence
 iabbrev Reveiew Review
 iabbrev Reveiw Review
 iabbrev Reiveiwing Reviewing
@@ -677,6 +691,7 @@ iabbrev Saturadya Saturday
 iabbrev Scheudle Schedule
 iabbrev Scheudule Schedule
 iabbrev Schewdule Schedule
+iabbrev Scheudles Schedules
 iabbrev Scirpt Script
 iabbrev Scirpted Scripted
 iabbrev Scirpts Scripts
@@ -702,6 +717,7 @@ iabbrev Setpotni Setpoint
 iabbrev Setptoin Setpoint
 iabbrev Stepoitn Setpoint
 iabbrev Stpoitn Setpoint
+iabbrev Setpoitns Setpoints
 iabbrev SEts Sets
 iabbrev Sharpeoitn SharePoint
 iabbrev Sharepoitn Sharepoint
@@ -831,6 +847,7 @@ iabbrev Trainign Training
 iabbrev Trinaing Training
 iabbrev Transferrign Transferring
 iabbrev Trendign Trending
+iabbrev Tervor Trevor
 iabbrev Treid Tried
 iabbrev Tuedasy Tuesday
 iabbrev Tuedays Tuesday
@@ -872,6 +889,7 @@ iabbrev Visison Vision
 iabbrev VIsualization Visualization
 iabbrev Voluem Volume
 iabbrev Volunttering Volunteering
+iabbrev Wainting Waiting
 iabbrev Waitning Waiting
 iabbrev Wwater Water
 iabbrev Weahter Weather
@@ -897,6 +915,7 @@ iabbrev Wednessday Wednesday
 iabbrev Wennedsay Wednesday
 iabbrev WEnt Went
 iabbrev WHat What
+iabbrev Whbat What
 iabbrev WHen When
 iabbrev Whne When
 iabbrev Wheer Where
@@ -935,6 +954,7 @@ iabbrev Zoen Zone
 iabbrev abbreviatoin abbreviation
 iabbrev abillity ability
 iabbrev abiltily ability
+iabbrev abaout about
 iabbrev abourt about
 iabbrev aboutr about
 iabbrev abvout about
@@ -1119,7 +1139,10 @@ iabbrev assukmptions assumptions
 iabbrev assumptiosn assumptions
 iabbrev atmosphereic atmospheric
 iabbrev atmosphreric atmospheric
+iabbrev attachemnt attachment
+iabbrev attachemtn attachment
 iabbrev attachements attachments
+iabbrev attachemtns attachments
 iabbrev attachgements attachments
 iabbrev attemping attempting
 iabbrev attritbue attribute
@@ -1172,6 +1195,8 @@ iabbrev becaues because
 iabbrev becuase because
 iabbrev beeen been
 iabbrev befoer before
+iabbrev bewfore before
+iabbrev bewforee before
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
@@ -1326,6 +1351,7 @@ iabbrev characteritsics characteristics
 iabbrev chartr chart
 iabbrev chrat chart
 iabbrev chekc check
+iabbrev chewck check
 iabbrev checkedd checked
 iabbrev ehcked checked
 iabbrev checkiung checking
@@ -1372,6 +1398,7 @@ iabbrev columnm column
 iabbrev comlum column
 iabbrev coolumn column
 iabbrev coulmn column
+iabbrev oclumn column
 iabbrev columsn columns
 iabbrev coolumsn columns
 iabbrev coulnmsn columns
@@ -1449,6 +1476,7 @@ iabbrev confifguraiton configuration
 iabbrev configuation configuration
 iabbrev configuraiton configuration
 iabbrev configutration configuration
+iabbrev confirmaiton confirmation
 iabbrev conencted connected
 iabbrev conenected connected
 iabbrev conenction connection
@@ -1560,6 +1588,7 @@ iabbrev critcial critical
 iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev curerent current
+iabbrev currrent current
 iabbrev currtent current
 iabbrev currenlty currently
 iabbrev curosr cursor
@@ -1656,6 +1685,7 @@ iabbrev deterining determining
 iabbrev determineing determining
 iabbrev determiniing determining
 iabbrev dtermining determining
+iabbrev devleop develop
 iabbrev devleoped developed
 iabbrev develeopemnet development
 iabbrev develeopment development
@@ -1729,6 +1759,7 @@ iabbrev documentionat documenting
 iabbrev donig doing
 iabbrev odmain domain
 iabbrev doen done
+iabbrev dobule double
 iabbrev doewn down
 iabbrev donw down
 iabbrev downlaod download
@@ -1872,6 +1903,7 @@ iabbrev evaluateed evaluated
 iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
 iabbrev ewven even
+iabbrev eventaul eventual
 iabbrev everytone everyone
 iabbrev evertyhgin everything
 iabbrev everyting everything
@@ -1890,6 +1922,7 @@ iabbrev executuion execution
 iabbrev executivew executive
 iabbrev exericse exercise
 iabbrev exercieses exercises
+iabbrev eixist exist
 iabbrev exisited existed
 iabbrev elxisting existing
 iabbrev exisitn existing
@@ -2065,6 +2098,7 @@ iabbrev graviational gravitational
 iabbrev gorup group
 iabbrev gropu group
 iabbrev gropus groups
+iabbrev guarantte guarantee
 iabbrev guarantted guaranteed
 iabbrev guideines guidelines
 iabbrev ahd had
@@ -2078,6 +2112,7 @@ iabbrev handliang handling
 iabbrev handlign handling
 iabbrev hndling handling
 iabbrev hapenning happening
+iabbrev happending happening
 iabbrev ahrd hard
 iabbrev ahas has
 iabbrev ahs has
@@ -2128,6 +2163,7 @@ iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impelmentaiotn implementation
 iabbrev impelmentation implementation
+iabbrev implemeantion implementation
 iabbrev implementaiton implementation
 iabbrev implmentation implementation
 iabbrev impelmented implemented
@@ -2189,6 +2225,7 @@ iabbrev informatoin information
 iabbrev infromation information
 iabbrev iniofmration information
 iabbrev inmfromation information
+iabbrev inofmraiont information
 iabbrev inoformation information
 iabbrev inofrmaiton information
 iabbrev inofrmaotn information
@@ -2214,6 +2251,7 @@ iabbrev insenstive insensitive
 iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
+iabbrev insdie inside
 iabbrev instlalation installation
 iabbrev instlaliont installation
 iabbrev inistalled installed
@@ -2316,6 +2354,7 @@ iabbrev lcoation location
 iabbrev locaitno location
 iabbrev locaiton location
 iabbrev loction location
+iabbrev lcoaitons locations
 iabbrev locaiotns locations
 iabbrev locaitons locations
 iabbrev lgo log
@@ -2567,6 +2606,7 @@ iabbrev otudoor outdoor
 iabbrev outdooar outdoor
 iabbrev outdooir outdoor
 iabbrev outdoora outdoor
+iabbrev outsdoor outdoor
 iabbrev outtdor outdoor
 iabbrev outelt outlet
 iabbrev outliened outlined
@@ -2971,6 +3011,7 @@ iabbrev reuqires requires
 iabbrev reaseach research
 iabbrev reasearch research
 iabbrev researhc research
+iabbrev resset reset
 iabbrev residentiali residential
 iabbrev residitnetal residential
 iabbrev resistnace resistance
@@ -2995,6 +3036,7 @@ iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
 iabbrev retor retro
+iabbrev retroift retrofit
 iabbrev reaturn return
 iabbrev retun return
 iabbrev reutn return
@@ -3039,6 +3081,7 @@ iabbrev scheudled scheduled
 iabbrev scheudles schedules
 iabbrev scheuudles schedules
 iabbrev scheduleing scheduling
+iabbrev schedulign scheduling
 iabbrev scheudling scheduling
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
@@ -3096,6 +3139,7 @@ iabbrev sepaate separate
 iabbrev serpate separate
 iabbrev speaarte separate
 iabbrev seperated separated
+iabbrev seequence sequence
 iabbrev sequqence sequence
 iabbrev sqequence sequence
 iabbrev squesnces sequences
@@ -3164,6 +3208,7 @@ iabbrev singlue single
 iabbrev sinlge single
 iabbrev iste site
 iabbrev stie site
+iabbrev situaiton situation
 iabbrev siziung sizing
 iabbrev skilsl skills
 iabbrev lslides slides
@@ -3383,6 +3428,7 @@ iabbrev tmepaeruater temperature
 iabbrev tmepatuera temperature
 iabbrev tmepearture temperature
 iabbrev tmepearute temperature
+iabbrev tmeperatuer temperature
 iabbrev tmeperature temperature
 iabbrev tmeperauter temperature
 iabbrev tmeperautre temperature
@@ -3478,6 +3524,7 @@ iabbrev hteir their
 iabbrev thier their
 iabbrev htem them
 iabbrev hten then
+iabbrev tehn then
 iabbrev theen then
 iabbrev thne then
 iabbrev theoretcial theoretical
@@ -3679,6 +3726,7 @@ iabbrev verficaiton verification
 iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiton verification
+iabbrev vefriyf verify
 iabbrev verifiy verify
 iabbrev veresion version
 iabbrev veriosn version
