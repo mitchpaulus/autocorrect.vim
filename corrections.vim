@@ -272,6 +272,7 @@ iabbrev Eseentially Essentially
 iabbrev Esitmate Estimate
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
+iabbrev Evaulation Evaluation
 iabbrev Everythign Everything
 iabbrev Exmpale Example
 iabbrev Ecxel Excel
@@ -1144,6 +1145,7 @@ iabbrev attachemtn attachment
 iabbrev attachements attachments
 iabbrev attachemtns attachments
 iabbrev attachgements attachments
+iabbrev attachmetns attachments
 iabbrev attemping attempting
 iabbrev attritbue attribute
 iabbrev authenticaiton authentication
@@ -1356,6 +1358,7 @@ iabbrev checkedd checked
 iabbrev ehcked checked
 iabbrev checkiung checking
 iabbrev chekcing checking
+iabbrev chekclist checklist
 iabbrev checkdlists checklists
 iabbrev chekclists checklists
 iabbrev chekcout checkout
@@ -2050,6 +2053,7 @@ iabbrev functioanl functional
 iabbrev fucntionality functionality
 iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
+iabbrev funcitality functionality
 iabbrev funcitonality functionality
 iabbrev functioanlity functionality
 iabbrev functionaliyt functionality
@@ -2621,6 +2625,7 @@ iabbrev outsdide outside
 iabbrev outsdie outside
 iabbrev outliers outwears
 iabbrev ovewr over
+iabbrev voer over
 iabbrev overaching overarching
 iabbrev overestimat overestimate
 iabbrev onw own
@@ -3319,6 +3324,7 @@ iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sumarized summarized
 iabbrev sumamry summary
+iabbrev sumary summary
 iabbrev summayr summary
 iabbrev sunslight sunlight
 iabbrev supercede supersede
@@ -3671,6 +3677,7 @@ iabbrev updload upload
 iabbrev uplaod upload
 iabbrev upldoad upload
 iabbrev updlaoded uploaded
+iabbrev uplodaed uploaded
 iabbrev updlads uploads
 iabbrev useage usage
 iabbrev uesd used
@@ -3725,6 +3732,7 @@ iabbrev ventialtiaon ventilation
 iabbrev verficaiton verification
 iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
+iabbrev verificaiotn verification
 iabbrev verificaiton verification
 iabbrev vefriyf verify
 iabbrev verifiy verify
@@ -3765,6 +3773,7 @@ iabbrev waht what
 iabbrev whqat what
 iabbrev whta what
 iabbrev wehn when
+iabbrev whhen when
 iabbrev whne when
 iabbrev whearas whereas
 iabbrev wehtehrt whether
@@ -3779,6 +3788,7 @@ iabbrev iwndow window
 iabbrev widnow window
 iabbrev windwow window
 iabbrev fwith with
+iabbrev iwht with
 iabbrev iwth with
 iabbrev wiht with
 iabbrev wirth with
