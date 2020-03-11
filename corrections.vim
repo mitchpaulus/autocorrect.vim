@@ -55,6 +55,7 @@ iabbrev Attachemnts Attachments
 iabbrev Attemptiung Attempting
 iabbrev Attmept9ing Attempting
 iabbrev Attmepting Attempting
+iabbrev Attmpeting Attempting
 iabbrev Attendence Attendance
 iabbrev Auguest August
 iabbrev Authorizastion Authorization
@@ -97,6 +98,7 @@ iabbrev cartesina Cartesian
 iabbrev Celcius Celsius
 iabbrev Cnetral Central
 iabbrev Certian Certain
+iabbrev Certinaly Certainly
 iabbrev Chatper Chapter
 iabbrev CHeck Check
 iabbrev Cheeck Check
@@ -112,6 +114,7 @@ iabbrev CHiller Chiller
 iabbrev Chiler Chiller
 iabbrev CHillers Chillers
 iabbrev Chirstmas Christmas
+iabbrev Ciit Citi
 iabbrev Clairdge Claridge
 iabbrev Clairdige Claridge
 iabbrev Clardige Claridge
@@ -196,6 +199,7 @@ iabbrev Decmember December
 iabbrev Definiteyl Definitely
 iabbrev Defintion Definition
 iabbrev Dehumidificaiton Dehumidification
+iabbrev Deltke Deltek
 iabbrev Deamnd Demand
 iabbrev Deparment Department
 iabbrev Descripton Description
@@ -685,6 +689,7 @@ iabbrev sql SQL
 iabbrev SAlly Sally
 iabbrev Smaple Sample
 iabbrev Smapling Sampling
+iabbrev Sararh Sarah
 iabbrev Sarha Sarah
 iabbrev Sarrah Sarah
 iabbrev Sraah Sarah
@@ -987,6 +992,7 @@ iabbrev actauully actually
 iabbrev actucally actually
 iabbrev actulaly actually
 iabbrev addiiton addition
+iabbrev addiotn addition
 iabbrev addiitonal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
@@ -1052,6 +1058,7 @@ iabbrev anslysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
 iabbrev alnaalyze analyze
+iabbrev analzye analyze
 iabbrev anlayzxed analyzed
 iabbrev analzer analyzer
 iabbrev anlayzing analyzing
@@ -1097,6 +1104,7 @@ iabbrev apporach approach
 iabbrev apprach approach
 iabbrev appraoch approach
 iabbrev approahc approach
+iabbrev paproach approach
 iabbrev appropirate appropriate
 iabbrev approriate appropriate
 iabbrev paproval approval
@@ -1148,6 +1156,7 @@ iabbrev attachgements attachments
 iabbrev attachmetns attachments
 iabbrev attemping attempting
 iabbrev attritbue attribute
+iabbrev autehnticadtion authentication
 iabbrev authenticaiton authentication
 iabbrev auot auto
 iabbrev automaated automated
@@ -1436,6 +1445,7 @@ iabbrev communciates communicates
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
 iabbrev compnay company
+iabbrev comapre compare
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev competiting competing
@@ -1578,6 +1588,7 @@ iabbrev correspoinds corresponds
 iabbrev corrput corrupt
 iabbrev coiuld could
 iabbrev coudl could
+iabbrev coulod could
 iabbrev coures course
 iabbrev crnaked cranked
 iabbrev creatd created
@@ -1715,6 +1726,7 @@ iabbrev difffernt different
 iabbrev diffierent different
 iabbrev idfferent different
 iabbrev difficutl difficult
+iabbrev difficulity difficulty
 iabbrev directins directions
 iabbrev direclty directly
 iabbrev direcly directly
@@ -1832,6 +1844,7 @@ iabbrev enginnering engineering
 iabbrev egineers engineers
 iabbrev enought enough
 iabbrev enrollement enrollment
+iabbrev entials entails
 iabbrev eneter enter
 iabbrev enteer enter
 iabbrev neter enter
@@ -1854,6 +1867,7 @@ iabbrev enviornment environment
 iabbrev environemntes environments
 iabbrev eqaul equal
 iabbrev equzl equal
+iabbrev equilaiyt equality
 iabbrev equlaity equality
 iabbrev equaiton equation
 iabbrev equatoin equation
@@ -1954,6 +1968,7 @@ iabbrev extensibile extensible
 iabbrev exterioro exterior
 iabbrev extermanl external
 iabbrev extemrely extremely
+iabbrev extermely extremely
 iabbrev extrremely extremely
 iabbrev facotr factor
 iabbrev fractor factor
@@ -2031,10 +2046,12 @@ iabbrev forsm forms
 iabbrev formual formula
 iabbrev fomraulas formulas
 iabbrev formulats formulas
+iabbrev forumalas formulas
 iabbrev forwareded forwarded
 iabbrev foudn found
 iabbrev foru four
 iabbrev frawerwork framework
+iabbrev frequenty frequently
 iabbrev froam from
 iabbrev fromm from
 iabbrev rom from
@@ -2160,11 +2177,13 @@ iabbrev humdity humidity
 iabbrev humidiyt humidity
 iabbrev humidty humidity
 iabbrev idael ideal
+iabbrev indentifier identifier
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
+iabbrev impement implement
 iabbrev impelmentaiotn implementation
 iabbrev impelmentation implementation
 iabbrev implemeantion implementation
@@ -2189,6 +2208,7 @@ iabbrev ni in
 iabbrev inlcude include
 iabbrev inclucded included
 iabbrev includede included
+iabbrev inlcudes includes
 iabbrev incompressibiility incompressibility
 iabbrev incrorect incorrect
 iabbrev incorectly incorrectly
@@ -2262,6 +2282,7 @@ iabbrev inistalled installed
 iabbrev isntalled installed
 iabbrev instanteous instantaneous
 iabbrev insated instead
+iabbrev insstead instead
 iabbrev instaed instead
 iabbrev insteadd instead
 iabbrev insturction instruction
@@ -2482,6 +2503,7 @@ iabbrev mornign morning
 iabbrev mornigng morning
 iabbrev morongin morning
 iabbrev mrongin morning
+iabbrev omst most
 iabbrev moter motor
 iabbrev movew move
 iabbrev myuch much
@@ -2534,11 +2556,13 @@ iabbrev nomianal nominal
 iabbrev nnon noon
 iabbrev nnormal normal
 iabbrev nomral normal
+iabbrev normla normal
 iabbrev nomrally normally
 iabbrev normnally normally
 iabbrev nto not
 iabbrev notaiton notation
 iabbrev notse notes
+iabbrev nothign nothing
 iabbrev noticiable noticeable
 iabbrev notificaiton notification
 iabbrev notificaitons notifications
@@ -2615,6 +2639,7 @@ iabbrev outtdor outdoor
 iabbrev outelt outlet
 iabbrev outliened outlined
 iabbrev otuptu output
+iabbrev otuput output
 iabbrev ouptut output
 iabbrev ouput output
 iabbrev outup output
@@ -2648,6 +2673,7 @@ iabbrev paretn parent
 iabbrev partent parent
 iabbrev paretns parents
 iabbrev paresr parser
+iabbrev aprsing parsing
 iabbrev aprt part
 iabbrev aprtial partial
 iabbrev partail partial
@@ -2708,11 +2734,14 @@ iabbrev plna plan
 iabbrev plannign planning
 iabbrev palnt plant
 iabbrev palusible plausible
+iabbrev paly play
 iabbrev pzlaza plaza
 iabbrev pllt plot
 iabbrev plto plot
 iabbrev pltos plots
 iabbrev polts plots
+iabbrev pltted plotted
+iabbrev ploitters plotters
 iabbrev pnematic pneumatic
 iabbrev pnumatic pneumatic
 iabbrev piont point
@@ -2755,6 +2784,7 @@ iabbrev possiblity possibility
 iabbrev possbile possible
 iabbrev possilbe possible
 iabbrev posssible possible
+iabbrev possibliy possibly
 iabbrev possiblyh possibly
 iabbrev possilbiy possibly
 iabbrev possilby possibly
@@ -2836,6 +2866,7 @@ iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev produciton production
 iabbrev prodcuts products
+iabbrev profient proficient
 iabbrev fprofile profile
 iabbrev profeil profile
 iabbrev profjiels profiles
@@ -2886,6 +2917,7 @@ iabbrev poumps pumps
 iabbrev upmps pumps
 iabbrev quaility quality
 iabbrev quailty quality
+iabbrev quailyt quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
 iabbrev quialyt quality
@@ -2944,9 +2976,11 @@ iabbrev refigerator refrigerator
 iabbrev reagardiung regarding
 iabbrev regartding regarding
 iabbrev reagrds regards
+iabbrev regrads regards
 iabbrev regernation regeneration
 iabbrev regisetered registered
 iabbrev regrssion regression
+iabbrev regural regular
 iabbrev erheat reheat
 iabbrev rehate reheat
 iabbrev reheta reheat
@@ -2984,6 +3018,7 @@ iabbrev roeport report
 iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
+iabbrev reproter reporter
 iabbrev areporting reporting
 iabbrev reporitng reporting
 iabbrev reportign reporting
@@ -3044,6 +3079,7 @@ iabbrev retor retro
 iabbrev retroift retrofit
 iabbrev reaturn return
 iabbrev retun return
+iabbrev retunr return
 iabbrev reutn return
 iabbrev reutnr return
 iabbrev reutrn return
@@ -3151,6 +3187,7 @@ iabbrev squesnces sequences
 iabbrev sequencialy sequentially
 iabbrev sequenctially sequentially
 iabbrev sereis series
+iabbrev sseries series
 iabbrev servcie service
 iabbrev ste set
 iabbrev sepoitn setpoint
@@ -3231,6 +3268,7 @@ iabbrev solutiosn solutions
 iabbrev sove solve
 iabbrev soem some
 iabbrev somehting something
+iabbrev somethign something
 iabbrev soemwhere somewhere
 iabbrev soruces sources
 iabbrev psace space
@@ -3620,6 +3658,7 @@ iabbrev trrended trended
 iabbrev rtends trends
 iabbrev trneds trends
 iabbrev trnes trends
+iabbrev tyrends trends
 iabbrev tyr try
 iabbrev tyring trying
 iabbrev turing turning
@@ -3815,6 +3854,7 @@ iabbrev owuld would
 iabbrev wiould would
 iabbrev woudl would
 iabbrev wouold would
+iabbrev wuoudl would
 iabbrev worng wrong
 iabbrev yaer year
 iabbrev yewt yet
