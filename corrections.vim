@@ -96,6 +96,7 @@ iabbrev Calcibrated Calibrated
 iabbrev Clal Call
 iabbrev cartesina Cartesian
 iabbrev Celcius Celsius
+iabbrev Centrla Central
 iabbrev Cnetral Central
 iabbrev Certian Certain
 iabbrev Certinaly Certainly
@@ -224,6 +225,7 @@ iabbrev Difficutl Difficult
 iabbrev Dingin Dining
 iabbrev Disabeld Disabled
 iabbrev Discharege Discharge
+iabbrev Discusion Discussion
 iabbrev Discusision Discussion
 iabbrev Discusison Discussion
 iabbrev Disucssion Discussion
@@ -236,6 +238,7 @@ iabbrev Documentaiton Documentation
 iabbrev Documention Documentation
 iabbrev DOwnlaoded Downloaded
 iabbrev Downtonw Downtown
+iabbrev ecm ECM
 iabbrev Ecnomizer Economizer
 iabbrev Econmoizer Economizer
 iabbrev Economzier Economizer
@@ -1337,6 +1340,7 @@ iabbrev clell cell
 iabbrev cetner center
 iabbrev cewtner center
 iabbrev cneter center
+iabbrev centrla central
 iabbrev cewntral central
 iabbrev cnetal central
 iabbrev cnetral central
@@ -1375,6 +1379,7 @@ iabbrev checkes checks
 iabbrev chekcs checks
 iabbrev childern children
 iabbrev chillled chilled
+iabbrev chyiller chiller
 iabbrev chilllers chillers
 iabbrev cohice choice
 iabbrev chooosing choosing
@@ -1472,6 +1477,7 @@ iabbrev comptuer computer
 iabbrev concewpt concept
 iabbrev corencen concern
 iabbrev concertns concerns
+iabbrev conercns concerns
 iabbrev consise concise
 iabbrev consiseness conciseness
 iabbrev conculsions conclusions
@@ -1930,6 +1936,7 @@ iabbrev exmaple example
 iabbrev exmpale example
 iabbrev excewption exception
 iabbrev exceptionatlly exceptionally
+iabbrev excpetions exceptions
 iabbrev exhanger exchange
 iabbrev exhcange exchange
 iabbrev exectuable executable
@@ -2385,6 +2392,7 @@ iabbrev locaitons locations
 iabbrev lgo log
 iabbrev logisitcs logistics
 iabbrev slong long
+iabbrev logner longer
 iabbrev lookign looking
 iabbrev loose lose
 iabbrev loower lower
@@ -2464,6 +2472,7 @@ iabbrev minimimum minimum
 iabbrev minnute minute
 iabbrev mintue minute
 iabbrev mintues minutes
+iabbrev msising missing
 iabbrev maixing mixing
 iabbrev minxing mixing
 iabbrev mdoe mode
@@ -2614,6 +2623,7 @@ iabbrev optoins options
 iabbrev otpions options
 iabbrev ro or
 iabbrev organe orange
+iabbrev ordedr order
 iabbrev ordinacne ordinance
 iabbrev orgainazation organization
 iabbrev orgainzation organization
@@ -2733,6 +2743,8 @@ iabbrev pland plan
 iabbrev plna plan
 iabbrev plannign planning
 iabbrev palnt plant
+iabbrev platn plant
+iabbrev polant plant
 iabbrev palusible plausible
 iabbrev paly play
 iabbrev pzlaza plaza
@@ -3057,6 +3069,7 @@ iabbrev residitnetal residential
 iabbrev resistnace resistance
 iabbrev resistnatce resistance
 iabbrev resoluution resolution
+iabbrev resovle resolve
 iabbrev resoelves resolves
 iabbrev erspect respect
 iabbrev respcet respect
@@ -3364,6 +3377,7 @@ iabbrev sumarized summarized
 iabbrev sumamry summary
 iabbrev sumary summary
 iabbrev summayr summary
+iabbrev usmmed summed
 iabbrev sunslight sunlight
 iabbrev supercede supersede
 iabbrev su7pply supply
@@ -3381,6 +3395,7 @@ iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
 iabbrev surveryed surveyed
 iabbrev suscepible susceptible
+iabbrev swtich switch
 iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev synicng syncing
@@ -3748,6 +3763,7 @@ iabbrev avlues values
 iabbrev valeus values
 iabbrev valuse values
 iabbrev vlues values
+iabbrev valuve valve
 iabbrev vlave valve
 iabbrev vlaves valves
 iabbrev vairalbe variable
