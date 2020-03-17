@@ -20,6 +20,7 @@ iabbrev Adminsitrative Administrative
 iabbrev Advnaced Advanced
 iabbrev Adviosr Advisor
 iabbrev AFter After
+iabbrev Afternnon Afternoon
 iabbrev Ari Air
 iabbrev Airprot Airport
 iabbrev Almao Alamo
@@ -94,6 +95,7 @@ iabbrev Calcuoator Calculator
 iabbrev Calander Calendar
 iabbrev Calcibrated Calibrated
 iabbrev Clal Call
+iabbrev Capaicyt Capacity
 iabbrev cartesina Cartesian
 iabbrev Celcius Celsius
 iabbrev Centrla Central
@@ -375,6 +377,7 @@ iabbrev GOing Going
 iabbrev Goiing Going
 iabbrev GOod Good
 iabbrev Googoel Google
+iabbrev Graphcis Graphics
 iabbrev Grenenwood Greenwood
 iabbrev Grennwood Greenwood
 iabbrev Grup Group
@@ -2922,6 +2925,7 @@ iabbrev proposla proposal
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev rpove prove
+iabbrev psychrometreics psychrometrics
 iabbrev pulliing pulling
 iabbrev pulliung pulling
 iabbrev pmpups pumps
@@ -3514,6 +3518,7 @@ iabbrev tempreatures temperatures
 iabbrev tmeperatures temperatures
 iabbrev tameplate template
 iabbrev tempalate template
+iabbrev tempalge template
 iabbrev tempalte template
 iabbrev tmeplate template
 iabbrev tempaltes templates
@@ -3785,6 +3790,7 @@ iabbrev vaioruds various
 iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
 iabbrev verficaiton verification
+iabbrev verfiicaiton verification
 iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiotn verification
