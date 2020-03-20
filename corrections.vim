@@ -281,6 +281,7 @@ iabbrev Eseentially Essentially
 iabbrev Esitmate Estimate
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
+iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
 iabbrev Everythign Everything
 iabbrev Exmpale Example
@@ -342,6 +343,7 @@ iabbrev FIxing Fixing
 iabbrev Fllor Floor
 iabbrev Floro Floor
 iabbrev Flwo Flow
+iabbrev FOr For
 iabbrev Fro For
 iabbrev Froest Forest
 iabbrev Fomrs Forms
@@ -583,6 +585,7 @@ iabbrev Otuside Outside
 iabbrev Outsdie Outside
 iabbrev Outsdsie Outside
 iabbrev OVerview Overview
+iabbrev Pakcing Packing
 iabbrev Parmaetesr Parameters
 iabbrev Particiapnts Participants
 iabbrev Particularily Particularity
@@ -924,6 +927,7 @@ iabbrev Wednesdday Wednesday
 iabbrev Wednesdya Wednesday
 iabbrev Wedneseady Wednesday
 iabbrev Wednessday Wednesday
+iabbrev Wendesady Wednesday
 iabbrev Wennedsay Wednesday
 iabbrev WEnt Went
 iabbrev WHat What
@@ -1457,8 +1461,10 @@ iabbrev comapre compare
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev competiting competing
+iabbrev compiel compile
 iabbrev ocmplield compiled
 iabbrev pcompiled compiled
+iabbrev complier compiler
 iabbrev compoiler compiler
 iabbrev compolement complement
 iabbrev compeleted completed
@@ -1576,6 +1582,7 @@ iabbrev copeid copied
 iabbrev cipy copy
 iabbrev ocpy copy
 iabbrev copyting copying
+iabbrev correcdt correct
 iabbrev correclty correctly
 iabbrev correpsnd correspond
 iabbrev correspodn correspond
@@ -1668,6 +1675,7 @@ iabbrev depdnd depend
 iabbrev dependance dependence
 iabbrev dependecies dependencies
 iabbrev dependeiing depending
+iabbrev deply deploy
 iabbrev dpeloying deploying
 iabbrev derivateive derivative
 iabbrev deriviate derivative
@@ -1899,6 +1907,7 @@ iabbrev equipoement equipment
 iabbrev equipoemnt equipment
 iabbrev equipoemtn equipment
 iabbrev equipoment equipment
+iabbrev equpiemtn equipment
 iabbrev equpiment equipment
 iabbrev euiqpment equipment
 iabbrev euqipment equipment
@@ -2061,6 +2070,7 @@ iabbrev forwareded forwarded
 iabbrev foudn found
 iabbrev foru four
 iabbrev frawerwork framework
+iabbrev frmaework framework
 iabbrev frequenty frequently
 iabbrev froam from
 iabbrev fromm from
@@ -2070,6 +2080,7 @@ iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
 iabbrev fucntion function
+iabbrev funciotn function
 iabbrev funcitno function
 iabbrev funciton function
 iabbrev functdion function
@@ -2082,6 +2093,7 @@ iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
 iabbrev funcitality functionality
 iabbrev funcitonality functionality
+iabbrev functinality functionality
 iabbrev functioanlity functionality
 iabbrev functionaliyt functionality
 iabbrev ufnctionality functionality
@@ -2555,6 +2567,7 @@ iabbrev netrual neutral
 iabbrev netural neutral
 iabbrev neturla neutral
 iabbrev enxt next
+iabbrev nexdt next
 iabbrev nexzt next
 iabbrev ngiht night
 iabbrev nomeclature nomenclature
@@ -2670,6 +2683,7 @@ iabbrev onw own
 iabbrev packgae package
 iabbrev pakcaged packaged
 iabbrev apge page
+iabbrev pandco pandoc
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
 iabbrev apramater parameter
@@ -2879,6 +2893,7 @@ iabbrev proces process
 iabbrev proecess process
 iabbrev prodcue produce
 iabbrev prodcued produced
+iabbrev producedd produced
 iabbrev produciton production
 iabbrev prodcuts products
 iabbrev profient proficient
@@ -2953,6 +2968,7 @@ iabbrev reaised raised
 iabbrev rasing raising
 iabbrev ranodm random
 iabbrev reange range
+iabbrev frate rate
 iabbrev artes rates
 iabbrev artio ratio
 iabbrev reaidng reading
@@ -3119,6 +3135,7 @@ iabbrev sampel sample
 iabbrev sampele sample
 iabbrev smapel sample
 iabbrev smaple sample
+iabbrev samplign sampling
 iabbrev smapling sampling
 iabbrev sxampleing sampling
 iabbrev satisfacotry satisfactory
@@ -3767,6 +3784,7 @@ iabbrev vlaue value
 iabbrev avlues values
 iabbrev valeus values
 iabbrev valuse values
+iabbrev vlaues values
 iabbrev vlues values
 iabbrev valuve valve
 iabbrev vlave valve
@@ -3848,6 +3866,7 @@ iabbrev wikipedia wikipedia
 iabbrev iwndow window
 iabbrev widnow window
 iabbrev windwow window
+iabbrev windwos windows
 iabbrev fwith with
 iabbrev iwht with
 iabbrev iwth with
@@ -3856,6 +3875,7 @@ iabbrev wirth with
 iabbrev witha with a
 iabbrev wituh with
 iabbrev wihtin within
+iabbrev withign within
 iabbrev withing within
 iabbrev iwthout without
 iabbrev owkr work
