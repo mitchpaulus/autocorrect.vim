@@ -82,6 +82,7 @@ iabbrev Buidlgin Building
 iabbrev Buidlign Building
 iabbrev Buidling Building
 iabbrev Buildgion Building
+iabbrev Buildic Building
 iabbrev Buildign Building
 iabbrev Buildgins Buildings
 iabbrev Buildigns Buildings
@@ -238,6 +239,7 @@ iabbrev Documenation Documentation
 iabbrev Documentaiont Documentation
 iabbrev Documentaiton Documentation
 iabbrev Documention Documentation
+iabbrev DOg Dog
 iabbrev DOwnlaoded Downloaded
 iabbrev Downtonw Downtown
 iabbrev ecm ECM
@@ -471,6 +473,7 @@ iabbrev Jhon John
 iabbrev Joihn John
 iabbrev Hohnson Johnson
 iabbrev Juilian Julian
+iabbrev Julain Julian
 iabbrev Ketih Keith
 iabbrev Kettucky Kentucky
 iabbrev KEvin Kevin
@@ -656,6 +659,7 @@ iabbrev REconsile Reconcile
 iabbrev REdoing Redoing
 iabbrev Refacotr Refactor
 iabbrev Refacotring Refactoring
+iabbrev Reformaatted Reformatted
 iabbrev Regenearrte Regenerate
 iabbrev Regeneratre Regenerate
 iabbrev Regerneate Regenerate
@@ -930,6 +934,7 @@ iabbrev Wednessday Wednesday
 iabbrev Wendesady Wednesday
 iabbrev Wennedsay Wednesday
 iabbrev WEnt Went
+iabbrev WEst West
 iabbrev WHat What
 iabbrev Whbat What
 iabbrev WHen When
@@ -1146,6 +1151,7 @@ iabbrev asekd asked
 iabbrev ascpects aspects
 iabbrev assignead assigned
 iabbrev assigneing assigning
+iabbrev assinging assigning
 iabbrev assignemnents assignments
 iabbrev assocaited associated
 iabbrev assuem assume
@@ -1499,6 +1505,7 @@ iabbrev conditnions conditions
 iabbrev conditoins conditions
 iabbrev condusive conducive
 iabbrev conductinve conductive
+iabbrev cvonference conference
 iabbrev condifience confidence
 iabbrev confifguraiton configuration
 iabbrev configuation configuration
@@ -1723,6 +1730,7 @@ iabbrev develeopment development
 iabbrev developement development
 iabbrev developemnet development
 iabbrev developemnt development
+iabbrev devleopemnt development
 iabbrev devleopemtn development
 iabbrev devleopment development
 iabbrev developes develops
@@ -2392,6 +2400,7 @@ iabbrev littel little
 iabbrev laod load
 iabbrev lodaed loaded
 iabbrev laods loads
+iabbrev lboby lobby
 iabbrev lcoal local
 iabbrev localshot localhost
 iabbrev lcoated located
@@ -2566,6 +2575,7 @@ iabbrev nerutla neutral
 iabbrev netrual neutral
 iabbrev netural neutral
 iabbrev neturla neutral
+iabbrev nweer newer
 iabbrev enxt next
 iabbrev nexdt next
 iabbrev nexzt next
@@ -2605,6 +2615,7 @@ iabbrev fo of
 iabbrev oif of
 iabbrev oftne often
 iabbrev oftentiems oftentimes
+iabbrev odler older
 iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev onr on
@@ -3664,6 +3675,7 @@ iabbrev oto to
 iabbrev togehter together
 iabbrev toekn token
 iabbrev otkens tokens
+iabbrev tomroorw tomorrow
 iabbrev toolos tools
 iabbrev topci topic
 iabbrev topcis topics
@@ -3813,6 +3825,7 @@ iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiotn verification
 iabbrev verificaiton verification
+iabbrev vreification verification
 iabbrev vefriyf verify
 iabbrev verifiy verify
 iabbrev veresion version
@@ -3899,6 +3912,7 @@ iabbrev wouold would
 iabbrev wuoudl would
 iabbrev worng wrong
 iabbrev yaer year
+iabbrev yeras years
 iabbrev yewt yet
 iabbrev yhou you
 iabbrev youy you
