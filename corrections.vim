@@ -34,6 +34,7 @@ iabbrev Athough Although
 iabbrev Analyiss Analysis
 iabbrev Anatormy Anatomy
 iabbrev Adn And
+iabbrev Anbother Another
 iabbrev Anythony Anthony
 iabbrev Antoionio Antonio
 iabbrev Antoniao Antonio
@@ -45,6 +46,7 @@ iabbrev Applicaitons Applications
 iabbrev Appyly Apply
 iabbrev Appraoch Approach
 iabbrev ARchitects Architects
+iabbrev ARae Area
 iabbrev Arthimetic Arithmetic
 iabbrev ARticles Articles
 iabbrev Artifical Artificial
@@ -98,6 +100,7 @@ iabbrev Calcibrated Calibrated
 iabbrev Clal Call
 iabbrev Capaicyt Capacity
 iabbrev cartesina Cartesian
+iabbrev Celebraiton Celebration
 iabbrev Celcius Celsius
 iabbrev Centrla Central
 iabbrev Cnetral Central
@@ -178,6 +181,7 @@ iabbrev Contrls Controls
 iabbrev COoolint Cooling
 iabbrev Cooilng Cooling
 iabbrev Coolign Cooling
+iabbrev Cooliing Cooling
 iabbrev Coorinate Coordinate
 iabbrev COre Core
 iabbrev Coutn Count
@@ -987,6 +991,7 @@ iabbrev abstarctions abstractions
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
 iabbrev accessiblity accessibility
+iabbrev accesible accessible
 iabbrev accidently accidentally
 iabbrev accompying accompanying
 iabbrev accompolish accomplish
@@ -1021,6 +1026,7 @@ iabbrev afftecting affecting
 iabbrev aftenronon afternoon
 iabbrev agian again
 iabbrev aggregatre aggregate
+iabbrev aggregatiuon aggregation
 iabbrev aggregatrion aggregation
 iabbrev aggregration aggregation
 iabbrev ahir air
@@ -1094,6 +1100,7 @@ iabbrev anythign anything
 iabbrev anytihng anything
 iabbrev anywereh anywhere
 iabbrev appartent apparent
+iabbrev apparantly apparently
 iabbrev apear appear
 iabbrev appera appear
 iabbrev papear appear
@@ -1136,6 +1143,7 @@ iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
 iabbrev arbitary arbitrary
+iabbrev archetictural architectural
 iabbrev aer are
 iabbrev aqre are
 iabbrev aree are
@@ -1210,6 +1218,7 @@ iabbrev balanace balance
 iabbrev balnace balance
 iabbrev balnaces balances
 iabbrev bnak bank
+iabbrev bvanquet banquet
 iabbrev abr bar
 iabbrev absed based
 iabbrev baseliune baseline
@@ -1570,6 +1579,7 @@ iabbrev contorels controls
 iabbrev contorls controls
 iabbrev contorrls controls
 iabbrev contreols controls
+iabbrev controsl controls
 iabbrev ocntrosl controls
 iabbrev convient convenient
 iabbrev convensition convention
@@ -1810,6 +1820,7 @@ iabbrev downtonn downtown
 iabbrev drwawer drawer
 iabbrev drwaing drawing
 iabbrev draings drawings
+iabbrev drawwigns drawings
 iabbrev drwan drawn
 iabbrev dorp drop
 iabbrev dropwdown dropdown
@@ -1992,6 +2003,7 @@ iabbrev exprot export
 iabbrev exproted exported
 iabbrev expowse expose
 iabbrev extensibile extensible
+iabbrev exetiror exterior
 iabbrev exterioro exterior
 iabbrev extermanl external
 iabbrev extemrely extremely
@@ -2084,6 +2096,7 @@ iabbrev froam from
 iabbrev fromm from
 iabbrev rom from
 iabbrev fornt front
+iabbrev frontedn frontend
 iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
@@ -2361,6 +2374,7 @@ iabbrev kernal kernel
 iabbrev dkey key
 iabbrev keystorkes keystrokes
 iabbrev ktichen kitchen
+iabbrev kitchnes kitchens
 iabbrev knoiwldege knowledge
 iabbrev knonw known
 iabbrev knwon known
@@ -2417,6 +2431,7 @@ iabbrev lgo log
 iabbrev logisitcs logistics
 iabbrev slong long
 iabbrev logner longer
+iabbrev loook look
 iabbrev lookign looking
 iabbrev loose lose
 iabbrev loower lower
@@ -2597,6 +2612,7 @@ iabbrev normnally normally
 iabbrev nto not
 iabbrev notaiton notation
 iabbrev notse notes
+iabbrev ntoes notes
 iabbrev nothign nothing
 iabbrev noticiable noticeable
 iabbrev notificaiton notification
@@ -2784,6 +2800,7 @@ iabbrev pltted plotted
 iabbrev ploitters plotters
 iabbrev pnematic pneumatic
 iabbrev pnumatic pneumatic
+iabbrev pnematics pneumatics
 iabbrev piont point
 iabbrev poitn point
 iabbrev popitn point
@@ -2982,6 +2999,7 @@ iabbrev reange range
 iabbrev frate rate
 iabbrev artes rates
 iabbrev artio ratio
+iabbrev readidy readily
 iabbrev reaidng reading
 iabbrev reayd ready
 iabbrev reaffrim reaffirm
@@ -3401,6 +3419,7 @@ iabbrev substantce substance
 iabbrev substituing substituting
 iabbrev substituations substitutions
 iabbrev substiutions substitutions
+iabbrev subtraciton subtraction
 iabbrev succesful successful
 iabbrev successivley successively
 iabbrev usch such
@@ -3420,6 +3439,7 @@ iabbrev supplyu supply
 iabbrev suppply supply
 iabbrev suppy supply
 iabbrev uspply supply
+iabbrev suppling supplying
 iabbrev supprot support
 iabbrev usre sure
 iabbrev surroundsing surrounding
@@ -3758,6 +3778,7 @@ iabbrev unjjoccupied unoccupied
 iabbrev unoccuipieed unoccupied
 iabbrev unoccupierd unoccupied
 iabbrev unoccupiied unoccupied
+iabbrev unreadalbe unreadable
 iabbrev unitl until
 iabbrev upodate update
 iabbrev updaetgd updated
@@ -3870,6 +3891,7 @@ iabbrev whne when
 iabbrev whearas whereas
 iabbrev wehtehrt whether
 iabbrev wehther whether
+iabbrev whehter whether
 iabbrev whthere whether
 iabbrev hwile while
 iabbrev whilee while
