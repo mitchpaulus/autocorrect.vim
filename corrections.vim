@@ -499,6 +499,7 @@ iabbrev Lcoate Locate
 iabbrev Lockoout Lockout
 iabbrev Lockotu Lockout
 iabbrev Looiking Looking
+iabbrev Loopo Loop
 iabbrev Loower Lower
 iabbrev MMBUT MMBTU
 iabbrev Macrosciptic Macroscopic
@@ -543,6 +544,7 @@ iabbrev Mornigin Morning
 iabbrev MOst Most
 iabbrev Mosty Mostly
 iabbrev Natual Natural
+iabbrev Naturaly Naturally
 iabbrev NEed Need
 iabbrev NEedc Need
 iabbrev Neglible Negligible
@@ -654,6 +656,7 @@ iabbrev Quantificaitons Quantifications
 iabbrev Qeustionaaire Questionnaire
 iabbrev Quesitons Questions
 iabbrev Questinos Questions
+iabbrev Qucdk Quick
 iabbrev Quiclkly Quickly
 iabbrev RAdios Radios
 iabbrev RAte Rate
@@ -868,6 +871,7 @@ iabbrev Tyotoa Toyota
 iabbrev Traingin Training
 iabbrev Trainign Training
 iabbrev Trinaing Training
+iabbrev TRane Trane
 iabbrev Transferrign Transferring
 iabbrev Trendign Trending
 iabbrev Tervor Trevor
@@ -905,6 +909,7 @@ iabbrev UPloading Uploading
 iabbrev Uiltity Utility
 iabbrev VAlidator Validator
 iabbrev Validatort Validator
+iabbrev Varialbe Variable
 iabbrev Verifiatioon Verification
 iabbrev VIsion Vision
 iabbrev Visision Vision
@@ -949,6 +954,7 @@ iabbrev Windwos Windows
 iabbrev Windwows Windows
 iabbrev WIng Wing
 iabbrev Wtih With
+iabbrev WIthout Without
 iabbrev Witneess Witness
 iabbrev Wrod Word
 iabbrev Wrok Work
@@ -1013,6 +1019,7 @@ iabbrev actucally actually
 iabbrev actulaly actually
 iabbrev addiiton addition
 iabbrev addiotn addition
+iabbrev addtion addition
 iabbrev addiitonal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
@@ -1138,6 +1145,7 @@ iabbrev approximaltey approximately
 iabbrev approximatley approximately
 iabbrev approximatlye approximately
 iabbrev apprpoximatley approximately
+iabbrev paproximately approximately
 iabbrev approximatation approximation
 iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
@@ -1424,9 +1432,11 @@ iabbrev codiing coding
 iabbrev coefficent coefficient
 iabbrev coeffient coefficient
 iabbrev coefificent coefficient
+iabbrev coefficiencts coefficients
 iabbrev coefficinets coefficients
 iabbrev coerfficiednts coefficients
 iabbrev coli coil
+iabbrev ocil coil
 iabbrev collabloariton collaboration
 iabbrev collaboartion collaboration
 iabbrev coollected collected
@@ -1617,6 +1627,7 @@ iabbrev correspongding corresponding
 iabbrev correspongin corresponding
 iabbrev corresponidign corresponding
 iabbrev corrsponding corresponding
+iabbrev correpsonds corresponds
 iabbrev correspoinds corresponds
 iabbrev corrput corrupt
 iabbrev coiuld could
@@ -1762,6 +1773,7 @@ iabbrev diffierent different
 iabbrev idfferent different
 iabbrev difficutl difficult
 iabbrev difficulity difficulty
+iabbrev dirctions directions
 iabbrev directins directions
 iabbrev direclty directly
 iabbrev direcly directly
@@ -1827,6 +1839,7 @@ iabbrev dropwdown dropdown
 iabbrev diuct duct
 iabbrev ducct duct
 iabbrev dupcliate duplicate
+iabbrev dupcliates duplicates
 iabbrev duriung during
 iabbrev durnig during
 iabbrev dynamci dynamic
@@ -2347,6 +2360,7 @@ iabbrev inveteravl interval
 iabbrev inot into
 iabbrev iunto into
 iabbrev invserse inverse
+iabbrev investigae investigate
 iabbrev investigaet investigate
 iabbrev investigatign investigating
 iabbrev invesitgation investigation
@@ -2683,6 +2697,7 @@ iabbrev ohter other
 iabbrev toher other
 iabbrev otherse others
 iabbrev otu out
+iabbrev otubreak outbreak
 iabbrev otudoor outdoor
 iabbrev outdooar outdoor
 iabbrev outdooir outdoor
@@ -2929,6 +2944,7 @@ iabbrev fprofile profile
 iabbrev profeil profile
 iabbrev profjiels profiles
 iabbrev porgram program
+iabbrev progmra program
 iabbrev progrma program
 iabbrev projgram program
 iabbrev prommed programmed
@@ -3023,6 +3039,7 @@ iabbrev recogoized recognized
 iabbrev recoomendations recommendations
 iabbrev recoreded recorded
 iabbrev reocrded recorded
+iabbrev reducition reduction
 iabbrev reduciton reduction
 iabbrev refacotr refactor
 iabbrev refactyor refactor
@@ -3325,6 +3342,7 @@ iabbrev spo so
 iabbrev socail social
 iabbrev softwaere software
 iabbrev softweare software
+iabbrev sofwtware software
 iabbrev solutio solution
 iabbrev soultin solution
 iabbrev solutiosn solutions
@@ -3417,6 +3435,7 @@ iabbrev subimitteed submitted
 iabbrev subsance substance
 iabbrev substantce substance
 iabbrev substituing substituting
+iabbrev substituion substitution
 iabbrev substituations substitutions
 iabbrev substiutions substitutions
 iabbrev subtraciton subtraction
