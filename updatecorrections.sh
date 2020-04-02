@@ -24,7 +24,16 @@ if [[ ! -f "$autocorrectfile" ]]; then
 fi
 
 prevNumCorrections="$(wc -l < corrections.vim)"
-cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort LC_ALL=C -d -k 3,3 > tmp && mv tmp corrections.vim
+
+# The final sort uses bytewise sorting (LC_ALL=C), but [f]olds the case,
+# and uses [d]ictionay order, meaning only blanks and alphanumeric characters
+# are considered. This should make the sorting cosistent across all my
+# computers.
+cat "$autocorrectfile" "corrections.vim" | \
+    sed 's/\r$//' | \
+    sort -u | \
+    sort LC_ALL=C -f -d -k 3,3 > tmp && mv tmp corrections.vim
+
 num_new_iabbrevs="$(($(wc -l < corrections.vim) - prevNumCorrections))"
 echo "Added $num_new_iabbrevs new iabbrevs into the correction list. $(wc -l < corrections.vim) total."
 
