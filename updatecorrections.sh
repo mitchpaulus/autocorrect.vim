@@ -24,8 +24,8 @@ if [[ ! -f "$autocorrectfile" ]]; then
 fi
 
 prevNumCorrections="$(wc -l < corrections.vim)"
-cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort -d -k 3,3 > tmp && mv tmp corrections.vim
-num_new_iabbrevs="$(($(wc -l < corrections.vim) - $prevNumCorrections))"
+cat "$autocorrectfile" "corrections.vim" | sed 's/\r$//' | sort -u | sort LC_ALL=C -d -k 3,3 > tmp && mv tmp corrections.vim
+num_new_iabbrevs="$(($(wc -l < corrections.vim) - prevNumCorrections))"
 echo "Added $num_new_iabbrevs new iabbrevs into the correction list. $(wc -l < corrections.vim) total."
 
 autocorrectdir=$(dirname "$autocorrectfile")
@@ -37,6 +37,6 @@ cp "$autocorrectfile" "$autocorrectdir"/.autocorrect-backup
 echo "Created backup at $autocorrectdir/.autocorrect-backup"
 
 # Clear the autocorrect file.
-> "$autocorrectfile"
+true > "$autocorrectfile"
 echo "Cleared $autocorrectfile"
 
