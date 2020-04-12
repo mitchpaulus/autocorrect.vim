@@ -73,6 +73,7 @@ iabbrev aggregatre aggregate
 iabbrev aggregatiuon aggregation
 iabbrev aggregatrion aggregation
 iabbrev aggregration aggregation
+iabbrev ahaed ahead
 iabbrev Ari Air
 iabbrev ahir air
 iabbrev aiar air
@@ -213,6 +214,7 @@ iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
 iabbrev arbitary arbitrary
+iabbrev ARch Arch
 iabbrev ARchitects Architects
 iabbrev archetictural architectural
 iabbrev aer are
@@ -330,6 +332,7 @@ iabbrev bvaseline baseline
 iabbrev basleines baselines
 iabbrev Bascially Basically
 iabbrev bascially basically
+iabbrev Becuase Because
 iabbrev becaues because
 iabbrev becuase because
 iabbrev beeen been
@@ -429,6 +432,7 @@ iabbrev bvuidlgnis buildings
 iabbrev ubildings buildings
 iabbrev builb bulb
 iabbrev bulib bulb
+iabbrev budnled bundled
 iabbrev buit but
 iabbrev ubt but
 iabbrev butoton button
@@ -943,6 +947,9 @@ iabbrev Deparment Department
 iabbrev depdnd depend
 iabbrev dependance dependence
 iabbrev dependecies dependencies
+iabbrev dependecny dependency
+iabbrev depnedency dependency
+iabbrev dpeencedcy dependency
 iabbrev dependeiing depending
 iabbrev deply deploy
 iabbrev dpeloying deploying
@@ -1500,6 +1507,7 @@ iabbrev Foudn Found
 iabbrev foudn found
 iabbrev foru four
 iabbrev Foiruier Fourier
+iabbrev frameowkr framework
 iabbrev frawerwork framework
 iabbrev frmaework framework
 iabbrev Francsios Francisco
@@ -1583,6 +1591,7 @@ iabbrev Github GitHub
 iabbrev givne given
 iabbrev globablly globally
 iabbrev gola goal
+iabbrev oges goes
 iabbrev GOing Going
 iabbrev Goiing Going
 iabbrev cgoing going
@@ -1626,6 +1635,7 @@ iabbrev handlaing handling
 iabbrev handliang handling
 iabbrev handlign handling
 iabbrev hndling handling
+iabbrev ahppended happened
 iabbrev hapenning happening
 iabbrev happending happening
 iabbrev ahrd hard
@@ -1734,6 +1744,7 @@ iabbrev importatnt important
 iabbrev improatnat important
 iabbrev improatnt important
 iabbrev improtant important
+iabbrev importatnly importantly
 iabbrev imporve improve
 iabbrev ina in a
 iabbrev inb in
@@ -1827,10 +1838,13 @@ iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev insdie inside
+iabbrev insatll install
+iabbrev installaiton installation
 iabbrev instlalation installation
 iabbrev instlaliont installation
 iabbrev inistalled installed
 iabbrev insatalled installed
+iabbrev insatlled installed
 iabbrev isntalled installed
 iabbrev Instantenous Instantaneous
 iabbrev instanteous instantaneous
@@ -2016,6 +2030,7 @@ iabbrev maintence maintenance
 iabbrev maintenence maintenance
 iabbrev moajority majority
 iabbrev Mkae Make
+iabbrev amek make
 iabbrev amke make
 iabbrev makea make a
 iabbrev Maekfile Makefile
@@ -2042,6 +2057,7 @@ iabbrev amster master
 iabbrev matcing matching
 iabbrev materla material
 iabbrev mathematica Mathematica
+iabbrev matehematical mathematical
 iabbrev mathematicans mathematicians
 iabbrev Matlba Matlab
 iabbrev maximimum maximum
@@ -2263,6 +2279,7 @@ iabbrev Occurance Occurrence
 iabbrev occuring occurring
 iabbrev fo of
 iabbrev oif of
+iabbrev ofifical official
 iabbrev oftne often
 iabbrev oftentiems oftentimes
 iabbrev odler older
@@ -2276,6 +2293,7 @@ iabbrev ongonig ongoing
 iabbrev onlnie online
 iabbrev ONly Only
 iabbrev nonly only
+iabbrev onlly only
 iabbrev poen open
 iabbrev operatie operate
 iabbrev operatre operate
@@ -2289,6 +2307,7 @@ iabbrev operaitonla operational
 iabbrev operatialn operational
 iabbrev Operaitons Operations
 iabbrev operaitons operations
+iabbrev opportunies opportunities
 iabbrev opportuniteis opportunities
 iabbrev opprotunity opportunity
 iabbrev oppsoed opposed
@@ -2863,6 +2882,7 @@ iabbrev repostiroes repositories
 iabbrev reporsitoyr repository
 iabbrev repositoyr repository
 iabbrev reposotiyr repository
+iabbrev repostiory repository
 iabbrev represesnts represents
 iabbrev requrested requested
 iabbrev requiere require
@@ -3288,6 +3308,7 @@ iabbrev substituion substitution
 iabbrev substituations substitutions
 iabbrev substiutions substitutions
 iabbrev subtraciton subtraction
+iabbrev succedded succeeded
 iabbrev succesful successful
 iabbrev successivley successively
 iabbrev usch such
