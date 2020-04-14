@@ -337,6 +337,7 @@ iabbrev becaues because
 iabbrev becuase because
 iabbrev beeen been
 iabbrev befoer before
+iabbrev beofre before
 iabbrev bewfore before
 iabbrev bewforee before
 iabbrev beginnign beginning
@@ -793,6 +794,7 @@ iabbrev Cotnrol Control
 iabbrev contorl control
 iabbrev contrl control
 iabbrev controol control
+iabbrev contyrol control
 iabbrev contrlled controlled
 iabbrev conttrolled controlled
 iabbrev contorller controller
@@ -1300,6 +1302,7 @@ iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
 iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
+iabbrev evaulation evaluation
 iabbrev ewven even
 iabbrev eventaul eventual
 iabbrev eveyr every
@@ -1354,6 +1357,7 @@ iabbrev expliclit explicit
 iabbrev explicti explicit
 iabbrev explicity explicitly
 iabbrev explroeing exploring
+iabbrev expoennetial exponential
 iabbrev expononetials exponentials
 iabbrev exponnets exponents
 iabbrev exprot export
@@ -1452,6 +1456,7 @@ iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev finsihing finishing
 iabbrev frist first
+iabbrev ifrst first
 iabbrev FIx Fix
 iabbrev ifxes fixes
 iabbrev FIxing Fixing
@@ -1709,6 +1714,7 @@ iabbrev ingores ignores
 iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impement implement
+iabbrev implemnet implement
 iabbrev Impelmentation Implementation
 iabbrev Implemntation Implementation
 iabbrev impelmentaiotn implementation
@@ -1775,6 +1781,7 @@ iabbrev indiviudal individual
 iabbrev inidividual individual
 iabbrev individaully individually
 iabbrev inddor indoor
+iabbrev INdustrial Industrial
 iabbrev inflitration infiltration
 iabbrev iinform inform
 iabbrev INformaiton Information
@@ -1861,6 +1868,7 @@ iabbrev integraiton integration
 iabbrev intelligcne intelligence
 iabbrev initended intended
 iabbrev itnerest interest
+iabbrev interesing interesting
 iabbrev INterface Interface
 iabbrev Interace Interface
 iabbrev Interafce Interface
@@ -2087,6 +2095,7 @@ iabbrev Mechanicla Mechanical
 iabbrev mechancial mechanical
 iabbrev mechancila mechanical
 iabbrev mechanicla mechanical
+iabbrev mechnaicla mechanical
 iabbrev meadian median
 iabbrev Meeitng Meeting
 iabbrev meetign meeting
@@ -2159,6 +2168,7 @@ iabbrev Mointoring Monitoring
 iabbrev Montiroing Monitoring
 iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
+iabbrev monitroing monitoring
 iabbrev montioroing monitoring
 iabbrev montiroing monitoring
 iabbrev montiors monitors
@@ -2855,6 +2865,7 @@ iabbrev repalcaemnts replacements
 iabbrev Repoort Report
 iabbrev Reprot Report
 iabbrev erport report
+iabbrev reperot report
 iabbrev reprot report
 iabbrev rerport report
 iabbrev rerpot report
@@ -2883,6 +2894,7 @@ iabbrev reporsitoyr repository
 iabbrev repositoyr repository
 iabbrev reposotiyr repository
 iabbrev repostiory repository
+iabbrev representaion representation
 iabbrev represesnts represents
 iabbrev requrested requested
 iabbrev requiere require
@@ -3227,6 +3239,7 @@ iabbrev specifing specifying
 iabbrev Spepd Speed
 iabbrev spped speed
 iabbrev sepll spell
+iabbrev speelings spellings
 iabbrev SPent Spent
 iabbrev spiunner spinner
 iabbrev sptli split
@@ -3879,6 +3892,7 @@ iabbrev versino version
 iabbrev vresion version
 iabbrev veriseons versions
 iabbrev veritcally vertically
+iabbrev vewry very
 iabbrev iva via
 iabbrev vai via
 iabbrev virutal virtual
