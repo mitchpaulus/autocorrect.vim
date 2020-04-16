@@ -1126,6 +1126,7 @@ iabbrev dorp drop
 iabbrev dropwdown dropdown
 iabbrev diuct duct
 iabbrev ducct duct
+iabbrev ductwork duct work
 iabbrev dupcliate duplicate
 iabbrev dupcliates duplicates
 iabbrev duriung during
@@ -1997,6 +1998,7 @@ iabbrev laods loads
 iabbrev lboby lobby
 iabbrev Lcoal Local
 iabbrev lcoal local
+iabbrev locla local
 iabbrev localshot localhost
 iabbrev Lcoate Locate
 iabbrev lcoated located
@@ -2090,6 +2092,7 @@ iabbrev measuremensts measurements
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
 iabbrev measrues measures
+iabbrev measueres measures
 iabbrev Mechancial Mechanical
 iabbrev Mechanicla Mechanical
 iabbrev mechancial mechanical
@@ -2873,6 +2876,7 @@ iabbrev roeport report
 iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
+iabbrev rpoert report
 iabbrev REporter Reporter
 iabbrev Reporeter Reporter
 iabbrev Reporetr Reporter
@@ -2944,6 +2948,7 @@ iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
 iabbrev retor retro
+iabbrev retorift retrofit
 iabbrev retroift retrofit
 iabbrev REturn Return
 iabbrev reaturn return
@@ -3522,6 +3527,7 @@ iabbrev temrainl terminal
 iabbrev temrial terminal
 iabbrev temrialn terminal
 iabbrev temrianl terminal
+iabbrev temrilna terminal
 iabbrev temrinal terminal
 iabbrev temrinaul terminal
 iabbrev temrinla terminal
