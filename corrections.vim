@@ -2027,7 +2027,6 @@ iabbrev loook look
 iabbrev Looiking Looking
 iabbrev lookign looking
 iabbrev Loopo Loop
-iabbrev loose lose
 iabbrev Loower Lower
 iabbrev loower lower
 iabbrev Macrosciptic Macroscopic
