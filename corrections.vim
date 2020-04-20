@@ -812,6 +812,7 @@ iabbrev convetino convention
 iabbrev convetion convention
 iabbrev ocnvention convention
 iabbrev convewrsation conversation
+iabbrev ocnversion conversion
 iabbrev convewrrt convert
 iabbrev cooeld cooled
 iabbrev COoolint Cooling
@@ -1312,6 +1313,7 @@ iabbrev Everythign Everything
 iabbrev evertyhgin everything
 iabbrev everyting everything
 iabbrev everytingh everything
+iabbrev exactyl exactly
 iabbrev Exmpale Example
 iabbrev exampel example
 iabbrev exmaple example
@@ -1821,6 +1823,7 @@ iabbrev inofrmaotn information
 iabbrev inofrmation information
 iabbrev inromation information
 iabbrev invofmaton information
+iabbrev informated informed
 iabbrev Inherrently Inherently
 iabbrev INitial Initial
 iabbrev inital initial
@@ -1883,6 +1886,8 @@ iabbrev Internaitional International
 iabbrev Internaitonal International
 iabbrev interpoleated interpolated
 iabbrev interpoation interpolation
+iabbrev interupptions interruptions
+iabbrev interuptions interruptions
 iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
@@ -2322,6 +2327,7 @@ iabbrev Operaitons Operations
 iabbrev operaitons operations
 iabbrev opportunies opportunities
 iabbrev opportuniteis opportunities
+iabbrev Opprotunity Opportunity
 iabbrev opprotunity opportunity
 iabbrev oppsoed opposed
 iabbrev oppostie opposite
@@ -2482,6 +2488,7 @@ iabbrev phycisal physical
 iabbrev physcally physically
 iabbrev pinao piano
 iabbrev pcitures pictures
+iabbrev picturse pictures
 iabbrev picutres pictures
 iabbrev peice piece
 iabbrev peices pieces
@@ -3748,6 +3755,7 @@ iabbrev turing turning
 iabbrev TUrns Turns
 iabbrev twekaing tweaking
 iabbrev twicew twice
+iabbrev wtwice twice
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
@@ -3759,6 +3767,7 @@ iabbrev typeiclaly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
 iabbrev ultrasonci ultrasonic
+iabbrev unavailbale unavailable
 iabbrev unavaillable unavailable
 iabbrev ucnertainties uncertainties
 iabbrev Unceratinty Uncertainty
@@ -3989,6 +3998,7 @@ iabbrev Windwows Windows
 iabbrev Winodws Windows
 iabbrev windwos windows
 iabbrev WIng Wing
+iabbrev WIth With
 iabbrev Wiht With
 iabbrev Wtih With
 iabbrev fwith with
