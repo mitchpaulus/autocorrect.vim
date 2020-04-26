@@ -30,6 +30,7 @@ iabbrev accoutned accounted
 iabbrev acheived achieved
 iabbrev acroyms acronyms
 iabbrev accross across
+iabbrev acorss across
 iabbrev acrsoss across
 iabbrev Aciton Action
 iabbrev activiation activation
@@ -269,6 +270,7 @@ iabbrev Attmepting Attempting
 iabbrev Attmpeting Attempting
 iabbrev attemping attempting
 iabbrev Attendence Attendance
+iabbrev attaic attic
 iabbrev attritbue attribute
 iabbrev Auguest August
 iabbrev autehnticadtion authentication
@@ -312,6 +314,7 @@ iabbrev bakcup backup
 iabbrev abackwards backwards
 iabbrev backwareds backwards
 iabbrev balanace balance
+iabbrev balancde balance
 iabbrev balnace balance
 iabbrev balnaces balances
 iabbrev Badn Band
@@ -332,6 +335,7 @@ iabbrev bvaseline baseline
 iabbrev basleines baselines
 iabbrev Bascially Basically
 iabbrev bascially basically
+iabbrev bassi basis
 iabbrev Becuase Because
 iabbrev becaues because
 iabbrev becuase because
@@ -434,6 +438,7 @@ iabbrev ubildings buildings
 iabbrev builb bulb
 iabbrev bulib bulb
 iabbrev budnled bundled
+iabbrev BUt But
 iabbrev buit but
 iabbrev ubt but
 iabbrev butoton button
@@ -659,6 +664,7 @@ iabbrev Commsissiong Commissioning
 iabbrev commisioning commissioning
 iabbrev commissiongin commissioning
 iabbrev commissionign commissioning
+iabbrev commissioniong commissioning
 iabbrev commmissiongin commissioning
 iabbrev commsisiongin commissioning
 iabbrev commsssioning commissioning
@@ -796,6 +802,7 @@ iabbrev contrl control
 iabbrev controol control
 iabbrev contyrol control
 iabbrev contrlled controlled
+iabbrev controleld controlled
 iabbrev conttrolled controlled
 iabbrev contorller controller
 iabbrev contreollers controllers
@@ -852,6 +859,7 @@ iabbrev corrsponding corresponding
 iabbrev correpsonds corresponds
 iabbrev correspoinds corresponds
 iabbrev corrput corrupt
+iabbrev Coiuld Could
 iabbrev coiuld could
 iabbrev coudl could
 iabbrev coulod could
@@ -998,6 +1006,7 @@ iabbrev detemrine determine
 iabbrev deteriming determine
 iabbrev determein determine
 iabbrev dewtermine determine
+iabbrev Deterimiend Determined
 iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev deterining determining
@@ -1162,10 +1171,12 @@ iabbrev weitther either
 iabbrev Eelctric Electric
 iabbrev electrici electric
 iabbrev Eelctrical Electrical
+iabbrev Eelectiral Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
 iabbrev eelectyrical electrical
 iabbrev electricial electrical
+iabbrev ewlectrical electrical
 iabbrev eelctricy electricity
 iabbrev elecdtricity electricity
 iabbrev electicryyt electricity
@@ -1465,6 +1476,7 @@ iabbrev ifxes fixes
 iabbrev FIxing Fixing
 iabbrev finxing fixing
 iabbrev fixutre fixture
+iabbrev flippped flipped
 iabbrev Fllor Floor
 iabbrev Floro Floor
 iabbrev Flwo Flow
@@ -1613,6 +1625,7 @@ iabbrev governemnt government
 iabbrev gmp gpm
 iabbrev graduyation graduation
 iabbrev grpahic graphic
+iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
 iabbrev graphcis graphics
 iabbrev grpahcis graphics
@@ -1819,6 +1832,7 @@ iabbrev inmfromation information
 iabbrev inofmraiont information
 iabbrev inoformation information
 iabbrev inofrmaiton information
+iabbrev inofrmaotin information
 iabbrev inofrmaotn information
 iabbrev inofrmation information
 iabbrev inromation information
@@ -1894,6 +1908,7 @@ iabbrev inot into
 iabbrev iunto into
 iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
+iabbrev intution intuition
 iabbrev invserse inverse
 iabbrev INvestigate Investigate
 iabbrev investigae investigate
@@ -2075,6 +2090,7 @@ iabbrev matehematical mathematical
 iabbrev mathematicans mathematicians
 iabbrev Matlba Matlab
 iabbrev maximimum maximum
+iabbrev Maybew Maybe
 iabbrev menaing meaning
 iabbrev menat meant
 iabbrev Measrue Measure
@@ -2095,8 +2111,10 @@ iabbrev measuremnt measurement
 iabbrev measuremensts measurements
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
+iabbrev meaurements measurements
 iabbrev measrues measures
 iabbrev measueres measures
+iabbrev measurse measures
 iabbrev Mechancial Mechanical
 iabbrev Mechanicla Mechanical
 iabbrev mechancial mechanical
@@ -2618,6 +2636,7 @@ iabbrev PResenation Presentation
 iabbrev Presentationg Presentation
 iabbrev prensenation presentation
 iabbrev preseentaiotn presentation
+iabbrev presenation presentation
 iabbrev presenattion presentation
 iabbrev presentaion presentation
 iabbrev presentaiotun presentation
@@ -2735,6 +2754,7 @@ iabbrev propsoed proposed
 iabbrev rpove prove
 iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
+iabbrev PUll Pull
 iabbrev Pulliung Pulling
 iabbrev pulliing pulling
 iabbrev pulliung pulling
@@ -2758,6 +2778,7 @@ iabbrev questionaire questionnaire
 iabbrev questionanaire questionnaire
 iabbrev Quesitons Questions
 iabbrev Questinos Questions
+iabbrev quations questions
 iabbrev quesitons questions
 iabbrev Qucdk Quick
 iabbrev Quiclkly Quickly
@@ -2968,6 +2989,7 @@ iabbrev Reveiew Review
 iabbrev Reveiw Review
 iabbrev reivew review
 iabbrev reveiw review
+iabbrev reviwe review
 iabbrev Reiveiwing Reviewing
 iabbrev Reivewing Reviewing
 iabbrev reisit revisit
@@ -3252,6 +3274,7 @@ iabbrev spped speed
 iabbrev sepll spell
 iabbrev speelings spellings
 iabbrev SPent Spent
+iabbrev Spcie Spice
 iabbrev spiunner spinner
 iabbrev sptli split
 iabbrev sponosr sponsor
@@ -3325,6 +3348,7 @@ iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
 iabbrev submittals submittals
 iabbrev subimitteed submitted
+iabbrev submiting submitting
 iabbrev subsance substance
 iabbrev substantce substance
 iabbrev substituing substituting
@@ -3802,6 +3826,7 @@ iabbrev unnits units
 iabbrev untis units
 iabbrev unix Unix
 iabbrev uneccessary unnecessary
+iabbrev unecesary unnecessary
 iabbrev unecessary unnecessary
 iabbrev unneccessary unnecessary
 iabbrev unnessecary unnecessary
@@ -3926,6 +3951,7 @@ iabbrev Volunttering Volunteering
 iabbrev Wainting Waiting
 iabbrev Waitning Waiting
 iabbrev wating waiting
+iabbrev watingin waiting
 iabbrev wiating waiting
 iabbrev walthrough walkthrough
 iabbrev wnat want
@@ -3966,6 +3992,7 @@ iabbrev WEnt Went
 iabbrev wree were
 iabbrev WEst West
 iabbrev WHat What
+iabbrev Waht What
 iabbrev Whbat What
 iabbrev hwat what
 iabbrev waht what
