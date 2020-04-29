@@ -235,6 +235,7 @@ iabbrev Artifical Artificial
 iabbrev aas as
 iabbrev AHSRAE ASHRAE
 iabbrev AHSREA ASHRAE
+iabbrev ASHARE ASHRAE
 iabbrev ASHREA ASHRAE
 iabbrev asekd asked
 iabbrev ascpects aspects
@@ -697,11 +698,13 @@ iabbrev compelted completed
 iabbrev compleated completed
 iabbrev compleeted completed
 iabbrev comptleted completed
+iabbrev completetly completely
 iabbrev completey completely
 iabbrev completley completely
 iabbrev compeletes completes
 iabbrev compelting completing
 iabbrev compeltion completion
+iabbrev complyhing complying
 iabbrev compoennts components
 iabbrev componenets components
 iabbrev compoonents components
@@ -720,6 +723,7 @@ iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
 iabbrev condensser condenser
 iabbrev ocndenser condenser
+iabbrev COndition Condition
 iabbrev conditiojing conditioning
 iabbrev conditinos conditions
 iabbrev conditnions conditions
@@ -1174,6 +1178,7 @@ iabbrev Eelctrical Electrical
 iabbrev Eelectiral Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
+iabbrev Electricla Electrical
 iabbrev eelectyrical electrical
 iabbrev electricial electrical
 iabbrev ewlectrical electrical
@@ -1880,6 +1885,7 @@ iabbrev insteadd instead
 iabbrev Institutue Institute
 iabbrev insturction instruction
 iabbrev Insturcitons Instructions
+iabbrev Insluaiton Insulation
 iabbrev intanible intangible
 iabbrev Integratign Integrating
 iabbrev integraiton integration
@@ -1999,6 +2005,7 @@ iabbrev librayr library
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
 iabbrev lgighting lighting
+iabbrev lighitng lighting
 iabbrev liek like
 iabbrev likley likely
 iabbrev Lmit Limit
@@ -2054,6 +2061,7 @@ iabbrev mian main
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
 iabbrev Maintenacen Maintenance
+iabbrev Maintenence Maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
 iabbrev maintenence maintenance
@@ -2073,6 +2081,7 @@ iabbrev mangatger manager
 iabbrev managerse managers
 iabbrev manmual manual
 iabbrev manula manual
+iabbrev manulas manuals
 iabbrev mahy many
 iabbrev mnay many
 iabbrev mappign mapping
@@ -2129,6 +2138,7 @@ iabbrev Menotr Mentor
 iabbrev meterological meteorological
 iabbrev memeter meter
 iabbrev Meteringin Metering
+iabbrev Mehtod Method
 iabbrev mehtod method
 iabbrev meothd method
 iabbrev methjod method
@@ -2335,6 +2345,7 @@ iabbrev operatre operate
 iabbrev operaties operates
 iabbrev operaitgn operating
 iabbrev operatieng operating
+iabbrev Operat56i5on Operation
 iabbrev operaiton operation
 iabbrev Operataitonal Operational
 iabbrev oeprational operational
@@ -2839,6 +2850,7 @@ iabbrev refernece reference
 iabbrev refernecing referencing
 iabbrev Reformaatted Reformatted
 iabbrev refrehsed refreshed
+iabbrev REfrigerant Refrigerant
 iabbrev refrigeratant refrigerant
 iabbrev refrigeratnt refrigerant
 iabbrev refigerator refrigerator
@@ -2881,6 +2893,7 @@ iabbrev Reomve Remove
 iabbrev reomve remove
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
+iabbrev Reparing Repairing
 iabbrev repateing repeating
 iabbrev repitive repetitive
 iabbrev Repalce Replace
@@ -2889,7 +2902,9 @@ iabbrev rpelaced replaced
 iabbrev Replacemnet Replacement
 iabbrev repalcement replacement
 iabbrev repalcemnt replacement
+iabbrev repalcment replacement
 iabbrev replacemetn replacement
+iabbrev replacment replacement
 iabbrev repolacemnt replacement
 iabbrev repalcaemnts replacements
 iabbrev Repoort Report
@@ -2933,13 +2948,16 @@ iabbrev Requrired Required
 iabbrev requied required
 iabbrev requiredy required
 iabbrev requried required
+iabbrev reqwuiref required
 iabbrev reuqired required
 iabbrev rquired required
 iabbrev rueiquireed required
 iabbrev requiremnet requirement
 iabbrev requiements requirements
+iabbrev requirementse requirements
 iabbrev requiremnets requirements
 iabbrev requrienments requirements
+iabbrev requries requires
 iabbrev reuqires requires
 iabbrev reaseach research
 iabbrev reasearch research
@@ -3170,6 +3188,7 @@ iabbrev sevearl several
 iabbrev Sharepoitn Sharepoint
 iabbrev Sharpeoitn SharePoint
 iabbrev sharepoint Sharepoint
+iabbrev sheathign sheathing
 iabbrev sheeet sheet
 iabbrev sehell shell
 iabbrev sehll shell
@@ -3550,6 +3569,7 @@ iabbrev Temrianil Terminal
 iabbrev Termain Terminal
 iabbrev Termianl Terminal
 iabbrev Terminail Terminal
+iabbrev Termninail Terminal
 iabbrev etrmianl terminal
 iabbrev teminal terminal
 iabbrev temrainil terminal
