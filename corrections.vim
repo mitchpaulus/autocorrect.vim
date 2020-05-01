@@ -394,6 +394,7 @@ iabbrev broekn broken
 iabbrev browswer browser
 iabbrev Buyild Build
 iabbrev buidl build
+iabbrev BUildeing Building
 iabbrev BUilding Building
 iabbrev Buidlgin Building
 iabbrev Buidlign Building
@@ -979,6 +980,7 @@ iabbrev descentdants descendants
 iabbrev Descripton Description
 iabbrev descripti description
 iabbrev descriptio description
+iabbrev descripton description
 iabbrev descritpion description
 iabbrev Descriptiosn Descriptions
 iabbrev descriptoins descriptions
@@ -1744,6 +1746,7 @@ iabbrev implemeantion implementation
 iabbrev implementaiton implementation
 iabbrev implmentation implementation
 iabbrev impelmented implemented
+iabbrev implemetned implemented
 iabbrev IMplelemneter Implementer
 iabbrev IMplementer Implementer
 iabbrev IMplemneter Implementer
@@ -2211,6 +2214,7 @@ iabbrev monthylo monthly
 iabbrev montly monthly
 iabbrev montyhly monthly
 iabbrev monthds months
+iabbrev MOre More
 iabbrev mroe more
 iabbrev Mornigin Morning
 iabbrev moring morning
@@ -2584,6 +2588,7 @@ iabbrev psotioon position
 iabbrev Posistions Positions
 iabbrev positoins positions
 iabbrev posoitions positions
+iabbrev positivew positive
 iabbrev positivie positive
 iabbrev possitve positive
 iabbrev postive positive
@@ -2833,6 +2838,7 @@ iabbrev recevived received
 iabbrev recieved received
 iabbrev recoginition recognition
 iabbrev recogoized recognized
+iabbrev recommenadtions recommendations
 iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
 iabbrev recoreded recorded
@@ -3097,6 +3103,7 @@ iabbrev Secondayr Secondary
 iabbrev secdtion section
 iabbrev seciotn section
 iabbrev seciton section
+iabbrev sectiosn section
 iabbrev securtiy security
 iabbrev seee see
 iabbrev selct select
@@ -4033,6 +4040,7 @@ iabbrev Whiel While
 iabbrev hwile while
 iabbrev whilee while
 iabbrev whitle while
+iabbrev hwite white
 iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
 iabbrev iwndow window
