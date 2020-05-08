@@ -310,6 +310,7 @@ iabbrev aviallaibe available
 iabbrev Bakc Back
 iabbrev Backgroudn Background
 iabbrev backgorund background
+iabbrev backgruond background
 iabbrev backupa backup
 iabbrev bakcup backup
 iabbrev abackwards backwards
@@ -1384,6 +1385,7 @@ iabbrev exponnets exponents
 iabbrev exprot export
 iabbrev exproted exported
 iabbrev expowse expose
+iabbrev exposign exposing
 iabbrev Expressoin Expression
 iabbrev extensibile extensible
 iabbrev exetiror exterior
@@ -1476,6 +1478,7 @@ iabbrev Finishding Finishing
 iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev finsihing finishing
+iabbrev Frist First
 iabbrev frist first
 iabbrev ifrst first
 iabbrev FIx Fix
@@ -1551,6 +1554,7 @@ iabbrev froam from
 iabbrev fromm from
 iabbrev rom from
 iabbrev fornt front
+iabbrev frnt front
 iabbrev frontedn frontend
 iabbrev ftp FTP
 iabbrev fule fuel
@@ -1848,6 +1852,7 @@ iabbrev invofmaton information
 iabbrev informated informed
 iabbrev Inherrently Inherently
 iabbrev INitial Initial
+iabbrev Initiial Initial
 iabbrev inital initial
 iabbrev intial initial
 iabbrev intiial initial
@@ -1991,6 +1996,7 @@ iabbrev lamdba lambda
 iabbrev alnding landing
 iabbrev lnaguage language
 iabbrev alst last
+iabbrev leasd leads
 iabbrev Leakding Leaking
 iabbrev Leanring Learning
 iabbrev leanring learning
@@ -2008,6 +2014,7 @@ iabbrev librayr library
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
 iabbrev lgighting lighting
+iabbrev lighing lighting
 iabbrev lighitng lighting
 iabbrev liek like
 iabbrev likley likely
@@ -2252,6 +2259,7 @@ iabbrev neeccessary necessary
 iabbrev NEed Need
 iabbrev NEedc Need
 iabbrev ened need
+iabbrev eneds needs
 iabbrev neeeds needs
 iabbrev n3egative negative
 iabbrev neagagive negative
@@ -2338,6 +2346,7 @@ iabbrev ommitted omitted
 iabbrev onr on
 iabbrev ONce Once
 iabbrev OneNtoe OneNote
+iabbrev onging ongoing
 iabbrev ongonig ongoing
 iabbrev onlnie online
 iabbrev ONly Only
@@ -2767,6 +2776,7 @@ iabbrev Proposlas Proposals
 iabbrev Porposed Proposed
 iabbrev propsed proposed
 iabbrev propsoed proposed
+iabbrev protecdtion protection
 iabbrev rpove prove
 iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
@@ -2778,6 +2788,7 @@ iabbrev pmpups pumps
 iabbrev poumps pumps
 iabbrev upmps pumps
 iabbrev PUrple Purple
+iabbrev pruposes purposes
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev quaility quality
@@ -2935,6 +2946,7 @@ iabbrev reporitng reporting
 iabbrev reportign reporting
 iabbrev reproitng reporting
 iabbrev reproting reporting
+iabbrev reprotring reporting
 iabbrev rpeorting reporting
 iabbrev reoports reports
 iabbrev reporst reports
@@ -3097,6 +3109,7 @@ iabbrev searhc search
 iabbrev seraching searching
 iabbrev Sebastioan Sebastian
 iabbrev Seocnd Second
+iabbrev Seoncd Second
 iabbrev sedond second
 iabbrev seocnd second
 iabbrev Secondayr Secondary
@@ -4110,6 +4123,7 @@ iabbrev WOuld Would
 iabbrev ouwld would
 iabbrev owuld would
 iabbrev wiould would
+iabbrev wolud would
 iabbrev woudl would
 iabbrev wouold would
 iabbrev wuoudl would
