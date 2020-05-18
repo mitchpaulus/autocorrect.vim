@@ -28,6 +28,7 @@ iabbrev accoreidnly accordingly
 iabbrev accoutn account
 iabbrev accoutned accounted
 iabbrev acheived achieved
+iabbrev acknowledgement acknowledgment
 iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev acorss across
@@ -723,6 +724,7 @@ iabbrev Conclustions Conclusions
 iabbrev Conslusions Conclusions
 iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
+iabbrev Condsenser Condenser
 iabbrev condensser condenser
 iabbrev ocndenser condenser
 iabbrev COndition Condition
@@ -1185,6 +1187,8 @@ iabbrev Electricla Electrical
 iabbrev eelectyrical electrical
 iabbrev electricial electrical
 iabbrev ewlectrical electrical
+iabbrev Eelectricity Electricity
+iabbrev Electiricy Electricity
 iabbrev eelctricy electricity
 iabbrev elecdtricity electricity
 iabbrev electicryyt electricity
@@ -1221,6 +1225,7 @@ iabbrev ENerygpPlus EnergyPlus
 iabbrev EenrgyPlus EnergyPlus
 iabbrev EnergPluys EnergyPlus
 iabbrev EnergyPuls EnergyPlus
+iabbrev EnerygPlus EnergyPlus
 iabbrev energypuls EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev Enginereing Engineering
@@ -1398,6 +1403,7 @@ iabbrev facebook Facebook
 iabbrev FAcility Facility
 iabbrev Facililty Facility
 iabbrev Facilty Facility
+iabbrev faciliity facility
 iabbrev FacillityGrid FacilityGrid
 iabbrev facotr factor
 iabbrev fractor factor
@@ -1982,6 +1988,7 @@ iabbrev kitchnes kitchens
 iabbrev knoiwldege knowledge
 iabbrev knonw known
 iabbrev knwon known
+iabbrev Kyel Kyle
 iabbrev albvel label
 iabbrev lable label
 iabbrev lbael label
@@ -2307,6 +2314,7 @@ iabbrev normla normal
 iabbrev nomrally normally
 iabbrev normnally normally
 iabbrev NOt Not
+iabbrev nnot not
 iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
@@ -2804,6 +2812,7 @@ iabbrev quesitionarrir questionnaire
 iabbrev questionaire questionnaire
 iabbrev questionanaire questionnaire
 iabbrev Quesitons Questions
+iabbrev Quesrtions Questions
 iabbrev Questinos Questions
 iabbrev quations questions
 iabbrev quesitons questions
@@ -2908,6 +2917,7 @@ iabbrev REmove Remove
 iabbrev Remvoe Remove
 iabbrev Reomve Remove
 iabbrev reomve remove
+iabbrev removewd removed
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
 iabbrev Reparing Repairing
@@ -3093,6 +3103,7 @@ iabbrev socope scope
 iabbrev socpe scope
 iabbrev scroe score
 iabbrev scrreen screen
+iabbrev screenshtos screenshots
 iabbrev Scirpt Script
 iabbrev sciprt script
 iabbrev scirpt script
@@ -3587,6 +3598,7 @@ iabbrev teerm term
 iabbrev temr term
 iabbrev Temrianil Terminal
 iabbrev Termain Terminal
+iabbrev Termialn Terminal
 iabbrev Termianl Terminal
 iabbrev Terminail Terminal
 iabbrev Termninail Terminal
@@ -3764,6 +3776,7 @@ iabbrev topci topic
 iabbrev topcis topics
 iabbrev TOtal Total
 iabbrev Totoal Total
+iabbrev Ttoal Total
 iabbrev thotal total
 iabbrev toatl total
 iabbrev toatla total
