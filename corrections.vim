@@ -61,6 +61,7 @@ iabbrev addresssed addressed
 iabbrev addsd adds
 iabbrev adeqauyate adequate
 iabbrev Adjsut Adjust
+iabbrev adjustemsnts adjustments
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
 iabbrev Advnaced Advanced
@@ -158,6 +159,7 @@ iabbrev naanual annual
 iabbrev Anbother Another
 iabbrev annother another
 iabbrev antoher another
+iabbrev Anthohny Anthony
 iabbrev Anythony Anthony
 iabbrev Antoionio Antonio
 iabbrev Antoniao Antonio
@@ -360,6 +362,7 @@ iabbrev bettter better
 iabbrev beteween between
 iabbrev betwen between
 iabbrev betwene between
+iabbrev betwewen between
 iabbrev billtion billion
 iabbrev bils bills
 iabbrev bindgin binding
@@ -555,6 +558,7 @@ iabbrev CHecking Checking
 iabbrev Chekcing Checking
 iabbrev checkiung checking
 iabbrev chekcing checking
+iabbrev chewcking checking
 iabbrev Chekclist Checklist
 iabbrev chekclist checklist
 iabbrev checkdlists checklists
@@ -696,6 +700,7 @@ iabbrev complier compiler
 iabbrev compoiler compiler
 iabbrev compolement complement
 iabbrev Compelte Complete
+iabbrev compelte complete
 iabbrev compeleted completed
 iabbrev compelted completed
 iabbrev compleated completed
@@ -732,6 +737,7 @@ iabbrev conditiojing conditioning
 iabbrev conditinos conditions
 iabbrev conditnions conditions
 iabbrev conditoins conditions
+iabbrev condtiosn conditions
 iabbrev condusive conducive
 iabbrev conductinve conductive
 iabbrev cvonference conference
@@ -870,6 +876,7 @@ iabbrev corrput corrupt
 iabbrev Coiuld Could
 iabbrev coiuld could
 iabbrev coudl could
+iabbrev coulds could
 iabbrev coulod could
 iabbrev Coutn Count
 iabbrev Coutnry Country
@@ -1092,6 +1099,7 @@ iabbrev disply display
 iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev distriubtion distribution
+iabbrev distriubuter distributor
 iabbrev Distrcit District
 iabbrev distercit district
 iabbrev distributin distriubtion
@@ -1199,6 +1207,7 @@ iabbrev electricay electricity
 iabbrev electriciyt electricity
 iabbrev electyriciyt electricity
 iabbrev elemnmet element
+iabbrev elemets elements
 iabbrev evevation elevation
 iabbrev elevatiaonl elevational
 iabbrev elswe else
@@ -1234,6 +1243,7 @@ iabbrev egineers engineers
 iabbrev enought enough
 iabbrev enrollement enrollment
 iabbrev entials entails
+iabbrev ENtech Entech
 iabbrev Entch Entech
 iabbrev eneter enter
 iabbrev enteer enter
@@ -1603,6 +1613,7 @@ iabbrev furture future
 iabbrev futre future
 iabbrev ufture future
 iabbrev Garge Garage
+iabbrev garaage garage
 iabbrev Genealr General
 iabbrev Generla General
 iabbrev Genral General
@@ -2007,6 +2018,7 @@ iabbrev leasd leads
 iabbrev Leakding Leaking
 iabbrev Leanring Learning
 iabbrev leanring learning
+iabbrev leats least
 iabbrev Lengend Legend
 iabbrev lenght length
 iabbrev levle level
@@ -2020,6 +2032,7 @@ iabbrev libary library
 iabbrev librayr library
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
+iabbrev lghting lighting
 iabbrev lgighting lighting
 iabbrev lighing lighting
 iabbrev lighitng lighting
@@ -2148,6 +2161,7 @@ iabbrev mechancila mechanical
 iabbrev mechanicla mechanical
 iabbrev mechnaicla mechanical
 iabbrev meadian median
+iabbrev MEeting Meeting
 iabbrev Meeitng Meeting
 iabbrev meetign meeting
 iabbrev meetring meeting
@@ -2221,6 +2235,7 @@ iabbrev Montiroing Monitoring
 iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
 iabbrev monitroing monitoring
+iabbrev montioning monitoring
 iabbrev montioroing monitoring
 iabbrev montiroing monitoring
 iabbrev montiors monitors
@@ -2921,6 +2936,7 @@ iabbrev removewd removed
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
 iabbrev Reparing Repairing
+iabbrev reparis repairs
 iabbrev repateing repeating
 iabbrev repitive repetitive
 iabbrev Repalce Replace
@@ -2970,6 +2986,7 @@ iabbrev reposotiyr repository
 iabbrev repostiory repository
 iabbrev representaion representation
 iabbrev represesnts represents
+iabbrev reproducable reproducible
 iabbrev requrested requested
 iabbrev requiere require
 iabbrev Requrired Required
@@ -2994,6 +3011,7 @@ iabbrev REset Reset
 iabbrev resset reset
 iabbrev residentiali residential
 iabbrev residitnetal residential
+iabbrev resiliant resilient
 iabbrev resistnace resistance
 iabbrev resistnatce resistance
 iabbrev resoluution resolution
@@ -3150,6 +3168,7 @@ iabbrev senosr sensor
 iabbrev senseor sensor
 iabbrev sensnor sensor
 iabbrev seonsr sensor
+iabbrev sewnsor sensor
 iabbrev snesor sensor
 iabbrev snsor sensor
 iabbrev Snesors Sensors
@@ -3279,6 +3298,7 @@ iabbrev smtp SMTP
 iabbrev spo so
 iabbrev socail social
 iabbrev Softwaere Software
+iabbrev softwaer software
 iabbrev softwaere software
 iabbrev softweare software
 iabbrev sofwtware software
@@ -3481,6 +3501,7 @@ iabbrev Taks Task
 iabbrev taks task
 iabbrev taought taught
 iabbrev teacing teaching
+iabbrev tema team
 iabbrev Techinical Technical
 iabbrev techinal technical
 iabbrev techincal technical
@@ -3669,6 +3690,7 @@ iabbrev tyhe the
 iabbrev hteir their
 iabbrev thier their
 iabbrev htem them
+iabbrev tehmselves themselves
 iabbrev THen Then
 iabbrev hten then
 iabbrev tehn then
@@ -3868,6 +3890,7 @@ iabbrev udnerstanding understanding
 iabbrev understandiung understanding
 iabbrev udnertaken undertaken
 iabbrev Underwod Underwood
+iabbrev unexpanded unexpanded
 iabbrev uint unit
 iabbrev unti unit
 iabbrev lunits units
