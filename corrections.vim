@@ -242,6 +242,7 @@ iabbrev ASHARE ASHRAE
 iabbrev ASHREA ASHRAE
 iabbrev asekd asked
 iabbrev ascpects aspects
+iabbrev assesments assessments
 iabbrev assignead assigned
 iabbrev assigneing assigning
 iabbrev assinging assigning
@@ -706,6 +707,7 @@ iabbrev compelted completed
 iabbrev compleated completed
 iabbrev compleeted completed
 iabbrev comptleted completed
+iabbrev compeletlye completely
 iabbrev completetly completely
 iabbrev completey completely
 iabbrev completley completely
@@ -729,6 +731,7 @@ iabbrev Conclustions Conclusions
 iabbrev Conslusions Conclusions
 iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
+iabbrev ocncourse concourse
 iabbrev Condsenser Condenser
 iabbrev condensser condenser
 iabbrev ocndenser condenser
@@ -820,6 +823,7 @@ iabbrev controleld controlled
 iabbrev conttrolled controlled
 iabbrev contorller controller
 iabbrev contreollers controllers
+iabbrev Contorls Controls
 iabbrev Contrls Controls
 iabbrev contorels controls
 iabbrev contorls controls
@@ -882,6 +886,7 @@ iabbrev Coutn Count
 iabbrev Coutnry Country
 iabbrev Coutnyt County
 iabbrev coures course
+iabbrev cracs CRACs
 iabbrev crnaked cranked
 iabbrev creatd created
 iabbrev creaitng creating
@@ -960,6 +965,7 @@ iabbrev Dehumidificaiton Dehumidification
 iabbrev dehumidifcation dehumidification
 iabbrev delte delete
 iabbrev dleeted deleted
+iabbrev dleting deleting
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
 iabbrev develiverables deliverables
@@ -1149,6 +1155,7 @@ iabbrev drwaing drawing
 iabbrev draings drawings
 iabbrev drawwigns drawings
 iabbrev drwan drawn
+iabbrev dirve drive
 iabbrev dorp drop
 iabbrev dropwdown dropdown
 iabbrev diuct duct
@@ -1386,6 +1393,7 @@ iabbrev expecst expect
 iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
+iabbrev expereince experience
 iabbrev expertice expertise
 iabbrev Explaingin Explaining
 iabbrev explainign explaining
@@ -1505,6 +1513,7 @@ iabbrev fixutre fixture
 iabbrev flippped flipped
 iabbrev Fllor Floor
 iabbrev Floro Floor
+iabbrev floro floor
 iabbrev Flwo Flow
 iabbrev flolw flow
 iabbrev flwo flow
@@ -2053,6 +2062,7 @@ iabbrev laod load
 iabbrev lodaed loaded
 iabbrev laods loads
 iabbrev lboby lobby
+iabbrev lobbby lobby
 iabbrev Lcoal Local
 iabbrev lcoal local
 iabbrev locla local
@@ -2088,6 +2098,7 @@ iabbrev magintuide magnitude
 iabbrev mial mail
 iabbrev Mian Main
 iabbrev mian main
+iabbrev maintian maintain
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
 iabbrev Maintenacen Maintenance
@@ -2227,6 +2238,7 @@ iabbrev MOnday Monday
 iabbrev Mondayd Monday
 iabbrev Mondnay Monday
 iabbrev montiro monitor
+iabbrev montiored monitored
 iabbrev MOnitoring Monitoring
 iabbrev MOntiriongn Monitoring
 iabbrev MOntiroing Monitoring
@@ -2464,6 +2476,7 @@ iabbrev OUtside Outside
 iabbrev Otuside Outside
 iabbrev Outsdie Outside
 iabbrev Outsdsie Outside
+iabbrev outdsie outside
 iabbrev outsdide outside
 iabbrev outsdie outside
 iabbrev outliers outwears
@@ -2708,6 +2721,7 @@ iabbrev preivoius previous
 iabbrev preivous previous
 iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
+iabbrev Prviouslyu Previously
 iabbrev precviously previously
 iabbrev previlsy previously
 iabbrev previousy previously
@@ -2722,6 +2736,7 @@ iabbrev priortization prioritization
 iabbrev pritiorizing prioritizing
 iabbrev Probalby Probably
 iabbrev porbablyb probably
+iabbrev probaby probably
 iabbrev probalby probably
 iabbrev PRoblem Problem
 iabbrev prlblem problem
@@ -2812,6 +2827,7 @@ iabbrev poumps pumps
 iabbrev upmps pumps
 iabbrev PUrple Purple
 iabbrev pruposes purposes
+iabbrev PUt Put
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev quaility quality
@@ -2922,6 +2938,7 @@ iabbrev Relationjships Relationships
 iabbrev realitive relative
 iabbrev relateive relative
 iabbrev relavent relevant
+iabbrev releif relief
 iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev remaingin remaining
@@ -3031,6 +3048,7 @@ iabbrev Repsonsible Responsible
 iabbrev restartign restarting
 iabbrev restaturant restaurant
 iabbrev restrictuion restriction
+iabbrev resutrooms restrooms
 iabbrev resturcted restructured
 iabbrev restul result
 iabbrev resutl result
@@ -3269,6 +3287,7 @@ iabbrev simialr similar
 iabbrev smilar similar
 iabbrev similarily similarly
 iabbrev sijmple simple
+iabbrev simplication simplification
 iabbrev simplications simplifications
 iabbrev simplifed simplified
 iabbrev smiplified simplified
@@ -3381,6 +3400,7 @@ iabbrev statment statement
 iabbrev staes states
 iabbrev satatic static
 iabbrev sattic static
+iabbrev staic static
 iabbrev staitc static
 iabbrev stitic static
 iabbrev Staiton Station
@@ -3432,6 +3452,7 @@ iabbrev successivley successively
 iabbrev usch such
 iabbrev suggesitons suggestions
 iabbrev sumarized summarized
+iabbrev Sumary Summary
 iabbrev sumamry summary
 iabbrev sumary summary
 iabbrev summayr summary
@@ -3836,6 +3857,7 @@ iabbrev trneds trends
 iabbrev trnes trends
 iabbrev tyrends trends
 iabbrev Tervor Trevor
+iabbrev Tridium Tridium
 iabbrev Treid Tried
 iabbrev tyr try
 iabbrev tyring trying
