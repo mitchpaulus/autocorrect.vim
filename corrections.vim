@@ -3,6 +3,7 @@ iabbrev Abilty Ability
 iabbrev abbility ability
 iabbrev abillity ability
 iabbrev abiltily ability
+iabbrev abiltiyt ability
 iabbrev ABout About
 iabbrev abaout about
 iabbrev abourt about
@@ -702,6 +703,7 @@ iabbrev compoiler compiler
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compelte complete
+iabbrev comptlet complete
 iabbrev compeleted completed
 iabbrev compelted completed
 iabbrev compleated completed
@@ -751,6 +753,7 @@ iabbrev configuraiton configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
 iabbrev confirmaiton confirmation
+iabbrev confustion confusion
 iabbrev conencted connected
 iabbrev conenected connected
 iabbrev conenction connection
@@ -1075,6 +1078,7 @@ iabbrev Difficutl Difficult
 iabbrev difficutl difficult
 iabbrev difficulity difficulty
 iabbrev Dingin Dining
+iabbrev dingin dining
 iabbrev dinign dining
 iabbrev dirctions directions
 iabbrev directins directions
@@ -1091,6 +1095,8 @@ iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
 iabbrev sdiscern discern
 iabbrev Discharege Discharge
+iabbrev Disclousere Disclosure
+iabbrev disclousre disclosure
 iabbrev dscovery discovery
 iabbrev discussiung discussing
 iabbrev Discusion Discussion
@@ -2184,6 +2190,7 @@ iabbrev Mehtod Method
 iabbrev mehtod method
 iabbrev meothd method
 iabbrev methjod method
+iabbrev metohd method
 iabbrev methodoloyg methodology
 iabbrev MEthods Methods
 iabbrev mehtods methods
@@ -2213,6 +2220,7 @@ iabbrev Modle Model
 iabbrev mdoel model
 iabbrev modle model
 iabbrev Modedling Modeling
+iabbrev Modelign Modeling
 iabbrev Modleing Modeling
 iabbrev mdoeling modeling
 iabbrev mdoleing modeling
@@ -2275,6 +2283,8 @@ iabbrev multple multiple
 iabbrev multiopleyer multiplier
 iabbrev multipoliers multipliers
 iabbrev multipling multiplying
+iabbrev msut must
+iabbrev Mutaul Mutual
 iabbrev myslef myself
 iabbrev anem name
 iabbrev anme name
@@ -2362,6 +2372,7 @@ iabbrev Numverical Numerical
 iabbrev numercial numerical
 iabbrev Ojbect Object
 iabbrev obviusly obviously
+iabbrev occpuancy occupancy
 iabbrev occpunacy occupancy
 iabbrev occupnacy occupancy
 iabbrev Ocucpied Occupied
@@ -2664,6 +2675,7 @@ iabbrev ptotently potentially
 iabbrev Poweer Power
 iabbrev pwoer power
 iabbrev pwoered powered
+iabbrev powershell PowerShell
 iabbrev PRactical Practical
 iabbrev practivce practice
 iabbrev precisly precisely
@@ -3269,6 +3281,7 @@ iabbrev hsould should
 iabbrev shoudl should
 iabbrev shouuuld should
 iabbrev shyould should
+iabbrev sould should
 iabbrev whould should
 iabbrev Shoudler Shoulder
 iabbrev SHowing Showing
@@ -3397,6 +3410,7 @@ iabbrev statemnet statement
 iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
+iabbrev Statemments Statements
 iabbrev staes states
 iabbrev satatic static
 iabbrev sattic static
@@ -3537,6 +3551,7 @@ iabbrev Tmep Temp
 iabbrev atemp temp
 iabbrev termp Temp
 iabbrev tmep temp
+iabbrev TEmpeartuer Temperature
 iabbrev TEmpeerature Temperature
 iabbrev TEmperature Temperature
 iabbrev Tempearature Temperature
@@ -3906,6 +3921,7 @@ iabbrev uncertanity uncertainty
 iabbrev uncertianty uncertainty
 iabbrev uncertinay uncertainty
 iabbrev udner under
+iabbrev udnerfloor underfloor
 iabbrev underreprsented underrepresented
 iabbrev udnerstand understand
 iabbrev udnerstanding understanding
