@@ -684,6 +684,7 @@ iabbrev commmon common
 iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev communciates communicates
+iabbrev communcaiton communication
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
 iabbrev compnay company
@@ -2057,6 +2058,7 @@ iabbrev Lmit Limit
 iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev lienar linear
+iabbrev LInk Link
 iabbrev liquied liquid
 iabbrev leisted listed
 iabbrev liests lists
@@ -3563,6 +3565,7 @@ iabbrev Temperaturte Temperature
 iabbrev Temperearture Temperature
 iabbrev Tempererature Temperature
 iabbrev Tmeparrutrer Temperature
+iabbrev Tmepratuer Temperature
 iabbrev Tmepreautre Temperature
 iabbrev atemperature temperature
 iabbrev atmpeature temperature
@@ -4128,6 +4131,7 @@ iabbrev hwile while
 iabbrev whilee while
 iabbrev whitle while
 iabbrev hwite white
+iabbrev WHo Who
 iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
 iabbrev iwndow window
