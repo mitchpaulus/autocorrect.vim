@@ -346,6 +346,7 @@ iabbrev bassi basis
 iabbrev Becuase Because
 iabbrev becaues because
 iabbrev becuase because
+iabbrev becvause because
 iabbrev beeen been
 iabbrev befoer before
 iabbrev beofre before
@@ -354,6 +355,7 @@ iabbrev bewforee before
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
+iabbrev behaviior behavior
 iabbrev behvaior behavior
 iabbrev behing behind
 iabbrev beign being
@@ -579,6 +581,7 @@ iabbrev CHiller Chiller
 iabbrev Chiler Chiller
 iabbrev chyiller chiller
 iabbrev CHillers Chillers
+iabbrev Chjillers Chillers
 iabbrev chilllers chillers
 iabbrev cohice choice
 iabbrev chooosing choosing
@@ -861,6 +864,7 @@ iabbrev ocpy copy
 iabbrev copyting copying
 iabbrev COre Core
 iabbrev correcdt correct
+iabbrev correctd correct
 iabbrev correclty correctly
 iabbrev correpsnd correspond
 iabbrev correspodn correspond
@@ -1279,6 +1283,7 @@ iabbrev entrace entrance
 iabbrev entires entries
 iabbrev entorpy entropy
 iabbrev enttry entry
+iabbrev enuemerable enumerable
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
 iabbrev enviroment environment
@@ -1496,6 +1501,7 @@ iabbrev ifnd find
 iabbrev FInish Finish
 iabbrev Finsih Finish
 iabbrev finsih finish
+iabbrev ifnsish finish
 iabbrev FInished Finished
 iabbrev Finisehd Finished
 iabbrev Finsihed Finished
@@ -2057,6 +2063,7 @@ iabbrev likley likely
 iabbrev Lmit Limit
 iabbrev limitaiton limitation
 iabbrev olimitations limitations
+iabbrev limtis limits
 iabbrev lienar linear
 iabbrev LInk Link
 iabbrev liquied liquid
@@ -2960,6 +2967,7 @@ iabbrev remainging remaining
 iabbrev REmote Remote
 iabbrev remtoe remote
 iabbrev REmove Remove
+iabbrev Removoe Remove
 iabbrev Remvoe Remove
 iabbrev Reomve Remove
 iabbrev reomve remove
@@ -3174,6 +3182,7 @@ iabbrev Seoncd Second
 iabbrev sedond second
 iabbrev seocnd second
 iabbrev Secondayr Secondary
+iabbrev secondayr secondary
 iabbrev secdtion section
 iabbrev seciotn section
 iabbrev seciton section
@@ -3514,6 +3523,7 @@ iabbrev sysmetm system
 iabbrev sysmte system
 iabbrev syst6em system
 iabbrev systme system
+iabbrev systmme system
 iabbrev systmne system
 iabbrev sytem system
 iabbrev sytesm system
@@ -3927,6 +3937,7 @@ iabbrev udner under
 iabbrev udnerfloor underfloor
 iabbrev underreprsented underrepresented
 iabbrev udnerstand understand
+iabbrev understnad understand
 iabbrev udnerstanding understanding
 iabbrev understandiung understanding
 iabbrev udnertaken undertaken
