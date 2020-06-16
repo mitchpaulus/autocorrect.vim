@@ -131,6 +131,7 @@ iabbrev analyuiss analysis
 iabbrev anaslysis analysis
 iabbrev anaylis analysis
 iabbrev anaylsis analysis
+iabbrev anlayis analysis
 iabbrev anlayiss analysis
 iabbrev anlaysi analysis
 iabbrev anlaysis analysis
@@ -590,6 +591,7 @@ iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
 iabbrev curcuit circuit
 iabbrev curcuites circuits
+iabbrev circualr circular
 iabbrev Ciit Citi
 iabbrev Clairdge Claridge
 iabbrev Clairdige Claridge
@@ -1527,6 +1529,7 @@ iabbrev flippped flipped
 iabbrev Fllor Floor
 iabbrev Floro Floor
 iabbrev floro floor
+iabbrev lfoors floors
 iabbrev Flwo Flow
 iabbrev flolw flow
 iabbrev flwo flow
@@ -1786,6 +1789,7 @@ iabbrev Implemntation Implementation
 iabbrev impelmentaiotn implementation
 iabbrev impelmentation implementation
 iabbrev implemeantion implementation
+iabbrev implemenation implementation
 iabbrev implementaiton implementation
 iabbrev implmentation implementation
 iabbrev impelmented implemented
@@ -1944,6 +1948,7 @@ iabbrev INterface Interface
 iabbrev Interace Interface
 iabbrev Interafce Interface
 iabbrev interioro interior
+iabbrev intermeidate intermediate
 iabbrev intenral internal
 iabbrev interanl internal
 iabbrev interla internal
@@ -2061,6 +2066,7 @@ iabbrev lighitng lighting
 iabbrev liek like
 iabbrev likley likely
 iabbrev Lmit Limit
+iabbrev lmit limit
 iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev limtis limits
@@ -2097,6 +2103,7 @@ iabbrev locaitons locations
 iabbrev Lockoout Lockout
 iabbrev Lockotu Lockout
 iabbrev lgo log
+iabbrev loigc logic
 iabbrev logisitcs logistics
 iabbrev slong long
 iabbrev logner longer
@@ -2239,6 +2246,7 @@ iabbrev modleling modeling
 iabbrev modlieng modeling
 iabbrev mdoels models
 iabbrev modesl models
+iabbrev modfication modification
 iabbrev modificatiuons modifications
 iabbrev modificiations modifications
 iabbrev MOdified Modified
@@ -2836,6 +2844,7 @@ iabbrev Porposed Proposed
 iabbrev propsed proposed
 iabbrev propsoed proposed
 iabbrev protecdtion protection
+iabbrev protectdion protection
 iabbrev rpove prove
 iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
@@ -3830,6 +3839,7 @@ iabbrev til till
 iabbrev TIm Tim
 iabbrev teim time
 iabbrev tiem time
+iabbrev timeer timer
 iabbrev tiems times
 iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
