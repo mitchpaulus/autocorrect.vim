@@ -27,6 +27,7 @@ iabbrev accoriding according
 iabbrev accoridng according
 iabbrev accoreidnly accordingly
 iabbrev accoutn account
+iabbrev acocutn account
 iabbrev accoutned accounted
 iabbrev acheived achieved
 iabbrev acknowledgement acknowledgment
@@ -62,6 +63,7 @@ iabbrev addresssed addressed
 iabbrev addsd adds
 iabbrev adeqauyate adequate
 iabbrev Adjsut Adjust
+iabbrev adjustements adjustments
 iabbrev adjustemsnts adjustments
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
@@ -485,6 +487,7 @@ iabbrev clabirated calibrated
 iabbrev calibrationg calibrating
 iabbrev calbiraiton calibration
 iabbrev calibartion calibration
+iabbrev calibiation calibration
 iabbrev calibraiotn calibration
 iabbrev calibraiton calibration
 iabbrev calicbration calibration
@@ -521,6 +524,7 @@ iabbrev Celebraiton Celebration
 iabbrev clell cell
 iabbrev Celcius Celsius
 iabbrev cetner center
+iabbrev cewnter center
 iabbrev cewtner center
 iabbrev cneter center
 iabbrev Centrla Central
@@ -665,6 +669,7 @@ iabbrev COmmissionign Commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissiioning Commissioning
 iabbrev Commissinoing Commissioning
+iabbrev Commissioingin Commissioning
 iabbrev Commissiongin Commissioning
 iabbrev Commissionging Commissioning
 iabbrev Commissionign Commissioning
@@ -976,6 +981,7 @@ iabbrev dehumidifcation dehumidification
 iabbrev delte delete
 iabbrev dleeted deleted
 iabbrev dleting deleting
+iabbrev deliverabel deliverable
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
 iabbrev develiverables deliverables
@@ -1226,6 +1232,7 @@ iabbrev electiricyt electricity
 iabbrev electricay electricity
 iabbrev electriciyt electricity
 iabbrev electyriciyt electricity
+iabbrev electyricyt electricity
 iabbrev elemnmet element
 iabbrev elemets elements
 iabbrev evevation elevation
@@ -1404,10 +1411,12 @@ iabbrev epansion expansion
 iabbrev exapansion expansion
 iabbrev expansionj expansion
 iabbrev expecst expect
+iabbrev expecdted expected
 iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
 iabbrev expereince experience
+iabbrev experimentla experimental
 iabbrev expertice expertise
 iabbrev Explaingin Explaining
 iabbrev explainign explaining
@@ -1731,6 +1740,7 @@ iabbrev heaint heating
 iabbrev heaitng heating
 iabbrev hlep help
 iabbrev hleper helper
+iabbrev ehlpful helpful
 iabbrev helpuful helpful
 iabbrev hree here
 iabbrev Heres Here's
@@ -1951,7 +1961,9 @@ iabbrev interioro interior
 iabbrev intermeidate intermediate
 iabbrev intenral internal
 iabbrev interanl internal
+iabbrev interinal internal
 iabbrev interla internal
+iabbrev internla internal
 iabbrev itnerla internal
 iabbrev interanlly internally
 iabbrev Internaitional International
@@ -2278,6 +2290,7 @@ iabbrev montiroing monitoring
 iabbrev montiors monitors
 iabbrev monthylo monthly
 iabbrev montly monthly
+iabbrev montlyh monthly
 iabbrev montyhly monthly
 iabbrev monthds months
 iabbrev MOre More
@@ -3121,6 +3134,7 @@ iabbrev ruel rule
 iabbrev ruels rules
 iabbrev rulse rules
 iabbrev RUnning Running
+iabbrev Runnign Running
 iabbrev runnign running
 iabbrev sa SA
 iabbrev SAlly Sally
@@ -3314,7 +3328,9 @@ iabbrev shuyt shut
 iabbrev shtudowns shutdowns
 iabbrev sidse side
 iabbrev signficant significant
+iabbrev signifiatn significant
 iabbrev significat significant
+iabbrev significatn significant
 iabbrev Significatly Significantly
 iabbrev simialr similar
 iabbrev smilar similar
@@ -3406,9 +3422,11 @@ iabbrev Spreadsehet Spreadsheet
 iabbrev speradhset spreadsheet
 iabbrev speradsheet spreadsheet
 iabbrev spreadhseet spreadsheet
+iabbrev spreadhset spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
 iabbrev spreadshetet spreadsheet
+iabbrev sprreaadhseet spreadsheet
 iabbrev Spreasheets Spreadsheets
 iabbrev Sql SQL
 iabbrev sql SQL
@@ -3925,6 +3943,7 @@ iabbrev typeiclaly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
 iabbrev ultrasonci ultrasonic
+iabbrev unaccoutned unaccounted
 iabbrev unavailbale unavailable
 iabbrev unavaillable unavailable
 iabbrev ucnertainties uncertainties
