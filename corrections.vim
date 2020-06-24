@@ -1,6 +1,7 @@
 iabbrev abbreviatoin abbreviation
 iabbrev Abilty Ability
 iabbrev abbility ability
+iabbrev abililty ability
 iabbrev abillity ability
 iabbrev abiltily ability
 iabbrev abiltiyt ability
@@ -144,6 +145,7 @@ iabbrev anaylytically analytically
 iabbrev anlaytics analytics
 iabbrev alnaalyze analyze
 iabbrev analzye analyze
+iabbrev Analysed Analyzed
 iabbrev anlayzxed analyzed
 iabbrev analzer analyzer
 iabbrev anlayzing analyzing
@@ -225,6 +227,8 @@ iabbrev arbitary arbitrary
 iabbrev ARch Arch
 iabbrev ARchitects Architects
 iabbrev archetictural architectural
+iabbrev architectdure architecture
+iabbrev architecutrue architecture
 iabbrev aer are
 iabbrev aqre are
 iabbrev aree are
@@ -463,6 +467,7 @@ iabbrev Calcualte Calculate
 iabbrev Calcuate Calculate
 iabbrev calcualte calculate
 iabbrev caluclate calculate
+iabbrev clacualte calculate
 iabbrev claculate calculate
 iabbrev Caluclated Calculated
 iabbrev calcualted calculated
@@ -600,6 +605,7 @@ iabbrev Ciit Citi
 iabbrev Clairdge Claridge
 iabbrev Clairdige Claridge
 iabbrev Clardige Claridge
+iabbrev calss class
 iabbrev lcass class
 iabbrev cleanign cleaning
 iabbrev clenaup cleanup
@@ -608,6 +614,7 @@ iabbrev clickign clicking
 iabbrev lickcing clicking
 iabbrev lcinet client
 iabbrev clipbvoard clipboard
+iabbrev cloen clone
 iabbrev lcosed closed
 iabbrev xlosed closed
 iabbrev CLoseout Closeout
@@ -680,6 +687,7 @@ iabbrev Commisssiong Commissioning
 iabbrev Commisssiongin Commissioning
 iabbrev Commjissiong Commissioning
 iabbrev Commsiiongin Commissioning
+iabbrev Commsisiongin Commissioning
 iabbrev Commsissiong Commissioning
 iabbrev commisioning commissioning
 iabbrev commissiongin commissioning
@@ -746,6 +754,7 @@ iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
 iabbrev ocncourse concourse
 iabbrev Condsenser Condenser
+iabbrev codnenser condenser
 iabbrev condensser condenser
 iabbrev ocndenser condenser
 iabbrev COndition Condition
@@ -864,6 +873,7 @@ iabbrev coolign cooling
 iabbrev coolking cooling
 iabbrev cooloing cooling
 iabbrev cooolign cooling
+iabbrev coooling cooling
 iabbrev Coorinate Coordinate
 iabbrev copeid copied
 iabbrev cipy copy
@@ -1121,6 +1131,8 @@ iabbrev disscussionn discussion
 iabbrev disucssion discussion
 iabbrev dispaly display
 iabbrev disply display
+iabbrev disseratioatn dissertation
+iabbrev disseration dissertation
 iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev distriubtion distribution
@@ -1255,6 +1267,7 @@ iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev enenrgy energy
 iabbrev eneryg energy
+iabbrev enewryg energy
 iabbrev nergy energy
 iabbrev ENergyPlus EnergyPlus
 iabbrev ENerygpPlus EnergyPlus
@@ -1279,6 +1292,7 @@ iabbrev enertered entered
 iabbrev enterd entered
 iabbrev Enetering Entering
 iabbrev enterin entering
+iabbrev ENthalpy Enthalpy
 iabbrev Entthalpy Enthalpy
 iabbrev enthlapy enthalpy
 iabbrev enthlayp enthalpy
@@ -1456,6 +1470,7 @@ iabbrev failry fairly
 iabbrev faily fairly
 iabbrev fiarly fairly
 iabbrev flase false
+iabbrev familar familiar
 iabbrev FAn Fan
 iabbrev fna fan
 iabbrev fanas fans
@@ -1689,6 +1704,7 @@ iabbrev graduyation graduation
 iabbrev grpahic graphic
 iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
+iabbrev Grpahics Graphics
 iabbrev graphcis graphics
 iabbrev grpahcis graphics
 iabbrev grpahics graphics
@@ -1831,6 +1847,7 @@ iabbrev importatnt important
 iabbrev improatnat important
 iabbrev improatnt important
 iabbrev improtant important
+iabbrev improtatn important
 iabbrev importatnly importantly
 iabbrev imporve improve
 iabbrev ina in a
@@ -1910,6 +1927,7 @@ iabbrev inital initial
 iabbrev intial initial
 iabbrev intiial initial
 iabbrev nitial initial
+iabbrev initiailly initially
 iabbrev intially initially
 iabbrev Initialte Initiate
 iabbrev initate initiate
@@ -1953,6 +1971,8 @@ iabbrev integraiton integration
 iabbrev intelligcne intelligence
 iabbrev initended intended
 iabbrev itnerest interest
+iabbrev interesetd interested
+iabbrev interesteds interested
 iabbrev interesing interesting
 iabbrev INterface Interface
 iabbrev Interace Interface
@@ -2005,6 +2025,7 @@ iabbrev itme item
 iabbrev ITems Items
 iabbrev Itmes Items
 iabbrev imtems items
+iabbrev itemse items
 iabbrev itesm items
 iabbrev itmes items
 iabbrev iteraotr iterator
@@ -2047,7 +2068,9 @@ iabbrev lableled labeled
 iabbrev lbaeled labeled
 iabbrev lableing labeling
 iabbrev lables labels
+iabbrev Laboratoyr Laboratory
 iabbrev Laboratoyrt Laboratory
+iabbrev Laborayr Laboratory
 iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
@@ -2055,6 +2078,7 @@ iabbrev lnaguage language
 iabbrev alst last
 iabbrev leasd leads
 iabbrev Leakding Leaking
+iabbrev leanr learn
 iabbrev Leanring Learning
 iabbrev leanring learning
 iabbrev leats least
@@ -2456,6 +2480,7 @@ iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
 iabbrev optimziatino optimization
 iabbrev optimziation optimization
+iabbrev otptimziaton optimization
 iabbrev optimzie optimize
 iabbrev opitions options
 iabbrev opitons options
@@ -2470,6 +2495,7 @@ iabbrev orgainazation organization
 iabbrev orgainzation organization
 iabbrev organiation organization
 iabbrev organizaiton organization
+iabbrev rogainations organizations
 iabbrev Orgainzing Organizing
 iabbrev Origilan Original
 iabbrev origianl original
@@ -2614,6 +2640,7 @@ iabbrev pipelien pipeline
 iabbrev piplien pipeline
 iabbrev palce place
 iabbrev placehodler placeholder
+iabbrev palcement placement
 iabbrev plian plain
 iabbrev Paln Plan
 iabbrev paln plan
@@ -2707,6 +2734,7 @@ iabbrev pwoer power
 iabbrev pwoered powered
 iabbrev powershell PowerShell
 iabbrev PRactical Practical
+iabbrev pracitcla practical
 iabbrev practivce practice
 iabbrev precisly precisely
 iabbrev predition prediciton
@@ -2812,6 +2840,7 @@ iabbrev PRogram Program
 iabbrev porgram program
 iabbrev progmra program
 iabbrev progrma program
+iabbrev progrsm program
 iabbrev projgram program
 iabbrev prommed programmed
 iabbrev programmihng programming
@@ -2897,6 +2926,7 @@ iabbrev quiclky quickly
 iabbrev quiclyi quickly
 iabbrev quilckly quickly
 iabbrev quotoient quotient
+iabbrev Radaiance Radiance
 iabbrev radiof radio
 iabbrev RAdios Radios
 iabbrev reaise raise
@@ -3050,6 +3080,7 @@ iabbrev represesnts represents
 iabbrev reproducable reproducible
 iabbrev requrested requested
 iabbrev requiere require
+iabbrev requrie require
 iabbrev Requrired Required
 iabbrev requied required
 iabbrev requiredy required
@@ -3131,6 +3162,7 @@ iabbrev rwo row
 iabbrev ORyal Royal
 iabbrev Roayl Royal
 iabbrev ruel rule
+iabbrev reuls rules
 iabbrev ruels rules
 iabbrev rulse rules
 iabbrev RUnning Running
@@ -3326,12 +3358,14 @@ iabbrev showss shows
 iabbrev hsut shut
 iabbrev shuyt shut
 iabbrev shtudowns shutdowns
+iabbrev sdie side
 iabbrev sidse side
 iabbrev signficant significant
 iabbrev signifiatn significant
 iabbrev significat significant
 iabbrev significatn significant
 iabbrev Significatly Significantly
+iabbrev signficantly significantly
 iabbrev simialr similar
 iabbrev smilar similar
 iabbrev similarily similarly
@@ -3569,6 +3603,7 @@ iabbrev tagblse tables
 iabbrev taggins tagging
 iabbrev atake take
 iabbrev takne taken
+iabbrev Takign Taking
 iabbrev TMAU TAMU
 iabbrev TAsk Task
 iabbrev Taks Task
@@ -3749,6 +3784,7 @@ iabbrev taht that
 iabbrev thatt that
 iabbrev THe The
 iabbrev Teh The
+iabbrev Tthe The
 iabbrev athe the
 iabbrev eht the
 iabbrev ethe the
@@ -3870,6 +3906,7 @@ iabbrev otkens tokens
 iabbrev TOld Told
 iabbrev Tooll Toll
 iabbrev tomroorw tomorrow
+iabbrev TOok Took
 iabbrev toolos tools
 iabbrev topci topic
 iabbrev topcis topics
@@ -4156,6 +4193,7 @@ iabbrev waht what
 iabbrev whqat what
 iabbrev whta what
 iabbrev WHen When
+iabbrev Wehn When
 iabbrev Whne When
 iabbrev wehn when
 iabbrev whhen when
@@ -4240,6 +4278,7 @@ iabbrev wroth worth
 iabbrev WOuld Would
 iabbrev ouwld would
 iabbrev owuld would
+iabbrev owule would
 iabbrev wiould would
 iabbrev wolud would
 iabbrev woudl would
