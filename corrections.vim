@@ -77,6 +77,7 @@ iabbrev Afternnon Afternoon
 iabbrev aftenronon afternoon
 iabbrev agian again
 iabbrev aggregatre aggregate
+iabbrev aggreation aggregation
 iabbrev aggregatiuon aggregation
 iabbrev aggregatrion aggregation
 iabbrev aggregration aggregation
@@ -257,6 +258,7 @@ iabbrev assinging assigning
 iabbrev assignemnents assignments
 iabbrev Assitatn Assistant
 iabbrev assocaited associated
+iabbrev assoicated associated
 iabbrev Assocaites Associates
 iabbrev Assuem Assume
 iabbrev assuem assume
@@ -613,6 +615,7 @@ iabbrev clcked clicked
 iabbrev clickign clicking
 iabbrev lickcing clicking
 iabbrev lcinet client
+iabbrev clint Clint
 iabbrev clipbvoard clipboard
 iabbrev cloen clone
 iabbrev lcosed closed
@@ -988,6 +991,7 @@ iabbrev Defintion Definition
 iabbrev definiations definitions
 iabbrev Dehumidificaiton Dehumidification
 iabbrev dehumidifcation dehumidification
+iabbrev dealy delay
 iabbrev delte delete
 iabbrev dleeted deleted
 iabbrev dleting deleting
@@ -1113,6 +1117,7 @@ iabbrev direcdtory directory
 iabbrev direcotry directory
 iabbrev directoy directory
 iabbrev directoyr directory
+iabbrev directry directory
 iabbrev driectory directory
 iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
@@ -1277,6 +1282,7 @@ iabbrev EnergyPuls EnergyPlus
 iabbrev EnerygPlus EnergyPlus
 iabbrev energypuls EnergyPlus
 iabbrev EnergtyStar EnergyStar
+iabbrev enigneer engineer
 iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
@@ -1544,6 +1550,7 @@ iabbrev finsihing finishing
 iabbrev Frist First
 iabbrev frist first
 iabbrev ifrst first
+iabbrev ifhs fish
 iabbrev FIx Fix
 iabbrev ifxes fixes
 iabbrev FIxing Fixing
@@ -1646,6 +1653,7 @@ iabbrev funcitality functionality
 iabbrev funcitonality functionality
 iabbrev functinality functionality
 iabbrev functioanlity functionality
+iabbrev functioanliyt functionality
 iabbrev functionaliyt functionality
 iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
@@ -3268,6 +3276,7 @@ iabbrev sewnsor sensor
 iabbrev snesor sensor
 iabbrev snsor sensor
 iabbrev Snesors Sensors
+iabbrev senosrs sensors
 iabbrev sensores sensors
 iabbrev sensosr sensors
 iabbrev sensosrs sensors
@@ -3388,6 +3397,7 @@ iabbrev Stie Site
 iabbrev iste site
 iabbrev stie site
 iabbrev situaiton situation
+iabbrev isze size
 iabbrev siziung sizing
 iabbrev skilsl skills
 iabbrev lslides slides
@@ -3952,6 +3962,7 @@ iabbrev tyrends trends
 iabbrev Tervor Trevor
 iabbrev Tridium Tridium
 iabbrev Treid Tried
+iabbrev ture true
 iabbrev tyr try
 iabbrev tyring trying
 iabbrev Tuedasy Tuesday
