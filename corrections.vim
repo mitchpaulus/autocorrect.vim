@@ -109,6 +109,7 @@ iabbrev Alphabatize Alphabetize
 iabbrev alreaedy already
 iabbrev alreayd already
 iabbrev alrfeayd already
+iabbrev lareayd already
 iabbrev Alos Also
 iabbrev alos also
 iabbrev aslo also
@@ -227,6 +228,7 @@ iabbrev arbirary arbitrary
 iabbrev arbitary arbitrary
 iabbrev ARch Arch
 iabbrev ARchitects Architects
+iabbrev Architecturla Architectural
 iabbrev archetictural architectural
 iabbrev architectdure architecture
 iabbrev architecutrue architecture
@@ -591,6 +593,7 @@ iabbrev Chiled Chilled
 iabbrev chillled chilled
 iabbrev CHiller Chiller
 iabbrev Chiler Chiller
+iabbrev chiler chiller
 iabbrev chyiller chiller
 iabbrev CHillers Chillers
 iabbrev Chjillers Chillers
@@ -649,6 +652,7 @@ iabbrev comlum column
 iabbrev coolumn column
 iabbrev coulmn column
 iabbrev oclumn column
+iabbrev Columsn Columns
 iabbrev columsn columns
 iabbrev coolumsn columns
 iabbrev coulnmsn columns
@@ -676,6 +680,7 @@ iabbrev commerical commercial
 iabbrev Commissionieed Commissioned
 iabbrev COmmissioign Commissioning
 iabbrev COmmissionign Commissioning
+iabbrev Commisiongin Commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissiioning Commissioning
 iabbrev Commissinoing Commissioning
@@ -931,6 +936,7 @@ iabbrev curerent current
 iabbrev currrent current
 iabbrev currtent current
 iabbrev Currenlty Currently
+iabbrev curerntly currently
 iabbrev currenlty currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
@@ -1056,6 +1062,7 @@ iabbrev determiniation determination
 iabbrev Determien Determine
 iabbrev detemrine determine
 iabbrev deteriming determine
+iabbrev deterimne determine
 iabbrev determein determine
 iabbrev dewtermine determine
 iabbrev Deterimiend Determined
@@ -1171,6 +1178,7 @@ iabbrev documentaiotn documentation
 iabbrev documentaiton documentation
 iabbrev documetiona documentation
 iabbrev docuemnted documented
+iabbrev docuementign documenting
 iabbrev documentionat documenting
 iabbrev DOg Dog
 iabbrev donig doing
@@ -1234,9 +1242,11 @@ iabbrev Eelctrical Electrical
 iabbrev Eelectiral Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
+iabbrev Electricial Electrical
 iabbrev Electricla Electrical
 iabbrev eelectyrical electrical
 iabbrev electricial electrical
+iabbrev electricla electrical
 iabbrev ewlectrical electrical
 iabbrev Eelectricity Electricity
 iabbrev Electiricy Electricity
@@ -1262,6 +1272,7 @@ iabbrev emial email
 iabbrev evmails emails
 iabbrev meails emails
 iabbrev emergingn emerging
+iabbrev Empyt Empty
 iabbrev empyt empty
 iabbrev eanble enable
 iabbrev enabeld enabled
@@ -1324,6 +1335,7 @@ iabbrev equlaity equality
 iabbrev Equaiton Equation
 iabbrev equaiton equation
 iabbrev equatoin equation
+iabbrev equiaton equation
 iabbrev EQuations Equations
 iabbrev eequations equations
 iabbrev equaionts equations
@@ -1547,6 +1559,7 @@ iabbrev Finishding Finishing
 iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev finsihing finishing
+iabbrev Firmna Firman
 iabbrev Frist First
 iabbrev frist first
 iabbrev ifrst first
@@ -1566,6 +1579,7 @@ iabbrev flolw flow
 iabbrev flwo flow
 iabbrev lfow flow
 iabbrev flucuation fluctuation
+iabbrev focsusing focusing
 iabbrev fodler folder
 iabbrev foler folder
 iabbrev oflder folder
@@ -1776,6 +1790,7 @@ iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hsi his
+iabbrev Histoiran Historian
 iabbrev hikstorical historical
 iabbrev histoyr history
 iabbrev hodls holds
@@ -1818,6 +1833,7 @@ iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impement implement
 iabbrev implemnet implement
+iabbrev implment implement
 iabbrev Impelmentation Implementation
 iabbrev Implemntation Implementation
 iabbrev impelmentaiotn implementation
@@ -2065,6 +2081,7 @@ iabbrev Ktichen Kitchen
 iabbrev ktichen kitchen
 iabbrev kitchnes kitchens
 iabbrev knoiwldege knowledge
+iabbrev knowledgable knowledgeable
 iabbrev knonw known
 iabbrev knwon known
 iabbrev Kyel Kyle
@@ -2235,8 +2252,10 @@ iabbrev Mechancial Mechanical
 iabbrev Mechanicla Mechanical
 iabbrev mechancial mechanical
 iabbrev mechancila mechanical
+iabbrev mechanicl mechanical
 iabbrev mechanicla mechanical
 iabbrev mechnaicla mechanical
+iabbrev medai media
 iabbrev meadian median
 iabbrev MEeting Meeting
 iabbrev Meeitng Meeting
@@ -2813,6 +2832,7 @@ iabbrev Pritorities Priorities
 iabbrev priortization prioritization
 iabbrev pritiorizing prioritizing
 iabbrev Probalby Probably
+iabbrev Probvalby Probably
 iabbrev porbablyb probably
 iabbrev probaby probably
 iabbrev probalby probably
@@ -3394,6 +3414,7 @@ iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
 iabbrev Stie Site
+iabbrev Stite Site
 iabbrev iste site
 iabbrev stie site
 iabbrev situaiton situation
@@ -3667,6 +3688,7 @@ iabbrev tempeature temperature
 iabbrev tempeatuter temperature
 iabbrev temperaature temperature
 iabbrev temperartute temperature
+iabbrev temperarutre temperature
 iabbrev temperateur temperature
 iabbrev temperatre temperature
 iabbrev temperatue temperature
@@ -3990,6 +4012,7 @@ iabbrev typiuckal typical
 iabbrev typeiclaly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
+iabbrev Ultrasonci Ultrasonic
 iabbrev ultrasonci ultrasonic
 iabbrev unaccoutned unaccounted
 iabbrev unavailbale unavailable
