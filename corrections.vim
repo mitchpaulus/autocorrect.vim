@@ -121,6 +121,7 @@ iabbrev alwyas always
 iabbrev amounto amount
 iabbrev amoutn amount
 iabbrev na an
+iabbrev analgous analogous
 iabbrev analougous analogous
 iabbrev analygous analogous
 iabbrev analygousu analogous
@@ -298,6 +299,7 @@ iabbrev auot auto
 iabbrev automaated automated
 iabbrev automateds automated
 iabbrev autiomatic automatic
+iabbrev Automaticaly Automatically
 iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
 iabbrev automatcially automatically
@@ -427,6 +429,7 @@ iabbrev Buildic Building
 iabbrev Buildign Building
 iabbrev buidign building
 iabbrev buiding building
+iabbrev buidlign building
 iabbrev buidling building
 iabbrev buiilding building
 iabbrev buikdlign building
@@ -658,6 +661,7 @@ iabbrev coolumn column
 iabbrev coulmn column
 iabbrev oclumn column
 iabbrev Columsn Columns
+iabbrev columnsn columns
 iabbrev columsn columns
 iabbrev coolumsn columns
 iabbrev coulnmsn columns
@@ -703,6 +707,7 @@ iabbrev Commsiiongin Commissioning
 iabbrev Commsisiongin Commissioning
 iabbrev Commsissiong Commissioning
 iabbrev commisioning commissioning
+iabbrev commissioing commissioning
 iabbrev commissiongin commissioning
 iabbrev commissionign commissioning
 iabbrev commissioniong commissioning
@@ -779,6 +784,7 @@ iabbrev condtiosn conditions
 iabbrev condusive conducive
 iabbrev conductinve conductive
 iabbrev cvonference conference
+iabbrev converecnes conferences
 iabbrev condifience confidence
 iabbrev Configuraiton Configuration
 iabbrev coinfiguraiton configuration
@@ -857,9 +863,11 @@ iabbrev contorl control
 iabbrev contrl control
 iabbrev controol control
 iabbrev contyrol control
+iabbrev contorlled controlled
 iabbrev contrlled controlled
 iabbrev controleld controlled
 iabbrev conttrolled controlled
+iabbrev contyrolled controlled
 iabbrev contorller controller
 iabbrev contreollers controllers
 iabbrev Contorls Controls
@@ -926,6 +934,7 @@ iabbrev coulds could
 iabbrev coulod could
 iabbrev Coutn Count
 iabbrev Coutnry Country
+iabbrev coutns counts
 iabbrev Coutnyt County
 iabbrev coures course
 iabbrev cracs CRACs
@@ -1075,6 +1084,7 @@ iabbrev deterimne determine
 iabbrev determein determine
 iabbrev dewtermine determine
 iabbrev Deterimiend Determined
+iabbrev determeined determined
 iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev deterining determining
@@ -1121,6 +1131,7 @@ iabbrev idfferent different
 iabbrev Difficutl Difficult
 iabbrev difficutl difficult
 iabbrev difficulity difficulty
+iabbrev ditigal digital
 iabbrev Dingin Dining
 iabbrev dingin dining
 iabbrev dinign dining
@@ -1135,6 +1146,7 @@ iabbrev direcotry directory
 iabbrev directoy directory
 iabbrev directoyr directory
 iabbrev directry directory
+iabbrev diretory directory
 iabbrev driectory directory
 iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
@@ -1178,9 +1190,11 @@ iabbrev Documentaiton Documentation
 iabbrev Documention Documentation
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
+iabbrev dcoumentation documentation
 iabbrev docuemanation documentation
 iabbrev docuemantiona documentation
 iabbrev docuematnoin documentation
+iabbrev docuemenation documentation
 iabbrev docuementation documentation
 iabbrev docuemnation documentation
 iabbrev docuemntaiton documentation
@@ -1291,6 +1305,8 @@ iabbrev empyt empty
 iabbrev eanble enable
 iabbrev enabeld enabled
 iabbrev enalbed enabled
+iabbrev enclouse enclosure
+iabbrev enclousre enclosure
 iabbrev ned end
 iabbrev endevor endeavor
 iabbrev ENergy Energy
@@ -1341,6 +1357,7 @@ iabbrev enuemerable enumerable
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
 iabbrev enviroment environment
+iabbrev environemnt environment
 iabbrev enviromental environmental
 iabbrev environemntes environments
 iabbrev eqaul equal
@@ -1420,6 +1437,7 @@ iabbrev eveyr every
 iabbrev everytone everyone
 iabbrev Everythign Everything
 iabbrev evertyhgin everything
+iabbrev everythign everything
 iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exactyl exactly
@@ -1703,9 +1721,11 @@ iabbrev ufture future
 iabbrev Garge Garage
 iabbrev garaage garage
 iabbrev Genealr General
+iabbrev Genearrl General
 iabbrev Generla General
 iabbrev Genral General
 iabbrev Gneeral General
+iabbrev genral general
 iabbrev gneeral general
 iabbrev gneral general
 iabbrev gnerally generally
@@ -2131,6 +2151,7 @@ iabbrev lenght length
 iabbrev levle level
 iabbrev lvel level
 iabbrev lvevl level
+iabbrev liason liaison
 iabbrev libaries libraries
 iabbrev LIbrary Library
 iabbrev Libarrya Library
@@ -2331,6 +2352,7 @@ iabbrev modleling modeling
 iabbrev modlieng modeling
 iabbrev mdoels models
 iabbrev modesl models
+iabbrev modles models
 iabbrev modeset modest
 iabbrev modfication modification
 iabbrev modificatiuons modifications
@@ -2504,6 +2526,7 @@ iabbrev onlnie online
 iabbrev ONly Only
 iabbrev nonly only
 iabbrev onlly only
+iabbrev opne open
 iabbrev poen open
 iabbrev operatie operate
 iabbrev operatre operate
@@ -2527,6 +2550,7 @@ iabbrev oppostie opposite
 iabbrev opitmal optimal
 iabbrev optiomal optimal
 iabbrev OPptimziation Optimization
+iabbrev Optimziaiton Optimization
 iabbrev Optimziation Optimization
 iabbrev optimizaiton optimization
 iabbrev optimziaiton optimization
@@ -2838,6 +2862,8 @@ iabbrev Preussue Pressure
 iabbrev apressure pressure
 iabbrev perssure pressure
 iabbrev pressrue pressure
+iabbrev presssure pressure
+iabbrev pretyt pretty
 iabbrev PRevious Previous
 iabbrev dprevious previous
 iabbrev preiovus previous
@@ -3081,6 +3107,7 @@ iabbrev REmove Remove
 iabbrev Removoe Remove
 iabbrev Remvoe Remove
 iabbrev Reomve Remove
+iabbrev remvoe remove
 iabbrev reomve remove
 iabbrev removewd removed
 iabbrev reomved removed
@@ -3153,6 +3180,7 @@ iabbrev requiremnet requirement
 iabbrev requiements requirements
 iabbrev requirementse requirements
 iabbrev requiremnets requirements
+iabbrev requirmentrs requirements
 iabbrev requrienments requirements
 iabbrev requries requires
 iabbrev reuqires requires
@@ -3483,6 +3511,7 @@ iabbrev somehting something
 iabbrev somethign something
 iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
+iabbrev Soruce Source
 iabbrev soruces sources
 iabbrev SPace Space
 iabbrev Sapce Space
@@ -3545,6 +3574,7 @@ iabbrev strated started
 iabbrev Starign Starting
 iabbrev starign starting
 iabbrev starst starts
+iabbrev staturup startup
 iabbrev astatemtn statement
 iabbrev statemetn statement
 iabbrev statemnet statement
@@ -3565,6 +3595,7 @@ iabbrev satatus status
 iabbrev stuatus status
 iabbrev staem steam
 iabbrev stpe step
+iabbrev Stpes Steps
 iabbrev stpes steps
 iabbrev STill Still
 iabbrev sitll still
@@ -3834,6 +3865,7 @@ iabbrev terminail terminal
 iabbrev terminla terminal
 iabbrev termnial terminal
 iabbrev tmenial terminal
+iabbrev tmerianl terminal
 iabbrev tmerinal terminal
 iabbrev tyerminal terminal
 iabbrev termailns terminals
@@ -4012,6 +4044,7 @@ iabbrev rtrend trend
 iabbrev tnred trend
 iabbrev trand trend
 iabbrev trned trend
+iabbrev trrend trend
 iabbrev trendend trended
 iabbrev trrended trended
 iabbrev Trendign Trending
@@ -4103,6 +4136,7 @@ iabbrev Unoccupeid Unoccupied
 iabbrev Unoccupieed Unoccupied
 iabbrev uncocuiped unoccupied
 iabbrev unjjoccupied unoccupied
+iabbrev unoccuipied unoccupied
 iabbrev unoccuipieed unoccupied
 iabbrev unoccupierd unoccupied
 iabbrev unoccupiied unoccupied
@@ -4115,6 +4149,7 @@ iabbrev UPdates Updates
 iabbrev UPdating Updating
 iabbrev Updaitng Updating
 iabbrev Upodaitng Updating
+iabbrev Uplaod Upload
 iabbrev updload upload
 iabbrev uplaod upload
 iabbrev upldoad upload
@@ -4146,6 +4181,7 @@ iabbrev utiltiyt utility
 iabbrev utiltliy utility
 iabbrev Utilzie Utilize
 iabbrev utilitze utilize
+iabbrev utilzied utilized
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
 iabbrev VAlidator Validator
@@ -4167,6 +4203,7 @@ iabbrev vairalbe variable
 iabbrev varailbe variable
 iabbrev variaglbe variable
 iabbrev varialbe variable
+iabbrev variazble variable
 iabbrev vairlabes variables
 iabbrev varialbes variables
 iabbrev varialbles variables
@@ -4364,6 +4401,7 @@ iabbrev wouold would
 iabbrev wuoudl would
 iabbrev worng wrong
 iabbrev yaer year
+iabbrev yera year
 iabbrev yeras years
 iabbrev yewt yet
 iabbrev YOu You
