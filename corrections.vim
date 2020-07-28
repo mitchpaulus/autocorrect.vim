@@ -252,6 +252,7 @@ iabbrev aas as
 iabbrev AHSRAE ASHRAE
 iabbrev AHSREA ASHRAE
 iabbrev ASHARE ASHRAE
+iabbrev ASHRE ASHRAE
 iabbrev ASHREA ASHRAE
 iabbrev asekd asked
 iabbrev ascpects aspects
@@ -1137,6 +1138,7 @@ iabbrev dingin dining
 iabbrev dinign dining
 iabbrev dirctions directions
 iabbrev directins directions
+iabbrev drictions directions
 iabbrev direclty directly
 iabbrev direcly directly
 iabbrev drieclty directly
@@ -1234,6 +1236,7 @@ iabbrev diuct duct
 iabbrev ducct duct
 iabbrev ductwork duct work
 iabbrev dupcliate duplicate
+iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
 iabbrev duriung during
 iabbrev durnig during
@@ -1711,6 +1714,7 @@ iabbrev fucntions functions
 iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
+iabbrev fudnamental fundamental
 iabbrev Furneral Funeral
 iabbrev furhter further
 iabbrev rurther further
@@ -2350,6 +2354,7 @@ iabbrev modelign modeling
 iabbrev modleing modeling
 iabbrev modleling modeling
 iabbrev modlieng modeling
+iabbrev modling modeling
 iabbrev mdoels models
 iabbrev modesl models
 iabbrev modles models
@@ -2575,6 +2580,7 @@ iabbrev rogainations organizations
 iabbrev Orgainzing Organizing
 iabbrev Origilan Original
 iabbrev origianl original
+iabbrev origiinal original
 iabbrev orignal original
 iabbrev oriigal original
 iabbrev oringial original
@@ -2984,6 +2990,7 @@ iabbrev upmps pumps
 iabbrev PUrple Purple
 iabbrev pruposes purposes
 iabbrev PUt Put
+iabbrev Pyton Python
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev quaility quality
@@ -3112,6 +3119,7 @@ iabbrev reomve remove
 iabbrev removewd removed
 iabbrev reomved removed
 iabbrev reorganizatiojn reorganization
+iabbrev Reorgainze Reorganize
 iabbrev Reparing Repairing
 iabbrev reparis repairs
 iabbrev repateing repeating
@@ -3548,6 +3556,7 @@ iabbrev Spcie Spice
 iabbrev spiunner spinner
 iabbrev sptli split
 iabbrev sponosr sponsor
+iabbrev sporsorign sponsoring
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
 iabbrev Spreadsehet Spreadsheet
@@ -3555,6 +3564,7 @@ iabbrev speradhset spreadsheet
 iabbrev speradsheet spreadsheet
 iabbrev spreadhseet spreadsheet
 iabbrev spreadhset spreadsheet
+iabbrev spreadhsett spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
 iabbrev spreadshetet spreadsheet
