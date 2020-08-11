@@ -91,6 +91,7 @@ iabbrev airlfow airflow
 iabbrev ariflow airflow
 iabbrev Airprot Airport
 iabbrev Almao Alamo
+iabbrev Alamr Alarm
 iabbrev alram alarm
 iabbrev alrams alarms
 iabbrev Albequeque Albuquerque
@@ -126,6 +127,7 @@ iabbrev analougous analogous
 iabbrev analygous analogous
 iabbrev analygousu analogous
 iabbrev Analyiss Analysis
+iabbrev Analyusis Analysis
 iabbrev analsyis analysis
 iabbrev analyfsis analysis
 iabbrev analyis analysis
@@ -162,6 +164,7 @@ iabbrev anbd and
 iabbrev annd and
 iabbrev nad and
 iabbrev nadn and
+iabbrev nand and
 iabbrev tand and
 iabbrev annula annual
 iabbrev naanual annual
@@ -189,6 +192,7 @@ iabbrev applicaable applicable
 iabbrev Applicaiotn Application
 iabbrev Applicaiton Application
 iabbrev appcoliacation application
+iabbrev applciaiton application
 iabbrev applciation application
 iabbrev applicaiotn application
 iabbrev applicaitno application
@@ -297,6 +301,7 @@ iabbrev autehnticadtion authentication
 iabbrev authenticaiton authentication
 iabbrev Authorizastion Authorization
 iabbrev auot auto
+iabbrev auotmate automate
 iabbrev automaated automated
 iabbrev automateds automated
 iabbrev autiomatic automatic
@@ -870,9 +875,11 @@ iabbrev controleld controlled
 iabbrev conttrolled controlled
 iabbrev contyrolled controlled
 iabbrev contorller controller
+iabbrev contorllers controllers
 iabbrev contreollers controllers
 iabbrev Contorls Controls
 iabbrev Contrls Controls
+iabbrev conrols controls
 iabbrev contorels controls
 iabbrev contorls controls
 iabbrev contorrls controls
@@ -957,6 +964,7 @@ iabbrev currtent current
 iabbrev Currenlty Currently
 iabbrev curerntly currently
 iabbrev currenlty currently
+iabbrev currenltyl currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
 iabbrev cureves curves
@@ -1292,6 +1300,7 @@ iabbrev electriciyt electricity
 iabbrev electyriciyt electricity
 iabbrev electyricyt electricity
 iabbrev elemnmet element
+iabbrev elment element
 iabbrev elemets elements
 iabbrev evevation elevation
 iabbrev elevatiaonl elevational
@@ -1513,6 +1522,7 @@ iabbrev FAcility Facility
 iabbrev Facililty Facility
 iabbrev Facilty Facility
 iabbrev faciliity facility
+iabbrev facillity facility
 iabbrev FacillityGrid FacilityGrid
 iabbrev facotr factor
 iabbrev fractor factor
@@ -1729,6 +1739,7 @@ iabbrev Genearrl General
 iabbrev Generla General
 iabbrev Genral General
 iabbrev Gneeral General
+iabbrev generla general
 iabbrev genral general
 iabbrev gneeral general
 iabbrev gneral general
@@ -2327,6 +2338,7 @@ iabbrev mgiht might
 iabbrev migraiton migration
 iabbrev migraitons migrations
 iabbrev milluion million
+iabbrev midn mind
 iabbrev minimual minimal
 iabbrev Mniiimzie Minimize
 iabbrev Minimmum Minimum
@@ -2409,6 +2421,7 @@ iabbrev MOst Most
 iabbrev omst most
 iabbrev Mosty Mostly
 iabbrev moter motor
+iabbrev Moutnain Mountain
 iabbrev movew move
 iabbrev myuch much
 iabbrev multiople multiple
@@ -2428,6 +2441,7 @@ iabbrev Natual Natural
 iabbrev nautral natural
 iabbrev Naturaly Naturally
 iabbrev narturally naturally
+iabbrev Navitage Navigate
 iabbrev enearest nearest
 iabbrev enearsets nearest
 iabbrev neccesarily necessarily
@@ -2558,11 +2572,13 @@ iabbrev OPptimziation Optimization
 iabbrev Optimziaiton Optimization
 iabbrev Optimziation Optimization
 iabbrev optimizaiton optimization
+iabbrev optimziaiotn optimization
 iabbrev optimziaiton optimization
 iabbrev optimziatino optimization
 iabbrev optimziation optimization
 iabbrev otptimziaton optimization
 iabbrev optimzie optimize
+iabbrev Opitons Options
 iabbrev opitions options
 iabbrev opitons options
 iabbrev optiosn options
@@ -2656,6 +2672,7 @@ iabbrev parmaetesr parameters
 iabbrev paretn parent
 iabbrev partent parent
 iabbrev paretns parents
+iabbrev aprse parse
 iabbrev paresr parser
 iabbrev aprsing parsing
 iabbrev aprt part
@@ -2708,6 +2725,7 @@ iabbrev pahse phase
 iabbrev pahases phases
 iabbrev philospohy philosophy
 iabbrev Pheonix Phoenix
+iabbrev PHone Phone
 iabbrev Phoen Phone
 iabbrev phnoe phone
 iabbrev phoen phone
@@ -2857,6 +2875,7 @@ iabbrev presentaion presentation
 iabbrev presentaiotun presentation
 iabbrev presentaiton presentation
 iabbrev presentatino presentation
+iabbrev presentiaont presentation
 iabbrev presention presentation
 iabbrev presnetioan presentation
 iabbrev pressentaiton presentation
@@ -2869,6 +2888,7 @@ iabbrev apressure pressure
 iabbrev perssure pressure
 iabbrev pressrue pressure
 iabbrev presssure pressure
+iabbrev pressurizaiotn pressurization
 iabbrev pretyt pretty
 iabbrev PRevious Previous
 iabbrev dprevious previous
@@ -2960,6 +2980,7 @@ iabbrev proepely properly
 iabbrev properbly properly
 iabbrev propertly properly
 iabbrev properies properties
+iabbrev properites properties
 iabbrev properityes properties
 iabbrev properteis properties
 iabbrev porperty property
@@ -3108,6 +3129,7 @@ iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev remaingin remaining
 iabbrev remainging remaining
+iabbrev remianing remaining
 iabbrev REmote Remote
 iabbrev remtoe remote
 iabbrev REmove Remove
@@ -3520,6 +3542,7 @@ iabbrev somethign something
 iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
 iabbrev Soruce Source
+iabbrev soources sources
 iabbrev soruces sources
 iabbrev SPace Space
 iabbrev Sapce Space
@@ -3622,6 +3645,7 @@ iabbrev strenght strength
 iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev strucutre structure
+iabbrev Studnent Student
 iabbrev studnet student
 iabbrev STuido Studio
 iabbrev Stuido Studio
@@ -3881,6 +3905,7 @@ iabbrev tyerminal terminal
 iabbrev termailns terminals
 iabbrev Temrinate Terminate
 iabbrev temrinate terminate
+iabbrev Tets Test
 iabbrev testgin testing
 iabbrev TExas Texas
 iabbrev texet text
@@ -4254,6 +4279,7 @@ iabbrev virutal virtual
 iabbrev VIsion Vision
 iabbrev Visision Vision
 iabbrev Visison Vision
+iabbrev Visti Visit
 iabbrev viisti visit
 iabbrev visti visit
 iabbrev VIsualization Visualization
