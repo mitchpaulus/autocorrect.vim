@@ -674,6 +674,7 @@ iabbrev coulnmsn columns
 iabbrev combinatino combination
 iabbrev combonations combinations
 iabbrev comibned combined
+iabbrev comew come
 iabbrev comofrt comfort
 iabbrev conformt comfort
 iabbrev comforltable comfortable
@@ -746,6 +747,7 @@ iabbrev compoiler compiler
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compelte complete
+iabbrev compolete complete
 iabbrev comptlet complete
 iabbrev compeleted completed
 iabbrev compelted completed
@@ -769,6 +771,7 @@ iabbrev comptuer computer
 iabbrev concewpt concept
 iabbrev corencen concern
 iabbrev concertns concerns
+iabbrev concewrns concerns
 iabbrev conercns concerns
 iabbrev consise concise
 iabbrev consiseness conciseness
@@ -1336,6 +1339,7 @@ iabbrev EnerygPlus EnergyPlus
 iabbrev energypuls EnergyPlus
 iabbrev EnergtyStar EnergyStar
 iabbrev enigneer engineer
+iabbrev Egineered Engineered
 iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
@@ -1519,6 +1523,7 @@ iabbrev extermely extremely
 iabbrev extrremely extremely
 iabbrev facebook Facebook
 iabbrev FAcility Facility
+iabbrev FAiclity Facility
 iabbrev Facililty Facility
 iabbrev Facilty Facility
 iabbrev faciliity facility
@@ -1634,6 +1639,7 @@ iabbrev fodlers folders
 iabbrev folloow follow
 iabbrev folloiwing following
 iabbrev followign following
+iabbrev follwoign following
 iabbrev follwoing following
 iabbrev folowing following
 iabbrev folowoing following
@@ -1747,6 +1753,7 @@ iabbrev gnerally generally
 iabbrev genreate generate
 iabbrev Generageted Generated
 iabbrev generatretd generated
+iabbrev genreated generated
 iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev gneeration generation
@@ -1844,6 +1851,7 @@ iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hsi his
 iabbrev Histoiran Historian
+iabbrev hsitorain historian
 iabbrev hikstorical historical
 iabbrev histoyr history
 iabbrev hodls holds
@@ -2154,6 +2162,7 @@ iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
 iabbrev lnaguage language
+iabbrev lrage large
 iabbrev alst last
 iabbrev leasd leads
 iabbrev Leakding Leaking
@@ -2181,6 +2190,7 @@ iabbrev lighing lighting
 iabbrev lighitng lighting
 iabbrev lihgting lighting
 iabbrev liek like
+iabbrev likelty likely
 iabbrev likley likely
 iabbrev Lmit Limit
 iabbrev lmit limit
@@ -2229,6 +2239,7 @@ iabbrev loook look
 iabbrev Looiking Looking
 iabbrev lookign looking
 iabbrev Loopo Loop
+iabbrev lwo low
 iabbrev Loower Lower
 iabbrev loower lower
 iabbrev Macrosciptic Macroscopic
@@ -2560,6 +2571,7 @@ iabbrev operaitonla operational
 iabbrev operatialn operational
 iabbrev Operaitons Operations
 iabbrev operaitons operations
+iabbrev Opinioned Opinionated
 iabbrev opportunies opportunities
 iabbrev opportuniteis opportunities
 iabbrev Opprotunity Opportunity
@@ -2569,6 +2581,7 @@ iabbrev oppostie opposite
 iabbrev opitmal optimal
 iabbrev optiomal optimal
 iabbrev OPptimziation Optimization
+iabbrev Optimizaiton Optimization
 iabbrev Optimziaiton Optimization
 iabbrev Optimziation Optimization
 iabbrev optimizaiton optimization
@@ -2822,6 +2835,7 @@ iabbrev possilbiy possibly
 iabbrev possilby possibly
 iabbrev posssilby possibly
 iabbrev potentail potential
+iabbrev potentiail potential
 iabbrev potentila potential
 iabbrev potentla potential
 iabbrev potnetail potential
@@ -3156,6 +3170,7 @@ iabbrev repalcment replacement
 iabbrev replacemetn replacement
 iabbrev replacment replacement
 iabbrev repolacemnt replacement
+iabbrev rfeplacemnet replacement
 iabbrev repalcaemnts replacements
 iabbrev Repoort Report
 iabbrev Reprot Report
@@ -3668,6 +3683,7 @@ iabbrev substiutions substitutions
 iabbrev subtraciton subtraction
 iabbrev succedded succeeded
 iabbrev succesful successful
+iabbrev succsesful successful
 iabbrev successivley successively
 iabbrev usch such
 iabbrev suggesitons suggestions
@@ -4309,6 +4325,7 @@ iabbrev Webiste Website
 iabbrev webdsiyte website
 iabbrev webstie website
 iabbrev WEdnesday Wednesday
+iabbrev Wedenesday Wednesday
 iabbrev Wedensday Wednesday
 iabbrev Wedneasday Wednesday
 iabbrev Wednedady Wednesday
@@ -4355,6 +4372,7 @@ iabbrev wehtehrt whether
 iabbrev wehther whether
 iabbrev whehter whether
 iabbrev whthere whether
+iabbrev whihc which
 iabbrev Whiel While
 iabbrev hwile while
 iabbrev whilee while
