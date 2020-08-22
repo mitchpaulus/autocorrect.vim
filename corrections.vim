@@ -56,6 +56,7 @@ iabbrev addiiton addition
 iabbrev addiotn addition
 iabbrev addtion addition
 iabbrev Addiitonal Additional
+iabbrev Additioanl Additional
 iabbrev addiitonal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
@@ -167,6 +168,7 @@ iabbrev nadn and
 iabbrev nand and
 iabbrev tand and
 iabbrev annula annual
+iabbrev annulal annual
 iabbrev naanual annual
 iabbrev anomolies anomalies
 iabbrev Anbother Another
@@ -646,6 +648,7 @@ iabbrev codiing coding
 iabbrev coefficent coefficient
 iabbrev coeffient coefficient
 iabbrev coefificent coefficient
+iabbrev coefiicent coefficient
 iabbrev coefficiencts coefficients
 iabbrev coefficinets coefficients
 iabbrev coerfficiednts coefficients
@@ -734,6 +737,7 @@ iabbrev compnay company
 iabbrev comapre compare
 iabbrev comapred compared
 iabbrev comparision comparison
+iabbrev comparsion comparison
 iabbrev Comapss Compass
 iabbrev Compas Compass
 iabbrev Coppmpass Compass
@@ -919,6 +923,7 @@ iabbrev COre Core
 iabbrev correcdt correct
 iabbrev correctd correct
 iabbrev correclty correctly
+iabbrev corerlate correlate
 iabbrev correpsnd correspond
 iabbrev correspodn correspond
 iabbrev correspoind correspond
@@ -1185,6 +1190,7 @@ iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev Distriubution Distribution
 iabbrev distriubtion distribution
+iabbrev distrubtion distribution
 iabbrev distriubuter distributor
 iabbrev Distrcit District
 iabbrev distercit district
@@ -1433,6 +1439,7 @@ iabbrev esitmate estimate
 iabbrev estimaate estimate
 iabbrev estiamted estimated
 iabbrev estitamed estimated
+iabbrev sitmated estimated
 iabbrev esitmating estimating
 iabbrev esimtaion estimation
 iabbrev esitimation estimation
@@ -1747,6 +1754,7 @@ iabbrev Genral General
 iabbrev Gneeral General
 iabbrev generla general
 iabbrev genral general
+iabbrev gernal general
 iabbrev gneeral general
 iabbrev gneral general
 iabbrev gnerally generally
@@ -2052,6 +2060,7 @@ iabbrev insturction instruction
 iabbrev Insturcitons Instructions
 iabbrev Insluaiton Insulation
 iabbrev intanible intangible
+iabbrev intergral integral
 iabbrev Integratign Integrating
 iabbrev integraiton integration
 iabbrev intelligcne intelligence
@@ -2162,6 +2171,7 @@ iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
 iabbrev lnaguage language
+iabbrev alrge large
 iabbrev lrage large
 iabbrev alst last
 iabbrev leasd leads
@@ -2198,6 +2208,7 @@ iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev limtis limits
 iabbrev lienar linear
+iabbrev linera linear
 iabbrev LInk Link
 iabbrev liquied liquid
 iabbrev leisted listed
@@ -2435,6 +2446,7 @@ iabbrev moter motor
 iabbrev Moutnain Mountain
 iabbrev movew move
 iabbrev myuch much
+iabbrev multicollinearlity multicollinearity
 iabbrev multiople multiple
 iabbrev multple multiple
 iabbrev multiopleyer multiplier
@@ -2662,6 +2674,7 @@ iabbrev ovewr over
 iabbrev voer over
 iabbrev overaching overarching
 iabbrev overestimat overestimate
+iabbrev overaly overlay
 iabbrev OVerview Overview
 iabbrev onw own
 iabbrev packgae package
@@ -2878,6 +2891,7 @@ iabbrev Prerequistiee Prerequisite
 iabbrev prerequitsite prerequisite
 iabbrev Prerequisitevs Prerequisites
 iabbrev presecne presence
+iabbrev presetn present
 iabbrev presnet present
 iabbrev PResenation Presentation
 iabbrev Presentationg Presentation
@@ -3232,6 +3246,7 @@ iabbrev reuqires requires
 iabbrev reaseach research
 iabbrev reasearch research
 iabbrev researhc research
+iabbrev reserach research
 iabbrev REset Reset
 iabbrev resset reset
 iabbrev residentiali residential
@@ -3637,6 +3652,7 @@ iabbrev staic static
 iabbrev staitc static
 iabbrev stitic static
 iabbrev Staiton Station
+iabbrev statistications statistications
 iabbrev statsistics statistics
 iabbrev Satsu Status
 iabbrev satatus status
@@ -3793,6 +3809,7 @@ iabbrev atemperature temperature
 iabbrev atmpeature temperature
 iabbrev emtperature temperature
 iabbrev taemperatue temperature
+iabbrev tamperabguer temperature
 iabbrev temaperatrure temperature
 iabbrev tempaeratuer temperature
 iabbrev tempaerautre temperature
@@ -4209,6 +4226,7 @@ iabbrev updlaoded uploaded
 iabbrev uplodaed uploaded
 iabbrev UPloading Uploading
 iabbrev updlads uploads
+iabbrev ubran urban
 iabbrev url URL
 iabbrev useage usage
 iabbrev uesd used
