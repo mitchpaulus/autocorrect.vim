@@ -837,6 +837,7 @@ iabbrev coinsumption consumption
 iabbrev constumption consumption
 iabbrev consukmption consumption
 iabbrev consumptiohj consumption
+iabbrev contianed contained
 iabbrev Conntainer Container
 iabbrev contaienr container
 iabbrev contaiuner container
@@ -1003,6 +1004,7 @@ iabbrev datapoints data points
 iabbrev dta data
 iabbrev databasew database
 iabbrev databse database
+iabbrev datbase database
 iabbrev dtaabase database
 iabbrev DAte Date
 iabbrev ddate date
@@ -2170,6 +2172,7 @@ iabbrev Laborayr Laboratory
 iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
+iabbrev langurage language
 iabbrev lnaguage language
 iabbrev alrge large
 iabbrev lrage large
@@ -2250,6 +2253,7 @@ iabbrev loook look
 iabbrev Looiking Looking
 iabbrev lookign looking
 iabbrev Loopo Loop
+iabbrev looop loop
 iabbrev lwo low
 iabbrev Loower Lower
 iabbrev loower lower
@@ -3568,6 +3572,7 @@ iabbrev solutiosn solutions
 iabbrev sove solve
 iabbrev soem some
 iabbrev somehting something
+iabbrev someithign something
 iabbrev somethign something
 iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
@@ -4286,6 +4291,7 @@ iabbrev vareid varied
 iabbrev varietly variety
 iabbrev vaarious various
 iabbrev vaioruds various
+iabbrev varoius various
 iabbrev vehivcle vehicle
 iabbrev ventialtiaon ventilation
 iabbrev Verifiatioon Verification
