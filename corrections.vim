@@ -916,6 +916,7 @@ iabbrev cooloing cooling
 iabbrev cooolign cooling
 iabbrev coooling cooling
 iabbrev Coorinate Coordinate
+iabbrev Coordiantion Coordination
 iabbrev copeid copied
 iabbrev cipy copy
 iabbrev ocpy copy
@@ -2284,6 +2285,7 @@ iabbrev Managnemnt Management
 iabbrev managmeent management
 iabbrev mangaement management
 iabbrev mangagment management
+iabbrev mangaer manager
 iabbrev mangatger manager
 iabbrev managerse managers
 iabbrev manmual manual
@@ -3044,6 +3046,7 @@ iabbrev PUrple Purple
 iabbrev pruposes purposes
 iabbrev PUt Put
 iabbrev Pyton Python
+iabbrev pythnon python
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev quaility quality
@@ -3161,6 +3164,7 @@ iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev remaingin remaining
 iabbrev remainging remaining
+iabbrev remainign remaining
 iabbrev remianing remaining
 iabbrev REmote Remote
 iabbrev remtoe remote
@@ -3432,6 +3436,7 @@ iabbrev snesors sensors
 iabbrev snet sent
 iabbrev seaparate separate
 iabbrev sepaate separate
+iabbrev separatue separate
 iabbrev serpate separate
 iabbrev speaarte separate
 iabbrev seperated separated
@@ -3485,6 +3490,7 @@ iabbrev seteting setting
 iabbrev setintg setting
 iabbrev seetup setup
 iabbrev setps setups
+iabbrev Severla Several
 iabbrev serval several
 iabbrev servearl several
 iabbrev sevearl several
@@ -4158,6 +4164,7 @@ iabbrev typiuckal typical
 iabbrev typeiclaly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
+iabbrev Ubutntu Ubuntu
 iabbrev Ultrasonci Ultrasonic
 iabbrev ultrasonci ultrasonic
 iabbrev unaccoutned unaccounted
