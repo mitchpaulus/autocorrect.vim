@@ -189,6 +189,7 @@ iabbrev appera appear
 iabbrev papear appear
 iabbrev ppear appear
 iabbrev appearancew appearance
+iabbrev aappears appears
 iabbrev apepndix appendix
 iabbrev applicaable applicable
 iabbrev Applicaiotn Application
@@ -413,9 +414,11 @@ iabbrev boudnaries boundaries
 iabbrev boudnary boundary
 iabbrev boudns bounds
 iabbrev Bouqet Bouquet
+iabbrev bxoes boxes
 iabbrev barinstorming brainstorming
 iabbrev brainstoriming brainstorming
 iabbrev Breka Break
+iabbrev breka break
 iabbrev brekadown breakdown
 iabbrev Brikc Brick
 iabbrev briging bringing
@@ -482,6 +485,7 @@ iabbrev butoton button
 iabbrev yb by
 iabbrev cabliing cabling
 iabbrev chacehd cached
+iabbrev cafeteriaa cafeteria
 iabbrev Calcualte Calculate
 iabbrev Calcuate Calculate
 iabbrev calcualte calculate
@@ -761,6 +765,7 @@ iabbrev comptleted completed
 iabbrev compeletlye completely
 iabbrev completetly completely
 iabbrev completey completely
+iabbrev completeyl completely
 iabbrev completley completely
 iabbrev compeletes completes
 iabbrev compelting completing
@@ -1019,6 +1024,7 @@ iabbrev daedband deadband
 iabbrev deadbadn deadband
 iabbrev Decmember December
 iabbrev decidied decided
+iabbrev decommissoin decommission
 iabbrev decreaesed decreased
 iabbrev decreasees decreases
 iabbrev dedicaed dedicated
@@ -1271,6 +1277,7 @@ iabbrev Economzier Economizer
 iabbrev Enonomzier Economizer
 iabbrev econcomier economizer
 iabbrev econmizer economizer
+iabbrev economozeir economizer
 iabbrev economzier economizer
 iabbrev Economziing Economizing
 iabbrev Edision Edison
@@ -1528,6 +1535,7 @@ iabbrev extensibile extensible
 iabbrev exetiror exterior
 iabbrev exterioro exterior
 iabbrev extermanl external
+iabbrev Extermely Extremely
 iabbrev extemrely extremely
 iabbrev extermely extremely
 iabbrev extrremely extremely
@@ -1622,6 +1630,7 @@ iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev finsihing finishing
 iabbrev Firmna Firman
+iabbrev Friman Firman
 iabbrev Frist First
 iabbrev frist first
 iabbrev ifrst first
@@ -2404,6 +2413,7 @@ iabbrev modificatiuons modifications
 iabbrev modificiations modifications
 iabbrev MOdified Modified
 iabbrev modifeid modified
+iabbrev moidify modify
 iabbrev moduel module
 iabbrev modulel module
 iabbrev moduels modules
@@ -2447,6 +2457,7 @@ iabbrev morongin morning
 iabbrev mrongin morning
 iabbrev MOst Most
 iabbrev omst most
+iabbrev MOstly Mostly
 iabbrev Mosty Mostly
 iabbrev moter motor
 iabbrev Moutnain Mountain
@@ -2526,6 +2537,7 @@ iabbrev nomrla normal
 iabbrev normla normal
 iabbrev nomrally normally
 iabbrev normnally normally
+iabbrev norht North
 iabbrev NOt Not
 iabbrev nnot not
 iabbrev nto not
@@ -2618,6 +2630,7 @@ iabbrev otpions options
 iabbrev ro or
 iabbrev organe orange
 iabbrev ordedr order
+iabbrev ordrse orders
 iabbrev ordinacne ordinance
 iabbrev orgainazation organization
 iabbrev orgainzation organization
@@ -3078,6 +3091,7 @@ iabbrev Radaiance Radiance
 iabbrev radiof radio
 iabbrev RAdios Radios
 iabbrev reaise raise
+iabbrev rasied raised
 iabbrev reaised raised
 iabbrev rasing raising
 iabbrev ranodm random
@@ -3103,11 +3117,13 @@ iabbrev reasonlable reasonable
 iabbrev resaonable reasonable
 iabbrev REasonably Reasonably
 iabbrev reasonalbly reasonably
+iabbrev reclaibrated recalibrated
 iabbrev recieve receive
 iabbrev Recieved Received
 iabbrev recevied received
 iabbrev recevived received
 iabbrev recieved received
+iabbrev REcently Recently
 iabbrev recoginition recognition
 iabbrev recogoized recognized
 iabbrev recommenadtions recommendations
@@ -3162,6 +3178,8 @@ iabbrev relavent relevant
 iabbrev releif relief
 iabbrev relocaitons relocations
 iabbrev REly Rely
+iabbrev reamin remain
+iabbrev Reaminging Remaining
 iabbrev remaingin remaining
 iabbrev remainging remaining
 iabbrev remainign remaining
@@ -3281,6 +3299,7 @@ iabbrev responsbile responsible
 iabbrev restartign restarting
 iabbrev restaturant restaurant
 iabbrev restrictuion restriction
+iabbrev restorooms restrooms
 iabbrev resutrooms restrooms
 iabbrev resturcted restructured
 iabbrev restul result
@@ -3473,6 +3492,7 @@ iabbrev septoin setpoint
 iabbrev septoint setpoint
 iabbrev sestpoint setpoint
 iabbrev setipiont setpoint
+iabbrev setpiotn setpoint
 iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
 iabbrev setpoitn setpoint
@@ -4342,6 +4362,7 @@ iabbrev Waitning Waiting
 iabbrev wating waiting
 iabbrev watingin waiting
 iabbrev wiating waiting
+iabbrev wlak walk
 iabbrev walthrough walkthrough
 iabbrev wnat want
 iabbrev wanteed wanted
