@@ -52,6 +52,7 @@ iabbrev actucally actually
 iabbrev actulaly actually
 iabbrev Actuatoar Actuator
 iabbrev Adaptaiton Adaptation
+iabbrev ADd Add
 iabbrev addiiton addition
 iabbrev addiotn addition
 iabbrev addtion addition
@@ -869,6 +870,7 @@ iabbrev Continousous Continuous
 iabbrev Continuouss Continuous
 iabbrev Contionous Continuous
 iabbrev Contracotr Contractor
+iabbrev contracdtor contractor
 iabbrev contractiors contractors
 iabbrev Contriubtued Contributed
 iabbrev contirubted contributed
@@ -893,6 +895,7 @@ iabbrev contreollers controllers
 iabbrev Contorls Controls
 iabbrev Contrls Controls
 iabbrev conrols controls
+iabbrev conrtrols controls
 iabbrev contorels controls
 iabbrev contorls controls
 iabbrev contorrls controls
@@ -1175,6 +1178,7 @@ iabbrev directoyr directory
 iabbrev directry directory
 iabbrev diretory directory
 iabbrev driectory directory
+iabbrev idrectory directory
 iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
 iabbrev idsappeared disappeared
@@ -1236,6 +1240,7 @@ iabbrev documetiona documentation
 iabbrev docuemnted documented
 iabbrev docuementign documenting
 iabbrev documentionat documenting
+iabbrev docuemnts documents
 iabbrev DOg Dog
 iabbrev donig doing
 iabbrev odmain domain
@@ -2075,6 +2080,7 @@ iabbrev intanible intangible
 iabbrev intergral integral
 iabbrev Integratign Integrating
 iabbrev integraiton integration
+iabbrev integrations integrations
 iabbrev intelligcne intelligence
 iabbrev initended intended
 iabbrev itnerest interest
@@ -2740,6 +2746,7 @@ iabbrev partyy party
 iabbrev apssed passed
 iabbrev pasate paste
 iabbrev passted pasted
+iabbrev patten pattern
 iabbrev penatlty penalty
 iabbrev penatly penalty
 iabbrev peiople people
@@ -3132,6 +3139,7 @@ iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
 iabbrev recoreded recorded
 iabbrev reocrded recorded
+iabbrev reocreds records
 iabbrev REdoing Redoing
 iabbrev reducition reduction
 iabbrev reduciton reduction
@@ -4368,6 +4376,7 @@ iabbrev watingin waiting
 iabbrev wiating waiting
 iabbrev wlak walk
 iabbrev walthrough walkthrough
+iabbrev watn want
 iabbrev wnat want
 iabbrev wanteed wanted
 iabbrev wnated wanted
