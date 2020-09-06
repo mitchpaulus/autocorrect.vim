@@ -2247,6 +2247,7 @@ iabbrev lcoation location
 iabbrev locaiotn location
 iabbrev locaitno location
 iabbrev locaiton location
+iabbrev lociaitn location
 iabbrev lociation location
 iabbrev loction location
 iabbrev lcoaitons locations
@@ -3374,6 +3375,7 @@ iabbrev svaings savings
 iabbrev asy say
 iabbrev syas says
 iabbrev scenarious scenarios
+iabbrev scences scenes
 iabbrev Scheudle Schedule
 iabbrev Scheudule Schedule
 iabbrev Schewdule Schedule
@@ -4285,6 +4287,8 @@ iabbrev utilitze utilize
 iabbrev utilzied utilized
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
+iabbrev validaiotn validation
+iabbrev validaiton validation
 iabbrev VAlidator Validator
 iabbrev Validatort Validator
 iabbrev valubale valuable
@@ -4424,6 +4428,7 @@ iabbrev wehtehrt whether
 iabbrev wehther whether
 iabbrev whehter whether
 iabbrev whthere whether
+iabbrev whcih which
 iabbrev whihc which
 iabbrev Whiel While
 iabbrev hwile while
