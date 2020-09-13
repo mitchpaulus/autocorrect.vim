@@ -1390,6 +1390,7 @@ iabbrev entrace entrance
 iabbrev entires entries
 iabbrev entorpy entropy
 iabbrev enttry entry
+iabbrev entyr entry
 iabbrev enuemerable enumerable
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
@@ -2566,6 +2567,7 @@ iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
 iabbrev Ojbect Object
+iabbrev obselete obsolete
 iabbrev obviusly obviously
 iabbrev occpuancy occupancy
 iabbrev occpunacy occupancy
