@@ -646,6 +646,7 @@ iabbrev lcosed closed
 iabbrev xlosed closed
 iabbrev CLoseout Closeout
 iabbrev Clsoing Closing
+iabbrev lcosing closing
 iabbrev clous cloud
 iabbrev Cosatdown Coastdown
 iabbrev ocde code
@@ -668,6 +669,7 @@ iabbrev colleciotns collection
 iabbrev colleciton collection
 iabbrev Coollege College
 iabbrev oclor color
+iabbrev COlorado Colorado
 iabbrev COlumn Column
 iabbrev columnm column
 iabbrev comlum column
@@ -736,6 +738,7 @@ iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev communciates communicates
 iabbrev communcaiton communication
+iabbrev communicaiotn communication
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
 iabbrev compnay company
@@ -1368,6 +1371,7 @@ iabbrev enought enough
 iabbrev enrollement enrollment
 iabbrev entials entails
 iabbrev ENtech Entech
+iabbrev ENtehc Entech
 iabbrev Entch Entech
 iabbrev eneter enter
 iabbrev enteer enter
@@ -1578,6 +1582,7 @@ iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
 iabbrev FIdelity Fidelity
+iabbrev FIdielity Fidelity
 iabbrev FIdleity Fidelity
 iabbrev Fideelity Fidelity
 iabbrev Fideliuty Fidelity
@@ -1923,6 +1928,7 @@ iabbrev implemnet implement
 iabbrev implment implement
 iabbrev Impelmentation Implementation
 iabbrev Implemntation Implementation
+iabbrev Implmeentation Implementation
 iabbrev impelmentaiotn implementation
 iabbrev impelmentation implementation
 iabbrev implemeantion implementation
@@ -2003,6 +2009,7 @@ iabbrev Inofrmaiton Information
 iabbrev Inofrmaton Information
 iabbrev ifnormation information
 iabbrev infmraiont information
+iabbrev infoirmaiotn information
 iabbrev infolmraotn information
 iabbrev infomariotn information
 iabbrev infomraiotn information
@@ -2102,6 +2109,8 @@ iabbrev itnerla internal
 iabbrev interanlly internally
 iabbrev Internaitional International
 iabbrev Internaitonal International
+iabbrev inteernet internet
+iabbrev intenet internet
 iabbrev interpoleated interpolated
 iabbrev interpoation interpolation
 iabbrev interupptions interruptions
@@ -2445,6 +2454,7 @@ iabbrev monitioring monitoring
 iabbrev monitoringn monitoring
 iabbrev monitroing monitoring
 iabbrev montioning monitoring
+iabbrev montioring monitoring
 iabbrev montioroing monitoring
 iabbrev montiroing monitoring
 iabbrev montiors monitors
@@ -2526,6 +2536,7 @@ iabbrev neturla neutral
 iabbrev nweer newer
 iabbrev NExant Nexant
 iabbrev Nexasnt Nexant
+iabbrev NExt Next
 iabbrev enxt next
 iabbrev nexdt next
 iabbrev nexzt next
@@ -2589,6 +2600,7 @@ iabbrev ommitted omitted
 iabbrev onr on
 iabbrev ONce Once
 iabbrev OneNtoe OneNote
+iabbrev Ongoiung Ongoing
 iabbrev onging ongoing
 iabbrev ongonig ongoing
 iabbrev onlnie online
@@ -2776,6 +2788,7 @@ iabbrev personla personal
 iabbrev pwersonal personal
 iabbrev PHase Phase
 iabbrev PHawse Phase
+iabbrev Pahse Phase
 iabbrev pahse phase
 iabbrev pahases phases
 iabbrev philospohy philosophy
@@ -3080,6 +3093,7 @@ iabbrev qualiyt quality
 iabbrev quialyt quality
 iabbrev Quantificaitons Quantifications
 iabbrev qunaittites quantities
+iabbrev quartelry quarterly
 iabbrev Qeustionaaire Questionnaire
 iabbrev quesitionarrir questionnaire
 iabbrev questionaire questionnaire
@@ -3252,6 +3266,7 @@ iabbrev reoports reports
 iabbrev reporst reports
 iabbrev reprots reports
 iabbrev rpeorts reports
+iabbrev rperots reports
 iabbrev rports reports
 iabbrev repostiroes repositories
 iabbrev reporsitoyr repository
