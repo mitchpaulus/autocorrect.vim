@@ -54,6 +54,7 @@ iabbrev Actuatoar Actuator
 iabbrev Adaptaiton Adaptation
 iabbrev ADd Add
 iabbrev addiiton addition
+iabbrev addion addition
 iabbrev addiotn addition
 iabbrev addtion addition
 iabbrev Addiitonal Additional
@@ -247,6 +248,7 @@ iabbrev aqre are
 iabbrev aree are
 iabbrev ARae Area
 iabbrev raea area
+iabbrev araes areas
 iabbrev argumentets arguments
 iabbrev Arthimetic Arithmetic
 iabbrev aorund around
@@ -300,6 +302,7 @@ iabbrev attemping attempting
 iabbrev Attendence Attendance
 iabbrev attaic attic
 iabbrev attritbue attribute
+iabbrev attriburtes attributes
 iabbrev Auguest August
 iabbrev autehnticadtion authentication
 iabbrev authenticaiton authentication
@@ -396,6 +399,7 @@ iabbrev billtion billion
 iabbrev bils bills
 iabbrev bindgin binding
 iabbrev binndings bindings
+iabbrev Blakcout Blackout
 iabbrev balnk blank
 iabbrev blendde blended
 iabbrev bleneded blended
@@ -642,6 +646,7 @@ iabbrev lcinet client
 iabbrev clint Clint
 iabbrev clipbvoard clipboard
 iabbrev cloen clone
+iabbrev clsoed closed
 iabbrev lcosed closed
 iabbrev xlosed closed
 iabbrev CLoseout Closeout
@@ -659,6 +664,7 @@ iabbrev coefficiencts coefficients
 iabbrev coefficinets coefficients
 iabbrev coerfficiednts coefficients
 iabbrev COil Coil
+iabbrev ciol coil
 iabbrev coli coil
 iabbrev ocil coil
 iabbrev Collaboraiton Collaboration
@@ -836,6 +842,7 @@ iabbrev consistign consisting
 iabbrev consistns consists
 iabbrev Constatn Constant
 iabbrev Contstant Constant
+iabbrev Cosntant Constant
 iabbrev constatn constant
 iabbrev constnat constant
 iabbrev ocnsatnt constant
@@ -881,6 +888,7 @@ iabbrev contriubuting contributing
 iabbrev contributrion contribution
 iabbrev contirbutors contributors
 iabbrev Cointrol Control
+iabbrev Contyrol Control
 iabbrev Cotnrl Control
 iabbrev Cotnrol Control
 iabbrev contorl control
@@ -979,6 +987,7 @@ iabbrev ciritical critical
 iabbrev critcial critical
 iabbrev criticial critical
 iabbrev crtricial critical
+iabbrev ctirical critical
 iabbrev curerent current
 iabbrev currrent current
 iabbrev currtent current
@@ -1866,6 +1875,7 @@ iabbrev ehating heating
 iabbrev heaing heating
 iabbrev heaint heating
 iabbrev heaitng heating
+iabbrev Hlep Help
 iabbrev hlep help
 iabbrev hleper helper
 iabbrev ehlpful helpful
@@ -1913,6 +1923,7 @@ iabbrev Humidiyt Humidity
 iabbrev hmidty humidity
 iabbrev humdity humidity
 iabbrev humidiyt humidity
+iabbrev humidtiy humidity
 iabbrev humidty humidity
 iabbrev Huniting Hunting
 iabbrev Ina Ian
@@ -1968,6 +1979,7 @@ iabbrev improtant important
 iabbrev improtatn important
 iabbrev importatnly importantly
 iabbrev imporve improve
+iabbrev improeved improved
 iabbrev ina in a
 iabbrev inb in
 iabbrev inthe in the
@@ -2228,6 +2240,7 @@ iabbrev lgighting lighting
 iabbrev lighing lighting
 iabbrev lighitng lighting
 iabbrev lihgting lighting
+iabbrev Liek Like
 iabbrev liek like
 iabbrev likelty likely
 iabbrev likley likely
@@ -2259,6 +2272,8 @@ iabbrev Lcoate Locate
 iabbrev lcoated located
 iabbrev lociated located
 iabbrev locator locater
+iabbrev Locaiton Location
+iabbrev lcoaiton location
 iabbrev lcoation location
 iabbrev locaiotn location
 iabbrev locaitno location
@@ -2281,6 +2296,7 @@ iabbrev Looiking Looking
 iabbrev lookign looking
 iabbrev Loopo Loop
 iabbrev looop loop
+iabbrev olop loop
 iabbrev lwo low
 iabbrev Loower Lower
 iabbrev loower lower
@@ -2862,6 +2878,7 @@ iabbrev protions portions
 iabbrev Positon Position
 iabbrev Postion Position
 iabbrev posistion position
+iabbrev positiong position
 iabbrev positoin position
 iabbrev positon position
 iabbrev postion position
@@ -2960,6 +2977,7 @@ iabbrev pressrue pressure
 iabbrev presssure pressure
 iabbrev pressurizaiotn pressurization
 iabbrev pretyt pretty
+iabbrev prevetn prevent
 iabbrev PRevious Previous
 iabbrev dprevious previous
 iabbrev preiovus previous
@@ -3110,6 +3128,7 @@ iabbrev qauicly quickly
 iabbrev quiclky quickly
 iabbrev quiclyi quickly
 iabbrev quilckly quickly
+iabbrev quoatiaon quotation
 iabbrev quotoient quotient
 iabbrev Radaiance Radiance
 iabbrev radiof radio
@@ -3198,6 +3217,7 @@ iabbrev relationsihp relationship
 iabbrev relationsyhiop relationship
 iabbrev Relationjships Relationships
 iabbrev realitive relative
+iabbrev realtive relative
 iabbrev relateive relative
 iabbrev relavent relevant
 iabbrev releif relief
@@ -3409,9 +3429,11 @@ iabbrev schdule schedule
 iabbrev scheudle schedule
 iabbrev scheduleted scheduled
 iabbrev scheudled scheduled
+iabbrev scueheudled scheduled
 iabbrev Scheudles Schedules
 iabbrev scheudles schedules
 iabbrev scheuudles schedules
+iabbrev shcedules schedules
 iabbrev scheduleing scheduling
 iabbrev schedulign scheduling
 iabbrev scheudling scheduling
@@ -3432,6 +3454,7 @@ iabbrev scsript script
 iabbrev Scirpted Scripted
 iabbrev Scirpts Scripts
 iabbrev scdripts scripts
+iabbrev scirpts scripts
 iabbrev scritps scripts
 iabbrev sripts scripts
 iabbrev searhc search
@@ -3478,6 +3501,7 @@ iabbrev senosrs sensors
 iabbrev sensores sensors
 iabbrev sensosr sensors
 iabbrev sensosrs sensors
+iabbrev seonsors sensors
 iabbrev snesors sensors
 iabbrev snet sent
 iabbrev seaparate separate
@@ -3541,6 +3565,7 @@ iabbrev Severla Several
 iabbrev serval several
 iabbrev servearl several
 iabbrev sevearl several
+iabbrev shlal shall
 iabbrev Sharepoitn Sharepoint
 iabbrev Sharpeoitn SharePoint
 iabbrev sharepoint Sharepoint
@@ -3570,6 +3595,7 @@ iabbrev shuyt shut
 iabbrev shtudowns shutdowns
 iabbrev sdie side
 iabbrev sidse side
+iabbrev singal signal
 iabbrev signficant significant
 iabbrev signifiatn significant
 iabbrev significat significant
@@ -3592,6 +3618,7 @@ iabbrev simulaitons simulations
 iabbrev Simulataneous Simultaneous
 iabbrev siunce since
 iabbrev Sinlge Single
+iabbrev signel single
 iabbrev signle single
 iabbrev singlue single
 iabbrev sinlge single
@@ -3781,6 +3808,7 @@ iabbrev uspply supply
 iabbrev suppling supplying
 iabbrev supprot support
 iabbrev usre sure
+iabbrev surroundign surrounding
 iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
@@ -3858,6 +3886,7 @@ iabbrev Tempeature Temperature
 iabbrev Tempeerature Temperature
 iabbrev Temperatuer Temperature
 iabbrev Temperaturte Temperature
+iabbrev Temperautre Temperature
 iabbrev Temperearture Temperature
 iabbrev Tempererature Temperature
 iabbrev Tmeparrutrer Temperature
@@ -3891,6 +3920,7 @@ iabbrev temperaturea temperature
 iabbrev temperaturei temperature
 iabbrev temperaturne temperature
 iabbrev temperatuter temperature
+iabbrev temperaure temperature
 iabbrev temperauter temperature
 iabbrev temperautetr temperature
 iabbrev temperautre temperature
@@ -3901,6 +3931,7 @@ iabbrev tempertuare temperature
 iabbrev temperture temperature
 iabbrev temperuate temperature
 iabbrev temperuatre temperature
+iabbrev temperure temperature
 iabbrev temperureate temperature
 iabbrev tempetature temperature
 iabbrev tempoerature temperature
@@ -3912,6 +3943,7 @@ iabbrev tepmeartere temperature
 iabbrev tepmerature temperature
 iabbrev tepmrauter temperature
 iabbrev tmepaeruater temperature
+iabbrev tmeparureate temperature
 iabbrev tmepatuera temperature
 iabbrev tmepearture temperature
 iabbrev tmepearute temperature
@@ -4501,6 +4533,7 @@ iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev Wokred Worked
 iabbrev workeds worked
+iabbrev WOkrign Working
 iabbrev WOkring Working
 iabbrev WOkrking Working
 iabbrev WOrkign Working
