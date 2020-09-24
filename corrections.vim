@@ -521,6 +521,7 @@ iabbrev calibrationg calibrating
 iabbrev calbiraiton calibration
 iabbrev calibariotn calibration
 iabbrev calibartion calibration
+iabbrev calibatrion calibration
 iabbrev calibiation calibration
 iabbrev calibraiotn calibration
 iabbrev calibraiton calibration
@@ -1728,6 +1729,7 @@ iabbrev Frdiay Friday
 iabbrev Frdiayf Friday
 iabbrev Fridayf Friday
 iabbrev Fridya Friday
+iabbrev FRom From
 iabbrev frmo from
 iabbrev froam from
 iabbrev fromm from
@@ -1799,6 +1801,7 @@ iabbrev gneerated generated
 iabbrev gneeration generation
 iabbrev geneartor generator
 iabbrev gnerator generator
+iabbrev gneerators generators
 iabbrev geomerty geometry
 iabbrev geometyr geometry
 iabbrev Georger George
@@ -1892,6 +1895,7 @@ iabbrev hihger higher
 iabbrev hgihlighting highlighting
 iabbrev hsi his
 iabbrev Histoiran Historian
+iabbrev historina historian
 iabbrev hsitorain historian
 iabbrev hikstorical historical
 iabbrev histoyr history
@@ -2069,6 +2073,7 @@ iabbrev INput Input
 iabbrev innput input
 iabbrev inpout input
 iabbrev inptu input
+iabbrev inpuyt input
 iabbrev intpu input
 iabbrev intput input
 iabbrev nput input
@@ -2179,6 +2184,7 @@ iabbrev Joihn John
 iabbrev Hohnson Johnson
 iabbrev Juilian Julian
 iabbrev Julain Julian
+iabbrev Juen June
 iabbrev jsut just
 iabbrev ujst just
 iabbrev Ketih Keith
@@ -2323,6 +2329,7 @@ iabbrev makea make a
 iabbrev Maekfile Makefile
 iabbrev Mkaefile Makefile
 iabbrev magnage manage
+iabbrev Managemnet Management
 iabbrev Managnemnt Management
 iabbrev managmeent management
 iabbrev mangaement management
@@ -2407,6 +2414,7 @@ iabbrev midinght midnight
 iabbrev mgiht might
 iabbrev migraiton migration
 iabbrev migraitons migrations
+iabbrev militayr military
 iabbrev milluion million
 iabbrev midn mind
 iabbrev minimual minimal
@@ -2459,6 +2467,7 @@ iabbrev MONday Monday
 iabbrev MOnday Monday
 iabbrev Mondayd Monday
 iabbrev Mondnay Monday
+iabbrev montior monitor
 iabbrev montiro monitor
 iabbrev montiored monitored
 iabbrev MOnitoring Monitoring
@@ -2509,6 +2518,7 @@ iabbrev myslef myself
 iabbrev anem name
 iabbrev anme name
 iabbrev naem name
+iabbrev anmeplate nameplate
 iabbrev naems names
 iabbrev namign naming
 iabbrev Natual Natural
@@ -3001,6 +3011,7 @@ iabbrev pritiorizing prioritizing
 iabbrev Probalby Probably
 iabbrev Probvalby Probably
 iabbrev porbablyb probably
+iabbrev proablyb probably
 iabbrev probaby probably
 iabbrev probalby probably
 iabbrev PRoblem Problem
@@ -3315,6 +3326,7 @@ iabbrev requirmentrs requirements
 iabbrev requrienments requirements
 iabbrev requries requires
 iabbrev reuqires requires
+iabbrev Rescheudled Rescheduled
 iabbrev reaseach research
 iabbrev reasearch research
 iabbrev researhc research
@@ -3863,6 +3875,7 @@ iabbrev taks task
 iabbrev taought taught
 iabbrev teacing teaching
 iabbrev tema team
+iabbrev TEams Teams
 iabbrev Techinical Technical
 iabbrev techinal technical
 iabbrev techincal technical
