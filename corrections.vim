@@ -303,6 +303,7 @@ iabbrev Attendence Attendance
 iabbrev attaic attic
 iabbrev attritbue attribute
 iabbrev attriburtes attributes
+iabbrev atttributes attributes
 iabbrev Auguest August
 iabbrev autehnticadtion authentication
 iabbrev authenticaiton authentication
@@ -1089,6 +1090,7 @@ iabbrev derviate derivative
 iabbrev derviative derivative
 iabbrev deriviatives derivatives
 iabbrev descentdants descendants
+iabbrev Descriptoin Description
 iabbrev Descripton Description
 iabbrev descripti description
 iabbrev descriptio description
@@ -1156,6 +1158,7 @@ iabbrev Deveil Devil
 iabbrev digarm diagram
 iabbrev dailog dialog
 iabbrev Dictiorany Dictionary
+iabbrev dictdionary dictionary
 iabbrev DId Did
 iabbrev Difff Diff
 iabbrev differnce difference
@@ -1182,6 +1185,7 @@ iabbrev directins directions
 iabbrev drictions directions
 iabbrev direclty directly
 iabbrev direcly directly
+iabbrev directdly directly
 iabbrev drieclty directly
 iabbrev driectly directly
 iabbrev direcdtory directory
@@ -1561,6 +1565,7 @@ iabbrev extermely extremely
 iabbrev extrremely extremely
 iabbrev facebook Facebook
 iabbrev FAcility Facility
+iabbrev FAciltiy Facility
 iabbrev FAiclity Facility
 iabbrev Facililty Facility
 iabbrev Facilty Facility
@@ -1742,6 +1747,7 @@ iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
 iabbrev Fucntion Function
+iabbrev fucniton function
 iabbrev fucntion function
 iabbrev funciotn function
 iabbrev funcitno function
@@ -2158,6 +2164,7 @@ iabbrev irreversilbe irreversible
 iabbrev fis is
 iabbrev isoalted isolated
 iabbrev isothermla isothermal
+iabbrev isseu issue
 iabbrev isseus issues
 iabbrev ITem Item
 iabbrev Itme Item
@@ -2208,6 +2215,7 @@ iabbrev lbael label
 iabbrev labeld labeled
 iabbrev lableled labeled
 iabbrev lbaeled labeled
+iabbrev labelign labeling
 iabbrev lableing labeling
 iabbrev lables labels
 iabbrev Laboratoyr Laboratory
@@ -2659,6 +2667,7 @@ iabbrev opitmal optimal
 iabbrev optiomal optimal
 iabbrev OPptimziation Optimization
 iabbrev Optimizaiton Optimization
+iabbrev Optimziainton Optimization
 iabbrev Optimziaiton Optimization
 iabbrev Optimziation Optimization
 iabbrev optimizaiton optimization
@@ -2750,6 +2759,7 @@ iabbrev apge page
 iabbrev pandco pandoc
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
+iabbrev Parmaeter Parameter
 iabbrev apramater parameter
 iabbrev aprameter parameter
 iabbrev paraameter parameter
@@ -3100,6 +3110,7 @@ iabbrev rpove prove
 iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
 iabbrev PUll Pull
+iabbrev Puleld Pulled
 iabbrev Pulliung Pulling
 iabbrev pulliing pulling
 iabbrev pulliung pulling
@@ -3837,6 +3848,7 @@ iabbrev synatx syntax
 iabbrev sysntax syntax
 iabbrev syntehtic synthetic
 iabbrev SYstem System
+iabbrev Sysetm System
 iabbrev Sysmtme System
 iabbrev Systme System
 iabbrev seystem system
@@ -3908,6 +3920,7 @@ iabbrev Tmepreautre Temperature
 iabbrev atemperature temperature
 iabbrev atmpeature temperature
 iabbrev emtperature temperature
+iabbrev etmperature temperature
 iabbrev taemperatue temperature
 iabbrev tamperabguer temperature
 iabbrev temaperatrure temperature
