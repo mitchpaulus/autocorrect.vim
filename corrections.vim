@@ -1556,6 +1556,7 @@ iabbrev expowse expose
 iabbrev exposign exposing
 iabbrev Expressoin Expression
 iabbrev extensibile extensible
+iabbrev extensiosn extensions
 iabbrev exetiror exterior
 iabbrev exterioro exterior
 iabbrev extermanl external
@@ -1784,6 +1785,7 @@ iabbrev rurther further
 iabbrev Futuer Future
 iabbrev furture future
 iabbrev futre future
+iabbrev fuuture future
 iabbrev ufture future
 iabbrev Garge Garage
 iabbrev garaage garage
@@ -2358,6 +2360,7 @@ iabbrev makr mark
 iabbrev markdonw markdown
 iabbrev markders markers
 iabbrev amster master
+iabbrev mataches matches
 iabbrev matcing matching
 iabbrev materla material
 iabbrev mathematica Mathematica
@@ -2597,6 +2600,7 @@ iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
 iabbrev Ntoes Notes
+iabbrev noets notes
 iabbrev notse notes
 iabbrev ntoes notes
 iabbrev nothign nothing
@@ -2963,6 +2967,7 @@ iabbrev Prelimiary Preliminary
 iabbrev permier premier
 iabbrev preimum premium
 iabbrev preoparation preparation
+iabbrev prepration preparation
 iabbrev preprationa preparation
 iabbrev preparting preparing
 iabbrev Prequisite Prerequisite
@@ -3810,6 +3815,7 @@ iabbrev succesful successful
 iabbrev succsesful successful
 iabbrev successivley successively
 iabbrev usch such
+iabbrev suoders sudoers
 iabbrev suggesitons suggestions
 iabbrev sumarized summarized
 iabbrev Sumary Summary
@@ -4506,6 +4512,7 @@ iabbrev Whne When
 iabbrev wehn when
 iabbrev whhen when
 iabbrev whne when
+iabbrev whten when
 iabbrev Wheer Where
 iabbrev whearas whereas
 iabbrev wehtehrt whether
