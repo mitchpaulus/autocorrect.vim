@@ -78,6 +78,7 @@ iabbrev afftecting affecting
 iabbrev AFter After
 iabbrev Afternnon Afternoon
 iabbrev aftenronon afternoon
+iabbrev AGain Again
 iabbrev agian again
 iabbrev aggregatre aggregate
 iabbrev aggreation aggregation
@@ -282,6 +283,7 @@ iabbrev assuemd assumed
 iabbrev assusmed assumed
 iabbrev assuems assumes
 iabbrev Assumign Assuming
+iabbrev assumign assuming
 iabbrev assumjption assumption
 iabbrev assukmptions assumptions
 iabbrev assumptiosn assumptions
@@ -444,6 +446,7 @@ iabbrev Buidling Building
 iabbrev Buildgion Building
 iabbrev Buildic Building
 iabbrev Buildign Building
+iabbrev biulding building
 iabbrev buidign building
 iabbrev buiding building
 iabbrev buidlign building
@@ -634,6 +637,7 @@ iabbrev curcuit circuit
 iabbrev curcuites circuits
 iabbrev circualr circular
 iabbrev Ciit Citi
+iabbrev cliam claim
 iabbrev Clairdge Claridge
 iabbrev Clairdige Claridge
 iabbrev Clardige Claridge
@@ -693,10 +697,12 @@ iabbrev combinatino combination
 iabbrev combonations combinations
 iabbrev comibned combined
 iabbrev comew come
+iabbrev comfrot comfort
 iabbrev comofrt comfort
 iabbrev conformt comfort
 iabbrev comforltable comfortable
 iabbrev comfortbalbe comfortable
+iabbrev comfortbale comfortable
 iabbrev comign coming
 iabbrev Commadn Command
 iabbrev comand command
@@ -784,6 +790,7 @@ iabbrev completley completely
 iabbrev compeletes completes
 iabbrev compelting completing
 iabbrev compeltion completion
+iabbrev comiplicated complicated
 iabbrev complyhing complying
 iabbrev compoennts components
 iabbrev componenets components
@@ -982,6 +989,7 @@ iabbrev cracs CRACs
 iabbrev crnaked cranked
 iabbrev creatd created
 iabbrev creaitng creating
+iabbrev Creaiton Creation
 iabbrev credentails credentials
 iabbrev credites credits
 iabbrev Cresent Crescent
@@ -1128,6 +1136,7 @@ iabbrev detemrine determine
 iabbrev deteriming determine
 iabbrev deterimne determine
 iabbrev determein determine
+iabbrev determien determine
 iabbrev dewtermine determine
 iabbrev Deterimiend Determined
 iabbrev determeined determined
@@ -1433,6 +1442,7 @@ iabbrev equaionts equations
 iabbrev equaiotns equations
 iabbrev equaitons equations
 iabbrev equationas equations
+iabbrev equiaonts equations
 iabbrev equilbrium equilibrium
 iabbrev EQuipment Equipment
 iabbrev Equiapment Equipment
@@ -1486,10 +1496,12 @@ iabbrev estimatoin estimation
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
+iabbrev Evaulating Evaluating
 iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
 iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
+iabbrev evaluuation evaluation
 iabbrev evaulation evaluation
 iabbrev ewven even
 iabbrev eventaul eventual
@@ -1680,6 +1692,7 @@ iabbrev flolw flow
 iabbrev flwo flow
 iabbrev lfow flow
 iabbrev flucuation fluctuation
+iabbrev fulcutuation fluctuation
 iabbrev focsusing focusing
 iabbrev fodler folder
 iabbrev foler folder
@@ -1708,6 +1721,7 @@ iabbrev fomr form
 iabbrev vorm form
 iabbrev fomrat format
 iabbrev foramt format
+iabbrev forrmat format
 iabbrev Fomrs Forms
 iabbrev fomrs forms
 iabbrev forsm forms
@@ -1782,6 +1796,7 @@ iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
 iabbrev fudnamental fundamental
+iabbrev FUndamentals Fundamentals
 iabbrev Furneral Funeral
 iabbrev furhter further
 iabbrev rurther further
@@ -1978,6 +1993,7 @@ iabbrev Implemnter Implementer
 iabbrev Implemtner Implementer
 iabbrev Implmeenter Implementer
 iabbrev Implmeneter Implementer
+iabbrev impleid implied
 iabbrev importantance importance
 iabbrev importantce importance
 iabbrev Importatnt Important
@@ -2147,6 +2163,7 @@ iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
 iabbrev iunto into
+iabbrev introducted introduced
 iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev intution intuition
@@ -2185,6 +2202,7 @@ iabbrev ist its
 iabbrev iteslf itself
 iabbrev itslf itself
 iabbrev Janurayr January
+iabbrev Javascdript JavaScript
 iabbrev Javascript JavaScript
 iabbrev javascript JavaScript
 iabbrev jvavascript JavaScript
@@ -2273,6 +2291,7 @@ iabbrev linera linear
 iabbrev LInk Link
 iabbrev liquied liquid
 iabbrev leisted listed
+iabbrev listerner listener
 iabbrev liests lists
 iabbrev literuate literate
 iabbrev lieterature literature
@@ -2502,6 +2521,7 @@ iabbrev montly monthly
 iabbrev montlyh monthly
 iabbrev montyhly monthly
 iabbrev monthds months
+iabbrev monthfs months
 iabbrev MOre More
 iabbrev mroe more
 iabbrev Mornigin Morning
@@ -2628,6 +2648,7 @@ iabbrev Ocucpied Occupied
 iabbrev Ocupied Occupied
 iabbrev occured occurred
 iabbrev Occurance Occurrence
+iabbrev occurance occurrence
 iabbrev occuring occurring
 iabbrev fo of
 iabbrev oif of
@@ -3205,6 +3226,7 @@ iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
 iabbrev recoreded recorded
 iabbrev reocrded recorded
+iabbrev recoreds records
 iabbrev reocreds records
 iabbrev REdoing Redoing
 iabbrev reducition reduction
@@ -3493,6 +3515,7 @@ iabbrev sripts scripts
 iabbrev searhc search
 iabbrev seraching searching
 iabbrev Seaosn Season
+iabbrev Sebasitan Sebastian
 iabbrev Sebastioan Sebastian
 iabbrev Seocnd Second
 iabbrev Seoncd Second
@@ -3609,6 +3632,7 @@ iabbrev sehll shell
 iabbrev Shrit Shirt
 iabbrev shootouyt shootout
 iabbrev shrot short
+iabbrev shrotened shortened
 iabbrev SHould Should
 iabbrev Shoudl Should
 iabbrev hsould should
@@ -3748,6 +3772,7 @@ iabbrev sqauare square
 iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
+iabbrev stabel stable
 iabbrev stakced stacked
 iabbrev staffign staffing
 iabbrev Standand Standard
@@ -3764,6 +3789,7 @@ iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
 iabbrev Statemments Statements
+iabbrev statments statements
 iabbrev staes states
 iabbrev satatic static
 iabbrev sattic static
@@ -3794,6 +3820,7 @@ iabbrev straem stream
 iabbrev strenght strength
 iabbrev Streches Stretches
 iabbrev striclty strictly
+iabbrev Sring String
 iabbrev strucutre structure
 iabbrev Studnent Student
 iabbrev studnet student
@@ -3948,6 +3975,7 @@ iabbrev tempearutre temperature
 iabbrev tempeature temperature
 iabbrev tempeatuter temperature
 iabbrev temperaature temperature
+iabbrev temperaguert temperature
 iabbrev temperartute temperature
 iabbrev temperarutre temperature
 iabbrev temperateur temperature
@@ -4066,6 +4094,7 @@ iabbrev tyerminal terminal
 iabbrev termailns terminals
 iabbrev Temrinate Terminate
 iabbrev temrinate terminate
+iabbrev termingology terminology
 iabbrev Tets Test
 iabbrev testgin testing
 iabbrev TExas Texas
@@ -4171,6 +4200,7 @@ iabbrev throught through
 iabbrev throuugh through
 iabbrev trhough through
 iabbrev trhought through
+iabbrev throughtou throughout
 iabbrev throughtout throughout
 iabbrev trhoughout throughout
 iabbrev THrusday Thursday
@@ -4252,8 +4282,10 @@ iabbrev tyrends trends
 iabbrev Tervor Trevor
 iabbrev Tridium Tridium
 iabbrev Treid Tried
+iabbrev troubleshotoign troubleshooting
 iabbrev ture true
 iabbrev tyr try
+iabbrev tryign trying
 iabbrev tyring trying
 iabbrev Tuedasy Tuesday
 iabbrev Tuedays Tuesday
@@ -4279,6 +4311,7 @@ iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
 iabbrev typiuckal typical
 iabbrev typeiclaly typically
+iabbrev typicallly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
 iabbrev Ubutntu Ubuntu
@@ -4313,6 +4346,7 @@ iabbrev understandiung understanding
 iabbrev udnertaken undertaken
 iabbrev Underwod Underwood
 iabbrev unexpanded unexpanded
+iabbrev unfamilar unfamiliar
 iabbrev uint unit
 iabbrev unti unit
 iabbrev lunits units
