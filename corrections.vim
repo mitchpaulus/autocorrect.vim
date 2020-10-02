@@ -2773,7 +2773,6 @@ iabbrev Outsdsie Outside
 iabbrev outdsie outside
 iabbrev outsdide outside
 iabbrev outsdie outside
-iabbrev outliers outwears
 iabbrev ovewr over
 iabbrev voer over
 iabbrev overaching overarching
