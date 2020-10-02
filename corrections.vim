@@ -759,6 +759,8 @@ iabbrev Compas Compass
 iabbrev Coppmpass Compass
 iabbrev Compoatibility Compatibility
 iabbrev competiting competing
+iabbrev compilaiton compilation
+iabbrev compliaiton compilation
 iabbrev compiel compile
 iabbrev ocmplield compiled
 iabbrev pcompiled compiled
@@ -1391,6 +1393,7 @@ iabbrev eneter enter
 iabbrev enteer enter
 iabbrev neter enter
 iabbrev enertered entered
+iabbrev eneterd entered
 iabbrev enterd entered
 iabbrev Enetering Entering
 iabbrev enterin entering
@@ -2637,6 +2640,7 @@ iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev onr on
 iabbrev ONce Once
+iabbrev noe one
 iabbrev OneNtoe OneNote
 iabbrev Ongoiung Ongoing
 iabbrev onging ongoing
@@ -3262,6 +3266,7 @@ iabbrev REmove Remove
 iabbrev Removoe Remove
 iabbrev Remvoe Remove
 iabbrev Reomve Remove
+iabbrev Revmoe Remove
 iabbrev remvoe remove
 iabbrev reomve remove
 iabbrev removewd removed
@@ -3707,6 +3712,7 @@ iabbrev specificiation specification
 iabbrev Specificiations Specifications
 iabbrev specificaitons specifications
 iabbrev specificantions specifications
+iabbrev psecified specified
 iabbrev sepcified specified
 iabbrev sepecified specified
 iabbrev specfieid specified
