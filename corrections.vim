@@ -713,6 +713,7 @@ iabbrev commmands commands
 iabbrev COmment Comment
 iabbrev commetn comment
 iabbrev COmments Comments
+iabbrev commetns comments
 iabbrev Commerical Commercial
 iabbrev Commericial Commercial
 iabbrev commerecial commercial
@@ -775,6 +776,7 @@ iabbrev compoiler compiler
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compelte complete
+iabbrev compltee complete
 iabbrev compolete complete
 iabbrev comptlet complete
 iabbrev compeleted completed
@@ -1168,6 +1170,7 @@ iabbrev Deval Devil
 iabbrev Deveil Devil
 iabbrev digarm diagram
 iabbrev dailog dialog
+iabbrev Dicitonary Dictionary
 iabbrev Dictiorany Dictionary
 iabbrev dictdionary dictionary
 iabbrev DId Did
@@ -1513,6 +1516,8 @@ iabbrev everythign everything
 iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exactyl exactly
+iabbrev Exampel Example
+iabbrev Exmaple Example
 iabbrev Exmpale Example
 iabbrev exampel example
 iabbrev exmaple example
@@ -2110,6 +2115,7 @@ iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev insdie inside
+iabbrev inspried inspired
 iabbrev insatll install
 iabbrev installaiton installation
 iabbrev instlalation installation
@@ -2429,6 +2435,7 @@ iabbrev MEeting Meeting
 iabbrev Meeitng Meeting
 iabbrev meetign meeting
 iabbrev meetring meeting
+iabbrev memeory memory
 iabbrev Menotr Mentor
 iabbrev meterological meteorological
 iabbrev memeter meter
@@ -2455,11 +2462,13 @@ iabbrev Mniiimzie Minimize
 iabbrev Minimmum Minimum
 iabbrev mimnimum minimum
 iabbrev minimimum minimum
+iabbrev minmum minimum
 iabbrev Mintue Minute
 iabbrev minnute minute
 iabbrev mintue minute
 iabbrev mintues minutes
 iabbrev msising missing
+iabbrev msitakes mistakes
 iabbrev maixing mixing
 iabbrev minxing mixing
 iabbrev MMBUT MMBTU
@@ -2639,6 +2648,7 @@ iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
 iabbrev Ojbect Object
+iabbrev ojbects objects
 iabbrev obselete obsolete
 iabbrev obviusly obviously
 iabbrev occpuancy occupancy
@@ -2835,6 +2845,7 @@ iabbrev perfomance performance
 iabbrev perforamcne performance
 iabbrev perforamnce performance
 iabbrev performacne performance
+iabbrev preformance performance
 iabbrev performaning performing
 iabbrev periemater perimeter
 iabbrev perimieter perimeter
