@@ -801,6 +801,7 @@ iabbrev comrpession compression
 iabbrev comptuer compute
 iabbrev comptuer computer
 iabbrev concewpt concept
+iabbrev ocncept concept
 iabbrev corencen concern
 iabbrev concertns concerns
 iabbrev concewrns concerns
@@ -870,6 +871,7 @@ iabbrev contianed contained
 iabbrev Conntainer Container
 iabbrev contaienr container
 iabbrev contaiuner container
+iabbrev conteinr container
 iabbrev conteirner container
 iabbrev contianer container
 iabbrev continaer container
@@ -1146,6 +1148,7 @@ iabbrev detemrines determines
 iabbrev deteriming determining
 iabbrev deterining determining
 iabbrev determineing determining
+iabbrev determinign determining
 iabbrev determiniing determining
 iabbrev dtermining determining
 iabbrev devleop develop
@@ -2333,6 +2336,7 @@ iabbrev Lockotu Lockout
 iabbrev lgo log
 iabbrev loigc logic
 iabbrev logisitcs logistics
+iabbrev lgos logs
 iabbrev slong long
 iabbrev logner longer
 iabbrev loook look
@@ -2892,6 +2896,7 @@ iabbrev pland plan
 iabbrev plna plan
 iabbrev Plannin8g Planning
 iabbrev plannign planning
+iabbrev palns plans
 iabbrev Palnt Plant
 iabbrev palnt plant
 iabbrev platn plant
