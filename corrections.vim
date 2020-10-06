@@ -96,6 +96,7 @@ iabbrev ariflow airflow
 iabbrev Airprot Airport
 iabbrev Almao Alamo
 iabbrev Alamr Alarm
+iabbrev alamr alarm
 iabbrev alram alarm
 iabbrev alrams alarms
 iabbrev Albequeque Albuquerque
