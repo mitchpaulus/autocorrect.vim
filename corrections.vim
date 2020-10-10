@@ -349,6 +349,7 @@ iabbrev backgorund background
 iabbrev backgruond background
 iabbrev backupa backup
 iabbrev bakcup backup
+iabbrev bakcups backups
 iabbrev abackwards backwards
 iabbrev backwareds backwards
 iabbrev balanace balance
@@ -482,6 +483,7 @@ iabbrev buiolgings buildings
 iabbrev buldigns buildings
 iabbrev buldings buildings
 iabbrev bulidigns buildings
+iabbrev bulidings buildings
 iabbrev bvuidlgnis buildings
 iabbrev ubildings buildings
 iabbrev builb bulb
@@ -552,6 +554,8 @@ iabbrev capaciyt capacity
 iabbrev capicaity capacity
 iabbrev capicity capacity
 iabbrev cappactiy capacity
+iabbrev capations captions
+iabbrev cpations captions
 iabbrev caputre capture
 iabbrev carsd cards
 iabbrev cartesina Cartesian
@@ -567,6 +571,7 @@ iabbrev cetner center
 iabbrev cewnter center
 iabbrev cewtner center
 iabbrev cneter center
+iabbrev cewntered centered
 iabbrev Centrla Central
 iabbrev Cnetral Central
 iabbrev centrla central
@@ -1335,6 +1340,7 @@ iabbrev efforst efforts
 iabbrev Eikegra Eikagra
 iabbrev weitther either
 iabbrev Eelctric Electric
+iabbrev Eelectric Electric
 iabbrev electrici electric
 iabbrev Eelctrical Electrical
 iabbrev Eelectiral Electrical
@@ -1754,6 +1760,7 @@ iabbrev frmaework framework
 iabbrev Francsios Francisco
 iabbrev Frnak Frank
 iabbrev frequenty frequently
+iabbrev FIrday Friday
 iabbrev FRiday Friday
 iabbrev Firday Friday
 iabbrev Frday Friday
@@ -1770,6 +1777,7 @@ iabbrev fornt front
 iabbrev frnt front
 iabbrev frontedn frontend
 iabbrev ftp FTP
+iabbrev FUel Fuel
 iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
@@ -2178,6 +2186,7 @@ iabbrev Intorductino Introduction
 iabbrev Introduciton Introduction
 iabbrev intution intuition
 iabbrev invserse inverse
+iabbrev inversly inversely
 iabbrev INvestigate Investigate
 iabbrev investigae investigate
 iabbrev investigaet investigate
@@ -2241,6 +2250,7 @@ iabbrev knoiwldege knowledge
 iabbrev knowledgable knowledgeable
 iabbrev knonw known
 iabbrev knwon known
+iabbrev Keyle Kyle
 iabbrev Kyel Kyle
 iabbrev albvel label
 iabbrev lable label
@@ -2280,6 +2290,7 @@ iabbrev Libarrya Library
 iabbrev Librayr Library
 iabbrev libary library
 iabbrev librayr library
+iabbrev Lighyt Light
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
 iabbrev lghting lighting
@@ -2375,6 +2386,7 @@ iabbrev magnage manage
 iabbrev Managemnet Management
 iabbrev Managnemnt Management
 iabbrev managmeent management
+iabbrev managmenet management
 iabbrev mangaement management
 iabbrev mangagment management
 iabbrev mangaer manager
@@ -2389,6 +2401,7 @@ iabbrev mappign mapping
 iabbrev mapas maps
 iabbrev Marhc March
 iabbrev Marhd March
+iabbrev amrk mark
 iabbrev makr mark
 iabbrev markdonw markdown
 iabbrev markders markers
@@ -3807,6 +3820,7 @@ iabbrev statment statement
 iabbrev Statemments Statements
 iabbrev statments statements
 iabbrev staes states
+iabbrev STatic Static
 iabbrev satatic static
 iabbrev sattic static
 iabbrev staic static
@@ -3946,6 +3960,7 @@ iabbrev TEams Teams
 iabbrev Techinical Technical
 iabbrev techinal technical
 iabbrev techincal technical
+iabbrev techinckal technical
 iabbrev techinial technical
 iabbrev techinical technical
 iabbrev techniquers techniques
@@ -4156,6 +4171,7 @@ iabbrev theorteical theoretical
 iabbrev THere There
 iabbrev Therte There
 iabbrev Threre There
+iabbrev htere there
 iabbrev theere there
 iabbrev theerre there
 iabbrev threr there
