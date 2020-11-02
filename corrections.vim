@@ -404,6 +404,7 @@ iabbrev billtion billion
 iabbrev bils bills
 iabbrev bindgin binding
 iabbrev binndings bindings
+iabbrev birthdya birthday
 iabbrev Blakcout Blackout
 iabbrev balnk blank
 iabbrev blendde blended
@@ -834,6 +835,7 @@ iabbrev conductinve conductive
 iabbrev cvonference conference
 iabbrev converecnes conferences
 iabbrev condifience confidence
+iabbrev configt config
 iabbrev Configuraiton Configuration
 iabbrev coinfiguraiton configuration
 iabbrev confifguraiton configuration
@@ -1211,6 +1213,7 @@ iabbrev direcly directly
 iabbrev directdly directly
 iabbrev drieclty directly
 iabbrev driectly directly
+iabbrev directoriues directories
 iabbrev direcdtory directory
 iabbrev direcotry directory
 iabbrev directoy directory
@@ -1438,6 +1441,7 @@ iabbrev enuemerable enumerable
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
 iabbrev enviroment environment
+iabbrev environement environment
 iabbrev environemnt environment
 iabbrev enviromental environmental
 iabbrev environemntes environments
@@ -3113,6 +3117,7 @@ iabbrev profeil profile
 iabbrev profjiels profiles
 iabbrev PRogram Program
 iabbrev porgram program
+iabbrev prgoram program
 iabbrev progmra program
 iabbrev progrma program
 iabbrev progrsm program
@@ -3120,6 +3125,7 @@ iabbrev projgram program
 iabbrev prommed programmed
 iabbrev programmihng programming
 iabbrev progrmas programs
+iabbrev Progess Progress
 iabbrev proejgress progress
 iabbrev progess progress
 iabbrev PRoject Project
@@ -3462,6 +3468,7 @@ iabbrev Reichard Richard
 iabbrev Ricahrd Richard
 iabbrev rightt right
 iabbrev riese rise
+iabbrev Roadd Road
 iabbrev robuts robust
 iabbrev rooom room
 iabbrev roattion rotation
@@ -4282,6 +4289,7 @@ iabbrev totlas totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
 iabbrev tradiation tradition
+iabbrev trialing trailing
 iabbrev Traingin Training
 iabbrev Trainign Training
 iabbrev Trinaing Training
