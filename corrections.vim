@@ -1183,6 +1183,7 @@ iabbrev digarm diagram
 iabbrev dailog dialog
 iabbrev Dicitonary Dictionary
 iabbrev Dictiorany Dictionary
+iabbrev dicitonary dictionary
 iabbrev dictdionary dictionary
 iabbrev DId Did
 iabbrev Difff Diff
@@ -1328,6 +1329,7 @@ iabbrev econmizer economizer
 iabbrev economozeir economizer
 iabbrev economzier economizer
 iabbrev Economziing Economizing
+iabbrev Ediosn Edison
 iabbrev Edision Edison
 iabbrev Ediston Edison
 iabbrev Eidson Edison
@@ -1952,6 +1954,7 @@ iabbrev HOliday Holiday
 iabbrev Holdity Holiday
 iabbrev holdiay holiday
 iabbrev HOliddays Holidays
+iabbrev hoem home
 iabbrev horizonatal horizontal
 iabbrev Hoorry Horry
 iabbrev horespower horsepower
@@ -2107,6 +2110,7 @@ iabbrev Inherrently Inherently
 iabbrev INitial Initial
 iabbrev Initiial Initial
 iabbrev inital initial
+iabbrev intiail initial
 iabbrev intial initial
 iabbrev intiial initial
 iabbrev nitial initial
@@ -2244,6 +2248,7 @@ iabbrev Ketih Keith
 iabbrev Kettucky Kentucky
 iabbrev kernal kernel
 iabbrev KEvin Kevin
+iabbrev Kewvin Kevin
 iabbrev dkey key
 iabbrev keystorkes keystrokes
 iabbrev Kimal Kimla
@@ -2408,6 +2413,7 @@ iabbrev Marhd March
 iabbrev amrk mark
 iabbrev makr mark
 iabbrev markdonw markdown
+iabbrev marekd marked
 iabbrev markders markers
 iabbrev amster master
 iabbrev mataches matches
@@ -3658,6 +3664,7 @@ iabbrev serval several
 iabbrev servearl several
 iabbrev sevearl several
 iabbrev shlal shall
+iabbrev SharePonint SharePoint
 iabbrev Sharepoitn Sharepoint
 iabbrev Sharpeoitn SharePoint
 iabbrev sharepoint Sharepoint
@@ -3911,6 +3918,7 @@ iabbrev surroundign surrounding
 iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
 iabbrev surroudnings surroundings
+iabbrev survery survey
 iabbrev surveryed surveyed
 iabbrev suscepible susceptible
 iabbrev Swithc Switch
