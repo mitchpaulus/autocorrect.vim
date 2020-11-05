@@ -30,6 +30,7 @@ iabbrev accoreidnly accordingly
 iabbrev accoutn account
 iabbrev acocutn account
 iabbrev accoutned accounted
+iabbrev accuracte accurate
 iabbrev acheived achieved
 iabbrev acknowledgement acknowledgment
 iabbrev acroyms acronyms
@@ -392,6 +393,7 @@ iabbrev behaviior behavior
 iabbrev behvaior behavior
 iabbrev behing behind
 iabbrev beign being
+iabbrev bewing being
 iabbrev belive believe
 iabbrev besdies besides
 iabbrev bset best
@@ -1296,6 +1298,7 @@ iabbrev downlaod download
 iabbrev DOwnlaoded Downloaded
 iabbrev dowloaded downloaded
 iabbrev dowenloads downloads
+iabbrev downstrream downstream
 iabbrev Downtonw Downtown
 iabbrev downotown downtown
 iabbrev downtonn downtown
@@ -1547,6 +1550,7 @@ iabbrev exceptionatlly exceptionally
 iabbrev excpetions exceptions
 iabbrev exhanger exchange
 iabbrev exhcange exchange
+iabbrev exchagner exchanger
 iabbrev exectuable executable
 iabbrev execture execute
 iabbrev exectued executed
@@ -1605,6 +1609,7 @@ iabbrev FAcility Facility
 iabbrev FAciltiy Facility
 iabbrev FAiclity Facility
 iabbrev Facililty Facility
+iabbrev Facillity Facility
 iabbrev Facilty Facility
 iabbrev faciliity facility
 iabbrev facillity facility
@@ -2330,6 +2335,7 @@ iabbrev Laod Load
 iabbrev laod load
 iabbrev lodaed loaded
 iabbrev laods loads
+iabbrev Lobyb Lobby
 iabbrev lboby lobby
 iabbrev lobbby lobby
 iabbrev Lcoal Local
@@ -2456,6 +2462,7 @@ iabbrev mechancila mechanical
 iabbrev mechanicl mechanical
 iabbrev mechanicla mechanical
 iabbrev mechnaicla mechanical
+iabbrev Meida Media
 iabbrev medai media
 iabbrev meida media
 iabbrev meadian median
@@ -3343,6 +3350,7 @@ iabbrev repitive repetitive
 iabbrev Repalce Replace
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
+iabbrev REplacemnt Replacement
 iabbrev Replacemnet Replacement
 iabbrev repalcement replacement
 iabbrev repalcemnt replacement
@@ -3388,6 +3396,7 @@ iabbrev reporsitoyr repository
 iabbrev repositoyr repository
 iabbrev reposotiyr repository
 iabbrev repostiory repository
+iabbrev repostitoyr repository
 iabbrev representaion representation
 iabbrev represesnts represents
 iabbrev reproducable reproducible
@@ -3536,6 +3545,7 @@ iabbrev schedulign scheduling
 iabbrev scheudling scheduling
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
+iabbrev Schenider Schneider
 iabbrev socope scope
 iabbrev socpe scope
 iabbrev scroe score
@@ -3611,6 +3621,7 @@ iabbrev seperated separated
 iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
 iabbrev seequence sequence
+iabbrev sequencew sequence
 iabbrev sequqence sequence
 iabbrev sqequence sequence
 iabbrev Sequencse Sequences
@@ -3646,6 +3657,7 @@ iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
 iabbrev setpoitn setpoint
 iabbrev setpoiunt setpoint
+iabbrev stepoint setpoint
 iabbrev Setpoitns Setpoints
 iabbrev septoins setpoints
 iabbrev septoints setpoints
@@ -3664,6 +3676,7 @@ iabbrev serval several
 iabbrev servearl several
 iabbrev sevearl several
 iabbrev shlal shall
+iabbrev hsare share
 iabbrev SharePonint SharePoint
 iabbrev Sharepoitn Sharepoint
 iabbrev Sharpeoitn SharePoint
@@ -3877,6 +3890,7 @@ iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
+iabbrev submittall submittal
 iabbrev submittals submittals
 iabbrev subimitteed submitted
 iabbrev submiting submitting
@@ -4279,6 +4293,7 @@ iabbrev togehter together
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev TOld Told
+iabbrev TOll Toll
 iabbrev Tooll Toll
 iabbrev tomroorw tomorrow
 iabbrev TOok Took
@@ -4395,6 +4410,7 @@ iabbrev udnertaken undertaken
 iabbrev Underwod Underwood
 iabbrev unexpanded unexpanded
 iabbrev unfamilar unfamiliar
+iabbrev uhnti unit
 iabbrev uint unit
 iabbrev unti unit
 iabbrev lunits units
@@ -4519,6 +4535,7 @@ iabbrev verseion version
 iabbrev versino version
 iabbrev vresion version
 iabbrev veriseons versions
+iabbrev versixons versions
 iabbrev veritcally vertically
 iabbrev vewry very
 iabbrev iva via
