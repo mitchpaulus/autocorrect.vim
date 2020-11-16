@@ -86,6 +86,7 @@ iabbrev aggreation aggregation
 iabbrev aggregatiuon aggregation
 iabbrev aggregatrion aggregation
 iabbrev aggregration aggregation
+iabbrev aggreement agreement
 iabbrev ahaed ahead
 iabbrev Ari Air
 iabbrev ahir air
@@ -179,6 +180,7 @@ iabbrev anomolies anomalies
 iabbrev Anbother Another
 iabbrev annother another
 iabbrev antoher another
+iabbrev ANthony Anthony
 iabbrev Anthohny Anthony
 iabbrev Anythony Anthony
 iabbrev Antoionio Antonio
@@ -250,6 +252,7 @@ iabbrev aer are
 iabbrev aqre are
 iabbrev aree are
 iabbrev ARae Area
+iabbrev ARea Area
 iabbrev raea area
 iabbrev araes areas
 iabbrev argumentets arguments
@@ -523,6 +526,7 @@ iabbrev calcualtoar calculator
 iabbrev calcualtor calculator
 iabbrev calculatior calculator
 iabbrev caluclator calculator
+iabbrev claculator calculator
 iabbrev Calander Calendar
 iabbrev Calcibrated Calibrated
 iabbrev calicbrated calibrated
@@ -543,6 +547,7 @@ iabbrev cliabration calibration
 iabbrev clibration calibration
 iabbrev Clal Call
 iabbrev clal call
+iabbrev caem came
 iabbrev cmae came
 iabbrev camerag camera
 iabbrev canbe can be
@@ -843,6 +848,7 @@ iabbrev coinfiguraiton configuration
 iabbrev confifguraiton configuration
 iabbrev configuation configuration
 iabbrev configuraiton configuration
+iabbrev configurtation configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
 iabbrev confirmaiton confirmation
@@ -1233,6 +1239,7 @@ iabbrev Discharege Discharge
 iabbrev Disclousere Disclosure
 iabbrev disclousre disclosure
 iabbrev dscovery discovery
+iabbrev discrepencies discrepancies
 iabbrev discussiung discussing
 iabbrev Discusion Discussion
 iabbrev Discusision Discussion
@@ -1249,6 +1256,7 @@ iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev Distriubution Distribution
 iabbrev distriubtion distribution
+iabbrev distriubtuion distribution
 iabbrev distrubtion distribution
 iabbrev distriubuter distributor
 iabbrev Distrcit District
@@ -1471,6 +1479,7 @@ iabbrev Equiapment Equipment
 iabbrev Equipement Equipment
 iabbrev Equipemnt Equipment
 iabbrev Equipmetn Equipment
+iabbrev Equpiment Equipment
 iabbrev eqiupment equipment
 iabbrev equiepment equipment
 iabbrev equipaemtn equipment
@@ -1581,6 +1590,7 @@ iabbrev expereince experience
 iabbrev experimentla experimental
 iabbrev expertice expertise
 iabbrev Explaingin Explaining
+iabbrev explaingin explaining
 iabbrev explainign explaining
 iabbrev Explations Explanations
 iabbrev expliclit explicit
@@ -1820,6 +1830,7 @@ iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
 iabbrev Fucnttions Functions
 iabbrev fucntions functions
+iabbrev fucntiosn functions
 iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
@@ -1952,6 +1963,7 @@ iabbrev Histoiran Historian
 iabbrev historina historian
 iabbrev hsitorain historian
 iabbrev hikstorical historical
+iabbrev HIstorically Historically
 iabbrev histoyr history
 iabbrev hodls holds
 iabbrev HOldiay Holiday
@@ -2056,6 +2068,7 @@ iabbrev incorectly incorrectly
 iabbrev incorrecdlty incorrectly
 iabbrev incorreclty incorrectly
 iabbrev increasees increases
+iabbrev increaseing increasing
 iabbrev incrteasing increasing
 iabbrev indedependt independent
 iabbrev indentpent independent
@@ -2679,6 +2692,7 @@ iabbrev Novemenber November
 iabbrev Novermber November
 iabbrev nozle nozzle
 iabbrev nubmer number
+iabbrev nunmber number
 iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
@@ -2706,6 +2720,7 @@ iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev onr on
 iabbrev ONce Once
+iabbrev ONe One
 iabbrev noe one
 iabbrev OneNtoe OneNote
 iabbrev Ongoiung Ongoing
@@ -2744,6 +2759,7 @@ iabbrev Optimizaiton Optimization
 iabbrev Optimziainton Optimization
 iabbrev Optimziaiton Optimization
 iabbrev Optimziation Optimization
+iabbrev Optiomization Optimization
 iabbrev optimizaiton optimization
 iabbrev optimziaiotn optimization
 iabbrev optimziaiton optimization
@@ -2888,6 +2904,7 @@ iabbrev peroid period
 iabbrev preiod period
 iabbrev permannet permanent
 iabbrev Premissions Permissions
+iabbrev perimssisisons permissions
 iabbrev permissioniongs permissions
 iabbrev permissioniosn permissions
 iabbrev permissionnis permissions
@@ -3278,6 +3295,7 @@ iabbrev recoreds records
 iabbrev reocreds records
 iabbrev REdoing Redoing
 iabbrev reducition reduction
+iabbrev reducitno reduction
 iabbrev reduciton reduction
 iabbrev Refacotr Refactor
 iabbrev refacotr refactor
@@ -3400,6 +3418,7 @@ iabbrev repostitoyr repository
 iabbrev representaion representation
 iabbrev represesnts represents
 iabbrev reproducable reproducible
+iabbrev requrest request
 iabbrev requrested requested
 iabbrev requiere require
 iabbrev requrie require
@@ -3537,6 +3556,7 @@ iabbrev scheduleted scheduled
 iabbrev scheudled scheduled
 iabbrev scueheudled scheduled
 iabbrev Scheudles Schedules
+iabbrev scheduels schedules
 iabbrev scheudles schedules
 iabbrev scheuudles schedules
 iabbrev shcedules schedules
@@ -3577,6 +3597,7 @@ iabbrev Secondayr Secondary
 iabbrev secondayr secondary
 iabbrev secdtion section
 iabbrev seciotn section
+iabbrev secitioon section
 iabbrev seciton section
 iabbrev sectiosn section
 iabbrev securtiy security
@@ -3632,6 +3653,7 @@ iabbrev Sereis Series
 iabbrev sereis series
 iabbrev sseries series
 iabbrev servcie service
+iabbrev sessiuon session
 iabbrev ste set
 iabbrev SEtp9oitn Setpoint
 iabbrev SEtpoint Setpoint
@@ -3719,6 +3741,7 @@ iabbrev simialr similar
 iabbrev smilar similar
 iabbrev similarily similarly
 iabbrev sijmple simple
+iabbrev simpel simple
 iabbrev simplication simplification
 iabbrev simplications simplifications
 iabbrev simplifed simplified
@@ -3770,6 +3793,7 @@ iabbrev somethign something
 iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
 iabbrev Soruce Source
+iabbrev soruce source
 iabbrev soources sources
 iabbrev soruces sources
 iabbrev SPace Space
@@ -3976,6 +4000,7 @@ iabbrev talbe table
 iabbrev tagblse tables
 iabbrev taggins tagging
 iabbrev atake take
+iabbrev atke take
 iabbrev takne taken
 iabbrev Takign Taking
 iabbrev TMAU TAMU
@@ -4280,6 +4305,7 @@ iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
 iabbrev til till
 iabbrev TIm Tim
+iabbrev atime time
 iabbrev teim time
 iabbrev tiem time
 iabbrev timeer timer
@@ -4372,6 +4398,7 @@ iabbrev ytpes types
 iabbrev TYpeScript TypeScript
 iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
+iabbrev typiucal typical
 iabbrev typiuckal typical
 iabbrev typeiclaly typically
 iabbrev typicallly typically
@@ -4535,11 +4562,13 @@ iabbrev verseion version
 iabbrev versino version
 iabbrev vresion version
 iabbrev veriseons versions
+iabbrev verseions versions
 iabbrev versixons versions
 iabbrev veritcally vertically
 iabbrev vewry very
 iabbrev iva via
 iabbrev vai via
+iabbrev veiws views
 iabbrev virutal virtual
 iabbrev VIsion Vision
 iabbrev Visision Vision
@@ -4612,6 +4641,7 @@ iabbrev waht what
 iabbrev whqat what
 iabbrev whta what
 iabbrev WHen When
+iabbrev WHne When
 iabbrev Wehn When
 iabbrev Whne When
 iabbrev wehn when
@@ -4660,6 +4690,7 @@ iabbrev withign within
 iabbrev withing within
 iabbrev WIthout Without
 iabbrev iwthout without
+iabbrev withotu without
 iabbrev Witneess Witness
 iabbrev Wrod Word
 iabbrev Wrok Work
