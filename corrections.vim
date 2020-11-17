@@ -360,6 +360,7 @@ iabbrev balanace balance
 iabbrev balancde balance
 iabbrev balnace balance
 iabbrev balnaces balances
+iabbrev balll ball
 iabbrev Badn Band
 iabbrev bnak bank
 iabbrev bvanquet banquet
@@ -431,6 +432,7 @@ iabbrev boudnary boundary
 iabbrev boudns bounds
 iabbrev Bouqet Bouquet
 iabbrev bxoes boxes
+iabbrev oby boy
 iabbrev barinstorming brainstorming
 iabbrev brainstoriming brainstorming
 iabbrev Breka Break
@@ -647,6 +649,7 @@ iabbrev chooosing choosing
 iabbrev chosne chosen
 iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
+iabbrev Chuch Church
 iabbrev curcuit circuit
 iabbrev curcuites circuits
 iabbrev circualr circular
@@ -1046,6 +1049,8 @@ iabbrev Dalals Dallas
 iabbrev Dalas Dallas
 iabbrev Dalls Dallas
 iabbrev Dallsa Dallas
+iabbrev Dalmation Dalmatian
+iabbrev dalmation dalmatian
 iabbrev DAmper Damper
 iabbrev damnper damper
 iabbrev dampe4r damper
@@ -1138,6 +1143,7 @@ iabbrev edesignation designation
 iabbrev desiging designing
 iabbrev deesriable desirable
 iabbrev Desitny Destiny
+iabbrev destory destroy
 iabbrev Detial Detail
 iabbrev Dtetail Detail
 iabbrev deatil detail
@@ -1214,6 +1220,7 @@ iabbrev ditigal digital
 iabbrev Dingin Dining
 iabbrev dingin dining
 iabbrev dinign dining
+iabbrev dinsoaur dinosaur
 iabbrev dirctions directions
 iabbrev directins directions
 iabbrev drictions directions
@@ -1306,6 +1313,7 @@ iabbrev downlaod download
 iabbrev DOwnlaoded Downloaded
 iabbrev dowloaded downloaded
 iabbrev dowenloads downloads
+iabbrev DOwnstairs Downstairs
 iabbrev downstrream downstream
 iabbrev Downtonw Downtown
 iabbrev downotown downtown
@@ -1875,6 +1883,7 @@ iabbrev geetting getting
 iabbrev gettign getting
 iabbrev Github GitHub
 iabbrev givne given
+iabbrev gllobal global
 iabbrev globablly globally
 iabbrev gola goal
 iabbrev oges goes
@@ -1948,6 +1957,7 @@ iabbrev hlep help
 iabbrev hleper helper
 iabbrev ehlpful helpful
 iabbrev helpuful helpful
+iabbrev hleping helping
 iabbrev hree here
 iabbrev Heres Here's
 iabbrev hueristics heuristics
@@ -1957,6 +1967,7 @@ iabbrev hgih high
 iabbrev dhigher higher
 iabbrev hgiher higher
 iabbrev hihger higher
+iabbrev highlihgt highlight
 iabbrev hgihlighting highlighting
 iabbrev hsi his
 iabbrev Histoiran Historian
@@ -1965,6 +1976,7 @@ iabbrev hsitorain historian
 iabbrev hikstorical historical
 iabbrev HIstorically Historically
 iabbrev histoyr history
+iabbrev hti hit
 iabbrev hodls holds
 iabbrev HOldiay Holiday
 iabbrev HOliday Holiday
@@ -2132,6 +2144,7 @@ iabbrev intiail initial
 iabbrev intial initial
 iabbrev intiial initial
 iabbrev nitial initial
+iabbrev Intially Initially
 iabbrev initiailly initially
 iabbrev intially initially
 iabbrev Initialte Initiate
@@ -2201,6 +2214,7 @@ iabbrev inteernet internet
 iabbrev intenet internet
 iabbrev interpoleated interpolated
 iabbrev interpoation interpolation
+iabbrev interregating interrogating
 iabbrev interupptions interruptions
 iabbrev interuptions interruptions
 iabbrev internavl interval
@@ -2209,6 +2223,7 @@ iabbrev inot into
 iabbrev iunto into
 iabbrev introducted introduced
 iabbrev Intorductino Introduction
+iabbrev Intorduction Introduction
 iabbrev Introduciton Introduction
 iabbrev intution intuition
 iabbrev invserse inverse
@@ -2317,6 +2332,7 @@ iabbrev Libarrya Library
 iabbrev Librayr Library
 iabbrev libary library
 iabbrev librayr library
+iabbrev licorise licorice
 iabbrev Lighyt Light
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
@@ -2391,6 +2407,7 @@ iabbrev loower lower
 iabbrev Macrosciptic Macroscopic
 iabbrev mage made
 iabbrev magentic magnetic
+iabbrev magents magnets
 iabbrev magintuide magnitude
 iabbrev mial mail
 iabbrev Mian Main
@@ -2799,6 +2816,7 @@ iabbrev ohter other
 iabbrev toher other
 iabbrev otherse others
 iabbrev otu out
+iabbrev ouyt out
 iabbrev otubreak outbreak
 iabbrev Outdooor Outdoor
 iabbrev otudoor outdoor
@@ -2951,6 +2969,8 @@ iabbrev platn plant
 iabbrev polant plant
 iabbrev palusible plausible
 iabbrev paly play
+iabbrev palying playing
+iabbrev play9ing playing
 iabbrev pzlaza plaza
 iabbrev pllt plot
 iabbrev plto plot
@@ -3089,6 +3109,8 @@ iabbrev perssure pressure
 iabbrev pressrue pressure
 iabbrev presssure pressure
 iabbrev pressurizaiotn pressurization
+iabbrev prentend pretend
+iabbrev preteneding pretending
 iabbrev pretyt pretty
 iabbrev prevetn prevent
 iabbrev PRevious Previous
@@ -3227,6 +3249,7 @@ iabbrev quaklity quality
 iabbrev qualiyt quality
 iabbrev quialyt quality
 iabbrev Quantificaitons Quantifications
+iabbrev quantitavie quantitative
 iabbrev qunaittites quantities
 iabbrev quartelry quarterly
 iabbrev Qeustionaaire Questionnaire
@@ -3545,6 +3568,7 @@ iabbrev svaings savings
 iabbrev asy say
 iabbrev syas says
 iabbrev scenarious scenarios
+iabbrev scence scene
 iabbrev scences scenes
 iabbrev Scheudle Schedule
 iabbrev Scheudule Schedule
@@ -3835,6 +3859,7 @@ iabbrev sponosr sponsor
 iabbrev sporsorign sponsoring
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
+iabbrev spto spot
 iabbrev Spreadsehet Spreadsheet
 iabbrev speradhset spreadsheet
 iabbrev speradsheet spreadsheet
@@ -3852,9 +3877,11 @@ iabbrev sqauare square
 iabbrev sqwuare square
 iabbrev suare square
 iabbrev squard squared
+iabbrev Squeky Squeaky
 iabbrev stabel stable
 iabbrev stakced stacked
 iabbrev staffign staffing
+iabbrev stari stair
 iabbrev Standand Standard
 iabbrev satandrad standard
 iabbrev strated started
@@ -3959,6 +3986,8 @@ iabbrev surroudnings surroundings
 iabbrev survery survey
 iabbrev surveryed surveyed
 iabbrev suscepible susceptible
+iabbrev swign swing
+iabbrev wswing swing
 iabbrev Swithc Switch
 iabbrev swtich switch
 iabbrev switchees switches
@@ -4190,6 +4219,7 @@ iabbrev thna than
 iabbrev Thanskgiving Thanksgiving
 iabbrev Taht That
 iabbrev athat that
+iabbrev atht that
 iabbrev htat that
 iabbrev tahht that
 iabbrev taht that
@@ -4220,6 +4250,7 @@ iabbrev hten then
 iabbrev tehn then
 iabbrev theen then
 iabbrev thne then
+iabbrev Theoretcial Theoretical
 iabbrev theoretcial theoretical
 iabbrev theorteical theoretical
 iabbrev THere There
@@ -4372,6 +4403,7 @@ iabbrev Tervor Trevor
 iabbrev Tridium Tridium
 iabbrev Treid Tried
 iabbrev troubleshotoign troubleshooting
+iabbrev truuck truck
 iabbrev ture true
 iabbrev tyr try
 iabbrev tryign trying
@@ -4410,6 +4442,7 @@ iabbrev ultrasonci ultrasonic
 iabbrev unaccoutned unaccounted
 iabbrev unavailbale unavailable
 iabbrev unavaillable unavailable
+iabbrev unware unaware
 iabbrev ucnertainties uncertainties
 iabbrev Unceratinty Uncertainty
 iabbrev Uncertainy Uncertainty
@@ -4463,6 +4496,7 @@ iabbrev unoccuipieed unoccupied
 iabbrev unoccupierd unoccupied
 iabbrev unoccupiied unoccupied
 iabbrev unreadalbe unreadable
+iabbrev unsuccesful unsuccessful
 iabbrev unitl until
 iabbrev UPdate Update
 iabbrev upodate update
@@ -4662,6 +4696,7 @@ iabbrev whilee while
 iabbrev whitle while
 iabbrev hwite white
 iabbrev WHo Who
+iabbrev Whiole Whole
 iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
 iabbrev iwndow window
