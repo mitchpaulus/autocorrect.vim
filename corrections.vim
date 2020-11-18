@@ -516,6 +516,7 @@ iabbrev Caluclated Calculated
 iabbrev calcualted calculated
 iabbrev caluclated calculated
 iabbrev claculated calculated
+iabbrev calcualteing calculating
 iabbrev calcualting calculating
 iabbrev claculation calculation
 iabbrev dalculation calculation
@@ -1090,6 +1091,7 @@ iabbrev definned defined
 iabbrev Definiteyl Definitely
 iabbrev definiteyl definitely
 iabbrev Defintion Definition
+iabbrev defintion definition
 iabbrev definiations definitions
 iabbrev Dehumidificaiton Dehumidification
 iabbrev dehumidifcation dehumidification
@@ -1116,6 +1118,7 @@ iabbrev depnedency dependency
 iabbrev dpeencedcy dependency
 iabbrev dependeiing depending
 iabbrev deply deploy
+iabbrev deployued deployed
 iabbrev dpeloying deploying
 iabbrev derivateive derivative
 iabbrev deriviate derivative
@@ -1415,6 +1418,7 @@ iabbrev Eneryg Energy
 iabbrev enenrgy energy
 iabbrev eneryg energy
 iabbrev enewryg energy
+iabbrev enryg energy
 iabbrev nergy energy
 iabbrev ENergyPlus EnergyPlus
 iabbrev ENerygpPlus EnergyPlus
@@ -1524,6 +1528,7 @@ iabbrev esimate estimate
 iabbrev esitmate estimate
 iabbrev estimaate estimate
 iabbrev estiamted estimated
+iabbrev estimeated estimated
 iabbrev estitamed estimated
 iabbrev sitmated estimated
 iabbrev esitmating estimating
@@ -1771,6 +1776,8 @@ iabbrev fomrs forms
 iabbrev forsm forms
 iabbrev fomrual formula
 iabbrev formual formula
+iabbrev formuual formula
+iabbrev forumal formula
 iabbrev fomraulas formulas
 iabbrev fomrulas formulas
 iabbrev formuals formulas
@@ -2390,6 +2397,9 @@ iabbrev locaitons locations
 iabbrev Lockoout Lockout
 iabbrev Lockotu Lockout
 iabbrev lgo log
+iabbrev logarighm logarithm
+iabbrev logartihm logarithm
+iabbrev logatrihm logarithm
 iabbrev loigc logic
 iabbrev logisitcs logistics
 iabbrev lgos logs
@@ -2726,6 +2736,7 @@ iabbrev occured occurred
 iabbrev Occurance Occurrence
 iabbrev occurance occurrence
 iabbrev occuring occurring
+iabbrev Octboer October
 iabbrev fo of
 iabbrev oif of
 iabbrev ofifical official
@@ -2802,6 +2813,7 @@ iabbrev organizaiton organization
 iabbrev rogainations organizations
 iabbrev Orgainzing Organizing
 iabbrev Origilan Original
+iabbrev origal original
 iabbrev origianl original
 iabbrev origiinal original
 iabbrev orignal original
@@ -3216,6 +3228,7 @@ iabbrev proportialn proportional
 iabbrev proportinal proportional
 iabbrev proportioanl proportional
 iabbrev proportinally proportionally
+iabbrev Proposla Proposal
 iabbrev proposla proposal
 iabbrev Proposlas Proposals
 iabbrev Porposed Proposed
@@ -3288,6 +3301,7 @@ iabbrev reaidng reading
 iabbrev REAMDE README
 iabbrev reayd ready
 iabbrev reaffrim reaffirm
+iabbrev relaity reality
 iabbrev realy really
 iabbrev relaly really
 iabbrev reanalyiss reanalysis
@@ -4077,6 +4091,7 @@ iabbrev etmperature temperature
 iabbrev taemperatue temperature
 iabbrev tamperabguer temperature
 iabbrev temaperatrure temperature
+iabbrev temmperature temperature
 iabbrev tempaeratuer temperature
 iabbrev tempaerautre temperature
 iabbrev tempaeruter temperature
