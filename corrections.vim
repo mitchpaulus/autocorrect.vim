@@ -109,6 +109,7 @@ iabbrev algoritm algorithm
 iabbrev alogrithm algorithm
 iabbrev alogrighms algorithms
 iabbrev Alogn Align
+iabbrev aling align
 iabbrev aligened aligned
 iabbrev al all
 iabbrev alow allow
@@ -372,6 +373,8 @@ iabbrev absed based
 iabbrev Baseilne Baseline
 iabbrev Baslein Baseline
 iabbrev Baslien Baseline
+iabbrev balseine baseline
+iabbrev baselien baseline
 iabbrev baseliune baseline
 iabbrev baslein baseline
 iabbrev basleine baseline
@@ -1301,6 +1304,7 @@ iabbrev documentaiont documentation
 iabbrev documentaiotn documentation
 iabbrev documentaiton documentation
 iabbrev documetiona documentation
+iabbrev docuemneted documented
 iabbrev docuemnted documented
 iabbrev docuementign documenting
 iabbrev documentionat documenting
@@ -2228,6 +2232,7 @@ iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
 iabbrev iunto into
+iabbrev intorducted introduced
 iabbrev introducted introduced
 iabbrev Intorductino Introduction
 iabbrev Intorduction Introduction
@@ -2294,6 +2299,7 @@ iabbrev keystorkes keystrokes
 iabbrev Kimal Kimla
 iabbrev Ktichen Kitchen
 iabbrev ktichen kitchen
+iabbrev ktiehcne kitchen
 iabbrev kitchnes kitchens
 iabbrev knoiwldege knowledge
 iabbrev knowledgable knowledgeable
@@ -3364,6 +3370,7 @@ iabbrev rehate reheat
 iabbrev reheta reheat
 iabbrev frelated related
 iabbrev realted related
+iabbrev relateed related
 iabbrev releatd related
 iabbrev rlated related
 iabbrev rleated related
@@ -4144,6 +4151,7 @@ iabbrev tmepearture temperature
 iabbrev tmepearute temperature
 iabbrev tmeperatuer temperature
 iabbrev tmeperature temperature
+iabbrev tmeperaure temperature
 iabbrev tmeperauter temperature
 iabbrev tmeperautre temperature
 iabbrev tmeprature temperature
