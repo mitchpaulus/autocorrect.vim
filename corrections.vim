@@ -239,6 +239,7 @@ iabbrev approximatlye approximately
 iabbrev apprpoximatley approximately
 iabbrev paproximately approximately
 iabbrev approximatation approximation
+iabbrev approxmiation approximation
 iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
@@ -654,7 +655,10 @@ iabbrev chosne chosen
 iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
 iabbrev Chuch Church
+iabbrev circuti circuit
 iabbrev curcuit circuit
+iabbrev circuting circuiting
+iabbrev circutis circuits
 iabbrev curcuites circuits
 iabbrev circualr circular
 iabbrev Ciit Citi
@@ -694,6 +698,7 @@ iabbrev COil Coil
 iabbrev ciol coil
 iabbrev coli coil
 iabbrev ocil coil
+iabbrev cils coils
 iabbrev Collaboraiton Collaboration
 iabbrev collabloariton collaboration
 iabbrev collaboartion collaboration
@@ -961,6 +966,7 @@ iabbrev convewrsation conversation
 iabbrev ocnversion conversion
 iabbrev convewrrt convert
 iabbrev cooeld cooled
+iabbrev COoling Cooling
 iabbrev COoolint Cooling
 iabbrev Cooilng Cooling
 iabbrev Coolign Cooling
@@ -1230,6 +1236,7 @@ iabbrev dinsoaur dinosaur
 iabbrev dirctions directions
 iabbrev directins directions
 iabbrev drictions directions
+iabbrev driective directive
 iabbrev direclty directly
 iabbrev direcly directly
 iabbrev directdly directly
@@ -1316,6 +1323,7 @@ iabbrev doen done
 iabbrev dobule double
 iabbrev doewn down
 iabbrev donw down
+iabbrev downo down
 iabbrev downlaod download
 iabbrev DOwnlaoded Downloaded
 iabbrev dowloaded downloaded
@@ -1736,6 +1744,7 @@ iabbrev FIxing Fixing
 iabbrev finxing fixing
 iabbrev fixutre fixture
 iabbrev flippped flipped
+iabbrev floatign floating
 iabbrev Fllor Floor
 iabbrev Floro Floor
 iabbrev floro floor
@@ -1746,6 +1755,7 @@ iabbrev flwo flow
 iabbrev lfow flow
 iabbrev flucuation fluctuation
 iabbrev fulcutuation fluctuation
+iabbrev FOcus Focus
 iabbrev focsusing focusing
 iabbrev fodler folder
 iabbrev foler folder
@@ -2207,6 +2217,8 @@ iabbrev itnerest interest
 iabbrev interesetd interested
 iabbrev interesteds interested
 iabbrev interesing interesting
+iabbrev interestiong interesting
+iabbrev interseting interesting
 iabbrev INterface Interface
 iabbrev Interace Interface
 iabbrev Interafce Interface
@@ -2232,6 +2244,7 @@ iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
 iabbrev iunto into
+iabbrev Introudce Introduce
 iabbrev intorducted introduced
 iabbrev introducted introduced
 iabbrev Intorductino Introduction
@@ -2833,6 +2846,7 @@ iabbrev Ohter Other
 iabbrev ohter other
 iabbrev toher other
 iabbrev otherse others
+iabbrev oiur our
 iabbrev otu out
 iabbrev ouyt out
 iabbrev otubreak outbreak
@@ -2932,6 +2946,7 @@ iabbrev perfomance performance
 iabbrev perforamcne performance
 iabbrev perforamnce performance
 iabbrev performacne performance
+iabbrev perofrmance performance
 iabbrev preformance performance
 iabbrev performaning performing
 iabbrev periemater perimeter
@@ -3000,6 +3015,7 @@ iabbrev pnematic pneumatic
 iabbrev pnumatic pneumatic
 iabbrev pnematics pneumatics
 iabbrev POint Point
+iabbrev Piont Point
 iabbrev Poitn Point
 iabbrev Ponit Point
 iabbrev piont point
@@ -3063,6 +3079,7 @@ iabbrev potentla potential
 iabbrev potnetail potential
 iabbrev potnetial potential
 iabbrev ptoentail potential
+iabbrev ptoential potential
 iabbrev potentailly potentially
 iabbrev potentiallly potentially
 iabbrev ptotently potentially
@@ -3271,6 +3288,7 @@ iabbrev Quantificaitons Quantifications
 iabbrev quantitavie quantitative
 iabbrev qunaittites quantities
 iabbrev quartelry quarterly
+iabbrev quesiton question
 iabbrev Qeustionaaire Questionnaire
 iabbrev quesitionarrir questionnaire
 iabbrev questionaire questionnaire
@@ -4059,6 +4077,7 @@ iabbrev Taks Task
 iabbrev taks task
 iabbrev taought taught
 iabbrev teacing teaching
+iabbrev Tema Team
 iabbrev tema team
 iabbrev TEams Teams
 iabbrev Techinical Technical
@@ -4309,6 +4328,7 @@ iabbrev Thye They
 iabbrev htey they
 iabbrev thye they
 iabbrev tyhy they
+iabbrev thckness thickness
 iabbrev thnig thing
 iabbrev THings Things
 iabbrev thigns things
