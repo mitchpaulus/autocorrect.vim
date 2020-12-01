@@ -27,6 +27,7 @@ iabbrev Accordiing According
 iabbrev accoriding according
 iabbrev accoridng according
 iabbrev accoreidnly accordingly
+iabbrev Accoriodn Accordion
 iabbrev accoutn account
 iabbrev acocutn account
 iabbrev accoutned accounted
@@ -691,6 +692,7 @@ iabbrev coefficent coefficient
 iabbrev coeffient coefficient
 iabbrev coefificent coefficient
 iabbrev coefiicent coefficient
+iabbrev coffiicent coefficient
 iabbrev coefficiencts coefficients
 iabbrev coefficinets coefficients
 iabbrev coerfficiednts coefficients
@@ -855,6 +857,7 @@ iabbrev cvonference conference
 iabbrev converecnes conferences
 iabbrev condifience confidence
 iabbrev configt config
+iabbrev ocnfig config
 iabbrev Configuraiton Configuration
 iabbrev coinfiguraiton configuration
 iabbrev confifguraiton configuration
@@ -1425,6 +1428,7 @@ iabbrev enclouse enclosure
 iabbrev enclousre enclosure
 iabbrev ned end
 iabbrev endevor endeavor
+iabbrev Edngins Endings
 iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev enenrgy energy
@@ -1483,6 +1487,7 @@ iabbrev environemnt environment
 iabbrev enviromental environmental
 iabbrev environemntes environments
 iabbrev eqaul equal
+iabbrev equail equal
 iabbrev equzl equal
 iabbrev equilaiyt equality
 iabbrev equlaity equality
@@ -1960,6 +1965,7 @@ iabbrev ahrd hard
 iabbrev ahas has
 iabbrev ahs has
 iabbrev ahve have
+iabbrev havee have
 iabbrev hvae have
 iabbrev thave have
 iabbrev hainvg having
@@ -1990,6 +1996,7 @@ iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev highlihgt highlight
 iabbrev hgihlighting highlighting
+iabbrev highlihgting highlighting
 iabbrev hsi his
 iabbrev Histoiran Historian
 iabbrev historina historian
@@ -2717,6 +2724,7 @@ iabbrev nnormal normal
 iabbrev nomral normal
 iabbrev nomrla normal
 iabbrev normla normal
+iabbrev normalizaiton normalization
 iabbrev nomrally normally
 iabbrev normnally normally
 iabbrev norht North
@@ -4543,6 +4551,7 @@ iabbrev unsuccesful unsuccessful
 iabbrev unitl until
 iabbrev UPdate Update
 iabbrev upodate update
+iabbrev UPdated Updated
 iabbrev updaetgd updated
 iabbrev UPdates Updates
 iabbrev UPdating Updating
@@ -4617,6 +4626,7 @@ iabbrev variabtion variation
 iabbrev varitions variations
 iabbrev vareid varied
 iabbrev varietly variety
+iabbrev VArious Various
 iabbrev vaarious various
 iabbrev vaioruds various
 iabbrev varoius various
@@ -4647,6 +4657,7 @@ iabbrev iva via
 iabbrev vai via
 iabbrev veiws views
 iabbrev virutal virtual
+iabbrev viscoisty viscosity
 iabbrev VIsion Vision
 iabbrev Visision Vision
 iabbrev Visison Vision
