@@ -685,6 +685,7 @@ iabbrev CLoseout Closeout
 iabbrev Clsoing Closing
 iabbrev lcosing closing
 iabbrev clous cloud
+iabbrev colud cloud
 iabbrev Cosatdown Coastdown
 iabbrev ocde code
 iabbrev codiing coding
@@ -846,6 +847,7 @@ iabbrev codnenser condenser
 iabbrev condensser condenser
 iabbrev ocndenser condenser
 iabbrev COndition Condition
+iabbrev condtion condition
 iabbrev conditiojing conditioning
 iabbrev conditinos conditions
 iabbrev conditnions conditions
@@ -1194,6 +1196,7 @@ iabbrev Develoment Development
 iabbrev Developement Development
 iabbrev Developemnt Development
 iabbrev Devleopemnet Development
+iabbrev Devleopemtn Development
 iabbrev develeopemnet development
 iabbrev develeopment development
 iabbrev developement development
@@ -1221,6 +1224,7 @@ iabbrev differnece difference
 iabbrev diffrence difference
 iabbrev differenrces differences
 iabbrev diferent different
+iabbrev diffeerent different
 iabbrev diffeernt different
 iabbrev diffentert different
 iabbrev differetn different
@@ -1334,6 +1338,7 @@ iabbrev dowenloads downloads
 iabbrev DOwnstairs Downstairs
 iabbrev downstrream downstream
 iabbrev Downtonw Downtown
+iabbrev doewntown downtown
 iabbrev downotown downtown
 iabbrev downtonn downtown
 iabbrev drwawer drawer
@@ -1347,6 +1352,7 @@ iabbrev dropwdown dropdown
 iabbrev diuct duct
 iabbrev ducct duct
 iabbrev ductwork duct work
+iabbrev dupm dump
 iabbrev dupcliate duplicate
 iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
@@ -1586,6 +1592,7 @@ iabbrev Excle Excel
 iabbrev excewption exception
 iabbrev excpetion exception
 iabbrev exceptionatlly exceptionally
+iabbrev Excpetions Exceptions
 iabbrev excpetions exceptions
 iabbrev exhanger exchange
 iabbrev exhcange exchange
@@ -1760,6 +1767,7 @@ iabbrev flwo flow
 iabbrev lfow flow
 iabbrev flucuation fluctuation
 iabbrev fulcutuation fluctuation
+iabbrev Fludi Fluid
 iabbrev FOcus Focus
 iabbrev focsusing focusing
 iabbrev fodler folder
@@ -2017,6 +2025,7 @@ iabbrev Hoorry Horry
 iabbrev horespower horsepower
 iabbrev hositpal hospital
 iabbrev hto hot
+iabbrev horuly hourly
 iabbrev horus hours
 iabbrev hoursin hours in
 iabbrev hrous hours
@@ -2101,6 +2110,7 @@ iabbrev inlcude include
 iabbrev Inclucded Included
 iabbrev inclucded included
 iabbrev includede included
+iabbrev Inlcues Includes
 iabbrev inlcudes includes
 iabbrev incompressibiility incompressibility
 iabbrev incrorect incorrect
@@ -2342,6 +2352,7 @@ iabbrev Laborayr Laboratory
 iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
+iabbrev Lanugauge Language
 iabbrev langurage language
 iabbrev lnaguage language
 iabbrev alrge large
@@ -2535,6 +2546,7 @@ iabbrev meadian median
 iabbrev MEeting Meeting
 iabbrev Meeitng Meeting
 iabbrev meetign meeting
+iabbrev meetingf meeting
 iabbrev meetring meeting
 iabbrev memeory memory
 iabbrev Menotr Mentor
@@ -2548,6 +2560,7 @@ iabbrev methjod method
 iabbrev metohd method
 iabbrev methodoloyg methodology
 iabbrev MEthods Methods
+iabbrev Mehotds Methods
 iabbrev mehtods methods
 iabbrev meothds methods
 iabbrev Microsfot Microsoft
@@ -2733,6 +2746,7 @@ iabbrev nnot not
 iabbrev nto not
 iabbrev notaiton notation
 iabbrev NOtes Notes
+iabbrev Noets Notes
 iabbrev Ntoes Notes
 iabbrev noets notes
 iabbrev notse notes
@@ -2926,6 +2940,7 @@ iabbrev paresr parser
 iabbrev aprsing parsing
 iabbrev aprt part
 iabbrev aprtial partial
+iabbrev paritla partial
 iabbrev partail partial
 iabbrev Particiapnts Participants
 iabbrev aprticular particular
@@ -3098,6 +3113,7 @@ iabbrev powershell PowerShell
 iabbrev PRactical Practical
 iabbrev pracitcla practical
 iabbrev practivce practice
+iabbrev Prantl Prandtl
 iabbrev precisly precisely
 iabbrev predition prediciton
 iabbrev pedicted predicted
@@ -3240,6 +3256,7 @@ iabbrev projgect project
 iabbrev porjects projects
 iabbrev proejcts projects
 iabbrev projecdts projects
+iabbrev projedts projects
 iabbrev projets projects
 iabbrev projexts projects
 iabbrev projgects projects
@@ -3418,6 +3435,7 @@ iabbrev remaingin remaining
 iabbrev remainging remaining
 iabbrev remainign remaining
 iabbrev remianing remaining
+iabbrev remienders reminders
 iabbrev REmote Remote
 iabbrev remtoe remote
 iabbrev REmove Remove
@@ -3482,6 +3500,7 @@ iabbrev rports reports
 iabbrev repostiroes repositories
 iabbrev reporsitoyr repository
 iabbrev repositoyr repository
+iabbrev reposoityr repository
 iabbrev reposotiyr repository
 iabbrev repostiory repository
 iabbrev repostitoyr repository
@@ -3637,6 +3656,7 @@ iabbrev scheudling scheduling
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
 iabbrev Schenider Schneider
+iabbrev Schnedier Schneider
 iabbrev socope scope
 iabbrev socpe scope
 iabbrev scroe score
@@ -3666,6 +3686,7 @@ iabbrev sedond second
 iabbrev seocnd second
 iabbrev Secondayr Secondary
 iabbrev secondayr secondary
+iabbrev seconeary secondary
 iabbrev secdtion section
 iabbrev seciotn section
 iabbrev secitioon section
@@ -3682,6 +3703,7 @@ iabbrev sleected selected
 iabbrev sleecting selecting
 iabbrev selectdion selection
 iabbrev slection selection
+iabbrev Semeseter Semester
 iabbrev smeinar seminar
 iabbrev sned send
 iabbrev snese sense
@@ -3750,6 +3772,7 @@ iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
 iabbrev setpoitn setpoint
 iabbrev setpoiunt setpoint
+iabbrev setpont setpoint
 iabbrev stepoint setpoint
 iabbrev Setpoitns Setpoints
 iabbrev septoins setpoints
@@ -3837,6 +3860,7 @@ iabbrev situaiton situation
 iabbrev isze size
 iabbrev siziung sizing
 iabbrev skilsl skills
+iabbrev SkySpakr SkySpark
 iabbrev lslides slides
 iabbrev sloep slope
 iabbrev slwodown slowdown
@@ -3915,6 +3939,7 @@ iabbrev spreadhset spreadsheet
 iabbrev spreadhsett spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
+iabbrev spreadshet spreadsheet
 iabbrev spreadshetet spreadsheet
 iabbrev sprreaadhseet spreadsheet
 iabbrev Spreasheets Spreadsheets
@@ -4387,6 +4412,7 @@ iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
 iabbrev til till
 iabbrev TIm Tim
+iabbrev Tiem Time
 iabbrev atime time
 iabbrev teim time
 iabbrev tiem time
@@ -4405,6 +4431,7 @@ iabbrev TOll Toll
 iabbrev Tooll Toll
 iabbrev tomroorw tomorrow
 iabbrev TOok Took
+iabbrev toolign tooling
 iabbrev toolos tools
 iabbrev topci topic
 iabbrev topcis topics
@@ -4427,12 +4454,14 @@ iabbrev Trinaing Training
 iabbrev traingin training
 iabbrev trainging training
 iabbrev trainign training
+iabbrev trainsnig training
 iabbrev trianing training
 iabbrev trinaing training
 iabbrev TRane Trane
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
 iabbrev trnasfer transfer
+iabbrev transferrable transferable
 iabbrev Transferrign Transferring
 iabbrev transporation transportation
 iabbrev transportionat transportation
@@ -4631,10 +4660,12 @@ iabbrev vaarious various
 iabbrev vaioruds various
 iabbrev varoius various
 iabbrev vehivcle vehicle
+iabbrev vleocity velocity
 iabbrev ventialtiaon ventilation
 iabbrev Verifiatioon Verification
 iabbrev verficaiton verification
 iabbrev verfiicaiton verification
+iabbrev verfiication verification
 iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiotn verification
@@ -4781,6 +4812,7 @@ iabbrev WIthout Without
 iabbrev iwthout without
 iabbrev withotu without
 iabbrev Witneess Witness
+iabbrev WOrd Word
 iabbrev Wrod Word
 iabbrev Wrok Work
 iabbrev owkr work
