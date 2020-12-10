@@ -422,6 +422,7 @@ iabbrev blendde blended
 iabbrev bleneded blended
 iabbrev Blcok Block
 iabbrev blokc block
+iabbrev blockss blocks
 iabbrev BOiler Boiler
 iabbrev Boielr Boiler
 iabbrev biler boiler
@@ -983,6 +984,7 @@ iabbrev coolking cooling
 iabbrev cooloing cooling
 iabbrev cooolign cooling
 iabbrev coooling cooling
+iabbrev ocoling cooling
 iabbrev Coorinate Coordinate
 iabbrev Coordiantion Coordination
 iabbrev copeid copied
@@ -1045,6 +1047,7 @@ iabbrev Currenlty Currently
 iabbrev curerntly currently
 iabbrev currenlty currently
 iabbrev currenltyl currently
+iabbrev currenty currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
 iabbrev cureves curves
@@ -2046,6 +2049,7 @@ iabbrev humidiyt humidity
 iabbrev humidtiy humidity
 iabbrev humidty humidity
 iabbrev Huniting Hunting
+iabbrev hystersis hysteresis
 iabbrev Ina Ian
 iabbrev idael ideal
 iabbrev indentifier identifier
@@ -2505,6 +2509,7 @@ iabbrev materla material
 iabbrev mathematica Mathematica
 iabbrev matehematical mathematical
 iabbrev mathematicans mathematicians
+iabbrev Matalb Matlab
 iabbrev Matlba Matlab
 iabbrev maximimum maximum
 iabbrev Maybew Maybe
@@ -2903,6 +2908,7 @@ iabbrev OUtside Outside
 iabbrev Otuside Outside
 iabbrev Outsdie Outside
 iabbrev Outsdsie Outside
+iabbrev otuside outside
 iabbrev outdsie outside
 iabbrev outsdide outside
 iabbrev outsdie outside
@@ -3105,6 +3111,7 @@ iabbrev ptoentail potential
 iabbrev ptoential potential
 iabbrev potentailly potentially
 iabbrev potentiallly potentially
+iabbrev ptonetially potentially
 iabbrev ptotently potentially
 iabbrev Poweer Power
 iabbrev pwoer power
