@@ -107,6 +107,7 @@ iabbrev Albequerqe Albuquerque
 iabbrev Albequerque Albuquerque
 iabbrev algorihgm algorithm
 iabbrev algoritm algorithm
+iabbrev algortihm algorithm
 iabbrev alogrithm algorithm
 iabbrev alogrighms algorithms
 iabbrev Alogn Align
@@ -170,11 +171,13 @@ iabbrev Adn And
 iabbrev aand and
 iabbrev adn and
 iabbrev anbd and
+iabbrev andd and
 iabbrev annd and
 iabbrev nad and
 iabbrev nadn and
 iabbrev nand and
 iabbrev tand and
+iabbrev Angleles Angeles
 iabbrev annula annual
 iabbrev annulal annual
 iabbrev naanual annual
@@ -215,6 +218,7 @@ iabbrev applciaitons applications
 iabbrev applicaitons applications
 iabbrev appleid applied
 iabbrev apploied applied
+iabbrev appllies applies
 iabbrev Appyly Apply
 iabbrev applky apply
 iabbrev paply apply
@@ -236,6 +240,7 @@ iabbrev approxiamtely approximately
 iabbrev approxiamtley approximately
 iabbrev approximaltey approximately
 iabbrev approximatley approximately
+iabbrev approximatly approximately
 iabbrev approximatlye approximately
 iabbrev apprpoximatley approximately
 iabbrev paproximately approximately
@@ -350,6 +355,7 @@ iabbrev avialbe available
 iabbrev avialble available
 iabbrev avialible available
 iabbrev aviallaibe available
+iabbrev byab baby
 iabbrev Bakc Back
 iabbrev Backgroudn Background
 iabbrev backgorund background
@@ -452,6 +458,7 @@ iabbrev broek broke
 iabbrev borken broken
 iabbrev broekn broken
 iabbrev browswer browser
+iabbrev bubblle bubble
 iabbrev Buyild Build
 iabbrev buidl build
 iabbrev BUildeing Building
@@ -575,6 +582,7 @@ iabbrev capations captions
 iabbrev cpations captions
 iabbrev caputre capture
 iabbrev carsd cards
+iabbrev carepting carpeting
 iabbrev cartesina Cartesian
 iabbrev cvase case
 iabbrev caess cases
@@ -603,6 +611,7 @@ iabbrev certaintly certainly
 iabbrev certianly certainly
 iabbrev certificaiton certification
 iabbrev chanin chain
+iabbrev chiar chair
 iabbrev chagne change
 iabbrev chnage change
 iabbrev chagnes changes
@@ -619,6 +628,7 @@ iabbrev cahractersictic characteristic
 iabbrev characteritsics characteristics
 iabbrev chartr chart
 iabbrev chrat chart
+iabbrev chaisng chasing
 iabbrev CHeck Check
 iabbrev Cheeck Check
 iabbrev chekc check
@@ -687,6 +697,8 @@ iabbrev Clsoing Closing
 iabbrev lcosing closing
 iabbrev clous cloud
 iabbrev colud cloud
+iabbrev Clluster Cluster
+iabbrev clustors clusters
 iabbrev Cosatdown Coastdown
 iabbrev ocde code
 iabbrev codiing coding
@@ -895,6 +907,7 @@ iabbrev constatn constant
 iabbrev constnat constant
 iabbrev ocnsatnt constant
 iabbrev ocnstant constant
+iabbrev constatns constants
 iabbrev construciton construction
 iabbrev constructoin construction
 iabbrev coinsumption consumption
@@ -990,6 +1003,7 @@ iabbrev Coordiantion Coordination
 iabbrev copeid copied
 iabbrev cipy copy
 iabbrev ocpy copy
+iabbrev copyitng copying
 iabbrev copyting copying
 iabbrev COre Core
 iabbrev correcdt correct
@@ -1019,9 +1033,11 @@ iabbrev Coiuld Could
 iabbrev coiuld could
 iabbrev coudl could
 iabbrev coulds could
+iabbrev coulld could
 iabbrev coulod could
 iabbrev Coutn Count
 iabbrev Coutnry Country
+iabbrev coutnery country
 iabbrev coutns counts
 iabbrev Coutnyt County
 iabbrev coures course
@@ -1110,6 +1126,7 @@ iabbrev definiteyl definitely
 iabbrev Defintion Definition
 iabbrev defintion definition
 iabbrev definiations definitions
+iabbrev degress degrees
 iabbrev Dehumidificaiton Dehumidification
 iabbrev dehumidifcation dehumidification
 iabbrev dealy delay
@@ -1145,6 +1162,7 @@ iabbrev derviate derivative
 iabbrev derviative derivative
 iabbrev deriviatives derivatives
 iabbrev descentdants descendants
+iabbrev describved described
 iabbrev Descriptoin Description
 iabbrev Descripton Description
 iabbrev descripti description
@@ -1214,6 +1232,7 @@ iabbrev devicee device
 iabbrev edevices devices
 iabbrev Deval Devil
 iabbrev Deveil Devil
+iabbrev diagrma diagram
 iabbrev digarm diagram
 iabbrev dailog dialog
 iabbrev Dicitonary Dictionary
@@ -1285,6 +1304,7 @@ iabbrev disseration dissertation
 iabbrev dissertaiton dissertation
 iabbrev Distribuiton Distribution
 iabbrev Distriubution Distribution
+iabbrev distribuution distribution
 iabbrev distriubtion distribution
 iabbrev distriubtuion distribution
 iabbrev distrubtion distribution
@@ -1359,6 +1379,7 @@ iabbrev dupm dump
 iabbrev dupcliate duplicate
 iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
+iabbrev dupilcating duplicating
 iabbrev duriung during
 iabbrev durnig during
 iabbrev dynamci dynamic
@@ -1569,6 +1590,7 @@ iabbrev evaluateed evaluated
 iabbrev Evaulating Evaluating
 iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
+iabbrev evaluatiion evaluation
 iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
 iabbrev evaluuation evaluation
@@ -1589,6 +1611,7 @@ iabbrev Exmpale Example
 iabbrev exampel example
 iabbrev exmaple example
 iabbrev exmpale example
+iabbrev exmapllse examples
 iabbrev Ecxel Excel
 iabbrev Excewl Excel
 iabbrev Excle Excel
@@ -1688,6 +1711,7 @@ iabbrev favoirte favorite
 iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
+iabbrev feeback feedback
 iabbrev FIdelity Fidelity
 iabbrev FIdielity Fidelity
 iabbrev FIdleity Fidelity
@@ -1705,6 +1729,7 @@ iabbrev feilds fields
 iabbrev fileds fields
 iabbrev filelds fields
 iabbrev Figurte Figure
+iabbrev figuure figure
 iabbrev FIgured Figured
 iabbrev Figrues Figures
 iabbrev fiel file
@@ -1820,6 +1845,7 @@ iabbrev Foudn Found
 iabbrev foudn found
 iabbrev foru four
 iabbrev Foiruier Fourier
+iabbrev fractionall fractional
 iabbrev frameowkr framework
 iabbrev frawerwork framework
 iabbrev frmaework framework
@@ -1961,6 +1987,7 @@ iabbrev Guidleines Guidelines
 iabbrev guideines guidelines
 iabbrev ahd had
 iabbrev hbad had
+iabbrev hari hair
 iabbrev ahlls halls
 iabbrev hande handle
 iabbrev ahndling handling
@@ -2008,6 +2035,7 @@ iabbrev hihger higher
 iabbrev highlihgt highlight
 iabbrev hgihlighting highlighting
 iabbrev highlihgting highlighting
+iabbrev himsellf himself
 iabbrev hsi his
 iabbrev Histoiran Historian
 iabbrev historina historian
@@ -2023,6 +2051,7 @@ iabbrev Holdity Holiday
 iabbrev holdiay holiday
 iabbrev HOliddays Holidays
 iabbrev hoem home
+iabbrev Horizontla Horizontal
 iabbrev horizonatal horizontal
 iabbrev Hoorry Horry
 iabbrev horespower horsepower
@@ -2048,7 +2077,9 @@ iabbrev humdity humidity
 iabbrev humidiyt humidity
 iabbrev humidtiy humidity
 iabbrev humidty humidity
+iabbrev humitiy humidity
 iabbrev Huniting Hunting
+iabbrev hunignt hunting
 iabbrev hystersis hysteresis
 iabbrev Ina Ian
 iabbrev idael ideal
@@ -2115,6 +2146,7 @@ iabbrev Inclucded Included
 iabbrev inclucded included
 iabbrev includede included
 iabbrev Inlcues Includes
+iabbrev includddes includes
 iabbrev inlcudes includes
 iabbrev incompressibiility incompressibility
 iabbrev incrorect incorrect
@@ -2312,6 +2344,7 @@ iabbrev Javascdript JavaScript
 iabbrev Javascript JavaScript
 iabbrev javascript JavaScript
 iabbrev jvavascript JavaScript
+iabbrev jersery jersey
 iabbrev jbos jobs
 iabbrev JHohn John
 iabbrev JOhn John
@@ -2401,6 +2434,7 @@ iabbrev limtis limits
 iabbrev lienar linear
 iabbrev linera linear
 iabbrev LInk Link
+iabbrev linuux Linux
 iabbrev liquied liquid
 iabbrev leisted listed
 iabbrev listerner listener
@@ -2478,6 +2512,7 @@ iabbrev amke make
 iabbrev makea make a
 iabbrev Maekfile Makefile
 iabbrev Mkaefile Makefile
+iabbrev amkes makes
 iabbrev magnage manage
 iabbrev Managemnet Management
 iabbrev Managnemnt Management
@@ -2494,6 +2529,7 @@ iabbrev manulas manuals
 iabbrev mahy many
 iabbrev mnay many
 iabbrev mappign mapping
+iabbrev mpaping mapping
 iabbrev mapas maps
 iabbrev Marhc March
 iabbrev Marhd March
@@ -2511,6 +2547,7 @@ iabbrev matehematical mathematical
 iabbrev mathematicans mathematicians
 iabbrev Matalb Matlab
 iabbrev Matlba Matlab
+iabbrev matirx matrix
 iabbrev maximimum maximum
 iabbrev Maybew Maybe
 iabbrev menaing meaning
@@ -2563,6 +2600,7 @@ iabbrev mehtod method
 iabbrev meothd method
 iabbrev methjod method
 iabbrev metohd method
+iabbrev Methodoology Methodology
 iabbrev methodoloyg methodology
 iabbrev MEthods Methods
 iabbrev Mehotds Methods
@@ -2581,6 +2619,7 @@ iabbrev Mniiimzie Minimize
 iabbrev Minimmum Minimum
 iabbrev mimnimum minimum
 iabbrev minimimum minimum
+iabbrev minmium minimum
 iabbrev minmum minimum
 iabbrev Mintue Minute
 iabbrev minnute minute
@@ -2964,6 +3003,7 @@ iabbrev partyy party
 iabbrev apssed passed
 iabbrev pasate paste
 iabbrev passted pasted
+iabbrev patritoic patriotic
 iabbrev patten pattern
 iabbrev penatlty penalty
 iabbrev penatly penalty
@@ -3033,6 +3073,7 @@ iabbrev palusible plausible
 iabbrev paly play
 iabbrev palying playing
 iabbrev play9ing playing
+iabbrev palys plays
 iabbrev pzlaza plaza
 iabbrev pllt plot
 iabbrev plto plot
@@ -3093,6 +3134,7 @@ iabbrev possilbities possibilities
 iabbrev possilblities possibilities
 iabbrev possiblity possibility
 iabbrev possbile possible
+iabbrev possiblle possible
 iabbrev possilbe possible
 iabbrev posssible possible
 iabbrev Possilby Possibly
@@ -3182,6 +3224,7 @@ iabbrev prevetn prevent
 iabbrev PRevious Previous
 iabbrev dprevious previous
 iabbrev preiovus previous
+iabbrev preiovuus previous
 iabbrev preivoius previous
 iabbrev preivous previous
 iabbrev Preivulsly Previously
@@ -3294,6 +3337,7 @@ iabbrev protectdion protection
 iabbrev rpove prove
 iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
+iabbrev publlications publications
 iabbrev PUll Pull
 iabbrev Puleld Pulled
 iabbrev Pulliung Pulling
@@ -3316,7 +3360,9 @@ iabbrev quailyt quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
 iabbrev quialyt quality
+iabbrev quantificaiton quantification
 iabbrev Quantificaitons Quantifications
+iabbrev quantiative quantitative
 iabbrev quantitavie quantitative
 iabbrev qunaittites quantities
 iabbrev quartelry quarterly
@@ -3370,6 +3416,7 @@ iabbrev reasonlable reasonable
 iabbrev resaonable reasonable
 iabbrev REasonably Reasonably
 iabbrev reasonalbly reasonably
+iabbrev rubuttal rebuttal
 iabbrev reclaibrated recalibrated
 iabbrev recieve receive
 iabbrev Recieved Received
@@ -3432,6 +3479,7 @@ iabbrev Relationjships Relationships
 iabbrev realitive relative
 iabbrev realtive relative
 iabbrev relateive relative
+iabbrev rellative relative
 iabbrev relavent relevant
 iabbrev releif relief
 iabbrev relocaitons relocations
@@ -3535,6 +3583,7 @@ iabbrev requrienments requirements
 iabbrev requries requires
 iabbrev reuqires requires
 iabbrev Rescheudled Rescheduled
+iabbrev Researhc Research
 iabbrev reaseach research
 iabbrev reasearch research
 iabbrev researhc research
@@ -3633,6 +3682,7 @@ iabbrev Sraah Sarah
 iabbrev satisfacotry satisfactory
 iabbrev satifies satisfies
 iabbrev staturated saturated
+iabbrev staturation saturation
 iabbrev Saturadya Saturday
 iabbrev svae save
 iabbrev saivngs savings
@@ -3683,12 +3733,15 @@ iabbrev scirpts scripts
 iabbrev scritps scripts
 iabbrev sripts scripts
 iabbrev searhc search
+iabbrev seraches searches
+iabbrev Seraching Searching
 iabbrev seraching searching
 iabbrev Seaosn Season
 iabbrev Sebasitan Sebastian
 iabbrev Sebastioan Sebastian
 iabbrev Seocnd Second
 iabbrev Seoncd Second
+iabbrev seconed second
 iabbrev sedond second
 iabbrev seocnd second
 iabbrev Secondayr Secondary
@@ -3810,6 +3863,7 @@ iabbrev sehell shell
 iabbrev sehll shell
 iabbrev Shrit Shirt
 iabbrev shootouyt shootout
+iabbrev Shrot Short
 iabbrev shrot short
 iabbrev shrotened shortened
 iabbrev SHould Should
@@ -3887,6 +3941,7 @@ iabbrev Soldi Solid
 iabbrev solutio solution
 iabbrev soultin solution
 iabbrev solutiosn solutions
+iabbrev sollve solve
 iabbrev sove solve
 iabbrev soem some
 iabbrev somehting something
@@ -3906,6 +3961,7 @@ iabbrev psace space
 iabbrev sapce space
 iabbrev spacew space
 iabbrev spacding spacing
+iabbrev SPAGETTI SPAGHETTI
 iabbrev SPeaker Speaker
 iabbrev sepcila special
 iabbrev speical special
@@ -3950,6 +4006,7 @@ iabbrev spreadshet spreadsheet
 iabbrev spreadshetet spreadsheet
 iabbrev sprreaadhseet spreadsheet
 iabbrev Spreasheets Spreadsheets
+iabbrev sprknkler sprinkler
 iabbrev Sql SQL
 iabbrev sql SQL
 iabbrev sqauare square
@@ -4026,6 +4083,7 @@ iabbrev subimitteed submitted
 iabbrev submiting submitting
 iabbrev subsance substance
 iabbrev substantce substance
+iabbrev substiture substitute
 iabbrev substituing substituting
 iabbrev substituion substitution
 iabbrev substituations substitutions
@@ -4058,6 +4116,7 @@ iabbrev uspply supply
 iabbrev suppling supplying
 iabbrev supprot support
 iabbrev usre sure
+iabbrev Surpirse Surprise
 iabbrev surroundign surrounding
 iabbrev surroundsing surrounding
 iabbrev surroudngins surroundings
@@ -4067,6 +4126,7 @@ iabbrev surveryed surveyed
 iabbrev suscepible susceptible
 iabbrev swign swing
 iabbrev wswing swing
+iabbrev swigingin swinging
 iabbrev Swithc Switch
 iabbrev swtich switch
 iabbrev switchees switches
@@ -4470,6 +4530,7 @@ iabbrev tansfer transfer
 iabbrev trnasfer transfer
 iabbrev transferrable transferable
 iabbrev Transferrign Transferring
+iabbrev transpaerent transparent
 iabbrev transporation transportation
 iabbrev transportionat transportation
 iabbrev travelled traveled
@@ -4552,6 +4613,7 @@ iabbrev underreprsented underrepresented
 iabbrev udnerstand understand
 iabbrev understnad understand
 iabbrev udnerstanding understanding
+iabbrev understandidng understanding
 iabbrev understandiung understanding
 iabbrev udnertaken undertaken
 iabbrev Underwod Underwood
@@ -4766,6 +4828,8 @@ iabbrev hwat what
 iabbrev waht what
 iabbrev whqat what
 iabbrev whta what
+iabbrev wheells wheels
+iabbrev wheles wheels
 iabbrev WHen When
 iabbrev WHne When
 iabbrev Wehn When
