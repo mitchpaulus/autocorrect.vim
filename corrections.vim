@@ -62,6 +62,7 @@ iabbrev addtion addition
 iabbrev Addiitonal Additional
 iabbrev Additioanl Additional
 iabbrev addiitonal additional
+iabbrev additinal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
 iabbrev dadditional additional
@@ -94,6 +95,7 @@ iabbrev ahir air
 iabbrev aiar air
 iabbrev ari air
 iabbrev iar air
+iabbrev Airflwo Airflow
 iabbrev airlfow airflow
 iabbrev ariflow airflow
 iabbrev Airprot Airport
@@ -268,6 +270,7 @@ iabbrev Arthimetic Arithmetic
 iabbrev aorund around
 iabbrev arond around
 iabbrev aroudn around
+iabbrev aruond around
 iabbrev arrya array
 iabbrev artticle article
 iabbrev ARticles Articles
@@ -699,6 +702,7 @@ iabbrev clous cloud
 iabbrev colud cloud
 iabbrev Clluster Cluster
 iabbrev clustors clusters
+iabbrev OC2 CO2
 iabbrev Cosatdown Coastdown
 iabbrev ocde code
 iabbrev codiing coding
@@ -734,6 +738,7 @@ iabbrev Columsn Columns
 iabbrev columnsn columns
 iabbrev columsn columns
 iabbrev coolumsn columns
+iabbrev coulmns columns
 iabbrev coulnmsn columns
 iabbrev combinatino combination
 iabbrev combonations combinations
@@ -842,6 +847,7 @@ iabbrev compoonents components
 iabbrev comrpession compression
 iabbrev comptuer compute
 iabbrev comptuer computer
+iabbrev comptuers computers
 iabbrev concewpt concept
 iabbrev ocncept concept
 iabbrev corencen concern
@@ -1451,6 +1457,7 @@ iabbrev meails emails
 iabbrev emergingn emerging
 iabbrev Empyt Empty
 iabbrev empyt empty
+iabbrev emulaotrs emulators
 iabbrev eanble enable
 iabbrev enabeld enabled
 iabbrev enalbed enabled
@@ -1511,6 +1518,7 @@ iabbrev entyr entry
 iabbrev enuemerable enumerable
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
+iabbrev enviromenmtn environment
 iabbrev enviroment environment
 iabbrev environement environment
 iabbrev environemnt environment
@@ -2084,6 +2092,7 @@ iabbrev hystersis hysteresis
 iabbrev Ina Ian
 iabbrev idael ideal
 iabbrev indentifier identifier
+iabbrev identifieres identifiers
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
@@ -2538,6 +2547,7 @@ iabbrev makr mark
 iabbrev markdonw markdown
 iabbrev marekd marked
 iabbrev markders markers
+iabbrev Mayr Mary
 iabbrev amster master
 iabbrev mataches matches
 iabbrev matcing matching
@@ -2580,6 +2590,7 @@ iabbrev mechancial mechanical
 iabbrev mechancila mechanical
 iabbrev mechanicl mechanical
 iabbrev mechanicla mechanical
+iabbrev mechnaical mechanical
 iabbrev mechnaicla mechanical
 iabbrev Meida Media
 iabbrev medai media
@@ -2782,6 +2793,7 @@ iabbrev nomral normal
 iabbrev nomrla normal
 iabbrev normla normal
 iabbrev normalizaiton normalization
+iabbrev Normallly Normally
 iabbrev nomrally normally
 iabbrev normnally normally
 iabbrev norht North
@@ -2888,6 +2900,7 @@ iabbrev optoins options
 iabbrev otpions options
 iabbrev ro or
 iabbrev organe orange
+iabbrev organge orange
 iabbrev ordedr order
 iabbrev ordrse orders
 iabbrev ordinacne ordinance
@@ -3283,6 +3296,7 @@ iabbrev progmra program
 iabbrev progrma program
 iabbrev progrsm program
 iabbrev projgram program
+iabbrev programmble programmable
 iabbrev prommed programmed
 iabbrev programmihng programming
 iabbrev progrmas programs
@@ -3663,6 +3677,7 @@ iabbrev RUnning Running
 iabbrev Runnign Running
 iabbrev runnign running
 iabbrev sa SA
+iabbrev sacrificied sacrificed
 iabbrev SAlly Sally
 iabbrev smae same
 iabbrev Smaple Sample
@@ -3861,6 +3876,7 @@ iabbrev sheathign sheathing
 iabbrev sheeet sheet
 iabbrev sehell shell
 iabbrev sehll shell
+iabbrev shfits shifts
 iabbrev Shrit Shirt
 iabbrev shootouyt shootout
 iabbrev Shrot Short
@@ -4513,6 +4529,7 @@ iabbrev toltals totals
 iabbrev totlas totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
+iabbrev tarckign tracking
 iabbrev tradiation tradition
 iabbrev trialing trailing
 iabbrev Traingin Training
@@ -4654,6 +4671,7 @@ iabbrev updaetgd updated
 iabbrev UPdates Updates
 iabbrev UPdating Updating
 iabbrev Updaitng Updating
+iabbrev Updatign Updating
 iabbrev Upodaitng Updating
 iabbrev Uplaod Upload
 iabbrev updload upload
