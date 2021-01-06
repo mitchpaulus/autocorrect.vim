@@ -590,7 +590,9 @@ iabbrev cartesina Cartesian
 iabbrev cvase case
 iabbrev caess cases
 iabbrev categoraized categorized
+iabbrev catefory category
 iabbrev cuase cause
+iabbrev ceilign ceiling
 iabbrev cewilign ceiling
 iabbrev Celebraiton Celebration
 iabbrev clell cell
@@ -808,6 +810,7 @@ iabbrev comapre compare
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev comparsion comparison
+iabbrev Comapass Compass
 iabbrev Comapss Compass
 iabbrev Compas Compass
 iabbrev Coppmpass Compass
@@ -866,6 +869,7 @@ iabbrev codnenser condenser
 iabbrev condensser condenser
 iabbrev ocndenser condenser
 iabbrev COndition Condition
+iabbrev conditoin condition
 iabbrev condtion condition
 iabbrev conditiojing conditioning
 iabbrev conditinos conditions
@@ -1250,6 +1254,7 @@ iabbrev Difff Diff
 iabbrev differnce difference
 iabbrev differnece difference
 iabbrev diffrence difference
+iabbrev diffeerences differences
 iabbrev differenrces differences
 iabbrev diferent different
 iabbrev diffeerent different
@@ -1549,6 +1554,7 @@ iabbrev Equipmetn Equipment
 iabbrev Equpiment Equipment
 iabbrev eqiupment equipment
 iabbrev equiepment equipment
+iabbrev equiment equipment
 iabbrev equipaemtn equipment
 iabbrev equipement equipment
 iabbrev equipemetn equipment
@@ -1640,6 +1646,7 @@ iabbrev exericse exercise
 iabbrev exercieses exercises
 iabbrev Exhasust Exhaust
 iabbrev Exhauset Exhaust
+iabbrev exhasut exhaust
 iabbrev eixist exist
 iabbrev exisited existed
 iabbrev Exisiting Existing
@@ -1859,6 +1866,7 @@ iabbrev frawerwork framework
 iabbrev frmaework framework
 iabbrev Francsios Francisco
 iabbrev Frnak Frank
+iabbrev Frequncy Frequency
 iabbrev frequenty frequently
 iabbrev FIrday Friday
 iabbrev FRiday Friday
@@ -1888,6 +1896,7 @@ iabbrev funciotn function
 iabbrev funcitno function
 iabbrev funciton function
 iabbrev functdion function
+iabbrev functino function
 iabbrev fundction function
 iabbrev Fucnttional Functional
 iabbrev Functianl Functional
@@ -2827,6 +2836,7 @@ iabbrev obviusly obviously
 iabbrev occpuancy occupancy
 iabbrev occpunacy occupancy
 iabbrev occupnacy occupancy
+iabbrev occupancts occupants
 iabbrev Ocucpied Occupied
 iabbrev Ocupied Occupied
 iabbrev occured occurred
@@ -3543,6 +3553,7 @@ iabbrev reportj report
 iabbrev reprot report
 iabbrev rerport report
 iabbrev rerpot report
+iabbrev rerprot report
 iabbrev roeport report
 iabbrev rpeort report
 iabbrev rpeot report
@@ -3581,6 +3592,7 @@ iabbrev requrested requested
 iabbrev requiere require
 iabbrev requrie require
 iabbrev Requrired Required
+iabbrev requerid required
 iabbrev requied required
 iabbrev requiredy required
 iabbrev requried required
@@ -3703,6 +3715,7 @@ iabbrev svae save
 iabbrev saivngs savings
 iabbrev savinsg savings
 iabbrev svaings savings
+iabbrev svings savings
 iabbrev asy say
 iabbrev syas says
 iabbrev scenarious scenarios
@@ -4415,6 +4428,7 @@ iabbrev THere There
 iabbrev Therte There
 iabbrev Threre There
 iabbrev htere there
+iabbrev theer there
 iabbrev theere there
 iabbrev theerre there
 iabbrev threr there
@@ -4683,6 +4697,7 @@ iabbrev uplodaed uploaded
 iabbrev UPloading Uploading
 iabbrev updlads uploads
 iabbrev ubran urban
+iabbrev uninals urinals
 iabbrev url URL
 iabbrev useage usage
 iabbrev uesd used
@@ -4748,7 +4763,9 @@ iabbrev vaioruds various
 iabbrev varoius various
 iabbrev vehivcle vehicle
 iabbrev vleocity velocity
+iabbrev ventialation ventilation
 iabbrev ventialtiaon ventilation
+iabbrev ventialtion ventilation
 iabbrev Verifiatioon Verification
 iabbrev verficaiton verification
 iabbrev verfiicaiton verification
@@ -4779,6 +4796,7 @@ iabbrev viscoisty viscosity
 iabbrev VIsion Vision
 iabbrev Visision Vision
 iabbrev Visison Vision
+iabbrev VIsit Visit
 iabbrev Visti Visit
 iabbrev viisti visit
 iabbrev visti visit
@@ -4789,6 +4807,7 @@ iabbrev Voluem Volume
 iabbrev ovlume volume
 iabbrev voluem volume
 iabbrev volumen volume
+iabbrev voulme volume
 iabbrev Volunttering Volunteering
 iabbrev Wainting Waiting
 iabbrev Waitning Waiting
