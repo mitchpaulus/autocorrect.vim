@@ -441,6 +441,7 @@ iabbrev bilers boilers
 iabbrev bookelt booklet
 iabbrev obsses bosses
 iabbrev gboth both
+iabbrev boutght bought
 iabbrev boudn bound
 iabbrev boudnaries boundaries
 iabbrev boudnary boundary
@@ -1361,6 +1362,7 @@ iabbrev DOg Dog
 iabbrev donig doing
 iabbrev odmain domain
 iabbrev doen done
+iabbrev odne done
 iabbrev dobule double
 iabbrev doewn down
 iabbrev donw down
@@ -1427,6 +1429,7 @@ iabbrev Eelectric Electric
 iabbrev electrici electric
 iabbrev Eelctrical Electrical
 iabbrev Eelectiral Electrical
+iabbrev Electical Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
 iabbrev Electricial Electrical
@@ -1811,6 +1814,7 @@ iabbrev lfow flow
 iabbrev flucuation fluctuation
 iabbrev fulcutuation fluctuation
 iabbrev Fludi Fluid
+iabbrev flourescent fluorescent
 iabbrev FOcus Focus
 iabbrev focsusing focusing
 iabbrev fodler folder
@@ -2072,6 +2076,7 @@ iabbrev Horizontla Horizontal
 iabbrev horizonatal horizontal
 iabbrev Hoorry Horry
 iabbrev horespower horsepower
+iabbrev Hosptial Hospital
 iabbrev hositpal hospital
 iabbrev hto hot
 iabbrev horuly hourly
@@ -2440,6 +2445,7 @@ iabbrev lgighting lighting
 iabbrev lighing lighting
 iabbrev lighitng lighting
 iabbrev lihgting lighting
+iabbrev LIke Like
 iabbrev Liek Like
 iabbrev liek like
 iabbrev likelty likely
@@ -2519,6 +2525,7 @@ iabbrev maintian maintain
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
 iabbrev Maintenacen Maintenance
+iabbrev Maintence Maintenance
 iabbrev Maintenence Maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
@@ -2584,6 +2591,7 @@ iabbrev measuared measured
 iabbrev measureed measured
 iabbrev measuresed measured
 iabbrev meausred measured
+iabbrev measuremenht measurement
 iabbrev measuremnet measurement
 iabbrev measuremnt measurement
 iabbrev measuremensts measurements
@@ -2844,6 +2852,7 @@ iabbrev Occurance Occurrence
 iabbrev occurance occurrence
 iabbrev occuring occurring
 iabbrev Octboer October
+iabbrev Octover October
 iabbrev fo of
 iabbrev oif of
 iabbrev ofifical official
@@ -3921,6 +3930,7 @@ iabbrev significat significant
 iabbrev significatn significant
 iabbrev Significatly Significantly
 iabbrev signficantly significantly
+iabbrev significatnly significantly
 iabbrev simialr similar
 iabbrev smilar similar
 iabbrev similarily similarly
@@ -4061,6 +4071,7 @@ iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
 iabbrev Statemments Statements
+iabbrev statemtns statements
 iabbrev statments statements
 iabbrev staes states
 iabbrev STatic Static
