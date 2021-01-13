@@ -865,6 +865,7 @@ iabbrev Conslusions Conclusions
 iabbrev conculsions conclusions
 iabbrev ocnclusions conclusions
 iabbrev ocncourse concourse
+iabbrev concreate concrete
 iabbrev Condsenser Condenser
 iabbrev codnenser condenser
 iabbrev condensser condenser
@@ -1183,6 +1184,7 @@ iabbrev descritpion description
 iabbrev Descriptiosn Descriptions
 iabbrev descriptoins descriptions
 iabbrev descritive descriptive
+iabbrev Deisng Design
 iabbrev Desing Design
 iabbrev Dessign Design
 iabbrev desgin design
@@ -1478,6 +1480,7 @@ iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev enenrgy energy
 iabbrev eneryg energy
+iabbrev enerygm energy
 iabbrev enewryg energy
 iabbrev enryg energy
 iabbrev nergy energy
@@ -1489,6 +1492,7 @@ iabbrev EnergyPuls EnergyPlus
 iabbrev EnerygPlus EnergyPlus
 iabbrev energypuls EnergyPlus
 iabbrev EnergtyStar EnergyStar
+iabbrev Enginere Engineer
 iabbrev enigneer engineer
 iabbrev Egineered Engineered
 iabbrev Enginereing Engineering
@@ -1835,6 +1839,7 @@ iabbrev fotter footer
 iabbrev fotters footers
 iabbrev FOr For
 iabbrev Fro For
+iabbrev foer for
 iabbrev fof for
 iabbrev forf for
 iabbrev fro for
@@ -2059,6 +2064,7 @@ iabbrev highlihgting highlighting
 iabbrev himsellf himself
 iabbrev hsi his
 iabbrev Histoiran Historian
+iabbrev Historina Historian
 iabbrev historina historian
 iabbrev hsitorain historian
 iabbrev hikstorical historical
@@ -2199,6 +2205,7 @@ iabbrev Informaation Information
 iabbrev Informaiont Information
 iabbrev Informaiotn Information
 iabbrev Informaiton Information
+iabbrev Informatino Information
 iabbrev Inofrmaiton Information
 iabbrev Inofrmaton Information
 iabbrev ifnormation information
@@ -2548,6 +2555,7 @@ iabbrev mangagment management
 iabbrev mangaer manager
 iabbrev mangatger manager
 iabbrev managerse managers
+iabbrev Machester Manchester
 iabbrev manmual manual
 iabbrev manula manual
 iabbrev manulas manuals
@@ -2673,6 +2681,7 @@ iabbrev modleing modeling
 iabbrev modleling modeling
 iabbrev modlieng modeling
 iabbrev modling modeling
+iabbrev odeling modeling
 iabbrev mdoels models
 iabbrev modesl models
 iabbrev modles models
@@ -2781,6 +2790,7 @@ iabbrev Netork Network
 iabbrev Netowrk Network
 iabbrev entwork network
 iabbrev netowrk network
+iabbrev netwrok network
 iabbrev nework network
 iabbrev netowrking networking
 iabbrev Nueral Neural
@@ -2824,6 +2834,7 @@ iabbrev Ntoes Notes
 iabbrev noets notes
 iabbrev notse notes
 iabbrev ntoes notes
+iabbrev Nothign Nothing
 iabbrev nothign nothing
 iabbrev noticiable noticeable
 iabbrev notificaiton notification
@@ -2971,6 +2982,7 @@ iabbrev otuptu output
 iabbrev otuput output
 iabbrev ouptut output
 iabbrev ouput output
+iabbrev outptu output
 iabbrev outup output
 iabbrev outupt output
 iabbrev outuptu output
@@ -3380,6 +3392,8 @@ iabbrev PUmp Pump
 iabbrev pmpups pumps
 iabbrev poumps pumps
 iabbrev upmps pumps
+iabbrev purchse purchase
+iabbrev purcahsed purchased
 iabbrev PUrple Purple
 iabbrev pruposes purposes
 iabbrev PUt Put
@@ -3519,6 +3533,7 @@ iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev reamin remain
 iabbrev Reaminging Remaining
+iabbrev Remainign Remaining
 iabbrev remaingin remaining
 iabbrev remainging remaining
 iabbrev remainign remaining
@@ -3535,6 +3550,7 @@ iabbrev remvoe remove
 iabbrev reomve remove
 iabbrev removewd removed
 iabbrev reomved removed
+iabbrev REno Reno
 iabbrev reorganizatiojn reorganization
 iabbrev Reorgainze Reorganize
 iabbrev Reparing Repairing
@@ -3923,6 +3939,8 @@ iabbrev shuyt shut
 iabbrev shtudowns shutdowns
 iabbrev sdie side
 iabbrev sidse side
+iabbrev Siemesn Siemens
+iabbrev Siemnes Siemens
 iabbrev singal signal
 iabbrev signficant significant
 iabbrev signifiatn significant
@@ -4202,6 +4220,7 @@ iabbrev syhstems systems
 iabbrev sysetms systems
 iabbrev sysmtems systems
 iabbrev systmes systems
+iabbrev sytesms systems
 iabbrev tabv tab
 iabbrev TAble Table
 iabbrev talbe table
