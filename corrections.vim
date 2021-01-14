@@ -945,6 +945,7 @@ iabbrev contians contains
 iabbrev conent content
 iabbrev contnent content
 iabbrev Contens Contents
+iabbrev contetx context
 iabbrev continulally continually
 iabbrev continulaly continually
 iabbrev contineue continue
@@ -1534,6 +1535,7 @@ iabbrev enviromenmtn environment
 iabbrev enviroment environment
 iabbrev environement environment
 iabbrev environemnt environment
+iabbrev environemtnet environment
 iabbrev enviromental environmental
 iabbrev environemntes environments
 iabbrev eqaul equal
@@ -1605,6 +1607,7 @@ iabbrev esitimation estimation
 iabbrev esitmation estimation
 iabbrev estiamtion estimation
 iabbrev estimatoin estimation
+iabbrev ethecial ethical
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
 iabbrev evaluateed evaluated
@@ -3798,6 +3801,7 @@ iabbrev seconed second
 iabbrev sedond second
 iabbrev seocnd second
 iabbrev Secondayr Secondary
+iabbrev Seconddadry Secondary
 iabbrev secondayr secondary
 iabbrev seconeary secondary
 iabbrev secdtion section
@@ -4077,6 +4081,7 @@ iabbrev staffign staffing
 iabbrev stari stair
 iabbrev Standand Standard
 iabbrev satandrad standard
+iabbrev stadns stands
 iabbrev strated started
 iabbrev Starign Starting
 iabbrev starign starting
@@ -4547,6 +4552,7 @@ iabbrev timeer timer
 iabbrev tiems times
 iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
+iabbrev TIp Tip
 iabbrev tilte title
 iabbrev ot to
 iabbrev oto to
