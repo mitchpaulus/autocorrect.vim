@@ -107,6 +107,7 @@ iabbrev alrams alarms
 iabbrev Albequeque Albuquerque
 iabbrev Albequerqe Albuquerque
 iabbrev Albequerque Albuquerque
+iabbrev algorighm algorithm
 iabbrev algorihgm algorithm
 iabbrev algoritm algorithm
 iabbrev algortihm algorithm
@@ -917,6 +918,7 @@ iabbrev Contstant Constant
 iabbrev Cosntant Constant
 iabbrev constatn constant
 iabbrev constnat constant
+iabbrev contsatn constant
 iabbrev ocnsatnt constant
 iabbrev ocnstant constant
 iabbrev constatns constants
@@ -1186,6 +1188,7 @@ iabbrev Descriptiosn Descriptions
 iabbrev descriptoins descriptions
 iabbrev descritive descriptive
 iabbrev Deisng Design
+iabbrev Desgin Design
 iabbrev Desing Design
 iabbrev Dessign Design
 iabbrev desgin design
@@ -1521,6 +1524,7 @@ iabbrev enthlpy enthalpy
 iabbrev nthalpy enthalpy
 iabbrev tnthalpy enthalpy
 iabbrev entier entire
+iabbrev entiree entire
 iabbrev etneir entire
 iabbrev entitites entities
 iabbrev entrace entrance
@@ -1860,6 +1864,7 @@ iabbrev fomrual formula
 iabbrev formual formula
 iabbrev formuual formula
 iabbrev forumal formula
+iabbrev forumlua formula
 iabbrev fomraulas formulas
 iabbrev fomrulas formulas
 iabbrev formuals formulas
@@ -1958,6 +1963,7 @@ iabbrev gneeral general
 iabbrev gneral general
 iabbrev gnerally generally
 iabbrev genreate generate
+iabbrev gnerate generate
 iabbrev Generageted Generated
 iabbrev generatretd generated
 iabbrev genreated generated
@@ -2359,6 +2365,7 @@ iabbrev isoalted isolated
 iabbrev isothermla isothermal
 iabbrev isseu issue
 iabbrev isseus issues
+iabbrev isssues issues
 iabbrev ITem Item
 iabbrev Itme Item
 iabbrev itme item
@@ -3311,6 +3318,7 @@ iabbrev Processs Process
 iabbrev prcoess process
 iabbrev proces process
 iabbrev proecess process
+iabbrev processign processing
 iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev producedd produced
@@ -3782,11 +3790,13 @@ iabbrev scrdipt script
 iabbrev scripot script
 iabbrev scritp script
 iabbrev scsript script
+iabbrev scxript script
 iabbrev Scirpted Scripted
 iabbrev Scirpts Scripts
 iabbrev scdripts scripts
 iabbrev scirpts scripts
 iabbrev scritps scripts
+iabbrev scxripts scripts
 iabbrev sripts scripts
 iabbrev searhc search
 iabbrev seraches searches
@@ -4796,6 +4806,7 @@ iabbrev varietly variety
 iabbrev VArious Various
 iabbrev vaarious various
 iabbrev vaioruds various
+iabbrev vairous Various
 iabbrev varoius various
 iabbrev vehivcle vehicle
 iabbrev vleocity velocity
