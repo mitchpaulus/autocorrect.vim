@@ -205,6 +205,7 @@ iabbrev papear appear
 iabbrev ppear appear
 iabbrev appearancew appearance
 iabbrev aappears appears
+iabbrev appreas appears
 iabbrev apepndix appendix
 iabbrev applicaable applicable
 iabbrev Applicaiotn Application
@@ -285,6 +286,7 @@ iabbrev ASHREA ASHRAE
 iabbrev asekd asked
 iabbrev ascpects aspects
 iabbrev assesments assessments
+iabbrev assessmetnts assessments
 iabbrev assignead assigned
 iabbrev assigneing assigning
 iabbrev assinging assigning
@@ -325,6 +327,7 @@ iabbrev attriburtes attributes
 iabbrev atttributes attributes
 iabbrev Auguest August
 iabbrev autehnticadtion authentication
+iabbrev authenticaion authentication
 iabbrev authenticaiton authentication
 iabbrev Authorizastion Authorization
 iabbrev auot auto
@@ -662,6 +665,7 @@ iabbrev childern children
 iabbrev Chiled Chilled
 iabbrev chillled chilled
 iabbrev CHiller Chiller
+iabbrev Chilelr Chiller
 iabbrev Chiler Chiller
 iabbrev chiler chiller
 iabbrev chyiller chiller
@@ -924,6 +928,7 @@ iabbrev ocnstant constant
 iabbrev constatns constants
 iabbrev construciton construction
 iabbrev constructoin construction
+iabbrev COnsujpmtion Consumption
 iabbrev coinsumption consumption
 iabbrev constumption consumption
 iabbrev consukmption consumption
@@ -1271,6 +1276,7 @@ iabbrev differetn different
 iabbrev differnt different
 iabbrev difffernt different
 iabbrev diffierent different
+iabbrev diffrent different
 iabbrev idfferent different
 iabbrev Difficutl Difficult
 iabbrev difficutl difficult
@@ -1399,6 +1405,7 @@ iabbrev dupcliate duplicate
 iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
 iabbrev dupilcating duplicating
+iabbrev Druing During
 iabbrev duriung during
 iabbrev durnig during
 iabbrev dynamci dynamic
@@ -2034,6 +2041,7 @@ iabbrev hndling handling
 iabbrev ahppended happened
 iabbrev hapenning happening
 iabbrev happending happening
+iabbrev happensd happens
 iabbrev ahrd hard
 iabbrev ahas has
 iabbrev ahs has
@@ -2753,6 +2761,7 @@ iabbrev Mosty Mostly
 iabbrev moter motor
 iabbrev Moutnain Mountain
 iabbrev movew move
+iabbrev muychg much
 iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
 iabbrev multiople multiple
@@ -3063,6 +3072,7 @@ iabbrev penatlty penalty
 iabbrev penatly penalty
 iabbrev peiople people
 iabbrev pepople people
+iabbrev poeple people
 iabbrev popele people
 iabbrev Perfomrance Performance
 iabbrev perfomance performance
