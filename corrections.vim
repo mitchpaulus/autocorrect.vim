@@ -583,6 +583,7 @@ iabbrev capabiltiyt capability
 iabbrev capacitnace capacitance
 iabbrev Capaicyt Capacity
 iabbrev capaciyt capacity
+iabbrev capcaity capacity
 iabbrev capicaity capacity
 iabbrev capicity capacity
 iabbrev cappactiy capacity
@@ -1298,6 +1299,7 @@ iabbrev driectly directly
 iabbrev directoriues directories
 iabbrev direcdtory directory
 iabbrev direcotry directory
+iabbrev direcotyr directory
 iabbrev directoy directory
 iabbrev directoyr directory
 iabbrev directry directory
@@ -1382,6 +1384,7 @@ iabbrev downo down
 iabbrev downlaod download
 iabbrev DOwnlaoded Downloaded
 iabbrev dowloaded downloaded
+iabbrev downlladed downloaded
 iabbrev dowenloads downloads
 iabbrev DOwnstairs Downstairs
 iabbrev downstrream downstream
@@ -1395,6 +1398,7 @@ iabbrev draings drawings
 iabbrev drawwigns drawings
 iabbrev drwan drawn
 iabbrev dirve drive
+iabbrev drivesr drivers
 iabbrev dorp drop
 iabbrev dropwdown dropdown
 iabbrev diuct duct
@@ -2288,6 +2292,7 @@ iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev insdie inside
 iabbrev inspried inspired
+iabbrev INstall Install
 iabbrev insatll install
 iabbrev installaiton installation
 iabbrev instlalation installation
@@ -2378,6 +2383,7 @@ iabbrev ITem Item
 iabbrev Itme Item
 iabbrev itme item
 iabbrev ITems Items
+iabbrev Itesm Items
 iabbrev Itmes Items
 iabbrev imtems items
 iabbrev itemse items
@@ -3420,6 +3426,7 @@ iabbrev pruposes purposes
 iabbrev PUt Put
 iabbrev Pyton Python
 iabbrev pythnon python
+iabbrev Qaulitative Qualitative
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev quaility quality
@@ -3930,6 +3937,7 @@ iabbrev servearl several
 iabbrev sevearl several
 iabbrev shlal shall
 iabbrev hsare share
+iabbrev SharePoitn SharePoint
 iabbrev SharePonint SharePoint
 iabbrev Sharepoitn Sharepoint
 iabbrev Sharpeoitn SharePoint
@@ -4173,6 +4181,7 @@ iabbrev substituations substitutions
 iabbrev substiutions substitutions
 iabbrev subtraciton subtraction
 iabbrev succedded succeeded
+iabbrev succes success
 iabbrev succesful successful
 iabbrev succsesful successful
 iabbrev successivley successively
@@ -4968,6 +4977,7 @@ iabbrev wiht with
 iabbrev wirth with
 iabbrev witha with a
 iabbrev wituh with
+iabbrev wtih with
 iabbrev iwthin within
 iabbrev wihthin within
 iabbrev wihtin within
