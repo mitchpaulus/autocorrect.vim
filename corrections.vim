@@ -55,6 +55,7 @@ iabbrev actulaly actually
 iabbrev Actuatoar Actuator
 iabbrev Adaptaiton Adaptation
 iabbrev ADd Add
+iabbrev Adidtion Addition
 iabbrev addiiton addition
 iabbrev addion addition
 iabbrev addiotn addition
@@ -826,6 +827,7 @@ iabbrev competiting competing
 iabbrev compilaiton compilation
 iabbrev compliaiton compilation
 iabbrev compiel compile
+iabbrev complile compile
 iabbrev ocmplield compiled
 iabbrev pcompiled compiled
 iabbrev complier compiler
@@ -1137,6 +1139,7 @@ iabbrev decreasees decreases
 iabbrev dedicaed dedicated
 iabbrev depper deeper
 iabbrev deafult default
+iabbrev deauflt default
 iabbrev defautl default
 iabbrev defualt default
 iabbrev defatuls defaults
@@ -1339,6 +1342,7 @@ iabbrev Distrcit District
 iabbrev distercit district
 iabbrev distributin distriubtion
 iabbrev dirunal diurnal
+iabbrev ividvie divide
 iabbrev dcouemnt document
 iabbrev docuemnet document
 iabbrev docuemnt document
@@ -1550,6 +1554,7 @@ iabbrev enviromenmtn environment
 iabbrev enviroment environment
 iabbrev environement environment
 iabbrev environemnt environment
+iabbrev environemtn environment
 iabbrev environemtnet environment
 iabbrev enviromental environmental
 iabbrev environemntes environments
@@ -1921,6 +1926,7 @@ iabbrev Fucntion Function
 iabbrev fucniton function
 iabbrev fucntion function
 iabbrev funciotn function
+iabbrev funcitdon function
 iabbrev funcitno function
 iabbrev funciton function
 iabbrev functdion function
@@ -2195,6 +2201,7 @@ iabbrev inlcude include
 iabbrev Inclucded Included
 iabbrev inclucded included
 iabbrev includede included
+iabbrev INclues Includes
 iabbrev Inlcues Includes
 iabbrev includddes includes
 iabbrev inlcudes includes
@@ -2354,6 +2361,7 @@ iabbrev intorducted introduced
 iabbrev introducted introduced
 iabbrev Intorductino Introduction
 iabbrev Intorduction Introduction
+iabbrev Introduciont Introduction
 iabbrev Introduciton Introduction
 iabbrev intution intuition
 iabbrev invserse inverse
@@ -2585,6 +2593,7 @@ iabbrev manula manual
 iabbrev manulas manuals
 iabbrev mahy many
 iabbrev mnay many
+iabbrev mpa map
 iabbrev mappign mapping
 iabbrev mpaping mapping
 iabbrev mapas maps
@@ -2602,6 +2611,7 @@ iabbrev matcing matching
 iabbrev materla material
 iabbrev mathematica Mathematica
 iabbrev matehematical mathematical
+iabbrev mathematicla mathematical
 iabbrev mathematicans mathematicians
 iabbrev Matalb Matlab
 iabbrev Matlba Matlab
@@ -2772,8 +2782,10 @@ iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
 iabbrev multiople multiple
 iabbrev multple multiple
+iabbrev multiplicaiton multiplication
 iabbrev multiopleyer multiplier
 iabbrev multipoliers multipliers
+iabbrev Multipy Multiply
 iabbrev multipling multiplying
 iabbrev msut must
 iabbrev Mutaul Mutual
@@ -2797,6 +2809,7 @@ iabbrev neeccessary necessary
 iabbrev NEed Need
 iabbrev NEedc Need
 iabbrev ened need
+iabbrev eneded needed
 iabbrev eneds needs
 iabbrev neeeds needs
 iabbrev n3egative negative
@@ -3027,6 +3040,7 @@ iabbrev overestimat overestimate
 iabbrev overaly overlay
 iabbrev OVerview Overview
 iabbrev onw own
+iabbrev pacakge package
 iabbrev packgae package
 iabbrev pakcaged packaged
 iabbrev Pakcing Packing
@@ -3048,6 +3062,7 @@ iabbrev pareameters parameters
 iabbrev parmaetesr parameters
 iabbrev paretn parent
 iabbrev partent parent
+iabbrev Parentheiss Parenthesis
 iabbrev paretns parents
 iabbrev aprse parse
 iabbrev paresr parser
@@ -4019,6 +4034,7 @@ iabbrev samrt smart
 iabbrev Simth Smith
 iabbrev smtp SMTP
 iabbrev spo so
+iabbrev sopa soap
 iabbrev Socail Social
 iabbrev socail social
 iabbrev Softwaere Software
@@ -4122,6 +4138,7 @@ iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
 iabbrev Statemments Statements
+iabbrev statemntes statements
 iabbrev statemtns statements
 iabbrev statments statements
 iabbrev staes states
@@ -4394,6 +4411,7 @@ iabbrev tempalate template
 iabbrev tempalge template
 iabbrev tempalte template
 iabbrev tmeplate template
+iabbrev TEmplates Templates
 iabbrev Tempelatse Templates
 iabbrev tempaltes templates
 iabbrev templasets templates
@@ -4811,6 +4829,7 @@ iabbrev varailbe variable
 iabbrev variaglbe variable
 iabbrev varialbe variable
 iabbrev variazble variable
+iabbrev Varialbes Variables
 iabbrev vairlabes variables
 iabbrev varialbes variables
 iabbrev varialbles variables
