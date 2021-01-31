@@ -1007,6 +1007,7 @@ iabbrev convensition convention
 iabbrev convetino convention
 iabbrev convetion convention
 iabbrev ocnvention convention
+iabbrev conventioanl conventional
 iabbrev convewrsation conversation
 iabbrev ocnversion conversion
 iabbrev convewrrt convert
@@ -1354,6 +1355,7 @@ iabbrev docuemnt document
 iabbrev docuemtn document
 iabbrev doecuemnt document
 iabbrev doecument document
+iabbrev Docuemntaiont Documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
 iabbrev Documentaiont Documentation
@@ -1368,6 +1370,7 @@ iabbrev docuematnoin documentation
 iabbrev docuemenation documentation
 iabbrev docuementation documentation
 iabbrev docuemnation documentation
+iabbrev docuemneation documentation
 iabbrev docuemntaiton documentation
 iabbrev docuemntation documentation
 iabbrev documenation documentation
@@ -1610,6 +1613,7 @@ iabbrev eerror error
 iabbrev erros errors
 iabbrev errrors errors
 iabbrev errros errors
+iabbrev escpae escape
 iabbrev Especailly Especially
 iabbrev espciallly especially
 iabbrev espcially especially
@@ -1726,6 +1730,7 @@ iabbrev extermanl external
 iabbrev Extermely Extremely
 iabbrev extemrely extremely
 iabbrev extermely extremely
+iabbrev extermley extremely
 iabbrev extrremely extremely
 iabbrev facebook Facebook
 iabbrev facilites facilities
@@ -1825,6 +1830,7 @@ iabbrev Finsihing Finishing
 iabbrev finsihing finishing
 iabbrev Firmna Firman
 iabbrev Friman Firman
+iabbrev FIrst First
 iabbrev Frist First
 iabbrev frist first
 iabbrev ifrst first
@@ -1939,6 +1945,7 @@ iabbrev funciton function
 iabbrev functdion function
 iabbrev functino function
 iabbrev fundction function
+iabbrev ufnction function
 iabbrev Fucnttional Functional
 iabbrev Functianl Functional
 iabbrev Functinal Functional
@@ -1946,6 +1953,7 @@ iabbrev Functioanl Functional
 iabbrev funcationl functional
 iabbrev funcitonal functional
 iabbrev functioanl functional
+iabbrev funtional functional
 iabbrev fucntionality functionality
 iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
@@ -1985,6 +1993,7 @@ iabbrev genral general
 iabbrev gernal general
 iabbrev gneeral general
 iabbrev gneral general
+iabbrev genearlly generally
 iabbrev gnerally generally
 iabbrev genreate generate
 iabbrev gnerate generate
@@ -2124,6 +2133,7 @@ iabbrev horus hours
 iabbrev hoursin hours in
 iabbrev hrous hours
 iabbrev HOw How
+iabbrev hwo how
 iabbrev HOwever However
 iabbrev Howerver However
 iabbrev howerver however
@@ -2461,8 +2471,11 @@ iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
 iabbrev Lanugauge Language
+iabbrev lanaguate language
+iabbrev languagte language
 iabbrev langurage language
 iabbrev lnaguage language
+iabbrev lnaguages languages
 iabbrev alrge large
 iabbrev lrage large
 iabbrev alst last
@@ -2658,6 +2671,7 @@ iabbrev mechancial mechanical
 iabbrev mechancila mechanical
 iabbrev mechanicl mechanical
 iabbrev mechanicla mechanical
+iabbrev mechincal mechanical
 iabbrev mechnaical mechanical
 iabbrev mechnaicla mechanical
 iabbrev Meida Media
@@ -2688,6 +2702,7 @@ iabbrev meothds methods
 iabbrev Microsfot Microsoft
 iabbrev midinght midnight
 iabbrev mgiht might
+iabbrev mihgt might
 iabbrev migraiton migration
 iabbrev migraitons migrations
 iabbrev militayr military
@@ -3151,6 +3166,7 @@ iabbrev pipelien pipeline
 iabbrev piplien pipeline
 iabbrev palce place
 iabbrev placehodler placeholder
+iabbrev placehodlers placeholders
 iabbrev palcement placement
 iabbrev plian plain
 iabbrev Paln Plan
@@ -3322,6 +3338,7 @@ iabbrev preiovus previous
 iabbrev preiovuus previous
 iabbrev preivoius previous
 iabbrev preivous previous
+iabbrev Preiovusly Previously
 iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
 iabbrev Prviouslyu Previously
@@ -3407,6 +3424,7 @@ iabbrev projedts projects
 iabbrev projets projects
 iabbrev projexts projects
 iabbrev projgects projects
+iabbrev pronouncable pronounceable
 iabbrev porper proper
 iabbrev Propelry Properly
 iabbrev proepely properly
@@ -3609,6 +3627,7 @@ iabbrev Reorgainze Reorganize
 iabbrev Reparing Repairing
 iabbrev reparis repairs
 iabbrev repateing repeating
+iabbrev repitition repetition
 iabbrev repitive repetitive
 iabbrev Repalce Replace
 iabbrev repclaced replaced
@@ -3805,6 +3824,7 @@ iabbrev Schewdule Schedule
 iabbrev schdeule schedule
 iabbrev schdule schedule
 iabbrev scheudle schedule
+iabbrev scheulde schedule
 iabbrev scheduleted scheduled
 iabbrev scheudled scheduled
 iabbrev scueheudled scheduled
@@ -4142,6 +4162,7 @@ iabbrev starign starting
 iabbrev starst starts
 iabbrev staturup startup
 iabbrev astatemtn statement
+iabbrev statemet statement
 iabbrev statemetn statement
 iabbrev statemnet statement
 iabbrev statemnt statement
@@ -4167,6 +4188,7 @@ iabbrev stuatus status
 iabbrev staem steam
 iabbrev stpe step
 iabbrev Stpes Steps
+iabbrev stesp steps
 iabbrev stpes steps
 iabbrev STill Still
 iabbrev sitll still
@@ -4253,6 +4275,7 @@ iabbrev swtiches switches
 iabbrev Sycn Sync
 iabbrev Syunc Sync
 iabbrev synicng syncing
+iabbrev SYntax Syntax
 iabbrev synatx syntax
 iabbrev sysntax syntax
 iabbrev syntehtic synthetic
@@ -4306,6 +4329,7 @@ iabbrev techincal technical
 iabbrev techinckal technical
 iabbrev techinial technical
 iabbrev techinical technical
+iabbrev Techincally Technically
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
 iabbrev Techonology Technology
@@ -4507,6 +4531,7 @@ iabbrev tyhe the
 iabbrev hteir their
 iabbrev thier their
 iabbrev htem them
+iabbrev thme them
 iabbrev tehmselves themselves
 iabbrev THen Then
 iabbrev hten then
@@ -4555,6 +4580,7 @@ iabbrev thnig thing
 iabbrev THings Things
 iabbrev thigns things
 iabbrev THink Think
+iabbrev htink think
 iabbrev thingks thinks
 iabbrev THird Third
 iabbrev thrid third
@@ -4973,6 +4999,7 @@ iabbrev whne when
 iabbrev whten when
 iabbrev Wheer Where
 iabbrev whearas whereas
+iabbrev whereever wherever
 iabbrev wehtehrt whether
 iabbrev wehther whether
 iabbrev whehter whether
