@@ -761,6 +761,7 @@ iabbrev comforltable comfortable
 iabbrev comfortbalbe comfortable
 iabbrev comfortbale comfortable
 iabbrev comign coming
+iabbrev ocming coming
 iabbrev Commadn Command
 iabbrev comand command
 iabbrev commadn command
@@ -862,6 +863,7 @@ iabbrev comptuer computer
 iabbrev comptuers computers
 iabbrev concewpt concept
 iabbrev ocncept concept
+iabbrev concenr concern
 iabbrev corencen concern
 iabbrev concertns concerns
 iabbrev concewrns concerns
@@ -883,6 +885,7 @@ iabbrev conditoin condition
 iabbrev condtion condition
 iabbrev conditiojing conditioning
 iabbrev conditinos conditions
+iabbrev conditionns conditions
 iabbrev conditnions conditions
 iabbrev conditoins conditions
 iabbrev condtiosn conditions
@@ -1064,6 +1067,7 @@ iabbrev coutnery country
 iabbrev coutns counts
 iabbrev Coutnyt County
 iabbrev coures course
+iabbrev covver cover
 iabbrev cracs CRACs
 iabbrev crnaked cranked
 iabbrev creatd created
@@ -1261,6 +1265,7 @@ iabbrev Deveil Devil
 iabbrev diagrma diagram
 iabbrev digarm diagram
 iabbrev dailog dialog
+iabbrev diaglog dialog
 iabbrev Dicitonary Dictionary
 iabbrev Dictiorany Dictionary
 iabbrev dicitonary dictionary
@@ -1723,6 +1728,7 @@ iabbrev extemrely extremely
 iabbrev extermely extremely
 iabbrev extrremely extremely
 iabbrev facebook Facebook
+iabbrev facilites facilities
 iabbrev FAcility Facility
 iabbrev FAciltiy Facility
 iabbrev FAiclity Facility
@@ -1916,6 +1922,7 @@ iabbrev fromm from
 iabbrev rom from
 iabbrev fornt front
 iabbrev frnt front
+iabbrev frotn front
 iabbrev frontedn frontend
 iabbrev ftp FTP
 iabbrev FUel Fuel
@@ -2143,6 +2150,7 @@ iabbrev identifieres identifiers
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
+iabbrev iamges images
 iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impement implement
@@ -2284,6 +2292,7 @@ iabbrev initate initiate
 iabbrev intitiating initiating
 iabbrev inelt inlet
 iabbrev linet inlet
+iabbrev inlien inline
 iabbrev INput Input
 iabbrev innput input
 iabbrev inpout input
@@ -2913,6 +2922,7 @@ iabbrev ommited omitted
 iabbrev ommitted omitted
 iabbrev onr on
 iabbrev ONce Once
+iabbrev onec once
 iabbrev ONe One
 iabbrev noe one
 iabbrev OneNtoe OneNote
@@ -4648,6 +4658,7 @@ iabbrev transpaerent transparent
 iabbrev transporation transportation
 iabbrev transportionat transportation
 iabbrev travelled traveled
+iabbrev traeated treated
 iabbrev rtrend trend
 iabbrev tnred trend
 iabbrev trand trend
@@ -4977,6 +4988,7 @@ iabbrev WHo Who
 iabbrev Whiole Whole
 iabbrev wholeheardely wholeheartedly
 iabbrev wikipedia wikipedia
+iabbrev Willaiams Williams
 iabbrev iwndow window
 iabbrev widnow window
 iabbrev windwow window
