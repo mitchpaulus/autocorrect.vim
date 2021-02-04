@@ -23,6 +23,7 @@ iabbrev accesible accessible
 iabbrev accidently accidentally
 iabbrev accompying accompanying
 iabbrev accompolish accomplish
+iabbrev acocmplish accomplish
 iabbrev Accordiing According
 iabbrev accoriding according
 iabbrev accoridng according
@@ -624,6 +625,7 @@ iabbrev certianly certainly
 iabbrev certificaiton certification
 iabbrev chanin chain
 iabbrev chiar chair
+iabbrev Chagne Change
 iabbrev chagne change
 iabbrev chnage change
 iabbrev chagnes changes
@@ -1084,6 +1086,7 @@ iabbrev critcial critical
 iabbrev criticial critical
 iabbrev crtricial critical
 iabbrev ctirical critical
+iabbrev critisms criticism
 iabbrev curerent current
 iabbrev currrent current
 iabbrev currtent current
@@ -1091,6 +1094,7 @@ iabbrev Currenlty Currently
 iabbrev curerntly currently
 iabbrev currenlty currently
 iabbrev currenltyl currently
+iabbrev currenlyt currently
 iabbrev currenty currently
 iabbrev curosr cursor
 iabbrev curvativure curvature
@@ -1639,6 +1643,7 @@ iabbrev estimatoin estimation
 iabbrev ethecial ethical
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
+iabbrev evaulate evaluate
 iabbrev evaluateed evaluated
 iabbrev Evaulating Evaluating
 iabbrev Evalutation Evaluation
@@ -2103,7 +2108,9 @@ iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev highlihgt highlight
 iabbrev hgihlighting highlighting
+iabbrev highlighing highlighting
 iabbrev highlihgting highlighting
+iabbrev highlihting highlighting
 iabbrev himsellf himself
 iabbrev hsi his
 iabbrev Histoiran Historian
@@ -2152,6 +2159,7 @@ iabbrev humidty humidity
 iabbrev humitiy humidity
 iabbrev Huniting Hunting
 iabbrev hunignt hunting
+iabbrev hypens hyphens
 iabbrev hystersis hysteresis
 iabbrev Ina Ian
 iabbrev idael ideal
@@ -2259,6 +2267,7 @@ iabbrev infmraiont information
 iabbrev infoirmaiotn information
 iabbrev infolmraotn information
 iabbrev infomariotn information
+iabbrev infomraiont information
 iabbrev infomraiotn information
 iabbrev infomraiton information
 iabbrev infomration information
@@ -2317,6 +2326,7 @@ iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev insdie inside
+iabbrev inspiratiosn inspirations
 iabbrev inspried inspired
 iabbrev INstall Install
 iabbrev insatll install
@@ -2471,6 +2481,7 @@ iabbrev liack lack
 iabbrev lamdba lambda
 iabbrev alnding landing
 iabbrev Lanugauge Language
+iabbrev alanguage language
 iabbrev lanaguate language
 iabbrev languagte language
 iabbrev langurage language
@@ -2560,6 +2571,7 @@ iabbrev lgo log
 iabbrev logarighm logarithm
 iabbrev logartihm logarithm
 iabbrev logatrihm logarithm
+iabbrev lgic logic
 iabbrev loigc logic
 iabbrev logisitcs logistics
 iabbrev lgos logs
@@ -2630,6 +2642,7 @@ iabbrev Mayr Mary
 iabbrev amster master
 iabbrev mataches matches
 iabbrev matcing matching
+iabbrev materila material
 iabbrev materla material
 iabbrev mathematica Mathematica
 iabbrev matehematical mathematical
@@ -2806,6 +2819,7 @@ iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
 iabbrev multiople multiple
 iabbrev multple multiple
+iabbrev Multiplicaiton Multiplication
 iabbrev multiplicaiton multiplication
 iabbrev multiopleyer multiplier
 iabbrev multipoliers multipliers
@@ -2819,6 +2833,7 @@ iabbrev anme name
 iabbrev naem name
 iabbrev anmeplate nameplate
 iabbrev naems names
+iabbrev anmign naming
 iabbrev namign naming
 iabbrev Natual Natural
 iabbrev nautral natural
@@ -2928,6 +2943,7 @@ iabbrev Octboer October
 iabbrev Octover October
 iabbrev fo of
 iabbrev oif of
+iabbrev officinal official
 iabbrev ofifical official
 iabbrev oftne often
 iabbrev oftentiems oftentimes
@@ -3241,6 +3257,7 @@ iabbrev postive positive
 iabbrev postivie positive
 iabbrev psotiive positive
 iabbrev possibilites possibilities
+iabbrev possibilties possibilities
 iabbrev possilbities possibilities
 iabbrev possilblities possibilities
 iabbrev possiblity possibility
@@ -3756,6 +3773,7 @@ iabbrev retunr return
 iabbrev reutn return
 iabbrev reutnr return
 iabbrev reutrn return
+iabbrev Retuns Returns
 iabbrev Referencewr Reverence
 iabbrev REview Review
 iabbrev Reveiew Review
@@ -4799,6 +4817,7 @@ iabbrev unreadalbe unreadable
 iabbrev unsuccesful unsuccessful
 iabbrev unitl until
 iabbrev UPdate Update
+iabbrev Uppdate Update
 iabbrev upodate update
 iabbrev UPdated Updated
 iabbrev updaetgd updated
