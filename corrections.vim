@@ -40,6 +40,7 @@ iabbrev accross across
 iabbrev acorss across
 iabbrev acrsoss across
 iabbrev Aciton Action
+iabbrev activatino activation
 iabbrev activiation activation
 iabbrev Acitve Active
 iabbrev Actdive Active
@@ -119,6 +120,7 @@ iabbrev Alogn Align
 iabbrev aling align
 iabbrev aligened aligned
 iabbrev al all
+iabbrev lal all
 iabbrev alow allow
 iabbrev alogn along
 iabbrev Alphabatize Alphabetize
@@ -271,6 +273,7 @@ iabbrev raea area
 iabbrev araes areas
 iabbrev argumentets arguments
 iabbrev Arthimetic Arithmetic
+iabbrev arithemtic arithmetic
 iabbrev aorund around
 iabbrev arond around
 iabbrev aroudn around
@@ -785,6 +788,7 @@ iabbrev Commisiongin Commissioning
 iabbrev Commisisiong Commissioning
 iabbrev Commissiioning Commissioning
 iabbrev Commissinoing Commissioning
+iabbrev Commissioing Commissioning
 iabbrev Commissioingin Commissioning
 iabbrev Commissiongin Commissioning
 iabbrev Commissionging Commissioning
@@ -907,6 +911,7 @@ iabbrev configurtation configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
 iabbrev confirmaiton confirmation
+iabbrev Confusted Confused
 iabbrev confustion confusion
 iabbrev conencted connected
 iabbrev conenected connected
@@ -1388,6 +1393,7 @@ iabbrev docuemnted documented
 iabbrev docuementign documenting
 iabbrev documentionat documenting
 iabbrev docuemnts documents
+iabbrev deso does
 iabbrev DOg Dog
 iabbrev donig doing
 iabbrev odmain domain
@@ -2337,6 +2343,7 @@ iabbrev inistalled installed
 iabbrev insatalled installed
 iabbrev insatlled installed
 iabbrev isntalled installed
+iabbrev insatnce instance
 iabbrev Instantenous Instantaneous
 iabbrev instanteous instantaneous
 iabbrev insated instead
@@ -2459,6 +2466,7 @@ iabbrev Ktichen Kitchen
 iabbrev ktichen kitchen
 iabbrev ktiehcne kitchen
 iabbrev kitchnes kitchens
+iabbrev knwo know
 iabbrev knoiwldege knowledge
 iabbrev knowledgable knowledgeable
 iabbrev knonw known
@@ -2541,6 +2549,7 @@ iabbrev littel little
 iabbrev Laod Load
 iabbrev laod load
 iabbrev lodaed loaded
+iabbrev lodaing loading
 iabbrev laods loads
 iabbrev Lobyb Lobby
 iabbrev lboby lobby
@@ -2573,6 +2582,7 @@ iabbrev logartihm logarithm
 iabbrev logatrihm logarithm
 iabbrev lgic logic
 iabbrev loigc logic
+iabbrev logicla logical
 iabbrev logisitcs logistics
 iabbrev lgos logs
 iabbrev slong long
@@ -2763,6 +2773,7 @@ iabbrev modificiations modifications
 iabbrev MOdified Modified
 iabbrev modifeid modified
 iabbrev moidify modify
+iabbrev MOdule Module
 iabbrev moduel module
 iabbrev modulel module
 iabbrev moduels modules
@@ -2956,6 +2967,7 @@ iabbrev ONce Once
 iabbrev onec once
 iabbrev ONe One
 iabbrev noe one
+iabbrev OneDirve OneDrive
 iabbrev OneNtoe OneNote
 iabbrev Ongoiung Ongoing
 iabbrev onging ongoing
@@ -3202,6 +3214,7 @@ iabbrev palying playing
 iabbrev play9ing playing
 iabbrev palys plays
 iabbrev pzlaza plaza
+iabbrev plently plenty
 iabbrev pllt plot
 iabbrev plto plot
 iabbrev pltos plots
@@ -3485,6 +3498,7 @@ iabbrev PUrple Purple
 iabbrev pruposes purposes
 iabbrev PUt Put
 iabbrev Pyton Python
+iabbrev pyhton python
 iabbrev pythnon python
 iabbrev Qaulitative Qualitative
 iabbrev Quailty Quality
@@ -3539,6 +3553,7 @@ iabbrev REAMDE README
 iabbrev reayd ready
 iabbrev reaffrim reaffirm
 iabbrev relaity reality
+iabbrev raelly really
 iabbrev realy really
 iabbrev relaly really
 iabbrev reanalyiss reanalysis
@@ -3615,6 +3630,7 @@ iabbrev realitive relative
 iabbrev realtive relative
 iabbrev relateive relative
 iabbrev rellative relative
+iabbrev relase release
 iabbrev relavent relevant
 iabbrev releif relief
 iabbrev relocaitons relocations
@@ -4818,6 +4834,7 @@ iabbrev unsuccesful unsuccessful
 iabbrev unitl until
 iabbrev UPdate Update
 iabbrev Uppdate Update
+iabbrev upate update
 iabbrev upodate update
 iabbrev UPdated Updated
 iabbrev updaetgd updated
@@ -4880,6 +4897,7 @@ iabbrev valuve valve
 iabbrev vlave valve
 iabbrev vlaves valves
 iabbrev Varialbe Variable
+iabbrev Vrailbe Variable
 iabbrev vairalbe variable
 iabbrev varailbe variable
 iabbrev variaglbe variable
