@@ -4,6 +4,7 @@ iabbrev abbility ability
 iabbrev abililty ability
 iabbrev abillity ability
 iabbrev abiltily ability
+iabbrev abiltiy ability
 iabbrev abiltiyt ability
 iabbrev ABout About
 iabbrev abaout about
@@ -1102,6 +1103,7 @@ iabbrev currenltyl currently
 iabbrev currenlyt currently
 iabbrev currenty currently
 iabbrev curosr cursor
+iabbrev cursro cursor
 iabbrev curvativure curvature
 iabbrev cureves curves
 iabbrev cusomt custom
@@ -1435,6 +1437,7 @@ iabbrev Druing During
 iabbrev duriung during
 iabbrev durnig during
 iabbrev dynamci dynamic
+iabbrev dynaminc dynamic
 iabbrev dynaimally dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
@@ -2937,6 +2940,7 @@ iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
 iabbrev Ojbect Object
+iabbrev objets objects
 iabbrev ojbects objects
 iabbrev obselete obsolete
 iabbrev obviusly obviously
@@ -4674,6 +4678,7 @@ iabbrev tilte title
 iabbrev ot to
 iabbrev oto to
 iabbrev togehter together
+iabbrev otken token
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev TOld Told
@@ -5056,6 +5061,7 @@ iabbrev Willaiams Williams
 iabbrev iwndow window
 iabbrev widnow window
 iabbrev windwow window
+iabbrev WInd0ows Windows
 iabbrev WIndows Windows
 iabbrev Windwos Windows
 iabbrev Windwows Windows
