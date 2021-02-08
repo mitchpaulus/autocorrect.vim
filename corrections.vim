@@ -1111,6 +1111,7 @@ iabbrev cusotm custom
 iabbrev custiom custom
 iabbrev custmo custom
 iabbrev cusotmoer customer
+iabbrev customre customer
 iabbrev CxReproter CxReporter
 iabbrev CxRpeorter CxReporter
 iabbrev cycel cycle
@@ -1827,6 +1828,7 @@ iabbrev fidn find
 iabbrev ifnd find
 iabbrev FInish Finish
 iabbrev Finsih Finish
+iabbrev Finsihs Finish
 iabbrev finsih finish
 iabbrev ifnsish finish
 iabbrev FInished Finished
@@ -3500,6 +3502,7 @@ iabbrev purchse purchase
 iabbrev purcahsed purchased
 iabbrev PUrple Purple
 iabbrev pruposes purposes
+iabbrev purpoess purposes
 iabbrev PUt Put
 iabbrev Pyton Python
 iabbrev pyhton python
@@ -4838,6 +4841,7 @@ iabbrev unreadalbe unreadable
 iabbrev unsuccesful unsuccessful
 iabbrev unitl until
 iabbrev UPdate Update
+iabbrev Upate Update
 iabbrev Uppdate Update
 iabbrev upate update
 iabbrev upodate update
