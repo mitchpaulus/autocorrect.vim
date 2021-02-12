@@ -92,6 +92,7 @@ iabbrev aggreation aggregation
 iabbrev aggregatiuon aggregation
 iabbrev aggregatrion aggregation
 iabbrev aggregration aggregation
+iabbrev aggresive aggressive
 iabbrev aggreement agreement
 iabbrev ahaed ahead
 iabbrev Ari Air
@@ -870,6 +871,7 @@ iabbrev comptuer computer
 iabbrev comptuers computers
 iabbrev concewpt concept
 iabbrev ocncept concept
+iabbrev concetps concepts
 iabbrev concenr concern
 iabbrev corencen concern
 iabbrev concertns concerns
@@ -1385,6 +1387,7 @@ iabbrev docuemnation documentation
 iabbrev docuemneation documentation
 iabbrev docuemntaiton documentation
 iabbrev docuemntation documentation
+iabbrev docuemtnaiton documentation
 iabbrev documenation documentation
 iabbrev documentaion documentation
 iabbrev documentaiont documentation
@@ -1628,6 +1631,7 @@ iabbrev erros errors
 iabbrev errrors errors
 iabbrev errros errors
 iabbrev escpae escape
+iabbrev escapting escaping
 iabbrev Especailly Especially
 iabbrev espciallly especially
 iabbrev espcially especially
@@ -1635,6 +1639,7 @@ iabbrev especitaly especially
 iabbrev essense essence
 iabbrev Eseentially Essentially
 iabbrev essentialy essentially
+iabbrev esttae estate
 iabbrev Esitmate Estimate
 iabbrev eestimate estimate
 iabbrev esimate estimate
@@ -1797,6 +1802,7 @@ iabbrev Fieldn Field
 iabbrev feild field
 iabbrev felied field
 iabbrev feilds fields
+iabbrev fiedls fields
 iabbrev fileds fields
 iabbrev filelds fields
 iabbrev Figurte Figure
@@ -1824,6 +1830,7 @@ iabbrev Finalziing Finalizing
 iabbrev finializing finalizing
 iabbrev Finlaly Finally
 iabbrev fuinally finally
+iabbrev Fidn Find
 iabbrev fidn find
 iabbrev ifnd find
 iabbrev FInish Finish
@@ -1876,6 +1883,7 @@ iabbrev fodler folder
 iabbrev foler folder
 iabbrev oflder folder
 iabbrev fodlers folders
+iabbrev Folow Follow
 iabbrev folloow follow
 iabbrev folloiwing following
 iabbrev followign following
@@ -2020,6 +2028,7 @@ iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev gneeration generation
 iabbrev geneartor generator
+iabbrev gneraator generator
 iabbrev gnerator generator
 iabbrev gneerators generators
 iabbrev geomerty geometry
@@ -2513,6 +2522,7 @@ iabbrev Lengend Legend
 iabbrev lenght length
 iabbrev levle level
 iabbrev lvel level
+iabbrev lvelv level
 iabbrev lvevl level
 iabbrev liason liaison
 iabbrev libaries libraries
@@ -2601,6 +2611,7 @@ iabbrev olop loop
 iabbrev lwo low
 iabbrev Loower Lower
 iabbrev loower lower
+iabbrev machien machine
 iabbrev Macrosciptic Macroscopic
 iabbrev mage made
 iabbrev magentic magnetic
@@ -3591,6 +3602,7 @@ iabbrev reocrded recorded
 iabbrev recoreds records
 iabbrev reocreds records
 iabbrev REdoing Redoing
+iabbrev reduceds reduces
 iabbrev reducition reduction
 iabbrev reducitno reduction
 iabbrev reduciton reduction
@@ -3670,6 +3682,8 @@ iabbrev repateing repeating
 iabbrev repitition repetition
 iabbrev repitive repetitive
 iabbrev Repalce Replace
+iabbrev repalce replace
+iabbrev repladce replace
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev REplacemnt Replacement
@@ -3682,6 +3696,7 @@ iabbrev replacment replacement
 iabbrev repolacemnt replacement
 iabbrev rfeplacemnet replacement
 iabbrev repalcaemnts replacements
+iabbrev replacments replacements
 iabbrev Repoort Report
 iabbrev Reprot Report
 iabbrev erport report
@@ -3957,6 +3972,7 @@ iabbrev seonsors sensors
 iabbrev snesors sensors
 iabbrev snet sent
 iabbrev seaparate separate
+iabbrev seaprate separate
 iabbrev sepaate separate
 iabbrev separatue separate
 iabbrev serpate separate
@@ -4139,6 +4155,7 @@ iabbrev spacew space
 iabbrev spacding spacing
 iabbrev SPAGETTI SPAGHETTI
 iabbrev SPeaker Speaker
+iabbrev Sepcial Special
 iabbrev sepcila special
 iabbrev speical special
 iabbrev Specilized Specialized
@@ -4778,6 +4795,7 @@ iabbrev typicallly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
 iabbrev Ubutntu Ubuntu
+iabbrev Ubutnu Ubuntu
 iabbrev Ultrasonci Ultrasonic
 iabbrev ultrasonci ultrasonic
 iabbrev unaccoutned unaccounted
@@ -4896,6 +4914,7 @@ iabbrev Validatort Validator
 iabbrev valubale valuable
 iabbrev avlue value
 iabbrev valeu value
+iabbrev vaule value
 iabbrev vlaue value
 iabbrev avlues values
 iabbrev valeus values
@@ -4969,6 +4988,7 @@ iabbrev Visti Visit
 iabbrev viisti visit
 iabbrev visti visit
 iabbrev VIsualization Visualization
+iabbrev visualzations visualizations
 iabbrev volcabulary vocabulary
 iabbrev voicemial voicemail
 iabbrev Voluem Volume
