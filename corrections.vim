@@ -66,6 +66,7 @@ iabbrev addtion addition
 iabbrev Addiitonal Additional
 iabbrev Additioanl Additional
 iabbrev addiitonal additional
+iabbrev addiontal additional
 iabbrev additinal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
@@ -136,6 +137,7 @@ iabbrev aslo also
 iabbrev Althouugh Although
 iabbrev Athough Although
 iabbrev althoguh although
+iabbrev altogehter altogether
 iabbrev alsways always
 iabbrev alwyas always
 iabbrev amounto amount
@@ -581,6 +583,7 @@ iabbrev clal call
 iabbrev caem came
 iabbrev cmae came
 iabbrev camerag camera
+iabbrev CAn Can
 iabbrev canbe can be
 iabbrev cna can
 iabbrev cancelled canceled
@@ -841,6 +844,7 @@ iabbrev ocmplield compiled
 iabbrev pcompiled compiled
 iabbrev complier compiler
 iabbrev compoiler compiler
+iabbrev compliing compiling
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compelte complete
@@ -1087,6 +1091,7 @@ iabbrev Creaiton Creation
 iabbrev credentails credentials
 iabbrev credites credits
 iabbrev Cresent Crescent
+iabbrev creiteria criteria
 iabbrev crediterion criterion
 iabbrev creiterion criterion
 iabbrev ciritical critical
@@ -1409,6 +1414,7 @@ iabbrev dobule double
 iabbrev doewn down
 iabbrev donw down
 iabbrev downo down
+iabbrev DOwnload Download
 iabbrev downlaod download
 iabbrev DOwnlaoded Downloaded
 iabbrev dowloaded downloaded
@@ -1577,6 +1583,7 @@ iabbrev enviormentmt environment mt
 iabbrev enviornment environment
 iabbrev enviromenmtn environment
 iabbrev enviroment environment
+iabbrev enviromoent environment
 iabbrev environement environment
 iabbrev environemnt environment
 iabbrev environemtn environment
@@ -1664,6 +1671,7 @@ iabbrev Evaulating Evaluating
 iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
 iabbrev evaluatiion evaluation
+iabbrev evaluatino evaluation
 iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
 iabbrev evaluuation evaluation
@@ -1714,6 +1722,7 @@ iabbrev exisitn existing
 iabbrev exisitng existing
 iabbrev existng existing
 iabbrev eapnd expand
+iabbrev exapandde expanded
 iabbrev expannding expanding
 iabbrev epansion expansion
 iabbrev exapansion expansion
@@ -1803,6 +1812,7 @@ iabbrev feild field
 iabbrev felied field
 iabbrev feilds fields
 iabbrev fiedls fields
+iabbrev fielsds fields
 iabbrev fileds fields
 iabbrev filelds fields
 iabbrev Figurte Figure
@@ -1975,6 +1985,7 @@ iabbrev Functianl Functional
 iabbrev Functinal Functional
 iabbrev Functioanl Functional
 iabbrev funcationl functional
+iabbrev funcitional functional
 iabbrev funcitonal functional
 iabbrev functioanl functional
 iabbrev funtional functional
@@ -1995,6 +2006,7 @@ iabbrev fucntiosn functions
 iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
+iabbrev functiosn functions
 iabbrev fudnamental fundamental
 iabbrev FUndamentals Fundamentals
 iabbrev Furneral Funeral
@@ -2049,6 +2061,7 @@ iabbrev cgoing going
 iabbrev goinv going
 iabbrev goiung going
 iabbrev gonig going
+iabbrev oging going
 iabbrev GOod Good
 iabbrev Googoel Google
 iabbrev govenrment government
@@ -2221,6 +2234,7 @@ iabbrev Implemtner Implementer
 iabbrev Implmeenter Implementer
 iabbrev Implmeneter Implementer
 iabbrev impleid implied
+iabbrev improt import
 iabbrev importantance importance
 iabbrev importantce importance
 iabbrev Importatnt Important
@@ -2236,6 +2250,8 @@ iabbrev improatnt important
 iabbrev improtant important
 iabbrev improtatn important
 iabbrev importatnly importantly
+iabbrev Improts Imports
+iabbrev improts imports
 iabbrev imporve improve
 iabbrev improeved improved
 iabbrev ina in a
@@ -2564,6 +2580,7 @@ iabbrev littel little
 iabbrev Laod Load
 iabbrev laod load
 iabbrev lodaed loaded
+iabbrev laoding loading
 iabbrev lodaing loading
 iabbrev laods loads
 iabbrev Lobyb Lobby
@@ -2580,6 +2597,7 @@ iabbrev locator locater
 iabbrev Locaiton Location
 iabbrev lcoaiton location
 iabbrev lcoation location
+iabbrev locaiont location
 iabbrev locaiotn location
 iabbrev locaitno location
 iabbrev locaiton location
@@ -2656,6 +2674,7 @@ iabbrev mnay many
 iabbrev mpa map
 iabbrev mappign mapping
 iabbrev mpaping mapping
+iabbrev mappigns mappings
 iabbrev mapas maps
 iabbrev Marhc March
 iabbrev Marhd March
@@ -3385,6 +3404,7 @@ iabbrev preiovus previous
 iabbrev preiovuus previous
 iabbrev preivoius previous
 iabbrev preivous previous
+iabbrev Preiovulsy Previously
 iabbrev Preiovusly Previously
 iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
@@ -3437,6 +3457,7 @@ iabbrev fprofile profile
 iabbrev profeil profile
 iabbrev profjiels profiles
 iabbrev PRogram Program
+iabbrev Progrma Program
 iabbrev porgram program
 iabbrev prgoram program
 iabbrev progmra program
@@ -3978,6 +3999,8 @@ iabbrev separatue separate
 iabbrev serpate separate
 iabbrev speaarte separate
 iabbrev seperated separated
+iabbrev seaparter separator
+iabbrev separater separator
 iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
 iabbrev seequence sequence
@@ -4079,6 +4102,7 @@ iabbrev singal signal
 iabbrev signficant significant
 iabbrev signifiatn significant
 iabbrev significat significant
+iabbrev significati significant
 iabbrev significatn significant
 iabbrev Significatly Significantly
 iabbrev signficantly significantly
@@ -4562,6 +4586,7 @@ iabbrev texst text
 iabbrev htan than
 iabbrev thna than
 iabbrev Thanskgiving Thanksgiving
+iabbrev THat That
 iabbrev Taht That
 iabbrev athat that
 iabbrev atht that
@@ -5151,6 +5176,7 @@ iabbrev workds works
 iabbrev owrksheet worksheet
 iabbrev wroth worth
 iabbrev WOuld Would
+iabbrev fwould would
 iabbrev ouwld would
 iabbrev owuld would
 iabbrev owule would
