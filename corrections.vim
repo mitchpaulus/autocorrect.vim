@@ -821,6 +821,7 @@ iabbrev commmon common
 iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev communciates communicates
+iabbrev commujnication communication
 iabbrev communcaiton communication
 iabbrev communicaiotn communication
 iabbrev communicaiton communication
@@ -878,6 +879,7 @@ iabbrev ocncept concept
 iabbrev concetps concepts
 iabbrev concenr concern
 iabbrev corencen concern
+iabbrev concersn concerns
 iabbrev concertns concerns
 iabbrev concewrns concerns
 iabbrev conercns concerns
@@ -1487,6 +1489,7 @@ iabbrev Electirckal Electrical
 iabbrev Electricial Electrical
 iabbrev Electricla Electrical
 iabbrev eelectyrical electrical
+iabbrev elecricial electrical
 iabbrev electricial electrical
 iabbrev electricla electrical
 iabbrev ewlectrical electrical
@@ -2388,6 +2391,7 @@ iabbrev intanible intangible
 iabbrev intergral integral
 iabbrev Integratign Integrating
 iabbrev integraiton integration
+iabbrev integrtation integration
 iabbrev integrations integrations
 iabbrev intelligcne intelligence
 iabbrev initended intended
@@ -4237,6 +4241,7 @@ iabbrev staffign staffing
 iabbrev stari stair
 iabbrev Standand Standard
 iabbrev satandrad standard
+iabbrev standpoitn standpoint
 iabbrev stadns stands
 iabbrev strated started
 iabbrev Starign Starting
@@ -4300,6 +4305,7 @@ iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
 iabbrev submittall submittal
+iabbrev submitalls submittals
 iabbrev submittals submittals
 iabbrev subimitteed submitted
 iabbrev submiting submitting
@@ -4752,6 +4758,7 @@ iabbrev trialing trailing
 iabbrev Traingin Training
 iabbrev Trainign Training
 iabbrev Trinaing Training
+iabbrev traiingng training
 iabbrev traingin training
 iabbrev trainging training
 iabbrev trainign training
@@ -4801,6 +4808,7 @@ iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
 iabbrev Tuyesdayf Tuesday
+iabbrev trunaround turnaround
 iabbrev turing turning
 iabbrev TUrns Turns
 iabbrev twekaing tweaking
