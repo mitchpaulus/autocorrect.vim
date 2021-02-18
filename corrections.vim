@@ -139,6 +139,7 @@ iabbrev Athough Although
 iabbrev althoguh although
 iabbrev altogehter altogether
 iabbrev alsways always
+iabbrev alwasy always
 iabbrev alwyas always
 iabbrev amounto amount
 iabbrev amoutn amount
@@ -1007,6 +1008,7 @@ iabbrev contyrolled controlled
 iabbrev contorller controller
 iabbrev contorllers controllers
 iabbrev contreollers controllers
+iabbrev Controllign Controlling
 iabbrev Contorls Controls
 iabbrev Contrls Controls
 iabbrev conrols controls
@@ -1078,6 +1080,7 @@ iabbrev coudl could
 iabbrev coulds could
 iabbrev coulld could
 iabbrev coulod could
+iabbrev oucld could
 iabbrev Coutn Count
 iabbrev Coutnry Country
 iabbrev coutnery country
@@ -1171,11 +1174,13 @@ iabbrev defualt default
 iabbrev defatuls defaults
 iabbrev fdefine define
 iabbrev definned defined
+iabbrev defininng defining
 iabbrev Definiteyl Definitely
 iabbrev definiteyl definitely
 iabbrev Defintion Definition
 iabbrev defintion definition
 iabbrev definiations definitions
+iabbrev defintions definitions
 iabbrev degress degrees
 iabbrev Dehumidificaiton Dehumidification
 iabbrev dehumidifcation dehumidification
@@ -1467,6 +1472,7 @@ iabbrev Ediosn Edison
 iabbrev Edision Edison
 iabbrev Ediston Edison
 iabbrev Eidson Edison
+iabbrev edigint editing
 iabbrev effectiley effectively
 iabbrev effectivientss effectiveness
 iabbrev effectes effects
@@ -1695,6 +1701,7 @@ iabbrev Exmpale Example
 iabbrev exampel example
 iabbrev exmaple example
 iabbrev exmpale example
+iabbrev expmaple example
 iabbrev exmapllse examples
 iabbrev Ecxel Excel
 iabbrev Excewl Excel
@@ -1750,6 +1757,7 @@ iabbrev expoennetial exponential
 iabbrev expononetials exponentials
 iabbrev exponnets exponents
 iabbrev exprot export
+iabbrev epxorted exported
 iabbrev exproted exported
 iabbrev expowse expose
 iabbrev exposign exposing
@@ -1784,6 +1792,7 @@ iabbrev farhenheit Fahrenheit
 iabbrev fialure failure
 iabbrev failry fairly
 iabbrev faily fairly
+iabbrev farily fairly
 iabbrev fiarly fairly
 iabbrev flase false
 iabbrev familar familiar
@@ -2071,6 +2080,7 @@ iabbrev govenrment government
 iabbrev governemnt government
 iabbrev gmp gpm
 iabbrev graduyation graduation
+iabbrev gramamrs grammars
 iabbrev grpahic graphic
 iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
@@ -2201,6 +2211,7 @@ iabbrev Ina Ian
 iabbrev idael ideal
 iabbrev indentifier identifier
 iabbrev identifieres identifiers
+iabbrev indentifiers identifiers
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
@@ -2342,6 +2353,8 @@ iabbrev intiail initial
 iabbrev intial initial
 iabbrev intiial initial
 iabbrev nitial initial
+iabbrev initializaiton initialization
+iabbrev intialization initialization
 iabbrev Intially Initially
 iabbrev initiailly initially
 iabbrev intially initially
@@ -2976,6 +2989,8 @@ iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
 iabbrev Ojbect Object
+iabbrev ojbect object
+iabbrev obejcts objects
 iabbrev objets objects
 iabbrev ojbects objects
 iabbrev obselete obsolete
@@ -3053,6 +3068,7 @@ iabbrev optimziatino optimization
 iabbrev optimziation optimization
 iabbrev otptimziaton optimization
 iabbrev optimzie optimize
+iabbrev opiton option
 iabbrev Opitons Options
 iabbrev opitions options
 iabbrev opitons options
@@ -3164,6 +3180,7 @@ iabbrev aprt part
 iabbrev aprtial partial
 iabbrev paritla partial
 iabbrev partail partial
+iabbrev partialy partially
 iabbrev Particiapnts Participants
 iabbrev aprticular particular
 iabbrev paraticlaur particular
@@ -3211,6 +3228,7 @@ iabbrev perisonal personal
 iabbrev perosnal personal
 iabbrev personla personal
 iabbrev pwersonal personal
+iabbrev persoinally personally
 iabbrev PHase Phase
 iabbrev PHawse Phase
 iabbrev Pahse Phase
@@ -3250,6 +3268,8 @@ iabbrev platn plant
 iabbrev polant plant
 iabbrev palusible plausible
 iabbrev paly play
+iabbrev plya play
+iabbrev Playbakc Playback
 iabbrev palying playing
 iabbrev play9ing playing
 iabbrev palys plays
@@ -3608,6 +3628,7 @@ iabbrev reasonlabe reasonable
 iabbrev reasonlable reasonable
 iabbrev resaonable reasonable
 iabbrev REasonably Reasonably
+iabbrev reasonablely reasonably
 iabbrev reasonalbly reasonably
 iabbrev rubuttal rebuttal
 iabbrev reclaibrated recalibrated
@@ -3698,6 +3719,7 @@ iabbrev remvoe remove
 iabbrev reomve remove
 iabbrev removewd removed
 iabbrev reomved removed
+iabbrev renamign renaming
 iabbrev REno Reno
 iabbrev reorganizatiojn reorganization
 iabbrev Reorgainze Reorganize
@@ -3720,8 +3742,10 @@ iabbrev replacemetn replacement
 iabbrev replacment replacement
 iabbrev repolacemnt replacement
 iabbrev rfeplacemnet replacement
+iabbrev rpelacement replacement
 iabbrev repalcaemnts replacements
 iabbrev replacments replacements
+iabbrev replcaer replacer
 iabbrev Repoort Report
 iabbrev Reprot Report
 iabbrev erport report
@@ -3855,6 +3879,7 @@ iabbrev Roadd Road
 iabbrev robuts robust
 iabbrev rooom room
 iabbrev roattion rotation
+iabbrev rouund round
 iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
@@ -4003,6 +4028,7 @@ iabbrev separatue separate
 iabbrev serpate separate
 iabbrev speaarte separate
 iabbrev seperated separated
+iabbrev spearaetd separated
 iabbrev seaparter separator
 iabbrev separater separator
 iabbrev Sequcnece Sequence
@@ -4292,6 +4318,7 @@ iabbrev strenght strength
 iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev Sring String
+iabbrev STrings Strings
 iabbrev strucutre structure
 iabbrev Studnent Student
 iabbrev studnet student
@@ -4732,6 +4759,7 @@ iabbrev togehter together
 iabbrev otken token
 iabbrev toekn token
 iabbrev otkens tokens
+iabbrev toekns tokens
 iabbrev TOld Told
 iabbrev TOll Toll
 iabbrev Tooll Toll
