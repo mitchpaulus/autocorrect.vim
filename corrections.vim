@@ -1375,6 +1375,7 @@ iabbrev distercit district
 iabbrev distributin distriubtion
 iabbrev dirunal diurnal
 iabbrev ividvie divide
+iabbrev odcs docs
 iabbrev dcouemnt document
 iabbrev docuemnet document
 iabbrev docuemnt document
@@ -1604,6 +1605,7 @@ iabbrev equail equal
 iabbrev equzl equal
 iabbrev equilaiyt equality
 iabbrev equlaity equality
+iabbrev Equaitno Equation
 iabbrev Equaiton Equation
 iabbrev equaiton equation
 iabbrev equatoin equation
@@ -1688,6 +1690,7 @@ iabbrev evaulation evaluation
 iabbrev ewven even
 iabbrev eventaul eventual
 iabbrev eveyr every
+iabbrev ewvery every
 iabbrev everytone everyone
 iabbrev Everythign Everything
 iabbrev evertyhgin everything
@@ -1737,6 +1740,7 @@ iabbrev expannding expanding
 iabbrev epansion expansion
 iabbrev exapansion expansion
 iabbrev expansionj expansion
+iabbrev exapansions expansions
 iabbrev expecst expect
 iabbrev expecdted expected
 iabbrev expectedc expected
@@ -2496,6 +2500,7 @@ iabbrev JOhn John
 iabbrev Jhon John
 iabbrev Joihn John
 iabbrev Hohnson Johnson
+iabbrev json JSON
 iabbrev Juilian Julian
 iabbrev Julain Julian
 iabbrev Juen June
@@ -2881,6 +2886,7 @@ iabbrev muychg much
 iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
 iabbrev multiople multiple
+iabbrev multipole multiple
 iabbrev multple multiple
 iabbrev Multiplicaiton Multiplication
 iabbrev multiplicaiton multiplication
@@ -3387,6 +3393,7 @@ iabbrev preoparation preparation
 iabbrev prepration preparation
 iabbrev preprationa preparation
 iabbrev preparting preparing
+iabbrev preprend prepend
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
 iabbrev prerequitsite prerequisite
@@ -3816,6 +3823,7 @@ iabbrev reasearch research
 iabbrev researhc research
 iabbrev reserach research
 iabbrev REset Reset
+iabbrev reest reset
 iabbrev resset reset
 iabbrev residentiali residential
 iabbrev residitnetal residential
@@ -4986,6 +4994,7 @@ iabbrev valuve valve
 iabbrev vlave valve
 iabbrev vlaves valves
 iabbrev Varialbe Variable
+iabbrev Varible Variable
 iabbrev Vrailbe Variable
 iabbrev vairalbe variable
 iabbrev varailbe variable
