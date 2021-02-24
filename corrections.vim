@@ -592,6 +592,7 @@ iabbrev capabillites capabilities
 iabbrev capabiliity capability
 iabbrev capabiltiyt capability
 iabbrev capacitnace capacitance
+iabbrev capcaities capacities
 iabbrev Capaicyt Capacity
 iabbrev capaciyt capacity
 iabbrev capcaity capacity
@@ -2112,6 +2113,7 @@ iabbrev ahd had
 iabbrev hbad had
 iabbrev hari hair
 iabbrev ahlls halls
+iabbrev hadn hand
 iabbrev hande handle
 iabbrev ahndling handling
 iabbrev handaling handling
@@ -2432,6 +2434,8 @@ iabbrev itnerla internal
 iabbrev interanlly internally
 iabbrev Internaitional International
 iabbrev Internaitonal International
+iabbrev internalation international
+iabbrev internatial international
 iabbrev inteernet internet
 iabbrev intenet internet
 iabbrev interpoleated interpolated
@@ -3486,6 +3490,7 @@ iabbrev prodcuts products
 iabbrev profient proficient
 iabbrev fprofile profile
 iabbrev profeil profile
+iabbrev profiel profile
 iabbrev profjiels profiles
 iabbrev PRogram Program
 iabbrev Progrma Program
@@ -3704,6 +3709,7 @@ iabbrev relateive relative
 iabbrev rellative relative
 iabbrev relase release
 iabbrev relavent relevant
+iabbrev reliabiltiy reliability
 iabbrev releif relief
 iabbrev relocaitons relocations
 iabbrev REly Rely
@@ -3869,6 +3875,7 @@ iabbrev reutn return
 iabbrev reutnr return
 iabbrev reutrn return
 iabbrev Retuns Returns
+iabbrev REvenue Revenue
 iabbrev Referencewr Reverence
 iabbrev REview Review
 iabbrev Reveiew Review
@@ -4438,6 +4445,7 @@ iabbrev atke take
 iabbrev takne taken
 iabbrev Takign Taking
 iabbrev TMAU TAMU
+iabbrev tnaks tanks
 iabbrev TAsk Task
 iabbrev Taks Task
 iabbrev taks task
@@ -4655,6 +4663,7 @@ iabbrev tyhe the
 iabbrev hteir their
 iabbrev thier their
 iabbrev htem them
+iabbrev htme them
 iabbrev thme them
 iabbrev tehmselves themselves
 iabbrev THen Then
@@ -4789,6 +4798,7 @@ iabbrev totlas totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
 iabbrev tarckign tracking
+iabbrev trakcing tracking
 iabbrev tradiation tradition
 iabbrev trialing trailing
 iabbrev Traingin Training
@@ -5216,6 +5226,7 @@ iabbrev wokring working
 iabbrev wokrking working
 iabbrev woriking working
 iabbrev workign working
+iabbrev Worklaod Workload
 iabbrev WOrks Works
 iabbrev workds works
 iabbrev owrksheet worksheet
