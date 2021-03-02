@@ -1812,6 +1812,7 @@ iabbrev Facotry Factory
 iabbrev Fahrenheti Fahrenheit
 iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
+iabbrev fial fail
 iabbrev fialed failed
 iabbrev failrue failure
 iabbrev fialure failure
@@ -2697,6 +2698,7 @@ iabbrev Maintenence Maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
 iabbrev maintenence maintenance
+iabbrev maintenenece maintenance
 iabbrev moajority majority
 iabbrev Mkae Make
 iabbrev amek make
@@ -2929,6 +2931,7 @@ iabbrev myslef myself
 iabbrev anem name
 iabbrev anme name
 iabbrev naem name
+iabbrev anmepalte nameplate
 iabbrev anmeplate nameplate
 iabbrev naems names
 iabbrev anmign naming
@@ -3301,6 +3304,7 @@ iabbrev palns plans
 iabbrev Palnt Plant
 iabbrev palnt plant
 iabbrev platn plant
+iabbrev plnat plant
 iabbrev polant plant
 iabbrev palusible plausible
 iabbrev paly play
@@ -3399,6 +3403,7 @@ iabbrev pwoered powered
 iabbrev powershell PowerShell
 iabbrev PRactical Practical
 iabbrev pracitcla practical
+iabbrev pratical practical
 iabbrev practivce practice
 iabbrev Prantl Prandtl
 iabbrev precisly precisely
@@ -4851,6 +4856,7 @@ iabbrev tansfer transfer
 iabbrev trnasfer transfer
 iabbrev transferrable transferable
 iabbrev Transferrign Transferring
+iabbrev trnasient transient
 iabbrev transpaerent transparent
 iabbrev transporation transportation
 iabbrev transportionat transportation
@@ -4971,6 +4977,7 @@ iabbrev unoccupierd unoccupied
 iabbrev unoccupiied unoccupied
 iabbrev unreadalbe unreadable
 iabbrev unsuccesful unsuccessful
+iabbrev Unitl Until
 iabbrev unitl until
 iabbrev UPdate Update
 iabbrev Upate Update
