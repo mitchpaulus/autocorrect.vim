@@ -138,6 +138,7 @@ iabbrev Althouugh Although
 iabbrev Athough Although
 iabbrev althoguh although
 iabbrev altogehter altogether
+iabbrev Alwyas Always
 iabbrev alsways always
 iabbrev alwasy always
 iabbrev alwyas always
@@ -190,6 +191,7 @@ iabbrev nadn and
 iabbrev nand and
 iabbrev tand and
 iabbrev Angleles Angeles
+iabbrev anniiversary anniversary
 iabbrev annula annual
 iabbrev annulal annual
 iabbrev naanual annual
@@ -481,6 +483,7 @@ iabbrev Buyild Build
 iabbrev buidl build
 iabbrev BUildeing Building
 iabbrev BUilding Building
+iabbrev Biudlign Building
 iabbrev Buidlgin Building
 iabbrev Buidlign Building
 iabbrev Buidling Building
@@ -593,12 +596,16 @@ iabbrev capabiliity capability
 iabbrev capabiltiyt capability
 iabbrev capacitnace capacitance
 iabbrev capcaities capacities
+iabbrev Capaciyt Capacity
 iabbrev Capaicyt Capacity
+iabbrev capacitity capacity
 iabbrev capaciyt capacity
+iabbrev capaicty capacity
 iabbrev capcaity capacity
 iabbrev capicaity capacity
 iabbrev capicity capacity
 iabbrev cappactiy capacity
+iabbrev cpacity capacity
 iabbrev capations captions
 iabbrev cpations captions
 iabbrev caputre capture
@@ -626,8 +633,10 @@ iabbrev centrla central
 iabbrev cewntral central
 iabbrev cnetal central
 iabbrev cnetral central
+iabbrev Ceratin Certain
 iabbrev Certian Certain
 iabbrev ceratin certain
+iabbrev certian certain
 iabbrev certina certain
 iabbrev Certinaly Certainly
 iabbrev certaintly certainly
@@ -695,6 +704,7 @@ iabbrev Chuch Church
 iabbrev circuti circuit
 iabbrev curcuit circuit
 iabbrev circuting circuiting
+iabbrev circutry circuitry
 iabbrev circutis circuits
 iabbrev curcuites circuits
 iabbrev circualr circular
@@ -828,6 +838,7 @@ iabbrev communcaiton communication
 iabbrev communicaiotn communication
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
+iabbrev comapny company
 iabbrev compnay company
 iabbrev comapre compare
 iabbrev comapred compared
@@ -838,6 +849,7 @@ iabbrev Comapss Compass
 iabbrev Compas Compass
 iabbrev Coppmpass Compass
 iabbrev Compoatibility Compatibility
+iabbrev capatible compatible
 iabbrev competiting competing
 iabbrev compilaiton compilation
 iabbrev compliaiton compilation
@@ -1089,6 +1101,7 @@ iabbrev coutns counts
 iabbrev Coutnyt County
 iabbrev coures course
 iabbrev covver cover
+iabbrev COIVD COVID
 iabbrev cracs CRACs
 iabbrev crnaked cranked
 iabbrev creatd created
@@ -1161,6 +1174,7 @@ iabbrev Deadbaand Deadband
 iabbrev dadband deadband
 iabbrev daedband deadband
 iabbrev deadbadn deadband
+iabbrev deailng dealing
 iabbrev Decmember December
 iabbrev decidied decided
 iabbrev decommissoin decommission
@@ -1415,6 +1429,7 @@ iabbrev documentionat documenting
 iabbrev docuemnts documents
 iabbrev deso does
 iabbrev DOg Dog
+iabbrev doign doing
 iabbrev donig doing
 iabbrev odmain domain
 iabbrev doen done
@@ -1534,6 +1549,7 @@ iabbrev enabeld enabled
 iabbrev enalbed enabled
 iabbrev enclouse enclosure
 iabbrev enclousre enclosure
+iabbrev ENd End
 iabbrev ned end
 iabbrev endevor endeavor
 iabbrev Edngins Endings
@@ -1651,6 +1667,7 @@ iabbrev errrors errors
 iabbrev errros errors
 iabbrev escpae escape
 iabbrev escapting escaping
+iabbrev Esmeradla Esmeralda
 iabbrev Especailly Especially
 iabbrev espciallly especially
 iabbrev espcially especially
@@ -1767,6 +1784,7 @@ iabbrev exproted exported
 iabbrev expowse expose
 iabbrev exposign exposing
 iabbrev Expressoin Expression
+iabbrev Exnted Extend
 iabbrev extensibile extensible
 iabbrev extensiosn extensions
 iabbrev exetiror exterior
@@ -1794,6 +1812,8 @@ iabbrev Facotry Factory
 iabbrev Fahrenheti Fahrenheit
 iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
+iabbrev fialed failed
+iabbrev failrue failure
 iabbrev fialure failure
 iabbrev failry fairly
 iabbrev faily fairly
@@ -2006,6 +2026,7 @@ iabbrev funcitional functional
 iabbrev funcitonal functional
 iabbrev functioanl functional
 iabbrev funtional functional
+iabbrev FUnctionality Functionality
 iabbrev fucntionality functionality
 iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
@@ -2057,8 +2078,11 @@ iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev gneeration generation
 iabbrev geneartor generator
+iabbrev gneerator generator
 iabbrev gneraator generator
 iabbrev gnerator generator
+iabbrev geneators generators
+iabbrev generaotrs generators
 iabbrev gneerators generators
 iabbrev geomerty geometry
 iabbrev geometyr geometry
@@ -2677,6 +2701,7 @@ iabbrev moajority majority
 iabbrev Mkae Make
 iabbrev amek make
 iabbrev amke make
+iabbrev maek make
 iabbrev makea make a
 iabbrev Maekfile Makefile
 iabbrev Mkaefile Makefile
@@ -3220,6 +3245,7 @@ iabbrev perfomance performance
 iabbrev perforamcne performance
 iabbrev perforamnce performance
 iabbrev performacne performance
+iabbrev perofmarnce performance
 iabbrev perofrmance performance
 iabbrev preformance performance
 iabbrev performaning performing
@@ -3302,6 +3328,7 @@ iabbrev piont point
 iabbrev poitn point
 iabbrev popitn point
 iabbrev poitners pointers
+iabbrev pionts points
 iabbrev pointss points
 iabbrev poisnt points
 iabbrev poitns points
@@ -3439,6 +3466,7 @@ iabbrev preiovus previous
 iabbrev preiovuus previous
 iabbrev preivoius previous
 iabbrev preivous previous
+iabbrev prevous previous
 iabbrev Preiovulsy Previously
 iabbrev Preiovusly Previously
 iabbrev Preivulsly Previously
@@ -3625,6 +3653,7 @@ iabbrev artio ratio
 iabbrev readidy readily
 iabbrev reaidng reading
 iabbrev REAMDE README
+iabbrev reaady ready
 iabbrev reayd ready
 iabbrev reaffrim reaffirm
 iabbrev relaity reality
@@ -3664,6 +3693,7 @@ iabbrev reduceds reduces
 iabbrev reducition reduction
 iabbrev reducitno reduction
 iabbrev reduciton reduction
+iabbrev redudancy redundancy
 iabbrev Refacotr Refactor
 iabbrev refacotr refactor
 iabbrev refactyor refactor
@@ -3895,6 +3925,7 @@ iabbrev robuts robust
 iabbrev rooom room
 iabbrev roattion rotation
 iabbrev rouund round
+iabbrev roundign rounding
 iabbrev Rotuiens Routines
 iabbrev rwo row
 iabbrev ORyal Royal
@@ -3905,6 +3936,7 @@ iabbrev ruels rules
 iabbrev rulse rules
 iabbrev RUnning Running
 iabbrev Runnign Running
+iabbrev runign running
 iabbrev runnign running
 iabbrev sa SA
 iabbrev sacrificied sacrificed
@@ -4422,6 +4454,7 @@ iabbrev sysmetm system
 iabbrev sysmte system
 iabbrev syst6em system
 iabbrev systme system
+iabbrev systmem system
 iabbrev systmme system
 iabbrev systmne system
 iabbrev sytem system
@@ -4798,6 +4831,7 @@ iabbrev totlas totals
 iabbrev otwer tower
 iabbrev Tyotoa Toyota
 iabbrev tarckign tracking
+iabbrev trackign tracking
 iabbrev trakcing tracking
 iabbrev tradiation tradition
 iabbrev trialing trailing
@@ -4900,6 +4934,7 @@ iabbrev uncertinay uncertainty
 iabbrev udner under
 iabbrev udnerfloor underfloor
 iabbrev underreprsented underrepresented
+iabbrev Understnad Understand
 iabbrev udnerstand understand
 iabbrev understnad understand
 iabbrev udnerstanding understanding
