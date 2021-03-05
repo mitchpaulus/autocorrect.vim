@@ -296,6 +296,7 @@ iabbrev ASHARE ASHRAE
 iabbrev ASHRE ASHRAE
 iabbrev ASHREA ASHRAE
 iabbrev asekd asked
+iabbrev Askign Asking
 iabbrev ascpects aspects
 iabbrev assesments assessments
 iabbrev assessmetnts assessments
@@ -789,6 +790,7 @@ iabbrev comand command
 iabbrev commadn command
 iabbrev commannd command
 iabbrev commmand command
+iabbrev commadns commands
 iabbrev commmands commands
 iabbrev COmment Comment
 iabbrev commetn comment
@@ -2004,6 +2006,7 @@ iabbrev frotn front
 iabbrev frontedn frontend
 iabbrev ftp FTP
 iabbrev FUel Fuel
+iabbrev Fule Fuel
 iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
@@ -2523,6 +2526,7 @@ iabbrev Javascript JavaScript
 iabbrev javascript JavaScript
 iabbrev jvavascript JavaScript
 iabbrev jersery jersey
+iabbrev jbo job
 iabbrev jbos jobs
 iabbrev JHohn John
 iabbrev JOhn John
@@ -3485,6 +3489,7 @@ iabbrev priece price
 iabbrev primeary primary
 iabbrev princeple principle
 iabbrev pritn print
+iabbrev pirntign printing
 iabbrev Prioriteis Priorities
 iabbrev Pritorities Priorities
 iabbrev priortization prioritization
@@ -3782,6 +3787,7 @@ iabbrev repladce replace
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev REplacemnt Replacement
+iabbrev Repalcment Replacement
 iabbrev Replacemnet Replacement
 iabbrev repalcement replacement
 iabbrev repalcemnt replacement
@@ -3893,6 +3899,7 @@ iabbrev restrictuion restriction
 iabbrev restorooms restrooms
 iabbrev resutrooms restrooms
 iabbrev resturcted restructured
+iabbrev ersutl result
 iabbrev restul result
 iabbrev resutl result
 iabbrev reuslt result
@@ -4193,6 +4200,7 @@ iabbrev simialr similar
 iabbrev smilar similar
 iabbrev similarily similarly
 iabbrev sijmple simple
+iabbrev simle simple
 iabbrev simpel simple
 iabbrev simplication simplification
 iabbrev simplications simplifications
@@ -4383,6 +4391,7 @@ iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
+iabbrev Submitatl Submittal
 iabbrev submittall submittal
 iabbrev submitalls submittals
 iabbrev submittals submittals
@@ -5055,6 +5064,7 @@ iabbrev varialbe variable
 iabbrev variazble variable
 iabbrev Varialbes Variables
 iabbrev vairlabes variables
+iabbrev variablwes variables
 iabbrev varialbes variables
 iabbrev varialbles variables
 iabbrev varibables variables
