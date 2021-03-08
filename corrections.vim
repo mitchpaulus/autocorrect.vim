@@ -380,6 +380,7 @@ iabbrev Bakc Back
 iabbrev Backgroudn Background
 iabbrev backgorund background
 iabbrev backgruond background
+iabbrev Backslahs Backslash
 iabbrev backupa backup
 iabbrev bakcup backup
 iabbrev bakcups backups
@@ -449,6 +450,7 @@ iabbrev bleneded blended
 iabbrev Blcok Block
 iabbrev blokc block
 iabbrev blockss blocks
+iabbrev blgo blog
 iabbrev BOiler Boiler
 iabbrev Boielr Boiler
 iabbrev biler boiler
@@ -456,6 +458,7 @@ iabbrev boielr boiler
 iabbrev BOilers Boilers
 iabbrev bilers boilers
 iabbrev bookelt booklet
+iabbrev Boolena Boolean
 iabbrev obsses bosses
 iabbrev gboth both
 iabbrev boutght bought
@@ -1008,6 +1011,7 @@ iabbrev contriubuting contributing
 iabbrev contributrion contribution
 iabbrev contirbutors contributors
 iabbrev Cointrol Control
+iabbrev Contorl Control
 iabbrev Contyrol Control
 iabbrev Cotnrl Control
 iabbrev Cotnrol Control
@@ -1418,6 +1422,7 @@ iabbrev docuemneation documentation
 iabbrev docuemntaiton documentation
 iabbrev docuemntation documentation
 iabbrev docuemtnaiton documentation
+iabbrev documenatino documentation
 iabbrev documenation documentation
 iabbrev documentaion documentation
 iabbrev documentaiont documentation
@@ -1441,6 +1446,7 @@ iabbrev doewn down
 iabbrev donw down
 iabbrev downo down
 iabbrev DOwnload Download
+iabbrev Downlaod Download
 iabbrev downlaod download
 iabbrev DOwnlaoded Downloaded
 iabbrev dowloaded downloaded
@@ -1465,6 +1471,7 @@ iabbrev diuct duct
 iabbrev ducct duct
 iabbrev ductwork duct work
 iabbrev dupm dump
+iabbrev dumpitng dumping
 iabbrev dupcliate duplicate
 iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
@@ -1492,6 +1499,7 @@ iabbrev Edision Edison
 iabbrev Ediston Edison
 iabbrev Eidson Edison
 iabbrev edigint editing
+iabbrev eidtor editor
 iabbrev effectiley effectively
 iabbrev effectivientss effectiveness
 iabbrev effectes effects
@@ -1738,6 +1746,7 @@ iabbrev exhanger exchange
 iabbrev exhcange exchange
 iabbrev exchagner exchanger
 iabbrev exectuable executable
+iabbrev exectue execute
 iabbrev execture execute
 iabbrev exectued executed
 iabbrev executuion execution
@@ -3066,6 +3075,7 @@ iabbrev ONe One
 iabbrev noe one
 iabbrev OneDirve OneDrive
 iabbrev OneNtoe OneNote
+iabbrev oens ones
 iabbrev Ongoiung Ongoing
 iabbrev onging ongoing
 iabbrev ongonig ongoing
@@ -3482,6 +3492,7 @@ iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
 iabbrev Prviouslyu Previously
 iabbrev precviously previously
+iabbrev preiovusly previously
 iabbrev previlsy previously
 iabbrev previousy previously
 iabbrev previulsy previously
@@ -3841,6 +3852,7 @@ iabbrev repostiory repository
 iabbrev repostitoyr repository
 iabbrev representaion representation
 iabbrev represesnts represents
+iabbrev Reproducable Reproducible
 iabbrev reproducable reproducible
 iabbrev requrest request
 iabbrev requrested requested
@@ -3852,6 +3864,7 @@ iabbrev requied required
 iabbrev requiredy required
 iabbrev requried required
 iabbrev reqwuiref required
+iabbrev reuqied required
 iabbrev reuqired required
 iabbrev rquired required
 iabbrev rueiquireed required
@@ -4045,6 +4058,7 @@ iabbrev secdtion section
 iabbrev seciotn section
 iabbrev secitioon section
 iabbrev seciton section
+iabbrev sectino section
 iabbrev sectiosn section
 iabbrev securtiy security
 iabbrev seee see
@@ -4169,6 +4183,7 @@ iabbrev shrotened shortened
 iabbrev SHould Should
 iabbrev Shoudl Should
 iabbrev hsould should
+iabbrev shoud should
 iabbrev shoudl should
 iabbrev shouuuld should
 iabbrev shyould should
@@ -4975,6 +4990,7 @@ iabbrev unecesary unnecessary
 iabbrev unecessary unnecessary
 iabbrev unneccessary unnecessary
 iabbrev unnessecary unnecessary
+iabbrev uneeded unneeded
 iabbrev Unoccpuepd Unoccupied
 iabbrev Unoccupeid Unoccupied
 iabbrev Unoccupieed Unoccupied
@@ -5140,6 +5156,7 @@ iabbrev watn want
 iabbrev wnat want
 iabbrev wanteed wanted
 iabbrev wnated wanted
+iabbrev aws was
 iabbrev Wwater Water
 iabbrev wtaer water
 iabbrev wya way
