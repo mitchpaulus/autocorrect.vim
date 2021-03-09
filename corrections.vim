@@ -40,6 +40,7 @@ iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev acorss across
 iabbrev acrsoss across
+iabbrev ACtion Action
 iabbrev Aciton Action
 iabbrev activatino activation
 iabbrev activiation activation
@@ -333,8 +334,10 @@ iabbrev Attmept9ing Attempting
 iabbrev Attmepting Attempting
 iabbrev Attmpeting Attempting
 iabbrev attemping attempting
+iabbrev attemting attempting
 iabbrev Attendence Attendance
 iabbrev attaic attic
+iabbrev attroueny attorney
 iabbrev attritbue attribute
 iabbrev attriburtes attributes
 iabbrev atttributes attributes
@@ -532,6 +535,7 @@ iabbrev bulidigns buildings
 iabbrev bulidings buildings
 iabbrev bvuidlgnis buildings
 iabbrev ubildings buildings
+iabbrev buidls builds
 iabbrev builb bulb
 iabbrev bulib bulb
 iabbrev budnled bundled
@@ -2541,6 +2545,7 @@ iabbrev JOhn John
 iabbrev Jhon John
 iabbrev Joihn John
 iabbrev Hohnson Johnson
+iabbrev Jsoh Josh
 iabbrev json JSON
 iabbrev Juilian Julian
 iabbrev Julain Julian
@@ -2838,6 +2843,7 @@ iabbrev mimnimum minimum
 iabbrev minimimum minimum
 iabbrev minmium minimum
 iabbrev minmum minimum
+iabbrev Minnestoa Minnesota
 iabbrev Mintue Minute
 iabbrev minnute minute
 iabbrev mintue minute
@@ -3205,6 +3211,7 @@ iabbrev packgae package
 iabbrev pakcaged packaged
 iabbrev Pakcing Packing
 iabbrev apge page
+iabbrev pamplhet pamphlet
 iabbrev pandco pandoc
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
@@ -3252,6 +3259,7 @@ iabbrev patritoic patriotic
 iabbrev patten pattern
 iabbrev penatlty penalty
 iabbrev penatly penalty
+iabbrev Pnethouse Penthouse
 iabbrev peiople people
 iabbrev pepople people
 iabbrev poeple people
@@ -3302,6 +3310,7 @@ iabbrev peice piece
 iabbrev peices pieces
 iabbrev pipelien pipeline
 iabbrev piplien pipeline
+iabbrev Ptich Pitch
 iabbrev palce place
 iabbrev placehodler placeholder
 iabbrev placehodlers placeholders
@@ -3451,6 +3460,7 @@ iabbrev presecne presence
 iabbrev presetn present
 iabbrev presnet present
 iabbrev PResenation Presentation
+iabbrev Presentatino Presentation
 iabbrev Presentationg Presentation
 iabbrev prensenation presentation
 iabbrev preseentaiotn presentation
@@ -3708,6 +3718,7 @@ iabbrev recoreded recorded
 iabbrev reocrded recorded
 iabbrev recoreds records
 iabbrev reocreds records
+iabbrev reod redo
 iabbrev REdoing Redoing
 iabbrev reduceds reduces
 iabbrev reducition reduction
