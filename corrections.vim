@@ -2150,7 +2150,6 @@ iabbrev ahd had
 iabbrev hbad had
 iabbrev hari hair
 iabbrev ahlls halls
-iabbrev hadn hand
 iabbrev hande handle
 iabbrev ahndling handling
 iabbrev handaling handling
