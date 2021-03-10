@@ -1105,6 +1105,8 @@ iabbrev coulld could
 iabbrev coulod could
 iabbrev oucld could
 iabbrev Coutn Count
+iabbrev Coutner Counter
+iabbrev coutner counter
 iabbrev Coutnry Country
 iabbrev coutnery country
 iabbrev coutns counts
@@ -1509,6 +1511,7 @@ iabbrev effectivientss effectiveness
 iabbrev effectes effects
 iabbrev Efficiewncy Efficiency
 iabbrev efficicency efficiency
+iabbrev efficiencty efficiency
 iabbrev efficienty efficiency
 iabbrev efficincy efficiency
 iabbrev effortr effort
@@ -1569,6 +1572,7 @@ iabbrev endevor endeavor
 iabbrev Edngins Endings
 iabbrev ENergy Energy
 iabbrev Eneryg Energy
+iabbrev enegy energy
 iabbrev enenrgy energy
 iabbrev eneryg energy
 iabbrev enerygm energy
@@ -2633,6 +2637,7 @@ iabbrev Lmit Limit
 iabbrev lmit limit
 iabbrev limitaiton limitation
 iabbrev olimitations limitations
+iabbrev Limitied Limited
 iabbrev limtis limits
 iabbrev lienar linear
 iabbrev linera linear
@@ -2672,6 +2677,7 @@ iabbrev locaiton location
 iabbrev lociaitn location
 iabbrev lociation location
 iabbrev loction location
+iabbrev Locaitons Locations
 iabbrev lcoaitons locations
 iabbrev locaiotns locations
 iabbrev locaitons locations
@@ -3078,6 +3084,7 @@ iabbrev ONce Once
 iabbrev onec once
 iabbrev ONe One
 iabbrev noe one
+iabbrev oen one
 iabbrev OneDirve OneDrive
 iabbrev OneNtoe OneNote
 iabbrev oens ones
@@ -3499,6 +3506,7 @@ iabbrev Preiovulsy Previously
 iabbrev Preiovusly Previously
 iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
+iabbrev Previousluy Previously
 iabbrev Prviouslyu Previously
 iabbrev precviously previously
 iabbrev preiovusly previously
@@ -3677,6 +3685,7 @@ iabbrev rasing raising
 iabbrev ranodm random
 iabbrev reange range
 iabbrev RAte Rate
+iabbrev arte rate
 iabbrev frate rate
 iabbrev artes rates
 iabbrev artio ratio
@@ -4086,6 +4095,7 @@ iabbrev smeinar seminar
 iabbrev sned send
 iabbrev snese sense
 iabbrev sensical sensical
+iabbrev sensitiviey Sensitivity
 iabbrev sensitivtiy sensitivity
 iabbrev senstivity sensitivity
 iabbrev senesor sensor
