@@ -285,6 +285,7 @@ iabbrev arithemtic arithmetic
 iabbrev aorund around
 iabbrev arond around
 iabbrev aroudn around
+iabbrev arround around
 iabbrev aruond around
 iabbrev arrya array
 iabbrev artticle article
@@ -462,6 +463,7 @@ iabbrev BOilers Boilers
 iabbrev bilers boilers
 iabbrev bookelt booklet
 iabbrev Boolena Boolean
+iabbrev boolens booleans
 iabbrev obsses bosses
 iabbrev gboth both
 iabbrev boutght bought
@@ -853,6 +855,7 @@ iabbrev comapre compare
 iabbrev comapred compared
 iabbrev comparision comparison
 iabbrev comparsion comparison
+iabbrev comparisions comparisons
 iabbrev Comapass Compass
 iabbrev Comapss Compass
 iabbrev Compas Compass
@@ -1637,6 +1640,7 @@ iabbrev enviromental environmental
 iabbrev environemntes environments
 iabbrev eqaul equal
 iabbrev equail equal
+iabbrev equla equal
 iabbrev equzl equal
 iabbrev equilaiyt equality
 iabbrev equlaity equality
@@ -2282,6 +2286,7 @@ iabbrev implementaiton implementation
 iabbrev implmentation implementation
 iabbrev impelmented implemented
 iabbrev implemetned implemented
+iabbrev implmeneted implemented
 iabbrev IMplelemneter Implementer
 iabbrev IMplementer Implementer
 iabbrev IMplemneter Implementer
@@ -2405,6 +2410,7 @@ iabbrev intiial initial
 iabbrev nitial initial
 iabbrev initializaiton initialization
 iabbrev intialization initialization
+iabbrev initailized initialized
 iabbrev Intially Initially
 iabbrev initiailly initially
 iabbrev intially initially
@@ -2501,6 +2507,7 @@ iabbrev Introduciton Introduction
 iabbrev intution intuition
 iabbrev invserse inverse
 iabbrev inversly inversely
+iabbrev inversino inversion
 iabbrev INvestigate Investigate
 iabbrev investigae investigate
 iabbrev investigaet investigate
@@ -2608,6 +2615,8 @@ iabbrev leanring learning
 iabbrev leats least
 iabbrev Lengend Legend
 iabbrev lenght length
+iabbrev lneght length
+iabbrev lenghts lengths
 iabbrev levle level
 iabbrev lvel level
 iabbrev lvelv level
@@ -3794,6 +3803,7 @@ iabbrev remienders reminders
 iabbrev REmote Remote
 iabbrev remtoe remote
 iabbrev REmove Remove
+iabbrev REmvoe Remove
 iabbrev Removoe Remove
 iabbrev Remvoe Remove
 iabbrev Reomve Remove
@@ -3996,6 +4006,8 @@ iabbrev Smapling Sampling
 iabbrev samplign sampling
 iabbrev smapling sampling
 iabbrev sxampleing sampling
+iabbrev snaitation sanitation
+iabbrev santizie sanitize
 iabbrev Sararh Sarah
 iabbrev Sarha Sarah
 iabbrev Sarrah Sarah
