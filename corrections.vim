@@ -1340,6 +1340,7 @@ iabbrev diffeernt different
 iabbrev diffentert different
 iabbrev differetn different
 iabbrev differnt different
+iabbrev differtent different
 iabbrev difffernt different
 iabbrev diffierent different
 iabbrev diffrent different
@@ -1741,6 +1742,7 @@ iabbrev exactyl exactly
 iabbrev Exampel Example
 iabbrev Exmaple Example
 iabbrev Exmpale Example
+iabbrev ecample example
 iabbrev exampel example
 iabbrev exmaple example
 iabbrev exmpale example
@@ -1885,6 +1887,7 @@ iabbrev figle file
 iabbrev filre file
 iabbrev gile file
 iabbrev ifle file
+iabbrev FIles Files
 iabbrev fiels files
 iabbrev iles files
 iabbrev fil fill
@@ -2347,6 +2350,7 @@ iabbrev incrteasing increasing
 iabbrev indedependt independent
 iabbrev indentpent independent
 iabbrev indepenedent independent
+iabbrev INdicates Indicates
 iabbrev indiciatiton indication
 iabbrev Indiviudaul Individual
 iabbrev ijndividual individual
@@ -3327,6 +3331,7 @@ iabbrev peices pieces
 iabbrev pipelien pipeline
 iabbrev piplien pipeline
 iabbrev Ptich Pitch
+iabbrev Pivto Pivot
 iabbrev palce place
 iabbrev placehodler placeholder
 iabbrev placehodlers placeholders
@@ -3504,6 +3509,7 @@ iabbrev prentend pretend
 iabbrev preteneding pretending
 iabbrev pretyt pretty
 iabbrev prevetn prevent
+iabbrev preventitive preventative
 iabbrev PRevious Previous
 iabbrev dprevious previous
 iabbrev preiovus previous
@@ -3880,6 +3886,7 @@ iabbrev reposotiyr repository
 iabbrev repostiory repository
 iabbrev repostitoyr repository
 iabbrev representaion representation
+iabbrev represeted represented
 iabbrev represesnts represents
 iabbrev Reproducable Reproducible
 iabbrev reproducable reproducible
@@ -4360,6 +4367,7 @@ iabbrev spreadshet spreadsheet
 iabbrev spreadshetet spreadsheet
 iabbrev sprreaadhseet spreadsheet
 iabbrev Spreasheets Spreadsheets
+iabbrev spreadhseets spreadsheets
 iabbrev sprknkler sprinkler
 iabbrev Sql SQL
 iabbrev sql SQL
@@ -4965,6 +4973,7 @@ iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
 iabbrev typiucal typical
 iabbrev typiuckal typical
+iabbrev typcially typically
 iabbrev typeiclaly typically
 iabbrev typicallly typically
 iabbrev typiucally typically
