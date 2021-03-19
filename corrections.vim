@@ -68,6 +68,7 @@ iabbrev Addiitonal Additional
 iabbrev Additioanl Additional
 iabbrev addiitonal additional
 iabbrev addiontal additional
+iabbrev additiaonl additional
 iabbrev additinal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
@@ -1645,6 +1646,7 @@ iabbrev equla equal
 iabbrev equzl equal
 iabbrev equilaiyt equality
 iabbrev equlaity equality
+iabbrev EQuation Equation
 iabbrev Equaitno Equation
 iabbrev Equaiton Equation
 iabbrev equaiton equation
@@ -2060,6 +2062,7 @@ iabbrev funcationality functionality
 iabbrev funcdtioanliy functionality
 iabbrev funcitality functionality
 iabbrev funcitonality functionality
+iabbrev functianlity functionality
 iabbrev functinality functionality
 iabbrev functioanlity functionality
 iabbrev functioanliyt functionality
@@ -2072,6 +2075,7 @@ iabbrev fucntiosn functions
 iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
+iabbrev functins functions
 iabbrev functiosn functions
 iabbrev fudnamental fundamental
 iabbrev FUndamentals Fundamentals
@@ -2095,6 +2099,7 @@ iabbrev genral general
 iabbrev gernal general
 iabbrev gneeral general
 iabbrev gneral general
+iabbrev Genrally Generally
 iabbrev genearlly generally
 iabbrev gnerally generally
 iabbrev genreate generate
@@ -3146,6 +3151,7 @@ iabbrev optimziation optimization
 iabbrev otptimziaton optimization
 iabbrev optimzie optimize
 iabbrev opiton option
+iabbrev optoin option
 iabbrev Opitons Options
 iabbrev opitions options
 iabbrev opitons options
@@ -3332,6 +3338,7 @@ iabbrev pipelien pipeline
 iabbrev piplien pipeline
 iabbrev Ptich Pitch
 iabbrev Pivto Pivot
+iabbrev pviot pivot
 iabbrev palce place
 iabbrev placehodler placeholder
 iabbrev placehodlers placeholders
@@ -3537,6 +3544,7 @@ iabbrev Prioriteis Priorities
 iabbrev Pritorities Priorities
 iabbrev priortization prioritization
 iabbrev pritiorizing prioritizing
+iabbrev Privelage Privilege
 iabbrev Probalby Probably
 iabbrev Probvalby Probably
 iabbrev porbablyb probably
@@ -3573,6 +3581,7 @@ iabbrev fprofile profile
 iabbrev profeil profile
 iabbrev profiel profile
 iabbrev profjiels profiles
+iabbrev rpofiles profiles
 iabbrev PRogram Program
 iabbrev Progrma Program
 iabbrev porgram program
@@ -3599,6 +3608,7 @@ iabbrev profject project
 iabbrev projecdt project
 iabbrev projectd project
 iabbrev projedt project
+iabbrev projet project
 iabbrev projfct project
 iabbrev projfect project
 iabbrev projgect project
@@ -3688,6 +3698,7 @@ iabbrev qauicly quickly
 iabbrev quiclky quickly
 iabbrev quiclyi quickly
 iabbrev quilckly quickly
+iabbrev quilte quite
 iabbrev quoatiaon quotation
 iabbrev quotoient quotient
 iabbrev Radaiance Radiance
@@ -4196,6 +4207,7 @@ iabbrev stpeoints setpoints
 iabbrev SEts Sets
 iabbrev seteting setting
 iabbrev setintg setting
+iabbrev settigns settings
 iabbrev seetup setup
 iabbrev setps setups
 iabbrev Severla Several
@@ -4537,6 +4549,7 @@ iabbrev sysetms systems
 iabbrev sysmtems systems
 iabbrev systmes systems
 iabbrev sytesms systems
+iabbrev TAb Tab
 iabbrev tabv tab
 iabbrev TAble Table
 iabbrev talbe table
@@ -4744,6 +4757,7 @@ iabbrev atht that
 iabbrev htat that
 iabbrev tahht that
 iabbrev taht that
+iabbrev tath that
 iabbrev thatt that
 iabbrev THe The
 iabbrev Teh The
@@ -4942,6 +4956,7 @@ iabbrev tyrends trends
 iabbrev Tervor Trevor
 iabbrev Tridium Tridium
 iabbrev Treid Tried
+iabbrev troubleshootting troubleshooting
 iabbrev troubleshotoign troubleshooting
 iabbrev truuck truck
 iabbrev ture true
@@ -5166,6 +5181,8 @@ iabbrev veritcally vertically
 iabbrev vewry very
 iabbrev iva via
 iabbrev vai via
+iabbrev Vdieo Video
+iabbrev Vidoe Video
 iabbrev veiws views
 iabbrev virutal virtual
 iabbrev viscoisty viscosity
@@ -5177,6 +5194,7 @@ iabbrev Visti Visit
 iabbrev viisti visit
 iabbrev visti visit
 iabbrev VIsualization Visualization
+iabbrev visualation visualization
 iabbrev visualzations visualizations
 iabbrev volcabulary vocabulary
 iabbrev voicemial voicemail
