@@ -84,6 +84,7 @@ iabbrev adopeted adopted
 iabbrev Advnaced Advanced
 iabbrev Adviosr Advisor
 iabbrev adviosr advisor
+iabbrev asthetics aesthetics
 iabbrev afftecting affecting
 iabbrev AFter After
 iabbrev Afternnon Afternoon
@@ -386,6 +387,7 @@ iabbrev Backgroudn Background
 iabbrev backgorund background
 iabbrev backgruond background
 iabbrev Backslahs Backslash
+iabbrev backslahs backslash
 iabbrev backupa backup
 iabbrev bakcup backup
 iabbrev bakcups backups
@@ -866,6 +868,7 @@ iabbrev capatible compatible
 iabbrev competiting competing
 iabbrev compilaiton compilation
 iabbrev compliaiton compilation
+iabbrev compliation compilation
 iabbrev compiel compile
 iabbrev complile compile
 iabbrev ocmplield compiled
@@ -1121,6 +1124,7 @@ iabbrev COIVD COVID
 iabbrev cracs CRACs
 iabbrev crnaked cranked
 iabbrev creatd created
+iabbrev Creatting Creating
 iabbrev creaitng creating
 iabbrev Creaiton Creation
 iabbrev credentails credentials
@@ -1209,6 +1213,8 @@ iabbrev defininng defining
 iabbrev Definiteyl Definitely
 iabbrev definiteyl definitely
 iabbrev Defintion Definition
+iabbrev definitino definition
+iabbrev defintinoo definition
 iabbrev defintion definition
 iabbrev definiations definitions
 iabbrev defintions definitions
@@ -1311,6 +1317,7 @@ iabbrev develeopment development
 iabbrev developement development
 iabbrev developemnet development
 iabbrev developemnt development
+iabbrev developpment development
 iabbrev devleopemnt development
 iabbrev devleopemtn development
 iabbrev devleopment development
@@ -2054,6 +2061,7 @@ iabbrev Functioanl Functional
 iabbrev funcationl functional
 iabbrev funcitional functional
 iabbrev funcitonal functional
+iabbrev functinlal functional
 iabbrev functioanl functional
 iabbrev funtional functional
 iabbrev FUnctionality Functionality
@@ -2127,6 +2135,7 @@ iabbrev Github GitHub
 iabbrev givne given
 iabbrev gllobal global
 iabbrev globablly globally
+iabbrev glpyh glyph
 iabbrev gola goal
 iabbrev oges goes
 iabbrev GOing Going
@@ -2167,6 +2176,7 @@ iabbrev Guidleline Guideline
 iabbrev Guidleines Guidelines
 iabbrev guideines guidelines
 iabbrev ahd had
+iabbrev haad had
 iabbrev hbad had
 iabbrev hari hair
 iabbrev ahlls halls
@@ -2273,6 +2283,7 @@ iabbrev Ina Ian
 iabbrev idael ideal
 iabbrev indentifier identifier
 iabbrev identifieres identifiers
+iabbrev identiifers identifiers
 iabbrev indentifiers identifiers
 iabbrev ingore ignore
 iabbrev ingored ignored
@@ -2345,6 +2356,7 @@ iabbrev Inlcues Includes
 iabbrev includddes includes
 iabbrev inlcudes includes
 iabbrev incompressibiility incompressibility
+iabbrev inconvient inconvenient
 iabbrev incrorect incorrect
 iabbrev incorectly incorrectly
 iabbrev incorrecdlty incorrectly
@@ -2413,6 +2425,7 @@ iabbrev Inherrently Inherently
 iabbrev INitial Initial
 iabbrev Initiial Initial
 iabbrev inital initial
+iabbrev initali initial
 iabbrev intiail initial
 iabbrev intial initial
 iabbrev intiial initial
@@ -2674,6 +2687,7 @@ iabbrev lodaed loaded
 iabbrev laoding loading
 iabbrev lodaing loading
 iabbrev laods loads
+iabbrev lona loan
 iabbrev Lobyb Lobby
 iabbrev lboby lobby
 iabbrev lobbby lobby
@@ -2987,6 +3001,7 @@ iabbrev enearest nearest
 iabbrev enearsets nearest
 iabbrev neccesarily necessarily
 iabbrev neccessarikly necessarily
+iabbrev necesdarily necessarily
 iabbrev neeccessary necessary
 iabbrev NEed Need
 iabbrev NEedc Need
@@ -3042,6 +3057,7 @@ iabbrev normla normal
 iabbrev normalizaiton normalization
 iabbrev Normallly Normally
 iabbrev nomrally normally
+iabbrev normallly normally
 iabbrev normnally normally
 iabbrev norht North
 iabbrev NOt Not
@@ -3976,6 +3992,7 @@ iabbrev retunr return
 iabbrev reutn return
 iabbrev reutnr return
 iabbrev reutrn return
+iabbrev Retunrs Returns
 iabbrev Retuns Returns
 iabbrev REvenue Revenue
 iabbrev Referencewr Reverence
@@ -4309,6 +4326,7 @@ iabbrev softwaer software
 iabbrev softwaere software
 iabbrev softweare software
 iabbrev sofwtware software
+iabbrev SOlar Solar
 iabbrev Soldi Solid
 iabbrev solutio solution
 iabbrev soultin solution
@@ -5030,6 +5048,7 @@ iabbrev udnertaken undertaken
 iabbrev Underwod Underwood
 iabbrev unexpanded unexpanded
 iabbrev unfamilar unfamiliar
+iabbrev unicode Unicode
 iabbrev uhnti unit
 iabbrev uint unit
 iabbrev unti unit
