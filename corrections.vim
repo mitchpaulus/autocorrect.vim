@@ -82,8 +82,10 @@ iabbrev adjustemsnts adjustments
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
 iabbrev Advnaced Advanced
+iabbrev advangtage advantage
 iabbrev Adviosr Advisor
 iabbrev adviosr advisor
+iabbrev Asthetics Aesthetics
 iabbrev asthetics aesthetics
 iabbrev afftecting affecting
 iabbrev AFter After
@@ -980,6 +982,7 @@ iabbrev ocnstant constant
 iabbrev constatns constants
 iabbrev construciton construction
 iabbrev constructoin construction
+iabbrev constrcuts constructs
 iabbrev COnsujpmtion Consumption
 iabbrev coinsumption consumption
 iabbrev constumption consumption
@@ -1129,6 +1132,7 @@ iabbrev creaitng creating
 iabbrev Creaiton Creation
 iabbrev credentails credentials
 iabbrev credites credits
+iabbrev Creepoing Creeping
 iabbrev Cresent Crescent
 iabbrev creiteria criteria
 iabbrev crediterion criterion
@@ -1205,7 +1209,9 @@ iabbrev depper deeper
 iabbrev deafult default
 iabbrev deauflt default
 iabbrev defautl default
+iabbrev defauylt default
 iabbrev defualt default
+iabbrev efault default
 iabbrev defatuls defaults
 iabbrev fdefine define
 iabbrev definned defined
@@ -1382,6 +1388,7 @@ iabbrev driectory directory
 iabbrev idrectory directory
 iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
+iabbrev disambiguage disambiguate
 iabbrev idsappeared disappeared
 iabbrev sdiscern discern
 iabbrev Discharege Discharge
@@ -1646,6 +1653,7 @@ iabbrev environemnt environment
 iabbrev environemtn environment
 iabbrev environemtnet environment
 iabbrev enviromental environmental
+iabbrev enviroments environments
 iabbrev environemntes environments
 iabbrev eqaul equal
 iabbrev equail equal
@@ -1729,6 +1737,7 @@ iabbrev Evalualte Evaluate
 iabbrev evaulate evaluate
 iabbrev evaluateed evaluated
 iabbrev Evaulating Evaluating
+iabbrev evaulating evaluating
 iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
 iabbrev evaluatiion evaluation
@@ -2071,6 +2080,7 @@ iabbrev funcdtioanliy functionality
 iabbrev funcitality functionality
 iabbrev funcitonality functionality
 iabbrev functianlity functionality
+iabbrev functilanlity functionality
 iabbrev functinality functionality
 iabbrev functioanlity functionality
 iabbrev functioanliyt functionality
@@ -2161,6 +2171,7 @@ iabbrev grpahcis graphics
 iabbrev grpahics graphics
 iabbrev grpahsics graphics
 iabbrev graviational gravitational
+iabbrev greek Greek
 iabbrev Grenenwood Greenwood
 iabbrev Grennwood Greenwood
 iabbrev Grup Group
@@ -2441,6 +2452,7 @@ iabbrev initate initiate
 iabbrev intitiating initiating
 iabbrev inelt inlet
 iabbrev linet inlet
+iabbrev Inlnie Inline
 iabbrev inlien inline
 iabbrev INput Input
 iabbrev innput input
@@ -2625,6 +2637,8 @@ iabbrev lanaguate language
 iabbrev languagte language
 iabbrev langurage language
 iabbrev lnaguage language
+iabbrev langauges languages
+iabbrev languagse languages
 iabbrev lnaguages languages
 iabbrev alrge large
 iabbrev lrage large
@@ -2652,6 +2666,7 @@ iabbrev libary library
 iabbrev librayr library
 iabbrev licorise licorice
 iabbrev Lighyt Light
+iabbrev lghit light
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
 iabbrev lghting lighting
@@ -2912,6 +2927,7 @@ iabbrev modesl models
 iabbrev modles models
 iabbrev modeset modest
 iabbrev modfication modification
+iabbrev modificaitons modifications
 iabbrev modificatiuons modifications
 iabbrev modificiations modifications
 iabbrev MOdified Modified
@@ -3250,6 +3266,7 @@ iabbrev OVerview Overview
 iabbrev onw own
 iabbrev pacakge package
 iabbrev packgae package
+iabbrev pakcage package
 iabbrev pakcaged packaged
 iabbrev Pakcing Packing
 iabbrev apge page
@@ -3801,6 +3818,7 @@ iabbrev regernation regeneration
 iabbrev regisetered registered
 iabbrev regrssion regression
 iabbrev regural regular
+iabbrev regualry regularly
 iabbrev erheat reheat
 iabbrev rehate reheat
 iabbrev reheta reheat
@@ -4008,6 +4026,8 @@ iabbrev reisit revisit
 iabbrev Reichard Richard
 iabbrev Ricahrd Richard
 iabbrev rightt right
+iabbrev rigourous rigorous
+iabbrev rigous rigorous
 iabbrev riese rise
 iabbrev Roadd Road
 iabbrev robuts robust
@@ -4026,6 +4046,7 @@ iabbrev rulse rules
 iabbrev RUnning Running
 iabbrev Runnign Running
 iabbrev runign running
+iabbrev runni9ng running
 iabbrev runnign running
 iabbrev sa SA
 iabbrev sacrificied sacrificed
@@ -4138,6 +4159,7 @@ iabbrev sleecting selecting
 iabbrev selectdion selection
 iabbrev slection selection
 iabbrev Semeseter Semester
+iabbrev semicolin semicolon
 iabbrev smeinar seminar
 iabbrev sned send
 iabbrev snese sense
@@ -4420,6 +4442,7 @@ iabbrev starign starting
 iabbrev starst starts
 iabbrev staturup startup
 iabbrev astatemtn statement
+iabbrev staatement statement
 iabbrev statemet statement
 iabbrev statemetn statement
 iabbrev statemnet statement
@@ -4536,6 +4559,7 @@ iabbrev swtiches switches
 iabbrev Sycn Sync
 iabbrev Syunc Sync
 iabbrev synicng syncing
+iabbrev syntacially syntactically
 iabbrev SYntax Syntax
 iabbrev synatx syntax
 iabbrev sysntax syntax
@@ -4842,6 +4866,7 @@ iabbrev Thye They
 iabbrev htey they
 iabbrev thye they
 iabbrev tyhy they
+iabbrev thihck thick
 iabbrev thckness thickness
 iabbrev thnig thing
 iabbrev THings Things
@@ -4935,6 +4960,7 @@ iabbrev tarckign tracking
 iabbrev trackign tracking
 iabbrev trakcing tracking
 iabbrev tradiation tradition
+iabbrev traditioanl traditional
 iabbrev trialing trailing
 iabbrev Traingin Training
 iabbrev Trainign Training
@@ -5038,6 +5064,7 @@ iabbrev uncertinay uncertainty
 iabbrev udner under
 iabbrev udnerfloor underfloor
 iabbrev underreprsented underrepresented
+iabbrev underscope underscore
 iabbrev Understnad Understand
 iabbrev udnerstand understand
 iabbrev understnad understand
@@ -5087,10 +5114,12 @@ iabbrev upodate update
 iabbrev UPdated Updated
 iabbrev updaetgd updated
 iabbrev UPdates Updates
+iabbrev udpates updates
 iabbrev UPdating Updating
 iabbrev Updaitng Updating
 iabbrev Updatign Updating
 iabbrev Upodaitng Updating
+iabbrev updaing updating
 iabbrev Uplaod Upload
 iabbrev updload upload
 iabbrev uplaod upload
