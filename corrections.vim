@@ -6,6 +6,7 @@ iabbrev abillity ability
 iabbrev abiltily ability
 iabbrev abiltiy ability
 iabbrev abiltiyt ability
+iabbrev abel able
 iabbrev ABout About
 iabbrev abaout about
 iabbrev abourt about
@@ -147,6 +148,7 @@ iabbrev Alwyas Always
 iabbrev alsways always
 iabbrev alwasy always
 iabbrev alwyas always
+iabbrev amoung among
 iabbrev amounto amount
 iabbrev amoutn amount
 iabbrev na an
@@ -269,6 +271,7 @@ iabbrev approxmiation approximation
 iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
+iabbrev arbirtray arbitrary
 iabbrev arbitary arbitrary
 iabbrev ARch Arch
 iabbrev ARchitects Architects
@@ -1063,6 +1066,7 @@ iabbrev convewrsation conversation
 iabbrev ocnversion conversion
 iabbrev convewrrt convert
 iabbrev cooeld cooled
+iabbrev ocoled cooled
 iabbrev COoling Cooling
 iabbrev COoolint Cooling
 iabbrev Cooilng Cooling
@@ -1602,6 +1606,7 @@ iabbrev ENergyPlus EnergyPlus
 iabbrev ENerygpPlus EnergyPlus
 iabbrev EenrgyPlus EnergyPlus
 iabbrev EnergPluys EnergyPlus
+iabbrev EnergyPlsu EnergyPlus
 iabbrev EnergyPuls EnergyPlus
 iabbrev EnerygPlus EnergyPlus
 iabbrev energypuls EnergyPlus
@@ -1827,6 +1832,7 @@ iabbrev exproted exported
 iabbrev expowse expose
 iabbrev exposign exposing
 iabbrev Expressoin Expression
+iabbrev expresssions expressions
 iabbrev Exnted Extend
 iabbrev extensibile extensible
 iabbrev extensiosn extensions
@@ -2127,6 +2133,7 @@ iabbrev generatretd generated
 iabbrev genreated generated
 iabbrev gerneated generated
 iabbrev gneerated generated
+iabbrev genearitong generating
 iabbrev gneeration generation
 iabbrev geneartor generator
 iabbrev gneerator generator
@@ -2407,6 +2414,7 @@ iabbrev infomariotn information
 iabbrev infomraiont information
 iabbrev infomraiotn information
 iabbrev infomraiton information
+iabbrev infomratino information
 iabbrev infomration information
 iabbrev inforamtion information
 iabbrev inforfation information
@@ -2791,6 +2799,7 @@ iabbrev managerse managers
 iabbrev Machester Manchester
 iabbrev manmual manual
 iabbrev manula manual
+iabbrev mnaula manual
 iabbrev manulas manuals
 iabbrev mahy many
 iabbrev mnay many
@@ -2814,6 +2823,7 @@ iabbrev materila material
 iabbrev materla material
 iabbrev mathematica Mathematica
 iabbrev matehematical mathematical
+iabbrev matehematilca mathematical
 iabbrev mathematicla mathematical
 iabbrev mathematicans mathematicians
 iabbrev Matalb Matlab
@@ -3279,6 +3289,7 @@ iabbrev apramater parameter
 iabbrev aprameter parameter
 iabbrev paraameter parameter
 iabbrev paramter parameter
+iabbrev aparmaterize parameterize
 iabbrev Parmaetesr Parameters
 iabbrev aprameters parameters
 iabbrev apratemters parameters
@@ -5134,6 +5145,7 @@ iabbrev uninals urinals
 iabbrev url URL
 iabbrev useage usage
 iabbrev uesd used
+iabbrev sueufl useful
 iabbrev usefuli useful
 iabbrev useufl useful
 iabbrev usfeul useful
@@ -5232,6 +5244,7 @@ iabbrev vai via
 iabbrev Vdieo Video
 iabbrev Vidoe Video
 iabbrev veiws views
+iabbrev Virignia Virginia
 iabbrev virutal virtual
 iabbrev viscoisty viscosity
 iabbrev VIsion Vision
