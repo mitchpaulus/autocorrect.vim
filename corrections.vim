@@ -85,6 +85,7 @@ iabbrev adopeted adopted
 iabbrev Advnaced Advanced
 iabbrev advangtage advantage
 iabbrev Adviosr Advisor
+iabbrev Advisro Advisor
 iabbrev adviosr advisor
 iabbrev Asthetics Aesthetics
 iabbrev asthetics aesthetics
@@ -199,6 +200,7 @@ iabbrev nand and
 iabbrev tand and
 iabbrev Angleles Angeles
 iabbrev anniiversary anniversary
+iabbrev anniversity anniversity
 iabbrev annula annual
 iabbrev annulal annual
 iabbrev naanual annual
@@ -268,6 +270,7 @@ iabbrev apprpoximatley approximately
 iabbrev paproximately approximately
 iabbrev approximatation approximation
 iabbrev approxmiation approximation
+iabbrev Arpil April
 iabbrev arbitralily arbitrarily
 iabbrev arbitraliy arbitrarily
 iabbrev arbirary arbitrary
@@ -1638,6 +1641,7 @@ iabbrev enthlayp enthalpy
 iabbrev enthlpy enthalpy
 iabbrev nthalpy enthalpy
 iabbrev tnthalpy enthalpy
+iabbrev enetire entire
 iabbrev entier entire
 iabbrev entiree entire
 iabbrev etneir entire
@@ -2169,6 +2173,7 @@ iabbrev governemnt government
 iabbrev gmp gpm
 iabbrev graduyation graduation
 iabbrev gramamrs grammars
+iabbrev Grpah Graph
 iabbrev grpahic graphic
 iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
@@ -2777,6 +2782,7 @@ iabbrev maintencance maintenance
 iabbrev maintence maintenance
 iabbrev maintenence maintenance
 iabbrev maintenenece maintenance
+iabbrev Majro Major
 iabbrev moajority majority
 iabbrev Mkae Make
 iabbrev amek make
@@ -2944,6 +2950,7 @@ iabbrev MOdified Modified
 iabbrev modifeid modified
 iabbrev moidify modify
 iabbrev MOdule Module
+iabbrev Modeule Module
 iabbrev moduel module
 iabbrev modulel module
 iabbrev moduels modules
@@ -3125,6 +3132,7 @@ iabbrev Ocucpied Occupied
 iabbrev Ocupied Occupied
 iabbrev occured occurred
 iabbrev Occurance Occurrence
+iabbrev occuarance occurrence
 iabbrev occurance occurrence
 iabbrev occuring occurring
 iabbrev Octboer October
@@ -4503,6 +4511,7 @@ iabbrev Studnent Student
 iabbrev studnet student
 iabbrev STuido Studio
 iabbrev Stuido Studio
+iabbrev sutdy study
 iabbrev stye style
 iabbrev styel style
 iabbrev sytle style
@@ -4981,6 +4990,7 @@ iabbrev traingin training
 iabbrev trainging training
 iabbrev trainign training
 iabbrev trainsnig training
+iabbrev triangin training
 iabbrev trianing training
 iabbrev trinaing training
 iabbrev TRane Trane
@@ -5101,6 +5111,7 @@ iabbrev unix Unix
 iabbrev uneccessary unnecessary
 iabbrev unecesary unnecessary
 iabbrev unecessary unnecessary
+iabbrev unneccesary unnecessary
 iabbrev unneccessary unnecessary
 iabbrev unnessecary unnecessary
 iabbrev uneeded unneeded
