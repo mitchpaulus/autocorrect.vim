@@ -638,6 +638,7 @@ iabbrev caess cases
 iabbrev categoraized categorized
 iabbrev catefory category
 iabbrev cuase cause
+iabbrev casued caused
 iabbrev ceilign ceiling
 iabbrev cewilign ceiling
 iabbrev Celebraiton Celebration
@@ -954,6 +955,7 @@ iabbrev coinfiguraiton configuration
 iabbrev confifguraiton configuration
 iabbrev configuation configuration
 iabbrev configuraiton configuration
+iabbrev configuraqtion configuration
 iabbrev configurtation configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
@@ -1543,6 +1545,7 @@ iabbrev efficincy efficiency
 iabbrev effortr effort
 iabbrev efforst efforts
 iabbrev Eikegra Eikagra
+iabbrev EIther Either
 iabbrev weitther either
 iabbrev Eelctric Electric
 iabbrev Eelectric Electric
@@ -1826,6 +1829,7 @@ iabbrev Explations Explanations
 iabbrev expliclit explicit
 iabbrev explicti explicit
 iabbrev explicity explicitly
+iabbrev Exploerer Explorer
 iabbrev explroeing exploring
 iabbrev expoennetial exponential
 iabbrev expononetials exponentials
@@ -1921,6 +1925,7 @@ iabbrev iles files
 iabbrev fil fill
 iabbrev Fillign Filling
 iabbrev Fuilling Filling
+iabbrev fitlers filters
 iabbrev FInal Final
 iabbrev fianl final
 iabbrev filan final
@@ -2226,6 +2231,7 @@ iabbrev haiving having
 iabbrev Heaidng Heading
 iabbrev ehadings headings
 iabbrev Headquareters Headquarters
+iabbrev heatlh health
 iabbrev HEat Heat
 iabbrev HEating Heating
 iabbrev ehating heating
@@ -2348,6 +2354,7 @@ iabbrev impleid implied
 iabbrev improt import
 iabbrev importantance importance
 iabbrev importantce importance
+iabbrev Importatn Important
 iabbrev Importatnt Important
 iabbrev Improatant Important
 iabbrev Improtant Important
@@ -2702,6 +2709,7 @@ iabbrev lienar linear
 iabbrev linera linear
 iabbrev LInk Link
 iabbrev linuux Linux
+iabbrev llinux Linux
 iabbrev liquied liquid
 iabbrev leisted listed
 iabbrev listerner listener
@@ -2794,6 +2802,7 @@ iabbrev Mkaefile Makefile
 iabbrev amkes makes
 iabbrev magnage manage
 iabbrev Managemnet Management
+iabbrev Managmeent Management
 iabbrev Managnemnt Management
 iabbrev managmeent management
 iabbrev managmenet management
@@ -3645,6 +3654,7 @@ iabbrev projgram program
 iabbrev programmble programmable
 iabbrev prommed programmed
 iabbrev programmihng programming
+iabbrev progrmaming programming
 iabbrev progrmas programs
 iabbrev Progess Progress
 iabbrev proejgress progress
@@ -4900,6 +4910,7 @@ iabbrev THis This
 iabbrev Thjis This
 iabbrev Thsi This
 iabbrev htis this
+iabbrev thei this
 iabbrev thsi this
 iabbrev THose Those
 iabbrev Thoguhts Thoughts
@@ -5222,9 +5233,11 @@ iabbrev VArious Various
 iabbrev vaarious various
 iabbrev vaioruds various
 iabbrev vairous Various
+iabbrev variosu various
 iabbrev varoius various
 iabbrev vehivcle vehicle
 iabbrev vleocity velocity
+iabbrev Ventilatin Ventilation
 iabbrev ventialation ventilation
 iabbrev ventialtiaon ventilation
 iabbrev ventialtion ventilation
@@ -5267,6 +5280,7 @@ iabbrev viisti visit
 iabbrev visti visit
 iabbrev VIsualization Visualization
 iabbrev visualation visualization
+iabbrev Visualziations Visualizations
 iabbrev visualzations visualizations
 iabbrev volcabulary vocabulary
 iabbrev voicemial voicemail
