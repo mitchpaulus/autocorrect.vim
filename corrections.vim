@@ -88,6 +88,7 @@ iabbrev Adviosr Advisor
 iabbrev Advisro Advisor
 iabbrev adviosr advisor
 iabbrev Asthetics Aesthetics
+iabbrev aestheics aesthetics
 iabbrev asthetics aesthetics
 iabbrev afftecting affecting
 iabbrev AFter After
@@ -1149,6 +1150,7 @@ iabbrev creiterion criterion
 iabbrev ciritical critical
 iabbrev critcial critical
 iabbrev criticial critical
+iabbrev criticla critical
 iabbrev crtricial critical
 iabbrev ctirical critical
 iabbrev critisms criticism
@@ -1210,6 +1212,7 @@ iabbrev deadbadn deadband
 iabbrev deailng dealing
 iabbrev Decmember December
 iabbrev decidied decided
+iabbrev decalre declare
 iabbrev decommissoin decommission
 iabbrev decreaesed decreased
 iabbrev decreasees decreases
@@ -1228,6 +1231,7 @@ iabbrev defininng defining
 iabbrev Definiteyl Definitely
 iabbrev definiteyl definitely
 iabbrev Defintion Definition
+iabbrev defiition definition
 iabbrev definitino definition
 iabbrev defintinoo definition
 iabbrev defintion definition
@@ -1432,6 +1436,7 @@ iabbrev dirunal diurnal
 iabbrev ividvie divide
 iabbrev odcs docs
 iabbrev dcouemnt document
+iabbrev dcoument document
 iabbrev docuemnet document
 iabbrev docuemnt document
 iabbrev docuemtn document
@@ -1516,6 +1521,7 @@ iabbrev durnig during
 iabbrev dynamci dynamic
 iabbrev dynaminc dynamic
 iabbrev dynaimally dynamically
+iabbrev dynamicaly dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
 iabbrev ecm ECM
@@ -1709,6 +1715,7 @@ iabbrev equipoemtn equipment
 iabbrev equipoment equipment
 iabbrev equpiemtn equipment
 iabbrev equpiment equipment
+iabbrev equpimetn equipment
 iabbrev euiqpment equipment
 iabbrev euqipment equipment
 iabbrev qeuipment equipment
@@ -2075,6 +2082,7 @@ iabbrev funcitdon function
 iabbrev funcitno function
 iabbrev funciton function
 iabbrev functdion function
+iabbrev functidon function
 iabbrev functino function
 iabbrev fundction function
 iabbrev ufnction function
@@ -2660,6 +2668,7 @@ iabbrev lnaguage language
 iabbrev langauges languages
 iabbrev languagse languages
 iabbrev lnaguages languages
+iabbrev lnagugaes languages
 iabbrev alrge large
 iabbrev lrage large
 iabbrev alst last
@@ -2716,9 +2725,11 @@ iabbrev listerner listener
 iabbrev liests lists
 iabbrev literuate literate
 iabbrev lieterature literature
+iabbrev Littel Little
 iabbrev littel little
 iabbrev Laod Load
 iabbrev laod load
+iabbrev loaqded loaded
 iabbrev lodaed loaded
 iabbrev laoding loading
 iabbrev lodaing loading
@@ -2820,6 +2831,7 @@ iabbrev mahy many
 iabbrev mnay many
 iabbrev mpa map
 iabbrev mappign mapping
+iabbrev mappiung mapping
 iabbrev mpaping mapping
 iabbrev mappigns mappings
 iabbrev mapas maps
@@ -4275,6 +4287,7 @@ iabbrev stpeoints setpoints
 iabbrev SEts Sets
 iabbrev seteting setting
 iabbrev setintg setting
+iabbrev settting setting
 iabbrev settigns settings
 iabbrev seetup setup
 iabbrev setps setups
@@ -4426,6 +4439,7 @@ iabbrev specifing specifying
 iabbrev Spepd Speed
 iabbrev spped speed
 iabbrev sepll spell
+iabbrev speeling spelling
 iabbrev speelings spellings
 iabbrev SPent Spent
 iabbrev Spcie Spice
@@ -4441,6 +4455,7 @@ iabbrev speradhset spreadsheet
 iabbrev speradsheet spreadsheet
 iabbrev spreadhseet spreadsheet
 iabbrev spreadhset spreadsheet
+iabbrev spreadhsetet spreadsheet
 iabbrev spreadhsett spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
@@ -5140,6 +5155,7 @@ iabbrev unsuccesful unsuccessful
 iabbrev Unitl Until
 iabbrev unitl until
 iabbrev UPdate Update
+iabbrev Udpate Update
 iabbrev Upate Update
 iabbrev Uppdate Update
 iabbrev upate update
@@ -5417,6 +5433,7 @@ iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev Wokred Worked
 iabbrev workeds worked
+iabbrev workflwo workflow
 iabbrev WOkrign Working
 iabbrev WOkring Working
 iabbrev WOkrking Working
