@@ -37,6 +37,7 @@ iabbrev accoutned accounted
 iabbrev accuracte accurate
 iabbrev acheived achieved
 iabbrev acknowledgement acknowledgment
+iabbrev acquisitons acquisitions
 iabbrev acroyms acronyms
 iabbrev accross across
 iabbrev acorss across
@@ -368,6 +369,7 @@ iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
 iabbrev automatcially automatically
 iabbrev automaticaly automatically
+iabbrev automoatically automatically
 iabbrev automaation automation
 iabbrev avaiable available
 iabbrev avaialabe available
@@ -1195,6 +1197,7 @@ iabbrev DAta Data
 iabbrev daat data
 iabbrev datapoints data points
 iabbrev dta data
+iabbrev Datbase Database
 iabbrev databasew database
 iabbrev databse database
 iabbrev datbase database
@@ -1272,6 +1275,7 @@ iabbrev deriviative derivative
 iabbrev derviate derivative
 iabbrev derviative derivative
 iabbrev deriviatives derivatives
+iabbrev desecnd descend
 iabbrev descentdants descendants
 iabbrev describved described
 iabbrev Descriptoin Description
@@ -1827,6 +1831,7 @@ iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
 iabbrev expereince experience
+iabbrev experieece experience
 iabbrev experimentla experimental
 iabbrev expertice expertise
 iabbrev Explaingin Explaining
@@ -1932,6 +1937,7 @@ iabbrev iles files
 iabbrev fil fill
 iabbrev Fillign Filling
 iabbrev Fuilling Filling
+iabbrev Fitler Filter
 iabbrev fitlers filters
 iabbrev FInal Final
 iabbrev fianl final
@@ -2529,6 +2535,7 @@ iabbrev initended intended
 iabbrev itnerest interest
 iabbrev interesetd interested
 iabbrev interesteds interested
+iabbrev Intereseting Interesting
 iabbrev interesing interesting
 iabbrev interestiong interesting
 iabbrev interseting interesting
@@ -2723,6 +2730,7 @@ iabbrev liquied liquid
 iabbrev leisted listed
 iabbrev listerner listener
 iabbrev liests lists
+iabbrev literlaly literally
 iabbrev literuate literate
 iabbrev lieterature literature
 iabbrev Littel Little
@@ -3026,6 +3034,7 @@ iabbrev movew move
 iabbrev muychg much
 iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
+iabbrev Multiople Multiple
 iabbrev multiople multiple
 iabbrev multipole multiple
 iabbrev multple multiple
@@ -3199,6 +3208,8 @@ iabbrev operaitonla operational
 iabbrev operatialn operational
 iabbrev Operaitons Operations
 iabbrev operaitons operations
+iabbrev operatoir operator
+iabbrev opereator operator
 iabbrev Opinioned Opinionated
 iabbrev opportunies opportunities
 iabbrev opportuniteis opportunities
@@ -4386,6 +4397,7 @@ iabbrev sopa soap
 iabbrev Socail Social
 iabbrev socail social
 iabbrev Softwaere Software
+iabbrev softawer software
 iabbrev softwaer software
 iabbrev softwaere software
 iabbrev softweare software
@@ -5235,6 +5247,7 @@ iabbrev variazble variable
 iabbrev Varialbes Variables
 iabbrev vairlabes variables
 iabbrev variablwes variables
+iabbrev varialbeles variables
 iabbrev varialbes variables
 iabbrev varialbles variables
 iabbrev varibables variables
