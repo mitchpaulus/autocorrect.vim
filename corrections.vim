@@ -473,6 +473,7 @@ iabbrev BOiler Boiler
 iabbrev Boielr Boiler
 iabbrev biler boiler
 iabbrev boielr boiler
+iabbrev obiler boiler
 iabbrev BOilers Boilers
 iabbrev bilers boilers
 iabbrev bookelt booklet
@@ -1242,6 +1243,7 @@ iabbrev definiations definitions
 iabbrev defintions definitions
 iabbrev degress degrees
 iabbrev Dehumidificaiton Dehumidification
+iabbrev dehumidifaciton dehumidification
 iabbrev dehumidifcation dehumidification
 iabbrev dealy delay
 iabbrev delte delete
@@ -1322,6 +1324,7 @@ iabbrev dewtermine determine
 iabbrev Deterimiend Determined
 iabbrev determeined determined
 iabbrev detemrines determines
+iabbrev detemrineg determining
 iabbrev deteriming determining
 iabbrev deterining determining
 iabbrev determineing determining
@@ -1353,6 +1356,7 @@ iabbrev Deveil Devil
 iabbrev diagrma diagram
 iabbrev digarm diagram
 iabbrev dailog dialog
+iabbrev diaglo dialog
 iabbrev diaglog dialog
 iabbrev Dicitonary Dictionary
 iabbrev Dictiorany Dictionary
@@ -1395,6 +1399,7 @@ iabbrev drieclty directly
 iabbrev driectly directly
 iabbrev directoriues directories
 iabbrev direcdtory directory
+iabbrev direcory directory
 iabbrev direcotry directory
 iabbrev direcotyr directory
 iabbrev directoy directory
@@ -2091,6 +2096,7 @@ iabbrev functdion function
 iabbrev functidon function
 iabbrev functino function
 iabbrev fundction function
+iabbrev funtion function
 iabbrev ufnction function
 iabbrev Fucnttional Functional
 iabbrev Functianl Functional
@@ -2400,6 +2406,7 @@ iabbrev Inlcues Includes
 iabbrev includddes includes
 iabbrev inlcudes includes
 iabbrev incompressibiility incompressibility
+iabbrev Inconsistgen Inconsistent
 iabbrev inconvient inconvenient
 iabbrev incrorect incorrect
 iabbrev incorectly incorrectly
@@ -2946,6 +2953,7 @@ iabbrev Mintue Minute
 iabbrev minnute minute
 iabbrev mintue minute
 iabbrev mintues minutes
+iabbrev Missign Missing
 iabbrev msising missing
 iabbrev msitakes mistakes
 iabbrev maixing mixing
@@ -4556,7 +4564,10 @@ iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
 iabbrev Sbumittal Submittal
+iabbrev Submital Submittal
+iabbrev Submitall Submittal
 iabbrev Submitatl Submittal
+iabbrev submitall submittal
 iabbrev submittall submittal
 iabbrev submitalls submittals
 iabbrev submittals submittals
