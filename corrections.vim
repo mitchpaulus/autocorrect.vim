@@ -575,8 +575,10 @@ iabbrev Caluclated Calculated
 iabbrev calcualted calculated
 iabbrev caluclated calculated
 iabbrev claculated calculated
+iabbrev Calculationg Calculating
 iabbrev calcualteing calculating
 iabbrev calcualting calculating
+iabbrev caclulation calculation
 iabbrev claculation calculation
 iabbrev dalculation calculation
 iabbrev Calcuaitons Calculations
@@ -1280,6 +1282,7 @@ iabbrev deriviatives derivatives
 iabbrev desecnd descend
 iabbrev descentdants descendants
 iabbrev describved described
+iabbrev decribing describing
 iabbrev Descriptoin Description
 iabbrev Descripton Description
 iabbrev descripti description
@@ -1493,6 +1496,7 @@ iabbrev dobule double
 iabbrev doewn down
 iabbrev donw down
 iabbrev downo down
+iabbrev odwn down
 iabbrev DOwnload Download
 iabbrev Downlaod Download
 iabbrev downlaod download
@@ -1506,6 +1510,7 @@ iabbrev Downtonw Downtown
 iabbrev doewntown downtown
 iabbrev downotown downtown
 iabbrev downtonn downtown
+iabbrev drwa draw
 iabbrev drwawer drawer
 iabbrev drwaing drawing
 iabbrev draings drawings
@@ -1837,6 +1842,7 @@ iabbrev expnse expense
 iabbrev Experinece Experience
 iabbrev expereince experience
 iabbrev experieece experience
+iabbrev experiement experiment
 iabbrev experimentla experimental
 iabbrev expertice expertise
 iabbrev Explaingin Explaining
@@ -2010,6 +2016,7 @@ iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev Folow Follow
 iabbrev folloow follow
+iabbrev floowing following
 iabbrev folloiwing following
 iabbrev followign following
 iabbrev follwoign following
@@ -2178,6 +2185,8 @@ iabbrev Geting Getting
 iabbrev geetting getting
 iabbrev gettign getting
 iabbrev Github GitHub
+iabbrev gvie give
+iabbrev givew given
 iabbrev givne given
 iabbrev gllobal global
 iabbrev globablly globally
@@ -2476,6 +2485,7 @@ iabbrev informated informed
 iabbrev Inherrently Inherently
 iabbrev INitial Initial
 iabbrev Initiial Initial
+iabbrev initail initial
 iabbrev inital initial
 iabbrev initali initial
 iabbrev intiail initial
@@ -2644,6 +2654,7 @@ iabbrev Kettucky Kentucky
 iabbrev kernal kernel
 iabbrev KEvin Kevin
 iabbrev Kewvin Kevin
+iabbrev Kye Key
 iabbrev dkey key
 iabbrev keystorkes keystrokes
 iabbrev Kimal Kimla
@@ -3317,6 +3328,7 @@ iabbrev outsdide outside
 iabbrev outsdie outside
 iabbrev ovewr over
 iabbrev voer over
+iabbrev overally overall
 iabbrev overaching overarching
 iabbrev overestimat overestimate
 iabbrev overaly overlay
@@ -3993,6 +4005,7 @@ iabbrev repostitoyr repository
 iabbrev representaion representation
 iabbrev represeted represented
 iabbrev represesnts represents
+iabbrev reproducability reproducibility
 iabbrev Reproducable Reproducible
 iabbrev reproducable reproducible
 iabbrev requrest request
@@ -4353,6 +4366,7 @@ iabbrev sdie side
 iabbrev sidse side
 iabbrev Siemesn Siemens
 iabbrev Siemnes Siemens
+iabbrev signla signal
 iabbrev singal signal
 iabbrev signficant significant
 iabbrev signifiatn significant
@@ -4943,6 +4957,7 @@ iabbrev THink Think
 iabbrev htink think
 iabbrev thingks thinks
 iabbrev THird Third
+iabbrev Thrid Third
 iabbrev thrid third
 iabbrev THis This
 iabbrev Thjis This
@@ -4963,6 +4978,7 @@ iabbrev threshld threshold
 iabbrev thresholld threshold
 iabbrev trhrehosld threshold
 iabbrev Trhehsolds Thresholds
+iabbrev thorugh through
 iabbrev throght through
 iabbrev throguh through
 iabbrev throught through
@@ -5137,6 +5153,7 @@ iabbrev underreprsented underrepresented
 iabbrev underscope underscore
 iabbrev Understnad Understand
 iabbrev udnerstand understand
+iabbrev understanded understand
 iabbrev understnad understand
 iabbrev udnerstanding understanding
 iabbrev understandidng understanding
@@ -5448,6 +5465,7 @@ iabbrev withotu without
 iabbrev Witneess Witness
 iabbrev WOrd Word
 iabbrev Wrod Word
+iabbrev worindg wording
 iabbrev Wrok Work
 iabbrev owkr work
 iabbrev owrk work
