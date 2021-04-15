@@ -215,6 +215,7 @@ iabbrev Anthohny Anthony
 iabbrev Anythony Anthony
 iabbrev Antoionio Antonio
 iabbrev Antoniao Antonio
+iabbrev Anthing Anything
 iabbrev Anytihng Anything
 iabbrev anythign anything
 iabbrev anytihng anything
@@ -1030,6 +1031,7 @@ iabbrev Continous Continuous
 iabbrev Continousous Continuous
 iabbrev Continuouss Continuous
 iabbrev Contionous Continuous
+iabbrev contrcting contracting
 iabbrev Contracotr Contractor
 iabbrev contracdtor contractor
 iabbrev contractiors contractors
@@ -1272,6 +1274,7 @@ iabbrev dependeiing depending
 iabbrev deply deploy
 iabbrev deployued deployed
 iabbrev dpeloying deploying
+iabbrev deployement deployment
 iabbrev derivateive derivative
 iabbrev deriviate derivative
 iabbrev deriviateve derivative
@@ -1579,6 +1582,7 @@ iabbrev Electricial Electrical
 iabbrev Electricla Electrical
 iabbrev eelectyrical electrical
 iabbrev elecricial electrical
+iabbrev electircal electrical
 iabbrev electricial electrical
 iabbrev electricla electrical
 iabbrev ewlectrical electrical
@@ -2105,6 +2109,7 @@ iabbrev functino function
 iabbrev fundction function
 iabbrev funtion function
 iabbrev ufnction function
+iabbrev FUnctional Functional
 iabbrev Fucnttional Functional
 iabbrev Functianl Functional
 iabbrev Functinal Functional
@@ -2526,6 +2531,7 @@ iabbrev insatll install
 iabbrev installaiton installation
 iabbrev instlalation installation
 iabbrev instlaliont installation
+iabbrev isntallation installation
 iabbrev inistalled installed
 iabbrev insatalled installed
 iabbrev insatlled installed
@@ -2847,6 +2853,7 @@ iabbrev mangaement management
 iabbrev mangagment management
 iabbrev mangaer manager
 iabbrev mangatger manager
+iabbrev manageers managers
 iabbrev managerse managers
 iabbrev Machester Manchester
 iabbrev manmual manual
@@ -2902,6 +2909,7 @@ iabbrev meausred measured
 iabbrev measuremenht measurement
 iabbrev measuremnet measurement
 iabbrev measuremnt measurement
+iabbrev measurment measurement
 iabbrev measuremensts measurements
 iabbrev measuremnets measurements
 iabbrev measuremnts measurements
@@ -3342,6 +3350,7 @@ iabbrev Pakcing Packing
 iabbrev apge page
 iabbrev pamplhet pamphlet
 iabbrev pandco pandoc
+iabbrev paragrah paragraph
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
 iabbrev Parmaeter Parameter
@@ -3383,6 +3392,7 @@ iabbrev particulary particularly
 iabbrev aprtition partition
 iabbrev partyy party
 iabbrev apssed passed
+iabbrev passwrod password
 iabbrev pasate paste
 iabbrev passted pasted
 iabbrev patritoic patriotic
@@ -3672,6 +3682,7 @@ iabbrev prcoess process
 iabbrev proces process
 iabbrev proecess process
 iabbrev processign processing
+iabbrev Prodcue Produce
 iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev producedd produced
@@ -4461,6 +4472,7 @@ iabbrev speciific specific
 iabbrev specificaiton specification
 iabbrev specificiation specification
 iabbrev Specificiations Specifications
+iabbrev specificaiotns specifications
 iabbrev specificaitons specifications
 iabbrev specificantions specifications
 iabbrev psecified specified
@@ -4681,6 +4693,7 @@ iabbrev tagblse tables
 iabbrev taggins tagging
 iabbrev atake take
 iabbrev atke take
+iabbrev takeawya takeaway
 iabbrev takne taken
 iabbrev Takign Taking
 iabbrev TMAU TAMU
