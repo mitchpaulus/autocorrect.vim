@@ -680,6 +680,7 @@ iabbrev chagnes changes
 iabbrev changds changes
 iabbrev chantges changes
 iabbrev hcanges changes
+iabbrev chagning changing
 iabbrev changeing changing
 iabbrev Chatper Chapter
 iabbrev cahpter chapter
@@ -1041,6 +1042,7 @@ iabbrev contriubuting contributing
 iabbrev contributrion contribution
 iabbrev contirbutors contributors
 iabbrev Cointrol Control
+iabbrev Conrol Control
 iabbrev Contorl Control
 iabbrev Contyrol Control
 iabbrev Cotnrl Control
@@ -1600,6 +1602,7 @@ iabbrev electyriciyt electricity
 iabbrev electyricyt electricity
 iabbrev elemnmet element
 iabbrev elment element
+iabbrev elemetns elements
 iabbrev elemets elements
 iabbrev evevation elevation
 iabbrev elevatiaonl elevational
@@ -1856,6 +1859,7 @@ iabbrev Explations Explanations
 iabbrev expliclit explicit
 iabbrev explicti explicit
 iabbrev explicity explicitly
+iabbrev explicly explicitly
 iabbrev Exploerer Explorer
 iabbrev explroeing exploring
 iabbrev expoennetial exponential
@@ -2439,6 +2443,7 @@ iabbrev ijndividual individual
 iabbrev indifivalu individual
 iabbrev indiviual individual
 iabbrev indiviudal individual
+iabbrev indivudal individual
 iabbrev inidividual individual
 iabbrev individaully individually
 iabbrev inddor indoor
@@ -2856,6 +2861,7 @@ iabbrev mangatger manager
 iabbrev manageers managers
 iabbrev managerse managers
 iabbrev Machester Manchester
+iabbrev Mnaula Manual
 iabbrev manmual manual
 iabbrev manula manual
 iabbrev mnaula manual
@@ -3923,6 +3929,7 @@ iabbrev rellative relative
 iabbrev relase release
 iabbrev relavent relevant
 iabbrev reliabiltiy reliability
+iabbrev reflief relief
 iabbrev releif relief
 iabbrev relocaitons relocations
 iabbrev REly Rely
@@ -4039,6 +4046,7 @@ iabbrev requirementse requirements
 iabbrev requiremnets requirements
 iabbrev requirmentrs requirements
 iabbrev requrienments requirements
+iabbrev requres requires
 iabbrev requries requires
 iabbrev reuqires requires
 iabbrev Rescheudled Rescheduled
@@ -5074,6 +5082,7 @@ iabbrev trinaing training
 iabbrev TRane Trane
 iabbrev trnasducers transducers
 iabbrev tansfer transfer
+iabbrev transefer transfer
 iabbrev trnasfer transfer
 iabbrev transferrable transferable
 iabbrev Transferrign Transferring
