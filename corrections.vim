@@ -360,6 +360,7 @@ iabbrev Auguest August
 iabbrev autehnticadtion authentication
 iabbrev authenticaion authentication
 iabbrev authenticaiton authentication
+iabbrev authenticiation authentication
 iabbrev Authorizastion Authorization
 iabbrev auot auto
 iabbrev auotmate automate
@@ -3893,6 +3894,7 @@ iabbrev refactyor refactor
 iabbrev Refacotring Refactoring
 iabbrev referecne reference
 iabbrev referencem reference
+iabbrev refernce reference
 iabbrev refernece reference
 iabbrev refernecing referencing
 iabbrev Reformaatted Reformatted
@@ -4123,6 +4125,7 @@ iabbrev reisit revisit
 iabbrev Reichard Richard
 iabbrev Ricahrd Richard
 iabbrev rightt right
+iabbrev rihgtn right
 iabbrev rigourous rigorous
 iabbrev rigous rigorous
 iabbrev riese rise
@@ -4461,6 +4464,7 @@ iabbrev soem some
 iabbrev somehting something
 iabbrev someithign something
 iabbrev somethign something
+iabbrev somsethign something
 iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
 iabbrev Soruce Source
@@ -5072,6 +5076,7 @@ iabbrev Tyotoa Toyota
 iabbrev tarckign tracking
 iabbrev trackign tracking
 iabbrev trakcing tracking
+iabbrev trcking tracking
 iabbrev tradiation tradition
 iabbrev traditioanl traditional
 iabbrev trialing trailing
@@ -5545,6 +5550,7 @@ iabbrev wouold would
 iabbrev wuoudl would
 iabbrev worng wrong
 iabbrev yaer year
+iabbrev yare year
 iabbrev yera year
 iabbrev yeras years
 iabbrev yewt yet
