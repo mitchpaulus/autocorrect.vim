@@ -180,6 +180,7 @@ iabbrev anlaysis analysis
 iabbrev anlsyiss analysis
 iabbrev anlysis analysis
 iabbrev anslysis analysis
+iabbrev nalysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
 iabbrev alnaalyze analyze
@@ -211,6 +212,7 @@ iabbrev anomolies anomalies
 iabbrev Anbother Another
 iabbrev annother another
 iabbrev antoher another
+iabbrev Answeringt Answering
 iabbrev ANthony Anthony
 iabbrev Anthohny Anthony
 iabbrev Anythony Anthony
@@ -881,6 +883,7 @@ iabbrev comparsion comparison
 iabbrev comparisions comparisons
 iabbrev Comapass Compass
 iabbrev Comapss Compass
+iabbrev Comass Compass
 iabbrev Compas Compass
 iabbrev Coppmpass Compass
 iabbrev Compoatibility Compatibility
@@ -2824,6 +2827,7 @@ iabbrev olop loop
 iabbrev lwo low
 iabbrev Loower Lower
 iabbrev loower lower
+iabbrev lucnh lunch
 iabbrev machien machine
 iabbrev Macrosciptic Macroscopic
 iabbrev mage made
@@ -4096,6 +4100,7 @@ iabbrev ersutl result
 iabbrev restul result
 iabbrev resutl result
 iabbrev reuslt result
+iabbrev Reuslts Results
 iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
@@ -5249,6 +5254,7 @@ iabbrev uplaod upload
 iabbrev upldoad upload
 iabbrev Uploadeed Uploaded
 iabbrev updlaoded uploaded
+iabbrev uplaoded uploaded
 iabbrev uplodaed uploaded
 iabbrev UPloading Uploading
 iabbrev updlads uploads
@@ -5545,6 +5551,7 @@ iabbrev owuld would
 iabbrev owule would
 iabbrev wiould would
 iabbrev wolud would
+iabbrev woould would
 iabbrev woudl would
 iabbrev wouold would
 iabbrev wuoudl would
