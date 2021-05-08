@@ -125,6 +125,7 @@ iabbrev Albequerqe Albuquerque
 iabbrev Albequerque Albuquerque
 iabbrev algorighm algorithm
 iabbrev algorihgm algorithm
+iabbrev algorihtm algorithm
 iabbrev algoritm algorithm
 iabbrev algortihm algorithm
 iabbrev alogrithm algorithm
@@ -481,6 +482,7 @@ iabbrev boielr boiler
 iabbrev obiler boiler
 iabbrev BOilers Boilers
 iabbrev bilers boilers
+iabbrev obok book
 iabbrev bookelt booklet
 iabbrev Boolena Boolean
 iabbrev boolens booleans
@@ -508,6 +510,7 @@ iabbrev borken broken
 iabbrev broekn broken
 iabbrev browswer browser
 iabbrev bubblle bubble
+iabbrev Buidl Build
 iabbrev Buyild Build
 iabbrev buidl build
 iabbrev BUildeing Building
@@ -865,6 +868,7 @@ iabbrev commsisiongin commissioning
 iabbrev commsssioning commissioning
 iabbrev commmit commit
 iabbrev commti commit
+iabbrev commiteed committed
 iabbrev commmon common
 iabbrev ocmmon common
 iabbrev commonlky commonly
@@ -1245,6 +1249,7 @@ iabbrev fdefine define
 iabbrev definned defined
 iabbrev defininng defining
 iabbrev Definiteyl Definitely
+iabbrev definetely definitely
 iabbrev definiteyl definitely
 iabbrev Defintion Definition
 iabbrev defiition definition
@@ -1678,6 +1683,7 @@ iabbrev enthlpy enthalpy
 iabbrev nthalpy enthalpy
 iabbrev tnthalpy enthalpy
 iabbrev enetire entire
+iabbrev enitre entire
 iabbrev entier entire
 iabbrev entiree entire
 iabbrev etneir entire
@@ -1698,6 +1704,7 @@ iabbrev environemnt environment
 iabbrev environemtn environment
 iabbrev environemtnet environment
 iabbrev enviromental environmental
+iabbrev enviorments environments
 iabbrev enviroments environments
 iabbrev environemntes environments
 iabbrev eqaul equal
@@ -1928,6 +1935,7 @@ iabbrev favoirte favorite
 iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
+iabbrev Feedbakc Feedback
 iabbrev feeback feedback
 iabbrev FIdelity Fidelity
 iabbrev FIdielity Fidelity
@@ -2298,6 +2306,7 @@ iabbrev dhigher higher
 iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev highlihgt highlight
+iabbrev Highlighitng Highlighting
 iabbrev hgihlighting highlighting
 iabbrev highlighing highlighting
 iabbrev highlihgting highlighting
@@ -2350,6 +2359,7 @@ iabbrev humidty humidity
 iabbrev humitiy humidity
 iabbrev Huniting Hunting
 iabbrev hunignt hunting
+iabbrev Hyperparametres Hyperparameters
 iabbrev hypens hyphens
 iabbrev hystersis hysteresis
 iabbrev Ina Ian
@@ -2428,6 +2438,7 @@ iabbrev includede included
 iabbrev INclues Includes
 iabbrev Inlcues Includes
 iabbrev includddes includes
+iabbrev includeds includes
 iabbrev inlcudes includes
 iabbrev incompressibiility incompressibility
 iabbrev Inconsistgen Inconsistent
@@ -2577,6 +2588,7 @@ iabbrev interseting interesting
 iabbrev INterface Interface
 iabbrev Interace Interface
 iabbrev Interafce Interface
+iabbrev tnerface interface
 iabbrev interioro interior
 iabbrev intermeidate intermediate
 iabbrev intenral internal
@@ -3112,6 +3124,7 @@ iabbrev NEed Need
 iabbrev NEedc Need
 iabbrev ened need
 iabbrev eneded needed
+iabbrev NEeds Needs
 iabbrev eneds needs
 iabbrev neeeds needs
 iabbrev n3egative negative
@@ -3186,6 +3199,7 @@ iabbrev Novermber November
 iabbrev nozle nozzle
 iabbrev nubmer number
 iabbrev nunmber number
+iabbrev numering numbering
 iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
@@ -3288,6 +3302,7 @@ iabbrev organge orange
 iabbrev ordedr order
 iabbrev ordrse orders
 iabbrev ordinacne ordinance
+iabbrev Organizaiton Organization
 iabbrev orgainazation organization
 iabbrev orgainzation organization
 iabbrev organiation organization
@@ -3361,6 +3376,7 @@ iabbrev pacakge package
 iabbrev packgae package
 iabbrev pakcage package
 iabbrev pakcaged packaged
+iabbrev pakcages packages
 iabbrev Pakcing Packing
 iabbrev apge page
 iabbrev pamplhet pamphlet
@@ -3373,6 +3389,7 @@ iabbrev apramater parameter
 iabbrev aprameter parameter
 iabbrev paraameter parameter
 iabbrev paramter parameter
+iabbrev pparameter parameter
 iabbrev aparmaterize parameterize
 iabbrev Parmaetesr Parameters
 iabbrev aprameters parameters
@@ -3410,8 +3427,10 @@ iabbrev apssed passed
 iabbrev passwrod password
 iabbrev pasate paste
 iabbrev passted pasted
+iabbrev Paht Path
 iabbrev patritoic patriotic
 iabbrev patten pattern
+iabbrev Penalthy Penalty
 iabbrev penatlty penalty
 iabbrev penatly penalty
 iabbrev Pnethouse Penthouse
@@ -3472,6 +3491,7 @@ iabbrev palce place
 iabbrev placehodler placeholder
 iabbrev placehodlers placeholders
 iabbrev palcement placement
+iabbrev palces places
 iabbrev plian plain
 iabbrev Paln Plan
 iabbrev paln plan
@@ -3916,6 +3936,7 @@ iabbrev Regeneratre Regenerate
 iabbrev Regerneate Regenerate
 iabbrev regernation regeneration
 iabbrev regisetered registered
+iabbrev REgression Regression
 iabbrev regrssion regression
 iabbrev regural regular
 iabbrev regualry regularly
@@ -3938,6 +3959,7 @@ iabbrev realtive relative
 iabbrev relateive relative
 iabbrev rellative relative
 iabbrev relase release
+iabbrev relavant relevant
 iabbrev relavent relevant
 iabbrev reliabiltiy reliability
 iabbrev reflief relief
@@ -4045,6 +4067,7 @@ iabbrev Requrired Required
 iabbrev requerid required
 iabbrev requied required
 iabbrev requiredy required
+iabbrev requreid required
 iabbrev requried required
 iabbrev reqwuiref required
 iabbrev reuqied required
@@ -4472,6 +4495,7 @@ iabbrev somethign something
 iabbrev somsethign something
 iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
+iabbrev saught sought
 iabbrev Soruce Source
 iabbrev soruce source
 iabbrev soources sources
@@ -5155,8 +5179,10 @@ iabbrev ytpes types
 iabbrev TYpeScript TypeScript
 iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
+iabbrev tyhpical typical
 iabbrev typiucal typical
 iabbrev typiuckal typical
+iabbrev TYpiucally Typically
 iabbrev typcially typically
 iabbrev typeiclaly typically
 iabbrev typicallly typically
@@ -5467,6 +5493,7 @@ iabbrev Whiel While
 iabbrev hwile while
 iabbrev whilee while
 iabbrev whitle while
+iabbrev Whtie White
 iabbrev hwite white
 iabbrev WHo Who
 iabbrev Whiole Whole
