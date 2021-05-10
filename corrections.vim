@@ -570,6 +570,7 @@ iabbrev buit but
 iabbrev ubt but
 iabbrev butoton button
 iabbrev yb by
+iabbrev byapss bypass
 iabbrev cabliing cabling
 iabbrev chacehd cached
 iabbrev cafeteriaa cafeteria
@@ -1210,6 +1211,7 @@ iabbrev damnper damper
 iabbrev dampe4r damper
 iabbrev dmaper damper
 iabbrev Danelli Daniel
+iabbrev dahsboard dashboard
 iabbrev DAta Data
 iabbrev daat data
 iabbrev datapoints data points
@@ -1470,6 +1472,7 @@ iabbrev docuemnt document
 iabbrev docuemtn document
 iabbrev doecuemnt document
 iabbrev doecument document
+iabbrev Dcouematation Documentation
 iabbrev Docuemntaiont Documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
@@ -2551,6 +2554,7 @@ iabbrev inspiratiosn inspirations
 iabbrev inspried inspired
 iabbrev INstall Install
 iabbrev insatll install
+iabbrev instlal install
 iabbrev installaiton installation
 iabbrev instlalation installation
 iabbrev instlaliont installation
@@ -2852,6 +2856,7 @@ iabbrev mian main
 iabbrev maintian maintain
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
+iabbrev maintainging maintaining
 iabbrev Maintenacen Maintenance
 iabbrev Maintence Maintenance
 iabbrev Maintenence Maintenance
@@ -2953,6 +2958,7 @@ iabbrev mechanicla mechanical
 iabbrev mechincal mechanical
 iabbrev mechnaical mechanical
 iabbrev mechnaicla mechanical
+iabbrev Medai Media
 iabbrev Meida Media
 iabbrev medai media
 iabbrev meida media
@@ -3372,6 +3378,7 @@ iabbrev overestimat overestimate
 iabbrev overaly overlay
 iabbrev OVerview Overview
 iabbrev onw own
+iabbrev apcakge package
 iabbrev pacakge package
 iabbrev packgae package
 iabbrev pakcage package
@@ -3633,6 +3640,7 @@ iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
 iabbrev prerequitsite prerequisite
 iabbrev Prerequisitevs Prerequisites
+iabbrev Prerequisties Prerequisites
 iabbrev presecne presence
 iabbrev presetn present
 iabbrev presnet present
@@ -3727,6 +3735,7 @@ iabbrev PRoduction Production
 iabbrev Produciton Production
 iabbrev produciton production
 iabbrev prodcuts products
+iabbrev Profesional Professional
 iabbrev profient proficient
 iabbrev fprofile profile
 iabbrev profeil profile
@@ -4399,6 +4408,7 @@ iabbrev Shrit Shirt
 iabbrev shootouyt shootout
 iabbrev Shrot Short
 iabbrev shrot short
+iabbrev shrotcut shortcut
 iabbrev shrotened shortened
 iabbrev SHould Should
 iabbrev SHuold Should
