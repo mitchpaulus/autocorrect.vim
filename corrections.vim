@@ -55,6 +55,7 @@ iabbrev Acdtivies Activities
 iabbrev activies activities
 iabbrev acutal actual
 iabbrev Actulaly Actually
+iabbrev Acutally Actually
 iabbrev actaully actually
 iabbrev actauully actually
 iabbrev actucally actually
@@ -129,6 +130,7 @@ iabbrev algorihtm algorithm
 iabbrev algoritm algorithm
 iabbrev algortihm algorithm
 iabbrev alogrithm algorithm
+iabbrev algorihtms algorithms
 iabbrev alogrighms algorithms
 iabbrev Alogn Align
 iabbrev aling align
@@ -454,6 +456,7 @@ iabbrev behvaior behavior
 iabbrev behing behind
 iabbrev beign being
 iabbrev bewing being
+iabbrev Belive Believe
 iabbrev belive believe
 iabbrev besdies besides
 iabbrev bset best
@@ -884,6 +887,7 @@ iabbrev compnay company
 iabbrev comapre compare
 iabbrev comapred compared
 iabbrev comparision comparison
+iabbrev comparisoin comparison
 iabbrev comparsion comparison
 iabbrev comparisions comparisons
 iabbrev Comapass Compass
@@ -987,6 +991,7 @@ iabbrev conenction connection
 iabbrev conneciton connection
 iabbrev consectuive consecutive
 iabbrev consectuvive consecutive
+iabbrev Condsider Consider
 iabbrev Considerationd Considerations
 iabbrev condsidered considered
 iabbrev consdiderd considered
@@ -1498,6 +1503,7 @@ iabbrev documentaion documentation
 iabbrev documentaiont documentation
 iabbrev documentaiotn documentation
 iabbrev documentaiton documentation
+iabbrev documention documentation
 iabbrev documetiona documentation
 iabbrev docuemneted documented
 iabbrev docuemnted documented
@@ -1837,6 +1843,7 @@ iabbrev exectuable executable
 iabbrev exectue execute
 iabbrev execture execute
 iabbrev exectued executed
+iabbrev exectuing executing
 iabbrev executuion execution
 iabbrev executivew executive
 iabbrev exericse exercise
@@ -2984,6 +2991,7 @@ iabbrev MEthods Methods
 iabbrev Mehotds Methods
 iabbrev mehtods methods
 iabbrev meothds methods
+iabbrev metirc metric
 iabbrev Microsfot Microsoft
 iabbrev midinght midnight
 iabbrev mgiht might
@@ -3032,6 +3040,7 @@ iabbrev modesl models
 iabbrev modles models
 iabbrev modeset modest
 iabbrev modfication modification
+iabbrev modificaiton modification
 iabbrev modificaitons modifications
 iabbrev modificatiuons modifications
 iabbrev modificiations modifications
@@ -4390,6 +4399,7 @@ iabbrev seetup setup
 iabbrev setps setups
 iabbrev Severla Several
 iabbrev serval several
+iabbrev serveal several
 iabbrev servearl several
 iabbrev sevearl several
 iabbrev shlal shall
