@@ -85,6 +85,7 @@ iabbrev adjustements adjustments
 iabbrev adjustemsnts adjustments
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
+iabbrev Adrain Adrian
 iabbrev Advnaced Advanced
 iabbrev advangtage advantage
 iabbrev Adviosr Advisor
@@ -97,6 +98,7 @@ iabbrev afftecting affecting
 iabbrev AFter After
 iabbrev Afternnon Afternoon
 iabbrev aftenronon afternoon
+iabbrev afternon afternoon
 iabbrev AGain Again
 iabbrev agian again
 iabbrev aggregatre aggregate
@@ -205,6 +207,7 @@ iabbrev nad and
 iabbrev nadn and
 iabbrev nand and
 iabbrev tand and
+iabbrev Andoever Andover
 iabbrev Angleles Angeles
 iabbrev anniiversary anniversary
 iabbrev anniversity anniversity
@@ -402,6 +405,7 @@ iabbrev avialible available
 iabbrev aviallaibe available
 iabbrev byab baby
 iabbrev Bakc Back
+iabbrev bakc back
 iabbrev Backgroudn Background
 iabbrev backgorund background
 iabbrev backgruond background
@@ -1215,6 +1219,7 @@ iabbrev DAmper Damper
 iabbrev damnper damper
 iabbrev dampe4r damper
 iabbrev dmaper damper
+iabbrev dmpaers dampers
 iabbrev Danelli Daniel
 iabbrev dahsboard dashboard
 iabbrev DAta Data
@@ -2253,6 +2258,7 @@ iabbrev graviational gravitational
 iabbrev greek Greek
 iabbrev Grenenwood Greenwood
 iabbrev Grennwood Greenwood
+iabbrev GRids Grids
 iabbrev Grup Group
 iabbrev gorup group
 iabbrev gropu group
@@ -2317,6 +2323,7 @@ iabbrev hgiher higher
 iabbrev hihger higher
 iabbrev highlihgt highlight
 iabbrev Highlighitng Highlighting
+iabbrev fhighlighting highlighting
 iabbrev hgihlighting highlighting
 iabbrev highlighing highlighting
 iabbrev highlihgting highlighting
@@ -2902,6 +2909,7 @@ iabbrev manulas manuals
 iabbrev mahy many
 iabbrev mnay many
 iabbrev mpa map
+iabbrev Mppaer Mapper
 iabbrev mappign mapping
 iabbrev mappiung mapping
 iabbrev mpaping mapping
@@ -5190,6 +5198,7 @@ iabbrev trunaround turnaround
 iabbrev turing turning
 iabbrev TUrns Turns
 iabbrev twekaing tweaking
+iabbrev twaerks tweaks
 iabbrev twicew twice
 iabbrev wtwice twice
 iabbrev TYpe Type
