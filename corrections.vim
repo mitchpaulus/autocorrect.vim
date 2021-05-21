@@ -250,6 +250,7 @@ iabbrev applicaitno application
 iabbrev applicaiton application
 iabbrev Applciaitons Applications
 iabbrev Applicaitons Applications
+iabbrev appiclations applications
 iabbrev applciaitons applications
 iabbrev applicaitons applications
 iabbrev appleid applied
@@ -2569,6 +2570,7 @@ iabbrev inspried inspired
 iabbrev INstall Install
 iabbrev insatll install
 iabbrev instlal install
+iabbrev inslatioation installation
 iabbrev installaiton installation
 iabbrev instlalation installation
 iabbrev instlaliont installation
@@ -2751,6 +2753,7 @@ iabbrev leanr learn
 iabbrev Leanring Learning
 iabbrev leanring learning
 iabbrev leats least
+iabbrev LEgacy Legacy
 iabbrev legla legal
 iabbrev Lengend Legend
 iabbrev lenght length
@@ -3403,6 +3406,7 @@ iabbrev pakcaged packaged
 iabbrev pakcages packages
 iabbrev Pakcing Packing
 iabbrev apge page
+iabbrev pari pair
 iabbrev pamplhet pamphlet
 iabbrev pandco pandoc
 iabbrev paragrah paragraph
@@ -3508,6 +3512,7 @@ iabbrev peice piece
 iabbrev peices pieces
 iabbrev pipelien pipeline
 iabbrev piplien pipeline
+iabbrev piopelines pipelines
 iabbrev Ptich Pitch
 iabbrev Pivto Pivot
 iabbrev pviot pivot
@@ -3574,6 +3579,7 @@ iabbrev protfolio portfolio
 iabbrev porition portion
 iabbrev poriton portion
 iabbrev protion portion
+iabbrev poritons portions
 iabbrev protions portions
 iabbrev Positon Position
 iabbrev Postion Position
@@ -4581,6 +4587,7 @@ iabbrev spreadhsetet spreadsheet
 iabbrev spreadhsett spreadsheet
 iabbrev spreadseheet spreadsheet
 iabbrev spreadsehet spreadsheet
+iabbrev spreadsehtet spreadsheet
 iabbrev spreadshet spreadsheet
 iabbrev spreadshetet spreadsheet
 iabbrev sprreaadhseet spreadsheet
@@ -4913,6 +4920,7 @@ iabbrev tennants tenants
 iabbrev teerm term
 iabbrev temr term
 iabbrev Temrianil Terminal
+iabbrev Temrianl Terminal
 iabbrev Termain Terminal
 iabbrev Termialn Terminal
 iabbrev Termianl Terminal
@@ -5054,6 +5062,7 @@ iabbrev Thsi This
 iabbrev htis this
 iabbrev thei this
 iabbrev thsi this
+iabbrev THomas Thomas
 iabbrev THose Those
 iabbrev Thoguhts Thoughts
 iabbrev thoughs thoughts
@@ -5103,6 +5112,7 @@ iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
 iabbrev TIp Tip
 iabbrev tilte title
+iabbrev tmxux tmux
 iabbrev ot to
 iabbrev oto to
 iabbrev togehter together
