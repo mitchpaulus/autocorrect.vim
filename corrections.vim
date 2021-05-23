@@ -1072,6 +1072,7 @@ iabbrev contorl control
 iabbrev contrl control
 iabbrev controol control
 iabbrev contyrol control
+iabbrev cotnrol control
 iabbrev contorlled controlled
 iabbrev contrlled controlled
 iabbrev controleld controlled
@@ -1147,6 +1148,7 @@ iabbrev corrsponding corresponding
 iabbrev correpsonds corresponds
 iabbrev correspoinds corresponds
 iabbrev corrput corrupt
+iabbrev corrputed corrupted
 iabbrev Coiuld Could
 iabbrev coiuld could
 iabbrev coudl could
@@ -1415,6 +1417,7 @@ iabbrev idfferent different
 iabbrev Difficutl Difficult
 iabbrev difficutl difficult
 iabbrev difficulity difficulty
+iabbrev idgit digit
 iabbrev ditigal digital
 iabbrev Dingin Dining
 iabbrev dingin dining
@@ -2339,6 +2342,7 @@ iabbrev hikstorical historical
 iabbrev HIstorically Historically
 iabbrev histoyr history
 iabbrev hti hit
+iabbrev HOlder Holder
 iabbrev hodls holds
 iabbrev HOldiay Holiday
 iabbrev HOliday Holiday
@@ -5139,6 +5143,7 @@ iabbrev totla total
 iabbrev toltals totals
 iabbrev totlas totals
 iabbrev otwer tower
+iabbrev Toytoa Toyota
 iabbrev Tyotoa Toyota
 iabbrev tarckign tracking
 iabbrev trackign tracking
