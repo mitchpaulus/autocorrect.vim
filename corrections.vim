@@ -1312,6 +1312,7 @@ iabbrev derviate derivative
 iabbrev derviative derivative
 iabbrev deriviatives derivatives
 iabbrev desecnd descend
+iabbrev descendents descendants
 iabbrev descentdants descendants
 iabbrev describved described
 iabbrev decribing describing
@@ -1455,6 +1456,7 @@ iabbrev disclousre disclosure
 iabbrev dscovery discovery
 iabbrev discrepencies discrepancies
 iabbrev discussiung discussing
+iabbrev DIscussion Discussion
 iabbrev Discusion Discussion
 iabbrev Discusision Discussion
 iabbrev Discusison Discussion
@@ -1614,6 +1616,7 @@ iabbrev Electricial Electrical
 iabbrev Electricla Electrical
 iabbrev eelectyrical electrical
 iabbrev elecricial electrical
+iabbrev electical electrical
 iabbrev electircal electrical
 iabbrev electricial electrical
 iabbrev electricla electrical
@@ -1652,6 +1655,7 @@ iabbrev enabeld enabled
 iabbrev enalbed enabled
 iabbrev enclouse enclosure
 iabbrev enclousre enclosure
+iabbrev encodding encoding
 iabbrev ENd End
 iabbrev ned end
 iabbrev endevor endeavor
@@ -1870,6 +1874,7 @@ iabbrev exisitng existing
 iabbrev existng existing
 iabbrev eapnd expand
 iabbrev exapandde expanded
+iabbrev exapnded expanded
 iabbrev expannding expanding
 iabbrev epansion expansion
 iabbrev exapansion expansion
@@ -1922,6 +1927,7 @@ iabbrev facilites facilities
 iabbrev FAcility Facility
 iabbrev FAciltiy Facility
 iabbrev FAiclity Facility
+iabbrev Faciity Facility
 iabbrev Facililty Facility
 iabbrev Facillity Facility
 iabbrev Facilty Facility
@@ -1963,6 +1969,7 @@ iabbrev FIdelity Fidelity
 iabbrev FIdielity Fidelity
 iabbrev FIdleity Fidelity
 iabbrev Fideelity Fidelity
+iabbrev Fideilty Fidelity
 iabbrev Fideliuty Fidelity
 iabbrev Fidleity Fidelity
 iabbrev Fidlity Fidelity
@@ -1988,6 +1995,7 @@ iabbrev gile file
 iabbrev ifle file
 iabbrev FIles Files
 iabbrev fiels files
+iabbrev fles files
 iabbrev iles files
 iabbrev fil fill
 iabbrev Fillign Filling
@@ -2171,6 +2179,7 @@ iabbrev functilanlity functionality
 iabbrev functinality functionality
 iabbrev functioanlity functionality
 iabbrev functioanliyt functionality
+iabbrev functionaliity functionality
 iabbrev functionaliyt functionality
 iabbrev ufnctionality functionality
 iabbrev funcitoning functioning
@@ -3031,6 +3040,7 @@ iabbrev Mintue Minute
 iabbrev minnute minute
 iabbrev mintue minute
 iabbrev mintues minutes
+iabbrev miscellanous miscellaneous
 iabbrev Missign Missing
 iabbrev msising missing
 iabbrev msitakes mistakes
@@ -3475,6 +3485,7 @@ iabbrev pepople people
 iabbrev poeple people
 iabbrev popele people
 iabbrev Perfomrance Performance
+iabbrev Prefomrance Performance
 iabbrev perfomance performance
 iabbrev perforamcne performance
 iabbrev perforamnce performance
@@ -3945,6 +3956,7 @@ iabbrev recoreded recorded
 iabbrev reocrded recorded
 iabbrev recoreds records
 iabbrev reocreds records
+iabbrev recusive recursive
 iabbrev reod redo
 iabbrev REdoing Redoing
 iabbrev reduceds reduces
@@ -3985,6 +3997,7 @@ iabbrev rehate reheat
 iabbrev reheta reheat
 iabbrev frelated related
 iabbrev realted related
+iabbrev relaeted related
 iabbrev relateed related
 iabbrev releatd related
 iabbrev rlated related
@@ -4682,6 +4695,7 @@ iabbrev sytle style
 iabbrev sytles styles
 iabbrev sytlus stylus
 iabbrev subcalculation sub calculation
+iabbrev subctractor subcontractor
 iabbrev Sbumittal Submittal
 iabbrev Submital Submittal
 iabbrev Submitall Submittal
@@ -4926,6 +4940,7 @@ iabbrev Tempelatse Templates
 iabbrev tempaltes templates
 iabbrev templasets templates
 iabbrev tempslates templates
+iabbrev tmeplates templates
 iabbrev tennants tenants
 iabbrev teerm term
 iabbrev temr term
@@ -5266,6 +5281,7 @@ iabbrev uncertanity uncertainty
 iabbrev uncertianty uncertainty
 iabbrev uncertinay uncertainty
 iabbrev udner under
+iabbrev undre under
 iabbrev udnerfloor underfloor
 iabbrev underreprsented underrepresented
 iabbrev underscope underscore
