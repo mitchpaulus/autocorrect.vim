@@ -569,6 +569,7 @@ iabbrev bulidings buildings
 iabbrev bvuidlgnis buildings
 iabbrev ubildings buildings
 iabbrev buidls builds
+iabbrev bulit built
 iabbrev builb bulb
 iabbrev bulib bulb
 iabbrev budnled bundled
@@ -1880,6 +1881,7 @@ iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
 iabbrev expereince experience
+iabbrev experiecne experience
 iabbrev experieece experience
 iabbrev experiement experiment
 iabbrev experimentla experimental
@@ -1954,6 +1956,7 @@ iabbrev favoirte favorite
 iabbrev favoritie favorite
 iabbrev fdd FDD
 iabbrev featrue feature
+iabbrev featqures features
 iabbrev Feedbakc Feedback
 iabbrev feeback feedback
 iabbrev FIdelity Fidelity
@@ -3188,6 +3191,7 @@ iabbrev NExt Next
 iabbrev enxt next
 iabbrev nexdt next
 iabbrev nexzt next
+iabbrev ncie nice
 iabbrev ngiht night
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
@@ -4649,8 +4653,10 @@ iabbrev Stpes Steps
 iabbrev stesp steps
 iabbrev stpes steps
 iabbrev STill Still
+iabbrev Stilll Still
 iabbrev sitll still
 iabbrev stil still
+iabbrev stomatch stomach
 iabbrev stoped stopped
 iabbrev stoarge storage
 iabbrev stroed stored
@@ -5090,6 +5096,7 @@ iabbrev trhought through
 iabbrev throughtou throughout
 iabbrev throughtout throughout
 iabbrev trhoughout throughout
+iabbrev thundersrom thunderstorm
 iabbrev THrusday Thursday
 iabbrev THursday Thursday
 iabbrev THursdday Thursday
@@ -5119,6 +5126,7 @@ iabbrev tilte title
 iabbrev tmxux tmux
 iabbrev ot to
 iabbrev oto to
+iabbrev Todya Today
 iabbrev togehter together
 iabbrev otken token
 iabbrev toekn token
@@ -5127,6 +5135,7 @@ iabbrev toekns tokens
 iabbrev TOld Told
 iabbrev TOll Toll
 iabbrev Tooll Toll
+iabbrev tomoorrow tomorrow
 iabbrev tomroorw tomorrow
 iabbrev TOok Took
 iabbrev toolign tooling
@@ -5328,6 +5337,7 @@ iabbrev uplaoded uploaded
 iabbrev uplodaed uploaded
 iabbrev UPloading Uploading
 iabbrev updlads uploads
+iabbrev upsdie upside
 iabbrev ubran urban
 iabbrev uninals urinals
 iabbrev url URL
@@ -5462,6 +5472,7 @@ iabbrev Waitning Waiting
 iabbrev wating waiting
 iabbrev watingin waiting
 iabbrev wiating waiting
+iabbrev wkaing waking
 iabbrev wlak walk
 iabbrev walthrough walkthrough
 iabbrev watn want
