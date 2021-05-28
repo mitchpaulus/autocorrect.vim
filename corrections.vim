@@ -148,6 +148,7 @@ iabbrev alrfeayd already
 iabbrev lareayd already
 iabbrev Alos Also
 iabbrev alos also
+iabbrev alsso also
 iabbrev aslo also
 iabbrev Althouugh Although
 iabbrev Athough Although
@@ -1254,6 +1255,7 @@ iabbrev decreaesed decreased
 iabbrev decreasees decreases
 iabbrev dedicaed dedicated
 iabbrev depper deeper
+iabbrev Defautl Default
 iabbrev deafult default
 iabbrev deauflt default
 iabbrev defautl default
@@ -1721,6 +1723,7 @@ iabbrev enviormentmt environment mt
 iabbrev enviornment environment
 iabbrev enviromenmtn environment
 iabbrev enviroment environment
+iabbrev enviromentm environment
 iabbrev enviromoent environment
 iabbrev environement environment
 iabbrev environemnt environment
@@ -2186,6 +2189,7 @@ iabbrev funcitoning functioning
 iabbrev Fucnttions Functions
 iabbrev fucntions functions
 iabbrev fucntiosn functions
+iabbrev fuctions functions
 iabbrev funcdtions functions
 iabbrev funcitons functions
 iabbrev functdions functions
@@ -2262,6 +2266,7 @@ iabbrev gmp gpm
 iabbrev graduyation graduation
 iabbrev gramamrs grammars
 iabbrev Grpah Graph
+iabbrev grahp graph
 iabbrev grpahic graphic
 iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
@@ -2649,6 +2654,7 @@ iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
 iabbrev iunto into
+iabbrev Intriniscally Intrinsically
 iabbrev Introudce Introduce
 iabbrev intorducted introduced
 iabbrev introducted introduced
@@ -3900,6 +3906,7 @@ iabbrev Quiclkly Quickly
 iabbrev qauicly quickly
 iabbrev quiclky quickly
 iabbrev quiclyi quickly
+iabbrev quikcly quickly
 iabbrev quilckly quickly
 iabbrev quilte quite
 iabbrev quoatiaon quotation
@@ -3957,6 +3964,7 @@ iabbrev reocrded recorded
 iabbrev recoreds records
 iabbrev reocreds records
 iabbrev recusive recursive
+iabbrev Redefinning Redefining
 iabbrev reod redo
 iabbrev REdoing Redoing
 iabbrev reduceds reduces
@@ -5483,6 +5491,7 @@ iabbrev voluem volume
 iabbrev volumen volume
 iabbrev voulme volume
 iabbrev Volunttering Volunteering
+iabbrev vulnerablility vulnerability
 iabbrev Wainting Waiting
 iabbrev Waitning Waiting
 iabbrev wating waiting
