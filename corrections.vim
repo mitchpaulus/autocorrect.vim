@@ -712,6 +712,7 @@ iabbrev chrat chart
 iabbrev chaisng chasing
 iabbrev CHeck Check
 iabbrev Cheeck Check
+iabbrev chedck check
 iabbrev chekc check
 iabbrev chewck check
 iabbrev checkedd checked
@@ -1790,6 +1791,7 @@ iabbrev Esmeradla Esmeralda
 iabbrev Especailly Especially
 iabbrev espciallly especially
 iabbrev espcially especially
+iabbrev especailly especially
 iabbrev especitaly especially
 iabbrev essense essence
 iabbrev Eseentially Essentially
@@ -2109,6 +2111,7 @@ iabbrev fomrulas formulas
 iabbrev formuals formulas
 iabbrev formulats formulas
 iabbrev forumalas formulas
+iabbrev Fortunaley Fortunately
 iabbrev Fortunatley Fortunately
 iabbrev Fortunatlye Fortunately
 iabbrev forwareded forwarded
@@ -2728,7 +2731,9 @@ iabbrev KEvin Kevin
 iabbrev Kewvin Kevin
 iabbrev Kye Key
 iabbrev dkey key
+iabbrev keystorke keystroke
 iabbrev keystorkes keystrokes
+iabbrev ekywords keywords
 iabbrev Kimal Kimla
 iabbrev Ktichen Kitchen
 iabbrev ktichen kitchen
@@ -2813,6 +2818,7 @@ iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev Limitied Limited
 iabbrev limtis limits
+iabbrev Linera Linear
 iabbrev lienar linear
 iabbrev linera linear
 iabbrev LInk Link
@@ -2826,6 +2832,7 @@ iabbrev literlaly literally
 iabbrev literuate literate
 iabbrev lieterature literature
 iabbrev Littel Little
+iabbrev littee little
 iabbrev littel little
 iabbrev Laod Load
 iabbrev laod load
@@ -2901,6 +2908,7 @@ iabbrev Maintence Maintenance
 iabbrev Maintenence Maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
+iabbrev maintenencae maintenance
 iabbrev maintenence maintenance
 iabbrev maintenenece maintenance
 iabbrev Majro Major
@@ -3139,6 +3147,7 @@ iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
 iabbrev Multiople Multiple
 iabbrev multiople multiple
+iabbrev multipel multiple
 iabbrev multipole multiple
 iabbrev multple multiple
 iabbrev Multiplicaiton Multiplication
@@ -3346,6 +3355,7 @@ iabbrev opitons options
 iabbrev optiosn options
 iabbrev optoins options
 iabbrev otpions options
+iabbrev otpoins options
 iabbrev ro or
 iabbrev organe orange
 iabbrev organge orange
@@ -3567,6 +3577,7 @@ iabbrev palying playing
 iabbrev play9ing playing
 iabbrev palys plays
 iabbrev pzlaza plaza
+iabbrev pelase please
 iabbrev plently plenty
 iabbrev pllt plot
 iabbrev plto plot
@@ -3876,6 +3887,7 @@ iabbrev Pyton Python
 iabbrev pyhton python
 iabbrev pythnon python
 iabbrev Qaulitative Qualitative
+iabbrev Qaulity Quality
 iabbrev Quailty Quality
 iabbrev Quailyt Quality
 iabbrev quaility quality
@@ -4213,6 +4225,7 @@ iabbrev Reivewing Reviewing
 iabbrev reisit revisit
 iabbrev Reichard Richard
 iabbrev Ricahrd Richard
+iabbrev RIght Right
 iabbrev rightt right
 iabbrev rihgtn right
 iabbrev rigourous rigorous
