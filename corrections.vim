@@ -836,6 +836,7 @@ iabbrev ocming coming
 iabbrev COmmand Command
 iabbrev Commadn Command
 iabbrev comand command
+iabbrev commad command
 iabbrev commadn command
 iabbrev commannd command
 iabbrev commmand command
@@ -1379,9 +1380,11 @@ iabbrev Devleopemnet Development
 iabbrev Devleopemtn Development
 iabbrev develeopemnet development
 iabbrev develeopment development
+iabbrev develoement development
 iabbrev developement development
 iabbrev developemnet development
 iabbrev developemnt development
+iabbrev developmetn development
 iabbrev developpment development
 iabbrev devleopemnt development
 iabbrev devleopemtn development
@@ -2477,6 +2480,7 @@ iabbrev inlcude include
 iabbrev Inclucded Included
 iabbrev inclucded included
 iabbrev includede included
+iabbrev INcludes Includes
 iabbrev INclues Includes
 iabbrev Inlcues Includes
 iabbrev includddes includes
@@ -3131,6 +3135,7 @@ iabbrev Mornigin Morning
 iabbrev Mroning Morning
 iabbrev moring morning
 iabbrev morngin morning
+iabbrev mornging morning
 iabbrev mornign morning
 iabbrev mornigng morning
 iabbrev morongin morning
@@ -4494,6 +4499,7 @@ iabbrev shwoon shown
 iabbrev showss shows
 iabbrev hsut shut
 iabbrev shuyt shut
+iabbrev Shutodwon Shutdown
 iabbrev shtudowns shutdowns
 iabbrev sdie side
 iabbrev sidse side
@@ -5318,6 +5324,7 @@ iabbrev Underwod Underwood
 iabbrev unexpanded unexpanded
 iabbrev unfamilar unfamiliar
 iabbrev unicode Unicode
+iabbrev unqiue unique
 iabbrev uhnti unit
 iabbrev uint unit
 iabbrev unti unit
