@@ -2453,6 +2453,7 @@ iabbrev impleid implied
 iabbrev improt import
 iabbrev importantance importance
 iabbrev importantce importance
+iabbrev IMprotnatn Important
 iabbrev Importatn Important
 iabbrev Importatnt Important
 iabbrev Improatant Important
@@ -3758,6 +3759,7 @@ iabbrev previlsy previously
 iabbrev previousy previously
 iabbrev previulsy previously
 iabbrev priece price
+iabbrev PRicing Pricing
 iabbrev primeary primary
 iabbrev princeple principle
 iabbrev pritn print
@@ -3795,6 +3797,7 @@ iabbrev prodcue produce
 iabbrev prodcued produced
 iabbrev producedd produced
 iabbrev Prodcues Produces
+iabbrev prodcut product
 iabbrev PRoduction Production
 iabbrev Produciton Production
 iabbrev produciton production
@@ -4698,6 +4701,7 @@ iabbrev sitll still
 iabbrev stil still
 iabbrev stomatch stomach
 iabbrev stoped stopped
+iabbrev stoppiong stopping
 iabbrev stoarge storage
 iabbrev stroed stored
 iabbrev storeis stories
@@ -5200,6 +5204,7 @@ iabbrev tarckign tracking
 iabbrev trackign tracking
 iabbrev trakcing tracking
 iabbrev trcking tracking
+iabbrev tarddemarking trademarking
 iabbrev tradiation tradition
 iabbrev traditioanl traditional
 iabbrev trialing trailing
@@ -5278,6 +5283,7 @@ iabbrev tyhpical typical
 iabbrev typiucal typical
 iabbrev typiuckal typical
 iabbrev TYpiucally Typically
+iabbrev Typcially Typically
 iabbrev typcially typically
 iabbrev typeiclaly typically
 iabbrev typicallly typically
