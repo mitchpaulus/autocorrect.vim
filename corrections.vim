@@ -371,6 +371,7 @@ iabbrev autehnticadtion authentication
 iabbrev authenticaion authentication
 iabbrev authenticaiton authentication
 iabbrev authenticiation authentication
+iabbrev ayuthentication authentication
 iabbrev Authorizastion Authorization
 iabbrev auot auto
 iabbrev auotmate automate
@@ -574,6 +575,7 @@ iabbrev bulit built
 iabbrev builb bulb
 iabbrev bulib bulb
 iabbrev budnled bundled
+iabbrev BUrns Burns
 iabbrev buisness business
 iabbrev BUt But
 iabbrev buit but
@@ -1339,6 +1341,7 @@ iabbrev disgnation designation
 iabbrev edesignation designation
 iabbrev desiging designing
 iabbrev deesriable desirable
+iabbrev desried desired
 iabbrev Desitny Destiny
 iabbrev destory destroy
 iabbrev Detial Detail
@@ -1352,6 +1355,7 @@ iabbrev detialed detailed
 iabbrev Detials Details
 iabbrev deatials details
 iabbrev detials details
+iabbrev detilas details
 iabbrev determiation determination
 iabbrev determiniation determination
 iabbrev Determien Determine
@@ -3146,6 +3150,7 @@ iabbrev omst most
 iabbrev MOstly Mostly
 iabbrev Mosty Mostly
 iabbrev moter motor
+iabbrev MOtors Motors
 iabbrev Moutnain Mountain
 iabbrev movew move
 iabbrev muychg much
@@ -3818,6 +3823,7 @@ iabbrev progrma program
 iabbrev progrsm program
 iabbrev projgram program
 iabbrev programmble programmable
+iabbrev Programmaticlaly Programmatically
 iabbrev prommed programmed
 iabbrev programmihng programming
 iabbrev progrmaming programming
@@ -4209,6 +4215,7 @@ iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
 iabbrev retor retro
+iabbrev retrocommissiongin retrocommissioning
 iabbrev retorift retrofit
 iabbrev retroift retrofit
 iabbrev REturn Return
@@ -4602,6 +4609,7 @@ iabbrev Specilized Specialized
 iabbrev spciifc specific
 iabbrev specidic specific
 iabbrev speciific specific
+iabbrev specificaly specifically
 iabbrev specificaiton specification
 iabbrev specificiation specification
 iabbrev Specificiations Specifications
@@ -4623,6 +4631,7 @@ iabbrev speelings spellings
 iabbrev SPent Spent
 iabbrev Spcie Spice
 iabbrev spiunner spinner
+iabbrev SPlit Split
 iabbrev sptli split
 iabbrev sponosr sponsor
 iabbrev sporsorign sponsoring
