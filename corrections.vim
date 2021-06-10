@@ -126,6 +126,7 @@ iabbrev alrams alarms
 iabbrev Albequeque Albuquerque
 iabbrev Albequerqe Albuquerque
 iabbrev Albequerque Albuquerque
+iabbrev Algorihgm Algorithm
 iabbrev algorighm algorithm
 iabbrev algorihgm algorithm
 iabbrev algorihtm algorithm
@@ -406,6 +407,7 @@ iabbrev avialbe available
 iabbrev avialble available
 iabbrev avialible available
 iabbrev aviallaibe available
+iabbrev akw awk
 iabbrev byab baby
 iabbrev Bakc Back
 iabbrev bakc back
@@ -883,6 +885,7 @@ iabbrev commsisiongin commissioning
 iabbrev commsssioning commissioning
 iabbrev commmit commit
 iabbrev commti commit
+iabbrev ocmmit commit
 iabbrev commiteed committed
 iabbrev commmon common
 iabbrev ocmmon common
@@ -1305,6 +1308,7 @@ iabbrev dependecies dependencies
 iabbrev dependecny dependency
 iabbrev depnedency dependency
 iabbrev dpeencedcy dependency
+iabbrev dpendency dependency
 iabbrev dependeiing depending
 iabbrev deply deploy
 iabbrev deployued deployed
@@ -2327,6 +2331,7 @@ iabbrev hvae have
 iabbrev thave have
 iabbrev hainvg having
 iabbrev haiving having
+iabbrev Haystakc Haystack
 iabbrev Heaidng Heading
 iabbrev ehadings headings
 iabbrev Headquareters Headquarters
@@ -3832,6 +3837,7 @@ iabbrev Progess Progress
 iabbrev proejgress progress
 iabbrev progess progress
 iabbrev PRoject Project
+iabbrev Pojrect Project
 iabbrev Porejct Project
 iabbrev Proejct Project
 iabbrev porjecst project
@@ -3936,6 +3942,7 @@ iabbrev quikcly quickly
 iabbrev quilckly quickly
 iabbrev quilte quite
 iabbrev quoatiaon quotation
+iabbrev qutoed quoted
 iabbrev quotoient quotient
 iabbrev Radaiance Radiance
 iabbrev radiof radio
@@ -4552,6 +4559,7 @@ iabbrev Stite Site
 iabbrev iste site
 iabbrev stie site
 iabbrev situaiton situation
+iabbrev situaitons situations
 iabbrev isze size
 iabbrev siziung sizing
 iabbrev skilsl skills
@@ -4713,6 +4721,7 @@ iabbrev stoped stopped
 iabbrev stoppiong stopping
 iabbrev stoarge storage
 iabbrev stroed stored
+iabbrev sotres stores
 iabbrev storeis stories
 iabbrev straighforward straightforward
 iabbrev striaghtforward straightforward
@@ -5514,6 +5523,7 @@ iabbrev VIsit Visit
 iabbrev Visti Visit
 iabbrev viisti visit
 iabbrev visti visit
+iabbrev Viusal Visual
 iabbrev VIsualization Visualization
 iabbrev visualation visualization
 iabbrev Visualziations Visualizations
