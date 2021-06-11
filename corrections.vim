@@ -452,6 +452,7 @@ iabbrev Becuase Because
 iabbrev becaues because
 iabbrev becuase because
 iabbrev becvause because
+iabbrev bewcome become
 iabbrev beeen been
 iabbrev befoer before
 iabbrev beofre before
@@ -1136,6 +1137,7 @@ iabbrev copyting copying
 iabbrev COre Core
 iabbrev correcdt correct
 iabbrev correctd correct
+iabbrev correcdtly correctly
 iabbrev correclty correctly
 iabbrev corerlate correlate
 iabbrev correpsnd correspond
@@ -1256,6 +1258,7 @@ iabbrev deadbadn deadband
 iabbrev deailng dealing
 iabbrev Decmember December
 iabbrev decidied decided
+iabbrev decidsion decision
 iabbrev decalre declare
 iabbrev decommissoin decommission
 iabbrev decreaesed decreased
@@ -1604,6 +1607,7 @@ iabbrev Edision Edison
 iabbrev Ediston Edison
 iabbrev Eidson Edison
 iabbrev edigint editing
+iabbrev editning editing
 iabbrev eidtor editor
 iabbrev effectiley effectively
 iabbrev effectivientss effectiveness
@@ -1861,6 +1865,7 @@ iabbrev exmapllse examples
 iabbrev Ecxel Excel
 iabbrev Excewl Excel
 iabbrev Excle Excel
+iabbrev exceptiopn exception
 iabbrev excewption exception
 iabbrev excpetion exception
 iabbrev exceptionatlly exceptionally
@@ -1876,6 +1881,7 @@ iabbrev exectued executed
 iabbrev exectuing executing
 iabbrev executuion execution
 iabbrev executivew executive
+iabbrev exectuors executors
 iabbrev exericse exercise
 iabbrev exercieses exercises
 iabbrev Exhasust Exhaust
@@ -2417,6 +2423,7 @@ iabbrev Hyperparametres Hyperparameters
 iabbrev hypens hyphens
 iabbrev hystersis hysteresis
 iabbrev Ina Ian
+iabbrev diea idea
 iabbrev idael ideal
 iabbrev indentifier identifier
 iabbrev identifieres identifiers
@@ -2480,6 +2487,7 @@ iabbrev importatnly importantly
 iabbrev Improts Imports
 iabbrev improts imports
 iabbrev imporve improve
+iabbrev impored improved
 iabbrev improeved improved
 iabbrev ina in a
 iabbrev inb in
@@ -2567,6 +2575,7 @@ iabbrev invofmaton information
 iabbrev informated informed
 iabbrev Ingrediants Ingredients
 iabbrev Inherrently Inherently
+iabbrev inherrently inherently
 iabbrev INitial Initial
 iabbrev Initiial Initial
 iabbrev initail initial
@@ -2948,6 +2957,7 @@ iabbrev mangatger manager
 iabbrev manageers managers
 iabbrev managerse managers
 iabbrev Machester Manchester
+iabbrev Mnaual Manual
 iabbrev Mnaula Manual
 iabbrev manmual manual
 iabbrev manula manual
@@ -3862,6 +3872,7 @@ iabbrev projgects projects
 iabbrev pronouncable pronounceable
 iabbrev porper proper
 iabbrev Propelry Properly
+iabbrev preoperly properly
 iabbrev proepely properly
 iabbrev properbly properly
 iabbrev propertly properly
@@ -4379,6 +4390,7 @@ iabbrev seslect select
 iabbrev slecet select
 iabbrev selectable selectable
 iabbrev selectedc selected
+iabbrev sleceted selected
 iabbrev sleected selected
 iabbrev sleecting selecting
 iabbrev selectdion selection
@@ -4707,6 +4719,7 @@ iabbrev statsistics statistics
 iabbrev Satsu Status
 iabbrev satatus status
 iabbrev stuatus status
+iabbrev Stema Steam
 iabbrev staem steam
 iabbrev stpe step
 iabbrev Stpes Steps
@@ -4803,6 +4816,7 @@ iabbrev swign swing
 iabbrev wswing swing
 iabbrev swigingin swinging
 iabbrev Swithc Switch
+iabbrev swithc switch
 iabbrev swtich switch
 iabbrev switchees switches
 iabbrev swtiches switches
@@ -5605,6 +5619,7 @@ iabbrev wehn when
 iabbrev whhen when
 iabbrev whne when
 iabbrev whten when
+iabbrev wihen when
 iabbrev Wheer Where
 iabbrev whearas whereas
 iabbrev whereever wherever
