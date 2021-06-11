@@ -118,6 +118,7 @@ iabbrev Airflwo Airflow
 iabbrev airlfow airflow
 iabbrev ariflow airflow
 iabbrev Airprot Airport
+iabbrev airprot airport
 iabbrev Almao Alamo
 iabbrev Alamr Alarm
 iabbrev alamr alarm
@@ -307,6 +308,7 @@ iabbrev araes areas
 iabbrev argumentets arguments
 iabbrev Arthimetic Arithmetic
 iabbrev arithemtic arithmetic
+iabbrev amr arm
 iabbrev aorund around
 iabbrev arond around
 iabbrev aroudn around
@@ -1834,6 +1836,7 @@ iabbrev evaulate evaluate
 iabbrev evaluateed evaluated
 iabbrev Evaulating Evaluating
 iabbrev evaulating evaluating
+iabbrev Evaluaiotn Evaluation
 iabbrev Evalutation Evaluation
 iabbrev Evaulation Evaluation
 iabbrev evaluatiion evaluation
@@ -2227,6 +2230,7 @@ iabbrev fuuture future
 iabbrev ufture future
 iabbrev Garge Garage
 iabbrev garaage garage
+iabbrev GAs Gas
 iabbrev Genealr General
 iabbrev Genearrl General
 iabbrev Generla General
@@ -3090,6 +3094,7 @@ iabbrev mdoe mode
 iabbrev Modle Model
 iabbrev mdoel model
 iabbrev modle model
+iabbrev MOdeling Modeling
 iabbrev Modedling Modeling
 iabbrev Modelign Modeling
 iabbrev Modleing Modeling
@@ -4020,6 +4025,7 @@ iabbrev Refacotr Refactor
 iabbrev refacotr refactor
 iabbrev refactyor refactor
 iabbrev Refacotring Refactoring
+iabbrev REferecne Reference
 iabbrev referecne reference
 iabbrev referencem reference
 iabbrev refernce reference
@@ -5131,6 +5137,7 @@ iabbrev thses these
 iabbrev THey They
 iabbrev Thye They
 iabbrev htey they
+iabbrev tehy they
 iabbrev thye they
 iabbrev tyhy they
 iabbrev thihck thick
@@ -5174,6 +5181,7 @@ iabbrev trhought through
 iabbrev throughtou throughout
 iabbrev throughtout throughout
 iabbrev trhoughout throughout
+iabbrev thubms thumbs
 iabbrev thundersrom thunderstorm
 iabbrev THrusday Thursday
 iabbrev THursday Thursday
