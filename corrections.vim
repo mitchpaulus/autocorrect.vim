@@ -160,6 +160,7 @@ iabbrev Alwyas Always
 iabbrev alsways always
 iabbrev alwasy always
 iabbrev alwyas always
+iabbrev ambigous ambiguous
 iabbrev amoung among
 iabbrev amounto amount
 iabbrev amoutn amount
@@ -893,6 +894,7 @@ iabbrev commiteed committed
 iabbrev commmon common
 iabbrev ocmmon common
 iabbrev commonlky commonly
+iabbrev communciate communicate
 iabbrev communciates communicates
 iabbrev commujnication communication
 iabbrev communcaiton communication
@@ -1121,6 +1123,7 @@ iabbrev COoolint Cooling
 iabbrev Cooilng Cooling
 iabbrev Coolign Cooling
 iabbrev Cooliing Cooling
+iabbrev Coolitng Cooling
 iabbrev cooilng cooling
 iabbrev coolgin cooling
 iabbrev coolign cooling
@@ -2399,6 +2402,7 @@ iabbrev horespower horsepower
 iabbrev Hosptial Hospital
 iabbrev hositpal hospital
 iabbrev hto hot
+iabbrev horu hour
 iabbrev horuly hourly
 iabbrev horus hours
 iabbrev hoursin hours in
@@ -2966,6 +2970,7 @@ iabbrev Mnaula Manual
 iabbrev manmual manual
 iabbrev manula manual
 iabbrev mnaula manual
+iabbrev manulaly manually
 iabbrev manulas manuals
 iabbrev mahy many
 iabbrev mnay many
@@ -3938,6 +3943,7 @@ iabbrev quantiative quantitative
 iabbrev quantitavie quantitative
 iabbrev qunaittites quantities
 iabbrev quartelry quarterly
+iabbrev queisont question
 iabbrev quesiton question
 iabbrev Qeustionaaire Questionnaire
 iabbrev quesitionarrir questionnaire
@@ -5202,6 +5208,7 @@ iabbrev TIm Tim
 iabbrev Tiem Time
 iabbrev atime time
 iabbrev teim time
+iabbrev teimm time
 iabbrev tiem time
 iabbrev timeer timer
 iabbrev tiems times
