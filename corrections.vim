@@ -552,6 +552,7 @@ iabbrev buildling building
 iabbrev buildng building
 iabbrev buildnig building
 iabbrev builgin building
+iabbrev builgind building
 iabbrev bulding building
 iabbrev buliding building
 iabbrev bulidng building
@@ -758,6 +759,7 @@ iabbrev chosne chosen
 iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
 iabbrev Chuch Church
+iabbrev Circuti Circuit
 iabbrev circuti circuit
 iabbrev curcuit circuit
 iabbrev circuting circuiting
@@ -884,6 +886,7 @@ iabbrev commissioing commissioning
 iabbrev commissiongin commissioning
 iabbrev commissionign commissioning
 iabbrev commissioniong commissioning
+iabbrev commissionoing commissioning
 iabbrev commmissiongin commissioning
 iabbrev commsisiongin commissioning
 iabbrev commsssioning commissioning
@@ -952,6 +955,7 @@ iabbrev compoennts components
 iabbrev componenets components
 iabbrev compoonents components
 iabbrev comrpession compression
+iabbrev Compresor Compressor
 iabbrev comptuer compute
 iabbrev comptuer computer
 iabbrev comptuers computers
@@ -1228,6 +1232,7 @@ iabbrev cyclie cycle
 iabbrev cylce cycle
 iabbrev dialy daily
 iabbrev DAllas Dallas
+iabbrev DAllast Dallas
 iabbrev Dalals Dallas
 iabbrev Dalas Dallas
 iabbrev Dalls Dallas
@@ -1441,6 +1446,7 @@ iabbrev idfferent different
 iabbrev Difficutl Difficult
 iabbrev difficutl difficult
 iabbrev difficulity difficulty
+iabbrev DIgit Digit
 iabbrev idgit digit
 iabbrev ditigal digital
 iabbrev Dingin Dining
@@ -1477,6 +1483,7 @@ iabbrev Disclousere Disclosure
 iabbrev disclousre disclosure
 iabbrev dscovery discovery
 iabbrev discrepencies discrepancies
+iabbrev discuesed discussed
 iabbrev discussiung discussing
 iabbrev DIscussion Discussion
 iabbrev Discusion Discussion
@@ -2028,6 +2035,7 @@ iabbrev iles files
 iabbrev fil fill
 iabbrev Fillign Filling
 iabbrev Fuilling Filling
+iabbrev filleing filling
 iabbrev Fitler Filter
 iabbrev fitlers filters
 iabbrev FInal Final
@@ -2273,6 +2281,7 @@ iabbrev Github GitHub
 iabbrev gvie give
 iabbrev givew given
 iabbrev givne given
+iabbrev Globla Global
 iabbrev gllobal global
 iabbrev globablly globally
 iabbrev glpyh glyph
@@ -2311,6 +2320,7 @@ iabbrev Grup Group
 iabbrev gorup group
 iabbrev gropu group
 iabbrev gropus groups
+iabbrev grwo grow
 iabbrev guarantte guarantee
 iabbrev guarantted guaranteed
 iabbrev GUardians Guardians
@@ -2748,6 +2758,7 @@ iabbrev JOhn John
 iabbrev Jhon John
 iabbrev Joihn John
 iabbrev Hohnson Johnson
+iabbrev joiningj joining
 iabbrev Jsoh Josh
 iabbrev json JSON
 iabbrev Juilian Julian
@@ -2841,6 +2852,7 @@ iabbrev lihgting lighting
 iabbrev LIke Like
 iabbrev Liek Like
 iabbrev liek like
+iabbrev liely likely
 iabbrev likelty likely
 iabbrev likley likely
 iabbrev Lmit Limit
@@ -3073,6 +3085,7 @@ iabbrev mihgt might
 iabbrev migraiton migration
 iabbrev migraitons migrations
 iabbrev militayr military
+iabbrev milltion million
 iabbrev milluion million
 iabbrev midn mind
 iabbrev minimual minimal
@@ -4092,6 +4105,7 @@ iabbrev remainign remaining
 iabbrev remianing remaining
 iabbrev remienders reminders
 iabbrev REmote Remote
+iabbrev Remtoe Remote
 iabbrev remtoe remote
 iabbrev REmove Remove
 iabbrev REmvoe Remove
@@ -4355,6 +4369,7 @@ iabbrev Schenider Schneider
 iabbrev Schnedier Schneider
 iabbrev socope scope
 iabbrev socpe scope
+iabbrev Scopeing Scoping
 iabbrev scroe score
 iabbrev scrreen screen
 iabbrev screenshtos screenshots
