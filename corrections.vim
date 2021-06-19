@@ -1358,6 +1358,7 @@ iabbrev disgnation designation
 iabbrev edesignation designation
 iabbrev desiging designing
 iabbrev deesriable desirable
+iabbrev desrisable desirable
 iabbrev desried desired
 iabbrev Desitny Destiny
 iabbrev destory destroy
@@ -2265,6 +2266,7 @@ iabbrev gneerated generated
 iabbrev genearitong generating
 iabbrev gneeration generation
 iabbrev geneartor generator
+iabbrev generagor generator
 iabbrev gneerator generator
 iabbrev gneraator generator
 iabbrev gnerator generator
@@ -2350,6 +2352,7 @@ iabbrev ahas has
 iabbrev ahs has
 iabbrev ahve have
 iabbrev havee have
+iabbrev havew have
 iabbrev hvae have
 iabbrev thave have
 iabbrev hainvg having
@@ -2818,6 +2821,7 @@ iabbrev lrage large
 iabbrev alst last
 iabbrev leasd leads
 iabbrev Leakding Leaking
+iabbrev Leanr Learn
 iabbrev leanr learn
 iabbrev Leanring Learning
 iabbrev leanring learning
@@ -2942,6 +2946,7 @@ iabbrev magintuide magnitude
 iabbrev mial mail
 iabbrev Mian Main
 iabbrev mian main
+iabbrev mainstram mainstream
 iabbrev maintian maintain
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
@@ -3475,6 +3480,7 @@ iabbrev outsdide outside
 iabbrev outsdie outside
 iabbrev ovewr over
 iabbrev voer over
+iabbrev OVerall Overall
 iabbrev overally overall
 iabbrev overaching overarching
 iabbrev overestimat overestimate
@@ -3492,6 +3498,7 @@ iabbrev apge page
 iabbrev pari pair
 iabbrev pamplhet pamphlet
 iabbrev pandco pandoc
+iabbrev apper paper
 iabbrev paragrah paragraph
 iabbrev paragrpah paragraph
 iabbrev parargraph paragraph
@@ -3844,6 +3851,7 @@ iabbrev prodcut product
 iabbrev PRoduction Production
 iabbrev Produciton Production
 iabbrev produciton production
+iabbrev prodcuciotns productions
 iabbrev prodcuts products
 iabbrev Profesional Professional
 iabbrev profient proficient
@@ -3934,6 +3942,7 @@ iabbrev upmps pumps
 iabbrev purchse purchase
 iabbrev purcahsed purchased
 iabbrev PUrple Purple
+iabbrev prupurose purpose
 iabbrev pruposes purposes
 iabbrev purpoess purposes
 iabbrev PUt Put
@@ -4031,6 +4040,7 @@ iabbrev recoreded recorded
 iabbrev reocrded recorded
 iabbrev recoreds records
 iabbrev reocreds records
+iabbrev recurison recursion
 iabbrev recusive recursive
 iabbrev Redefinning Redefining
 iabbrev reod redo
@@ -4584,6 +4594,7 @@ iabbrev smiplified simplified
 iabbrev sijmply simply
 iabbrev Simulaiton Simulation
 iabbrev ismulation simulation
+iabbrev simulaiont simulation
 iabbrev simulaiton simulation
 iabbrev simulaitons simulations
 iabbrev Simulataneous Simultaneous
@@ -4637,6 +4648,7 @@ iabbrev soemwhere somewhere
 iabbrev saught sought
 iabbrev Soruce Source
 iabbrev soruce source
+iabbrev souce source
 iabbrev soources sources
 iabbrev soruces sources
 iabbrev SPace Space
@@ -4808,6 +4820,7 @@ iabbrev succes success
 iabbrev succesful successful
 iabbrev succsesful successful
 iabbrev successivley successively
+iabbrev succincly succinctly
 iabbrev usch such
 iabbrev suoders sudoers
 iabbrev suggesitons suggestions
@@ -5077,6 +5090,7 @@ iabbrev tyerminal terminal
 iabbrev termailns terminals
 iabbrev Temrinate Terminate
 iabbrev temrinate terminate
+iabbrev terminatedf terminated
 iabbrev termingology terminology
 iabbrev Tets Test
 iabbrev testgin testing
