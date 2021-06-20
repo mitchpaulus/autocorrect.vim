@@ -58,6 +58,7 @@ iabbrev Actulaly Actually
 iabbrev Acutally Actually
 iabbrev actaully actually
 iabbrev actauully actually
+iabbrev actualy actually
 iabbrev actucally actually
 iabbrev actulaly actually
 iabbrev Actuatoar Actuator
@@ -136,6 +137,7 @@ iabbrev algortihm algorithm
 iabbrev alogrithm algorithm
 iabbrev algorihtms algorithms
 iabbrev alogrighms algorithms
+iabbrev alogrithms algorithms
 iabbrev Alogn Align
 iabbrev aling align
 iabbrev aligened aligned
@@ -165,6 +167,7 @@ iabbrev amoung among
 iabbrev amounto amount
 iabbrev amoutn amount
 iabbrev na an
+iabbrev Analgoies Analogies
 iabbrev analgous analogous
 iabbrev analougous analogous
 iabbrev analygous analogous
@@ -1343,6 +1346,7 @@ iabbrev Descriptoin Description
 iabbrev Descripton Description
 iabbrev descripti description
 iabbrev descriptio description
+iabbrev descriptoin description
 iabbrev descripton description
 iabbrev descritpion description
 iabbrev Descriptiosn Descriptions
@@ -3132,6 +3136,7 @@ iabbrev odeling modeling
 iabbrev mdoels models
 iabbrev modesl models
 iabbrev modles models
+iabbrev modenr modern
 iabbrev modeset modest
 iabbrev modfication modification
 iabbrev modificaiton modification
@@ -3484,6 +3489,7 @@ iabbrev OVerall Overall
 iabbrev overally overall
 iabbrev overaching overarching
 iabbrev overestimat overestimate
+iabbrev OVerflow Overflow
 iabbrev overaly overlay
 iabbrev OVerview Overview
 iabbrev onw own
@@ -3731,6 +3737,7 @@ iabbrev precisly precisely
 iabbrev predition prediciton
 iabbrev pedicted predicted
 iabbrev prediced predicted
+iabbrev prediected predicted
 iabbrev predicitng predicting
 iabbrev prediciton prediction
 iabbrev rpredicitons predictions
@@ -3963,6 +3970,7 @@ iabbrev quantificaiton quantification
 iabbrev Quantificaitons Quantifications
 iabbrev quantiative quantitative
 iabbrev quantitavie quantitative
+iabbrev quantitavely quantitatively
 iabbrev qunaittites quantities
 iabbrev quartelry quarterly
 iabbrev queisont question
@@ -4875,6 +4883,7 @@ iabbrev Systme System
 iabbrev seystem system
 iabbrev sstem system
 iabbrev stystme system
+iabbrev sxystem system
 iabbrev sysetm system
 iabbrev sysmete system
 iabbrev sysmetm system
@@ -4894,6 +4903,7 @@ iabbrev syhstems systems
 iabbrev sysetms systems
 iabbrev sysmtems systems
 iabbrev systmes systems
+iabbrev systms systems
 iabbrev sytesms systems
 iabbrev TAb Tab
 iabbrev tabv tab
@@ -5341,6 +5351,7 @@ iabbrev Tuesdeya Tuesday
 iabbrev Tuesdya Tuesday
 iabbrev Tusday Tuesday
 iabbrev Tuyesdayf Tuesday
+iabbrev tunign tuning
 iabbrev trunaround turnaround
 iabbrev turing turning
 iabbrev TUrns Turns
@@ -5491,6 +5502,7 @@ iabbrev utiltliy utility
 iabbrev Utilzie Utilize
 iabbrev utilitze utilize
 iabbrev utilzied utilized
+iabbrev utilting utilizing
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
 iabbrev validaiotn validation
@@ -5640,6 +5652,7 @@ iabbrev Wendesady Wednesday
 iabbrev Wennedsay Wednesday
 iabbrev weke week
 iabbrev weeekends weekends
+iabbrev wekends weekends
 iabbrev wweks weeks
 iabbrev wieght weight
 iabbrev wlel well
