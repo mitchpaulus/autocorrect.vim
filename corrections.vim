@@ -1555,7 +1555,9 @@ iabbrev docuemneted documented
 iabbrev docuemnted documented
 iabbrev docuementign documenting
 iabbrev documentionat documenting
+iabbrev doucmenting documenting
 iabbrev docuemnts documents
+iabbrev doucments documents
 iabbrev deso does
 iabbrev DOg Dog
 iabbrev doign doing
@@ -1606,6 +1608,7 @@ iabbrev durnig during
 iabbrev dynamci dynamic
 iabbrev dynaminc dynamic
 iabbrev dynaimally dynamically
+iabbrev dynamcially dynamically
 iabbrev dynamicaly dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
@@ -2836,6 +2839,7 @@ iabbrev Lengend Legend
 iabbrev lenght length
 iabbrev lneght length
 iabbrev lenghts lengths
+iabbrev leverl level
 iabbrev levle level
 iabbrev lvel level
 iabbrev lvelv level
@@ -4168,6 +4172,7 @@ iabbrev Reprot Report
 iabbrev erport report
 iabbrev reperot report
 iabbrev reportj report
+iabbrev repotr report
 iabbrev reprot report
 iabbrev rerport report
 iabbrev rerpot report
@@ -4277,6 +4282,7 @@ iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
 iabbrev retor retro
+iabbrev Retrocommissiong Retrocommissioning
 iabbrev retrocommissiongin retrocommissioning
 iabbrev retorift retrofit
 iabbrev retroift retrofit
@@ -5062,6 +5068,7 @@ iabbrev Temrianl Terminal
 iabbrev Termain Terminal
 iabbrev Termialn Terminal
 iabbrev Termianl Terminal
+iabbrev Termilan Terminal
 iabbrev Terminail Terminal
 iabbrev Termninail Terminal
 iabbrev etrmianl terminal
@@ -5421,6 +5428,7 @@ iabbrev unqiue unique
 iabbrev uhnti unit
 iabbrev uint unit
 iabbrev unti unit
+iabbrev Untis Units
 iabbrev lunits units
 iabbrev uints units
 iabbrev ujnits units
