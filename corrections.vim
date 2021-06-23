@@ -77,6 +77,7 @@ iabbrev additiaonl additional
 iabbrev additinal additional
 iabbrev additioanl additional
 iabbrev additonitnal additional
+iabbrev addtional additional
 iabbrev dadditional additional
 iabbrev addresssed addressed
 iabbrev addsd adds
@@ -957,6 +958,7 @@ iabbrev complyhing complying
 iabbrev compoennts components
 iabbrev componenets components
 iabbrev compoonents components
+iabbrev commpress compress
 iabbrev comrpession compression
 iabbrev Compresor Compressor
 iabbrev comptuer compute
@@ -1284,6 +1286,7 @@ iabbrev deauflt default
 iabbrev defautl default
 iabbrev defauylt default
 iabbrev defualt default
+iabbrev dfeault default
 iabbrev efault default
 iabbrev defatuls defaults
 iabbrev fdefine define
@@ -2555,6 +2558,7 @@ iabbrev indiviudal individual
 iabbrev indivudal individual
 iabbrev inidividual individual
 iabbrev individaully individually
+iabbrev indiviudally individually
 iabbrev inddor indoor
 iabbrev INdustrial Industrial
 iabbrev inflitration infiltration
@@ -2645,6 +2649,7 @@ iabbrev inspried inspired
 iabbrev INstall Install
 iabbrev insatll install
 iabbrev instlal install
+iabbrev Installatiopn Installation
 iabbrev inslatioation installation
 iabbrev installaiton installation
 iabbrev instlalation installation
@@ -3818,6 +3823,7 @@ iabbrev precviously previously
 iabbrev preiovusly previously
 iabbrev previlsy previously
 iabbrev previousy previously
+iabbrev previoysl previously
 iabbrev previulsy previously
 iabbrev priece price
 iabbrev PRicing Pricing
@@ -4536,6 +4542,7 @@ iabbrev seteting setting
 iabbrev setintg setting
 iabbrev settting setting
 iabbrev settigns settings
+iabbrev settinsg settings
 iabbrev seetup setup
 iabbrev setps setups
 iabbrev Severla Several
@@ -5260,6 +5267,7 @@ iabbrev timeer timer
 iabbrev tiems times
 iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
+iabbrev temistmaaps timestamps
 iabbrev TIp Tip
 iabbrev tilte title
 iabbrev tmxux tmux
@@ -5364,6 +5372,7 @@ iabbrev turing turning
 iabbrev TUrns Turns
 iabbrev twekaing tweaking
 iabbrev twaerks tweaks
+iabbrev twekas tweaks
 iabbrev twicew twice
 iabbrev wtwice twice
 iabbrev TYpe Type
