@@ -465,6 +465,7 @@ iabbrev befoer before
 iabbrev beofre before
 iabbrev bewfore before
 iabbrev bewforee before
+iabbrev Beginnign Beginning
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
@@ -938,6 +939,7 @@ iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compelte complete
 iabbrev compltee complete
+iabbrev compltet complete
 iabbrev compolete complete
 iabbrev comptlet complete
 iabbrev compeleted completed
@@ -1107,6 +1109,7 @@ iabbrev contreollers controllers
 iabbrev Controllign Controlling
 iabbrev Contorls Controls
 iabbrev Contrls Controls
+iabbrev Controsl Controls
 iabbrev conrols controls
 iabbrev conrtrols controls
 iabbrev contorels controls
@@ -1640,6 +1643,7 @@ iabbrev efficicency efficiency
 iabbrev efficiencty efficiency
 iabbrev efficienty efficiency
 iabbrev efficincy efficiency
+iabbrev effoft effort
 iabbrev effortr effort
 iabbrev efforst efforts
 iabbrev Eikegra Eikagra
@@ -2647,6 +2651,8 @@ iabbrev insdie inside
 iabbrev inspiratiosn inspirations
 iabbrev inspried inspired
 iabbrev INstall Install
+iabbrev Instlal Install
+iabbrev Invstall Install
 iabbrev insatll install
 iabbrev instlal install
 iabbrev Installatiopn Installation
@@ -3339,6 +3345,7 @@ iabbrev obselete obsolete
 iabbrev obviusly obviously
 iabbrev occpuancy occupancy
 iabbrev occpunacy occupancy
+iabbrev occupanyc occupancy
 iabbrev occupnacy occupancy
 iabbrev occupancts occupants
 iabbrev Ocucpied Occupied
@@ -3611,6 +3618,7 @@ iabbrev phoen phone
 iabbrev phycisal physical
 iabbrev physcally physically
 iabbrev pinao piano
+iabbrev Pictyure Picture
 iabbrev pcitures pictures
 iabbrev picturse pictures
 iabbrev picutres pictures
@@ -3889,6 +3897,7 @@ iabbrev programmble programmable
 iabbrev Programmaticlaly Programmatically
 iabbrev prommed programmed
 iabbrev programmihng programming
+iabbrev programmming programming
 iabbrev progrmaming programming
 iabbrev progrmas programs
 iabbrev Progess Progress
@@ -3948,11 +3957,13 @@ iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
 iabbrev publlications publications
 iabbrev PUll Pull
+iabbrev upll pull
 iabbrev Puleld Pulled
 iabbrev Pulliung Pulling
 iabbrev pulliing pulling
 iabbrev pulliung pulling
 iabbrev PUmp Pump
+iabbrev PUmps Pumps
 iabbrev pmpups pumps
 iabbrev poumps pumps
 iabbrev upmps pumps
@@ -4251,6 +4262,7 @@ iabbrev researhc research
 iabbrev reserach research
 iabbrev REset Reset
 iabbrev reest reset
+iabbrev resest reset
 iabbrev resset reset
 iabbrev residentiali residential
 iabbrev residitnetal residential
@@ -4382,6 +4394,7 @@ iabbrev schdeule schedule
 iabbrev schdule schedule
 iabbrev scheudle schedule
 iabbrev scheulde schedule
+iabbrev shceudle schedule
 iabbrev scheduleted scheduled
 iabbrev scheudled scheduled
 iabbrev scueheudled scheduled
@@ -5481,6 +5494,7 @@ iabbrev Updaitng Updating
 iabbrev Updatign Updating
 iabbrev Upodaitng Updating
 iabbrev updaing updating
+iabbrev Upgraes Upgrades
 iabbrev Uplaod Upload
 iabbrev updload upload
 iabbrev uplaod upload
