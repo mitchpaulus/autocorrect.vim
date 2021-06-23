@@ -311,6 +311,7 @@ iabbrev ARea Area
 iabbrev raea area
 iabbrev araes areas
 iabbrev argumentets arguments
+iabbrev arugments arguments
 iabbrev Arthimetic Arithmetic
 iabbrev arithemtic arithmetic
 iabbrev amr arm
@@ -733,6 +734,7 @@ iabbrev checkedd checked
 iabbrev ehcked checked
 iabbrev CHecking Checking
 iabbrev Chekcing Checking
+iabbrev checkign checking
 iabbrev checkiung checking
 iabbrev chekcing checking
 iabbrev chewcking checking
@@ -2092,6 +2094,7 @@ iabbrev Frist First
 iabbrev frist first
 iabbrev ifrst first
 iabbrev ifhs fish
+iabbrev ifsh fish
 iabbrev FIx Fix
 iabbrev ifxes fixes
 iabbrev FIxing Fixing
@@ -4009,6 +4012,7 @@ iabbrev quesitons questions
 iabbrev Qucdk Quick
 iabbrev Quiclkly Quickly
 iabbrev qauicly quickly
+iabbrev quckly quickly
 iabbrev quiclky quickly
 iabbrev quiclyi quickly
 iabbrev quikcly quickly
@@ -4406,6 +4410,7 @@ iabbrev shcedules schedules
 iabbrev scheduleing scheduling
 iabbrev schedulign scheduling
 iabbrev scheudling scheduling
+iabbrev svcheudling scheduling
 iabbrev schmatic schematic
 iabbrev schmeatic schematic
 iabbrev Schenider Schneider
