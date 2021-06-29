@@ -35,6 +35,7 @@ iabbrev Accoriodn Accordion
 iabbrev accoutn account
 iabbrev acocutn account
 iabbrev accoutned accounted
+iabbrev accoutns accounts
 iabbrev accuracte accurate
 iabbrev acheived achieved
 iabbrev acknowledgement acknowledgment
@@ -394,6 +395,7 @@ iabbrev automatcially automatically
 iabbrev automaticaly automatically
 iabbrev automoatically automatically
 iabbrev automaation automation
+iabbrev auxillary auxiliary
 iabbrev avaiable available
 iabbrev avaialabe available
 iabbrev avaialbable available
@@ -936,6 +938,7 @@ iabbrev ocmplield compiled
 iabbrev pcompiled compiled
 iabbrev complier compiler
 iabbrev compoiler compiler
+iabbrev COmpilers Compilers
 iabbrev compliing compiling
 iabbrev compolement complement
 iabbrev Compelte Complete
@@ -948,6 +951,7 @@ iabbrev compeleted completed
 iabbrev compelted completed
 iabbrev compleated completed
 iabbrev compleeted completed
+iabbrev complteted completed
 iabbrev comptleted completed
 iabbrev compeletlye completely
 iabbrev completetly completely
@@ -1066,6 +1070,7 @@ iabbrev contaienrs containers
 iabbrev containesr containers
 iabbrev contianers containers
 iabbrev containg containing
+iabbrev Contaisn Contains
 iabbrev conatins contains
 iabbrev contians contains
 iabbrev conent content
@@ -2784,6 +2789,7 @@ iabbrev Joihn John
 iabbrev Hohnson Johnson
 iabbrev joiningj joining
 iabbrev Jsoh Josh
+iabbrev SJON JSON
 iabbrev json JSON
 iabbrev Juilian Julian
 iabbrev Julain Julian
@@ -3112,6 +3118,7 @@ iabbrev mihgt might
 iabbrev migraiton migration
 iabbrev migraitons migrations
 iabbrev militayr military
+iabbrev milliton million
 iabbrev milltion million
 iabbrev milluion million
 iabbrev midn mind
@@ -3647,6 +3654,7 @@ iabbrev Plannin8g Planning
 iabbrev plannign planning
 iabbrev palns plans
 iabbrev Palnt Plant
+iabbrev pallnt plant
 iabbrev palnt plant
 iabbrev platn plant
 iabbrev plnat plant
@@ -4327,6 +4335,8 @@ iabbrev reveiw review
 iabbrev reviwe review
 iabbrev Reiveiwing Reviewing
 iabbrev Reivewing Reviewing
+iabbrev Reviseed Revised
+iabbrev Revisoin Revision
 iabbrev reisit revisit
 iabbrev Reichard Richard
 iabbrev Ricahrd Richard
@@ -4340,10 +4350,12 @@ iabbrev Roadd Road
 iabbrev robuts robust
 iabbrev rooom room
 iabbrev roattion rotation
+iabbrev rougth rough
 iabbrev rouund round
 iabbrev roundign rounding
 iabbrev Rotuiens Routines
 iabbrev rwo row
+iabbrev rwos rows
 iabbrev ORyal Royal
 iabbrev Roayl Royal
 iabbrev ruel rule
@@ -4463,6 +4475,7 @@ iabbrev seee see
 iabbrev selct select
 iabbrev seslect select
 iabbrev slecet select
+iabbrev sleect select
 iabbrev selectable selectable
 iabbrev selectedc selected
 iabbrev sleceted selected
