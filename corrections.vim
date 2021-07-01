@@ -84,6 +84,7 @@ iabbrev addresssed addressed
 iabbrev addsd adds
 iabbrev adeqauyate adequate
 iabbrev Adjsut Adjust
+iabbrev adjsutable adjustable
 iabbrev adjustements adjustments
 iabbrev adjustemsnts adjustments
 iabbrev Adminsitrative Administrative
@@ -183,6 +184,7 @@ iabbrev analyiss analysis
 iabbrev analyliss analysis
 iabbrev analysisi analysis
 iabbrev analyssi analysis
+iabbrev analyssis analysis
 iabbrev analyuiss analysis
 iabbrev anaslysis analysis
 iabbrev anaylis analysis
@@ -896,6 +898,7 @@ iabbrev commissiongin commissioning
 iabbrev commissionign commissioning
 iabbrev commissioniong commissioning
 iabbrev commissionoing commissioning
+iabbrev commissiooing commissioning
 iabbrev commmissiongin commissioning
 iabbrev commsisiongin commissioning
 iabbrev commsssioning commissioning
@@ -1018,6 +1021,7 @@ iabbrev configuraqtion configuration
 iabbrev configurtation configuration
 iabbrev configutration configuration
 iabbrev COnfirm Confirm
+iabbrev Conrim Confirm
 iabbrev confirmaiton confirmation
 iabbrev Confusted Confused
 iabbrev confustion confusion
@@ -2063,6 +2067,7 @@ iabbrev fitlers filters
 iabbrev FInal Final
 iabbrev fianl final
 iabbrev filan final
+iabbrev filnal final
 iabbrev finla final
 iabbrev finialize finalize
 iabbrev FInalizing Finalizing
@@ -2275,6 +2280,7 @@ iabbrev genral general
 iabbrev gernal general
 iabbrev gneeral general
 iabbrev gneral general
+iabbrev Generlaly Generally
 iabbrev Genrally Generally
 iabbrev genearlly generally
 iabbrev gnerally generally
@@ -2391,6 +2397,7 @@ iabbrev heaing heating
 iabbrev heaint heating
 iabbrev heaitng heating
 iabbrev Hlep Help
+iabbrev ehlp help
 iabbrev hlep help
 iabbrev hleper helper
 iabbrev ehlpful helpful
@@ -2547,6 +2554,7 @@ iabbrev Inlcues Includes
 iabbrev includddes includes
 iabbrev includeds includes
 iabbrev inlcudes includes
+iabbrev includieng including
 iabbrev incompressibiility incompressibility
 iabbrev Inconsistgen Inconsistent
 iabbrev inconvient inconvenient
@@ -3583,6 +3591,7 @@ iabbrev patten pattern
 iabbrev Penalthy Penalty
 iabbrev penatlty penalty
 iabbrev penatly penalty
+iabbrev pentalby penalty
 iabbrev Pnethouse Penthouse
 iabbrev peiople people
 iabbrev pepople people
@@ -4018,6 +4027,7 @@ iabbrev Questinos Questions
 iabbrev quations questions
 iabbrev quesitons questions
 iabbrev Qucdk Quick
+iabbrev qiuik quick
 iabbrev Quiclkly Quickly
 iabbrev qauicly quickly
 iabbrev quckly quickly
@@ -4812,6 +4822,7 @@ iabbrev satatus status
 iabbrev stuatus status
 iabbrev Stema Steam
 iabbrev staem steam
+iabbrev Stpe Step
 iabbrev stpe step
 iabbrev Stpes Steps
 iabbrev stesp steps
