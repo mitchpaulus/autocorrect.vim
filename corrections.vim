@@ -510,6 +510,7 @@ iabbrev BOilers Boilers
 iabbrev bilers boilers
 iabbrev obok book
 iabbrev bookelt booklet
+iabbrev bookamrks bookmarks
 iabbrev Boolena Boolean
 iabbrev boolens booleans
 iabbrev obsses bosses
@@ -2022,6 +2023,7 @@ iabbrev faovirte favorite
 iabbrev favoirte favorite
 iabbrev favoritie favorite
 iabbrev fdd FDD
+iabbrev feasiblity feasibility
 iabbrev featrue feature
 iabbrev featqures features
 iabbrev Feedbakc Feedback
@@ -2682,6 +2684,7 @@ iabbrev insatalled installed
 iabbrev insatlled installed
 iabbrev isntalled installed
 iabbrev insatnce instance
+iabbrev instanceds instances
 iabbrev Instantenous Instantaneous
 iabbrev instanteous instantaneous
 iabbrev insated instead
@@ -2748,6 +2751,7 @@ iabbrev invserse inverse
 iabbrev inversly inversely
 iabbrev inversino inversion
 iabbrev INvestigate Investigate
+iabbrev Investigae Investigate
 iabbrev investigae investigate
 iabbrev investigaet investigate
 iabbrev Investiaged Investigated
@@ -2769,6 +2773,7 @@ iabbrev isseu issue
 iabbrev isseus issues
 iabbrev isssues issues
 iabbrev ITem Item
+iabbrev Ietm Item
 iabbrev Itme Item
 iabbrev itme item
 iabbrev ITems Items
@@ -3005,6 +3010,7 @@ iabbrev makea make a
 iabbrev Maekfile Makefile
 iabbrev Mkaefile Makefile
 iabbrev amkes makes
+iabbrev makign making
 iabbrev magnage manage
 iabbrev Managemnet Management
 iabbrev Managmeent Management
@@ -3598,6 +3604,7 @@ iabbrev pepople people
 iabbrev poeple people
 iabbrev popele people
 iabbrev Perfomrance Performance
+iabbrev Performacne Performance
 iabbrev Prefomrance Performance
 iabbrev perfomance performance
 iabbrev perforamcne performance
@@ -4254,6 +4261,7 @@ iabbrev Reproducable Reproducible
 iabbrev reproducable reproducible
 iabbrev requrest request
 iabbrev requrested requested
+iabbrev requestor requester
 iabbrev requiere require
 iabbrev requrie require
 iabbrev Requrired Required
@@ -4482,6 +4490,7 @@ iabbrev sectino section
 iabbrev sectiosn section
 iabbrev securtiy security
 iabbrev seee see
+iabbrev segmenetation segmentation
 iabbrev selct select
 iabbrev seslect select
 iabbrev slecet select
@@ -4608,6 +4617,7 @@ iabbrev shootouyt shootout
 iabbrev Shrot Short
 iabbrev shrot short
 iabbrev shrotcut shortcut
+iabbrev shortucts shortcuts
 iabbrev shrotened shortened
 iabbrev SHould Should
 iabbrev SHuold Should
@@ -4880,6 +4890,7 @@ iabbrev substiutions substitutions
 iabbrev subtraciton subtraction
 iabbrev succedded succeeded
 iabbrev succes success
+iabbrev succesfful successful
 iabbrev succesful successful
 iabbrev succsesful successful
 iabbrev successivley successively
@@ -5273,6 +5284,7 @@ iabbrev thresholld threshold
 iabbrev trhrehosld threshold
 iabbrev Trhehsolds Thresholds
 iabbrev thorugh through
+iabbrev thoruhg through
 iabbrev throght through
 iabbrev throguh through
 iabbrev throught through
@@ -5432,6 +5444,7 @@ iabbrev Typcially Typically
 iabbrev typcially typically
 iabbrev typeiclaly typically
 iabbrev typicallly typically
+iabbrev typicaly typically
 iabbrev typiucally typically
 iabbrev tyupically typically
 iabbrev Ubutntu Ubuntu
@@ -5475,6 +5488,7 @@ iabbrev Underwod Underwood
 iabbrev unexpanded unexpanded
 iabbrev unfamilar unfamiliar
 iabbrev unicode Unicode
+iabbrev uique unique
 iabbrev unqiue unique
 iabbrev uhnti unit
 iabbrev uint unit
@@ -5526,6 +5540,7 @@ iabbrev updaing updating
 iabbrev Upgraes Upgrades
 iabbrev Uplaod Upload
 iabbrev updload upload
+iabbrev uplad upload
 iabbrev uplaod upload
 iabbrev upldoad upload
 iabbrev Uploadeed Uploaded
