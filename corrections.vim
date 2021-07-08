@@ -1961,6 +1961,7 @@ iabbrev experieece experience
 iabbrev experiement experiment
 iabbrev experimentla experimental
 iabbrev expertice expertise
+iabbrev explan explain
 iabbrev Explaingin Explaining
 iabbrev explaingin explaining
 iabbrev explainign explaining
@@ -2221,6 +2222,7 @@ iabbrev fule fuel
 iabbrev fullfill fulfill
 iabbrev fulll full
 iabbrev Fucntion Function
+iabbrev Funciton Function
 iabbrev fucniton function
 iabbrev fucntion function
 iabbrev funciotn function
@@ -2694,6 +2696,7 @@ iabbrev insatalled installed
 iabbrev insatlled installed
 iabbrev isntalled installed
 iabbrev insatnce instance
+iabbrev instane instance
 iabbrev instanceds instances
 iabbrev Instantenous Instantaneous
 iabbrev instanteous instantaneous
@@ -2869,6 +2872,7 @@ iabbrev lnagugaes languages
 iabbrev alrge large
 iabbrev lrage large
 iabbrev alst last
+iabbrev lateset latest
 iabbrev leasd leads
 iabbrev Leakding Leaking
 iabbrev Leanr Learn
@@ -3312,6 +3316,7 @@ iabbrev entwork network
 iabbrev netowrk network
 iabbrev netwrok network
 iabbrev nework network
+iabbrev newtwork network
 iabbrev netowrking networking
 iabbrev Nueral Neural
 iabbrev nerutla neutral
@@ -4330,6 +4335,7 @@ iabbrev responsibilites responsibilities
 iabbrev responsiblities responsibilities
 iabbrev Repsonsible Responsible
 iabbrev responsbile responsible
+iabbrev Restartign Restarting
 iabbrev restartign restarting
 iabbrev restaturant restaurant
 iabbrev restrictuion restriction
@@ -5218,6 +5224,7 @@ iabbrev ther the
 iabbrev thge the
 iabbrev thre the
 iabbrev trhe the
+iabbrev tthe the
 iabbrev tye the
 iabbrev tyhe the
 iabbrev hteir their
@@ -5356,6 +5363,7 @@ iabbrev Tooll Toll
 iabbrev tomoorrow tomorrow
 iabbrev tomroorw tomorrow
 iabbrev TOok Took
+iabbrev Toolabr Toolbar
 iabbrev toolign tooling
 iabbrev toolos tools
 iabbrev topci topic
