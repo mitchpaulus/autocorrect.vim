@@ -717,6 +717,7 @@ iabbrev chnage change
 iabbrev chagnes changes
 iabbrev changds changes
 iabbrev chantges changes
+iabbrev chnages changes
 iabbrev hcanges changes
 iabbrev chagning changing
 iabbrev changeing changing
@@ -727,6 +728,7 @@ iabbrev chatper chapter
 iabbrev caharcteristic characteristic
 iabbrev cahractersictic characteristic
 iabbrev characteritsics characteristics
+iabbrev characaaters characters
 iabbrev chartr chart
 iabbrev chrat chart
 iabbrev chaisng chasing
@@ -1233,6 +1235,7 @@ iabbrev Currenlty Currently
 iabbrev curerntly currently
 iabbrev currenlty currently
 iabbrev currenltyl currently
+iabbrev currenly currently
 iabbrev currenlyt currently
 iabbrev currenty currently
 iabbrev curosr cursor
@@ -1286,6 +1289,7 @@ iabbrev dadband deadband
 iabbrev daedband deadband
 iabbrev deadbadn deadband
 iabbrev deailng dealing
+iabbrev debuging debugging
 iabbrev Decmember December
 iabbrev decidied decided
 iabbrev decidsion decision
@@ -1313,6 +1317,7 @@ iabbrev definiteyl definitely
 iabbrev Defintion Definition
 iabbrev defiition definition
 iabbrev definitino definition
+iabbrev definiton definition
 iabbrev defintinoo definition
 iabbrev defintion definition
 iabbrev definiations definitions
@@ -1621,12 +1626,14 @@ iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
 iabbrev dupilcating duplicating
 iabbrev Druing During
+iabbrev Durnig During
 iabbrev duriung during
 iabbrev durnig during
 iabbrev dynamci dynamic
 iabbrev dynaminc dynamic
 iabbrev dynaimally dynamically
 iabbrev dynamcially dynamically
+iabbrev dynamcilaly dynamically
 iabbrev dynamicaly dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
@@ -1691,6 +1698,7 @@ iabbrev electriciyt electricity
 iabbrev electyriciyt electricity
 iabbrev electyricyt electricity
 iabbrev elemnmet element
+iabbrev elemnt element
 iabbrev elment element
 iabbrev elemetns elements
 iabbrev elemets elements
@@ -2141,6 +2149,7 @@ iabbrev follwoign following
 iabbrev follwoing following
 iabbrev folowing following
 iabbrev folowoing following
+iabbrev sollowing following
 iabbrev footgae footage
 iabbrev footgaet footage
 iabbrev forotage footage
@@ -2538,6 +2547,7 @@ iabbrev improtatn important
 iabbrev importatnly importantly
 iabbrev Improts Imports
 iabbrev improts imports
+iabbrev Improe Improve
 iabbrev imporve improve
 iabbrev impored improved
 iabbrev improeved improved
@@ -2927,6 +2937,7 @@ iabbrev laod load
 iabbrev loaqded loaded
 iabbrev lodaed loaded
 iabbrev laoding loading
+iabbrev loaidng loading
 iabbrev lodaing loading
 iabbrev laods loads
 iabbrev lona loan
@@ -3620,6 +3631,7 @@ iabbrev peroid period
 iabbrev preiod period
 iabbrev permannet permanent
 iabbrev Premissions Permissions
+iabbrev perimissions permissions
 iabbrev perimssisisons permissions
 iabbrev permissioniongs permissions
 iabbrev permissioniosn permissions
@@ -4045,6 +4057,7 @@ iabbrev quilckly quickly
 iabbrev quilte quite
 iabbrev quoatiaon quotation
 iabbrev qutoed quoted
+iabbrev qoutes quotes
 iabbrev quotoient quotient
 iabbrev Radaiance Radiance
 iabbrev radiof radio
@@ -4197,6 +4210,7 @@ iabbrev repitive repetitive
 iabbrev Repalce Replace
 iabbrev repalce replace
 iabbrev repladce replace
+iabbrev replatec replace
 iabbrev repclaced replaced
 iabbrev rpelaced replaced
 iabbrev REplacemnt Replacement
@@ -4212,6 +4226,7 @@ iabbrev rfeplacemnet replacement
 iabbrev rpelacement replacement
 iabbrev repalcaemnts replacements
 iabbrev replacments replacements
+iabbrev repldacments replacements
 iabbrev replcaer replacer
 iabbrev Repoort Report
 iabbrev Reprot Report
@@ -4341,6 +4356,7 @@ iabbrev retunr return
 iabbrev reutn return
 iabbrev reutnr return
 iabbrev reutrn return
+iabbrev returend returned
 iabbrev Retunrs Returns
 iabbrev Retuns Returns
 iabbrev REvenue Revenue
@@ -4917,6 +4933,7 @@ iabbrev suppy supply
 iabbrev uspply supply
 iabbrev suppling supplying
 iabbrev supprot support
+iabbrev srue sure
 iabbrev usre sure
 iabbrev Surpirse Surprise
 iabbrev surroundign surrounding
@@ -5439,6 +5456,7 @@ iabbrev TypeScirpt TypeScript
 iabbrev tyhpical typical
 iabbrev typiucal typical
 iabbrev typiuckal typical
+iabbrev tyupical typical
 iabbrev TYpiucally Typically
 iabbrev Typcially Typically
 iabbrev typcially typically
@@ -5606,6 +5624,7 @@ iabbrev variaglbe variable
 iabbrev varialbe variable
 iabbrev variazble variable
 iabbrev Varialbes Variables
+iabbrev vairables variables
 iabbrev vairlabes variables
 iabbrev variablwes variables
 iabbrev varialbeles variables
