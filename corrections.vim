@@ -590,6 +590,7 @@ iabbrev bvuidlgnis buildings
 iabbrev ubildings buildings
 iabbrev buidls builds
 iabbrev bulit built
+iabbrev bubl bulb
 iabbrev builb bulb
 iabbrev bulib bulb
 iabbrev budnled bundled
@@ -1505,6 +1506,7 @@ iabbrev Disabeld Disabled
 iabbrev dissagregate disaggregate
 iabbrev disambiguage disambiguate
 iabbrev idsappeared disappeared
+iabbrev dicern discern
 iabbrev sdiscern discern
 iabbrev Discharege Discharge
 iabbrev Disclousere Disclosure
@@ -2035,6 +2037,7 @@ iabbrev fdd FDD
 iabbrev feasiblity feasibility
 iabbrev featrue feature
 iabbrev featqures features
+iabbrev Februray February
 iabbrev Feedbakc Feedback
 iabbrev feeback feedback
 iabbrev FIdelity Fidelity
@@ -2552,6 +2555,7 @@ iabbrev improts imports
 iabbrev Improe Improve
 iabbrev imporve improve
 iabbrev impored improved
+iabbrev imporved improved
 iabbrev improeved improved
 iabbrev ina in a
 iabbrev inb in
@@ -2908,6 +2912,7 @@ iabbrev lgighting lighting
 iabbrev lighing lighting
 iabbrev lighitng lighting
 iabbrev lihgting lighting
+iabbrev lihgts lights
 iabbrev LIke Like
 iabbrev Liek Like
 iabbrev liek like
@@ -4077,6 +4082,7 @@ iabbrev RAte Rate
 iabbrev arte rate
 iabbrev frate rate
 iabbrev artes rates
+iabbrev reate rates
 iabbrev artio ratio
 iabbrev readidy readily
 iabbrev reaidng reading
@@ -5295,6 +5301,7 @@ iabbrev thei this
 iabbrev thsi this
 iabbrev THomas Thomas
 iabbrev THose Those
+iabbrev thougth thought
 iabbrev Thoguhts Thoughts
 iabbrev thoughs thoughts
 iabbrev THree Three
@@ -5721,6 +5728,7 @@ iabbrev watn want
 iabbrev wnat want
 iabbrev wanteed wanted
 iabbrev wnated wanted
+iabbrev wrranty warranty
 iabbrev aws was
 iabbrev Wwater Water
 iabbrev wtaer water
