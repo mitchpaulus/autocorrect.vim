@@ -105,6 +105,7 @@ iabbrev aftenronon afternoon
 iabbrev afternon afternoon
 iabbrev AGain Again
 iabbrev agian again
+iabbrev AGe Age
 iabbrev aggregatre aggregate
 iabbrev aggreation aggregation
 iabbrev aggregatiuon aggregation
@@ -698,6 +699,7 @@ iabbrev cewntered centered
 iabbrev Centrla Central
 iabbrev Cnetral Central
 iabbrev centrla central
+iabbrev certral central
 iabbrev cewntral central
 iabbrev cnetal central
 iabbrev cnetral central
@@ -1402,6 +1404,7 @@ iabbrev Detials Details
 iabbrev deatials details
 iabbrev detials details
 iabbrev detilas details
+iabbrev detectino detection
 iabbrev determiation determination
 iabbrev determiniation determination
 iabbrev Determien Determine
@@ -1900,6 +1903,7 @@ iabbrev everytone everyone
 iabbrev Everythign Everything
 iabbrev evertyhgin everything
 iabbrev everythign everything
+iabbrev everythiong everything
 iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exactyl exactly
@@ -3679,6 +3683,7 @@ iabbrev Ptich Pitch
 iabbrev Pivto Pivot
 iabbrev pviot pivot
 iabbrev palce place
+iabbrev palceholder placeholder
 iabbrev placehodler placeholder
 iabbrev placehodlers placeholders
 iabbrev palcement placement
@@ -3713,6 +3718,7 @@ iabbrev pltos plots
 iabbrev polts plots
 iabbrev pltted plotted
 iabbrev ploitters plotters
+iabbrev plubming plumbing
 iabbrev pnematic pneumatic
 iabbrev pnumatic pneumatic
 iabbrev pnematics pneumatics
@@ -4077,6 +4083,7 @@ iabbrev rasied raised
 iabbrev reaised raised
 iabbrev rasing raising
 iabbrev ranodm random
+iabbrev RandY Randy
 iabbrev reange range
 iabbrev RAte Rate
 iabbrev arte rate
@@ -5379,6 +5386,7 @@ iabbrev TOtal Total
 iabbrev Totoal Total
 iabbrev Ttoal Total
 iabbrev thotal total
+iabbrev toatal total
 iabbrev toatl total
 iabbrev toatla total
 iabbrev totla total
@@ -5428,6 +5436,7 @@ iabbrev trendend trended
 iabbrev trrended trended
 iabbrev Trendign Trending
 iabbrev trendeing trending
+iabbrev Trneds Trends
 iabbrev rtends trends
 iabbrev trneds trends
 iabbrev trnes trends
