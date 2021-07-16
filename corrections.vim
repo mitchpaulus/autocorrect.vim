@@ -223,6 +223,7 @@ iabbrev Andoever Andover
 iabbrev Angleles Angeles
 iabbrev anniiversary anniversary
 iabbrev anniversity anniversity
+iabbrev annotaiton annotation
 iabbrev annula annual
 iabbrev annulal annual
 iabbrev naanual annual
@@ -307,6 +308,7 @@ iabbrev Architecturla Architectural
 iabbrev archetictural architectural
 iabbrev architectdure architecture
 iabbrev architecutrue architecture
+iabbrev Aer Are
 iabbrev aer are
 iabbrev aqre are
 iabbrev aree are
@@ -960,6 +962,7 @@ iabbrev compeleted completed
 iabbrev compelted completed
 iabbrev compleated completed
 iabbrev compleeted completed
+iabbrev compltetd completed
 iabbrev complteted completed
 iabbrev comptleted completed
 iabbrev compeletlye completely
@@ -1478,6 +1481,7 @@ iabbrev idfferent different
 iabbrev Difficutl Difficult
 iabbrev difficutl difficult
 iabbrev difficulity difficulty
+iabbrev Diffuer Diffuser
 iabbrev DIgit Digit
 iabbrev idgit digit
 iabbrev ditigal digital
@@ -1904,6 +1908,7 @@ iabbrev Everythign Everything
 iabbrev evertyhgin everything
 iabbrev everythign everything
 iabbrev everythiong everything
+iabbrev everytihg everything
 iabbrev everyting everything
 iabbrev everytingh everything
 iabbrev exactyl exactly
@@ -2413,6 +2418,7 @@ iabbrev heatlh health
 iabbrev HEat Heat
 iabbrev HEating Heating
 iabbrev ehating heating
+iabbrev heagin heating
 iabbrev heaing heating
 iabbrev heaint heating
 iabbrev heaitng heating
@@ -2878,6 +2884,7 @@ iabbrev languagse languages
 iabbrev lnaguages languages
 iabbrev lnagugaes languages
 iabbrev alrge large
+iabbrev llage large
 iabbrev lrage large
 iabbrev alst last
 iabbrev lateset latest
@@ -3088,6 +3095,7 @@ iabbrev matirx matrix
 iabbrev maximimum maximum
 iabbrev Maybew Maybe
 iabbrev menaing meaning
+iabbrev measn means
 iabbrev menat meant
 iabbrev Measrue Measure
 iabbrev Meaurse Measure
@@ -4694,6 +4702,7 @@ iabbrev similarily similarly
 iabbrev sijmple simple
 iabbrev simle simple
 iabbrev simpel simple
+iabbrev smpile simple
 iabbrev simplication simplification
 iabbrev simplications simplifications
 iabbrev simplifed simplified
@@ -4965,6 +4974,8 @@ iabbrev suscepible susceptible
 iabbrev swign swing
 iabbrev wswing swing
 iabbrev swigingin swinging
+iabbrev swirli swirl
+iabbrev swril swirl
 iabbrev Swithc Switch
 iabbrev swithc switch
 iabbrev swtich switch
