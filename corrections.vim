@@ -924,6 +924,7 @@ iabbrev communcaiton communication
 iabbrev communicaiotn communication
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
+iabbrev communicty community
 iabbrev comapny company
 iabbrev compnay company
 iabbrev comapre compare
@@ -1451,6 +1452,7 @@ iabbrev devicee device
 iabbrev edevices devices
 iabbrev Deval Devil
 iabbrev Deveil Devil
+iabbrev Daigram Diagram
 iabbrev diagrma diagram
 iabbrev digarm diagram
 iabbrev dailog dialog
@@ -2197,6 +2199,7 @@ iabbrev forumalas formulas
 iabbrev Fortunaley Fortunately
 iabbrev Fortunatley Fortunately
 iabbrev Fortunatlye Fortunately
+iabbrev foward forward
 iabbrev forwareded forwarded
 iabbrev Foudn Found
 iabbrev foudn found
@@ -2505,6 +2508,7 @@ iabbrev indentifier identifier
 iabbrev identifieres identifiers
 iabbrev identiifers identifiers
 iabbrev indentifiers identifiers
+iabbrev idel idle
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
@@ -3002,6 +3006,7 @@ iabbrev logner longer
 iabbrev loook look
 iabbrev Looiking Looking
 iabbrev lookign looking
+iabbrev looknig looking
 iabbrev Loopo Loop
 iabbrev looop loop
 iabbrev olop loop
@@ -4031,6 +4036,7 @@ iabbrev pmpups pumps
 iabbrev poumps pumps
 iabbrev upmps pumps
 iabbrev purchse purchase
+iabbrev Puchased Purchased
 iabbrev purcahsed purchased
 iabbrev PUrple Purple
 iabbrev prupurose purpose
@@ -4411,6 +4417,7 @@ iabbrev Roadd Road
 iabbrev robuts robust
 iabbrev rooom room
 iabbrev roattion rotation
+iabbrev rotaitons rotations
 iabbrev rougth rough
 iabbrev rouund round
 iabbrev roundign rounding
@@ -4580,6 +4587,7 @@ iabbrev seperated separated
 iabbrev spearaetd separated
 iabbrev seaparter separator
 iabbrev separater separator
+iabbrev Septmeber September
 iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
 iabbrev seequence sequence
@@ -4590,6 +4598,7 @@ iabbrev Sequencse Sequences
 iabbrev squesnces sequences
 iabbrev sequencialy sequentially
 iabbrev sequenctially sequentially
+iabbrev seriall serial
 iabbrev Sereis Series
 iabbrev sereis series
 iabbrev sseries series
@@ -5406,6 +5415,7 @@ iabbrev totlas totals
 iabbrev otwer tower
 iabbrev Toytoa Toyota
 iabbrev Tyotoa Toyota
+iabbrev Trackign Tracking
 iabbrev tarckign tracking
 iabbrev trackign tracking
 iabbrev trakcing tracking
@@ -5575,6 +5585,7 @@ iabbrev unreadalbe unreadable
 iabbrev unsuccesful unsuccessful
 iabbrev Unitl Until
 iabbrev unitl until
+iabbrev Upcomign Upcoming
 iabbrev UPdate Update
 iabbrev Udpate Update
 iabbrev Upate Update
