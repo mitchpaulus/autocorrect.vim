@@ -573,6 +573,7 @@ iabbrev bulidng building
 iabbrev lubilding building
 iabbrev ubilding building
 iabbrev uiblding building
+iabbrev Buidlings Buildings
 iabbrev Buildgins Buildings
 iabbrev Buildigns Buildings
 iabbrev Buyidligns Buildings
@@ -597,6 +598,7 @@ iabbrev bubl bulb
 iabbrev builb bulb
 iabbrev bulib bulb
 iabbrev budnled bundled
+iabbrev ubrned burned
 iabbrev BUrns Burns
 iabbrev buisness business
 iabbrev BUt But
@@ -807,6 +809,7 @@ iabbrev lcosed closed
 iabbrev xlosed closed
 iabbrev CLoseout Closeout
 iabbrev Clsoing Closing
+iabbrev clsoing closing
 iabbrev lcosing closing
 iabbrev clous cloud
 iabbrev colud cloud
@@ -1425,6 +1428,7 @@ iabbrev detemrineg determining
 iabbrev deteriming determining
 iabbrev deterining determining
 iabbrev determineing determining
+iabbrev determing determining
 iabbrev determinign determining
 iabbrev determiniing determining
 iabbrev dtermining determining
@@ -1685,6 +1689,7 @@ iabbrev electrici electric
 iabbrev Eelctrical Electrical
 iabbrev Eelectiral Electrical
 iabbrev Electical Electrical
+iabbrev Electicial Electrical
 iabbrev Electircial Electrical
 iabbrev Electirckal Electrical
 iabbrev Electricial Electrical
@@ -1955,6 +1960,7 @@ iabbrev elxisting existing
 iabbrev exisitn existing
 iabbrev exisitng existing
 iabbrev existng existing
+iabbrev exitss exists
 iabbrev eapnd expand
 iabbrev exapandde expanded
 iabbrev exapnded expanded
@@ -2148,6 +2154,7 @@ iabbrev lfow flow
 iabbrev flucuation fluctuation
 iabbrev fulcutuation fluctuation
 iabbrev Fludi Fluid
+iabbrev Flourescent Fluorescent
 iabbrev flourescent fluorescent
 iabbrev FOcus Focus
 iabbrev focsusing focusing
@@ -2600,6 +2607,7 @@ iabbrev incrteasing increasing
 iabbrev indedependt independent
 iabbrev indentpent independent
 iabbrev indepenedent independent
+iabbrev indepndent independent
 iabbrev INdicates Indicates
 iabbrev indiciatiton indication
 iabbrev Indiviudaul Individual
@@ -2920,12 +2928,14 @@ iabbrev librayr library
 iabbrev licorise licorice
 iabbrev Lighyt Light
 iabbrev lghit light
+iabbrev lihgt light
 iabbrev Lgithign Lighting
 iabbrev Lighing Lighting
 iabbrev lghting lighting
 iabbrev lgighting lighting
 iabbrev lighing lighting
 iabbrev lighitng lighting
+iabbrev lightins lighting
 iabbrev lihgting lighting
 iabbrev lihgts lights
 iabbrev LIke Like
@@ -2967,6 +2977,7 @@ iabbrev laods loads
 iabbrev lona loan
 iabbrev Lobyb Lobby
 iabbrev lboby lobby
+iabbrev lboiby lobby
 iabbrev lobbby lobby
 iabbrev Lcoal Local
 iabbrev lcoal local
@@ -3067,6 +3078,7 @@ iabbrev manula manual
 iabbrev mnaula manual
 iabbrev manulaly manually
 iabbrev manulas manuals
+iabbrev manufactureres manufacturers
 iabbrev mahy many
 iabbrev mnay many
 iabbrev mpa map
@@ -3130,6 +3142,7 @@ iabbrev Mechancial Mechanical
 iabbrev Mechanicla Mechanical
 iabbrev mechancial mechanical
 iabbrev mechancila mechanical
+iabbrev mechanial mechanical
 iabbrev mechanicl mechanical
 iabbrev mechanicla mechanical
 iabbrev mechincal mechanical
@@ -3148,6 +3161,7 @@ iabbrev meetring meeting
 iabbrev memeory memory
 iabbrev Menotr Mentor
 iabbrev meterological meteorological
+iabbrev emter meter
 iabbrev memeter meter
 iabbrev Meteringin Metering
 iabbrev Mehtod Method
@@ -3276,6 +3290,7 @@ iabbrev Mosty Mostly
 iabbrev moter motor
 iabbrev MOtors Motors
 iabbrev Moutnain Mountain
+iabbrev mountted mounted
 iabbrev movew move
 iabbrev muychg much
 iabbrev myuch much
@@ -4056,6 +4071,7 @@ iabbrev quailyt quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
 iabbrev quialyt quality
+iabbrev qulaity quality
 iabbrev quantificaiton quantification
 iabbrev Quantificaitons Quantifications
 iabbrev quantiative quantitative
@@ -4516,6 +4532,7 @@ iabbrev scirpts scripts
 iabbrev scritps scripts
 iabbrev scxripts scripts
 iabbrev sripts scripts
+iabbrev Serach Search
 iabbrev searhc search
 iabbrev seraches searches
 iabbrev Seraching Searching
@@ -4598,10 +4615,12 @@ iabbrev Sequencse Sequences
 iabbrev squesnces sequences
 iabbrev sequencialy sequentially
 iabbrev sequenctially sequentially
+iabbrev serail serial
 iabbrev seriall serial
 iabbrev Sereis Series
 iabbrev sereis series
 iabbrev sseries series
+iabbrev Servie Service
 iabbrev servcie service
 iabbrev sessiuon session
 iabbrev ste set
@@ -4901,6 +4920,7 @@ iabbrev stoarge storage
 iabbrev stroed stored
 iabbrev sotres stores
 iabbrev storeis stories
+iabbrev storign storing
 iabbrev straighforward straightforward
 iabbrev striaghtforward straightforward
 iabbrev stragne strange
@@ -5442,6 +5462,7 @@ iabbrev transefer transfer
 iabbrev trnasfer transfer
 iabbrev transferrable transferable
 iabbrev Transferrign Transferring
+iabbrev treansoffrmer transformer
 iabbrev trnasient transient
 iabbrev transpaerent transparent
 iabbrev transporation transportation
@@ -5824,6 +5845,7 @@ iabbrev whereever wherever
 iabbrev wehtehrt whether
 iabbrev wehther whether
 iabbrev whehter whether
+iabbrev whetther whether
 iabbrev whthere whether
 iabbrev whcih which
 iabbrev whihc which
