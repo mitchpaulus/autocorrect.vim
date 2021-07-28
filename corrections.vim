@@ -1603,6 +1603,7 @@ iabbrev donig doing
 iabbrev odmain domain
 iabbrev doen done
 iabbrev odne done
+iabbrev DOnut Donut
 iabbrev dobule double
 iabbrev doewn down
 iabbrev donw down
@@ -2034,6 +2035,7 @@ iabbrev fial fail
 iabbrev fialed failed
 iabbrev failrue failure
 iabbrev fialure failure
+iabbrev fari fair
 iabbrev failry fairly
 iabbrev faily fairly
 iabbrev farily fairly
@@ -2128,6 +2130,7 @@ iabbrev Finishding Finishing
 iabbrev Finsiheng Finishing
 iabbrev Finsihing Finishing
 iabbrev finsihing finishing
+iabbrev FIrefox Firefox
 iabbrev Firmna Firman
 iabbrev Friman Firman
 iabbrev FIrst First
@@ -2800,6 +2803,7 @@ iabbrev Investigatingn Investigating
 iabbrev Investingating Investigating
 iabbrev investigatign investigating
 iabbrev invesitgation investigation
+iabbrev Invenstemnt Investment
 iabbrev investement investment
 iabbrev inviation invitation
 iabbrev invitue invite
@@ -4268,6 +4272,7 @@ iabbrev repalcement replacement
 iabbrev repalcemnt replacement
 iabbrev repalcment replacement
 iabbrev replacemetn replacement
+iabbrev replacemnt replacement
 iabbrev replacment replacement
 iabbrev repolacemnt replacement
 iabbrev rfeplacemnet replacement
