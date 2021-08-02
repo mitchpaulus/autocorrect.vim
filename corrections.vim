@@ -686,6 +686,7 @@ iabbrev carepting carpeting
 iabbrev cartesina Cartesian
 iabbrev cvase case
 iabbrev caess cases
+iabbrev casees cases
 iabbrev categoraized categorized
 iabbrev catefory category
 iabbrev cuase cause
@@ -797,6 +798,7 @@ iabbrev calss class
 iabbrev lcass class
 iabbrev cleanign cleaning
 iabbrev clenaup cleanup
+iabbrev cleraed cleared
 iabbrev clcked clicked
 iabbrev clickign clicking
 iabbrev lickcing clicking
@@ -1738,6 +1740,7 @@ iabbrev enalbed enabled
 iabbrev enclouse enclosure
 iabbrev enclousre enclosure
 iabbrev encodding encoding
+iabbrev enocding encoding
 iabbrev ENd End
 iabbrev ned end
 iabbrev endevor endeavor
@@ -2737,6 +2740,7 @@ iabbrev Institutue Institute
 iabbrev insturction instruction
 iabbrev Insturcitons Instructions
 iabbrev Insluaiton Insulation
+iabbrev insureance insurance
 iabbrev intanible intangible
 iabbrev intergral integral
 iabbrev Integratign Integrating
@@ -3651,6 +3655,7 @@ iabbrev passted pasted
 iabbrev Paht Path
 iabbrev patritoic patriotic
 iabbrev patten pattern
+iabbrev PFD PDF
 iabbrev Penalthy Penalty
 iabbrev penatlty penalty
 iabbrev penatly penalty
@@ -3994,6 +3999,7 @@ iabbrev PRoject Project
 iabbrev Pojrect Project
 iabbrev Porejct Project
 iabbrev Proejct Project
+iabbrev pjorect project
 iabbrev porjecst project
 iabbrev porject project
 iabbrev proejct project
@@ -4828,6 +4834,7 @@ iabbrev psecified specified
 iabbrev sepcified specified
 iabbrev sepecified specified
 iabbrev specfieid specified
+iabbrev specififed specified
 iabbrev sepcifify specify
 iabbrev specifiy specify
 iabbrev specifing specifying
@@ -5070,6 +5077,7 @@ iabbrev Taks Task
 iabbrev taks task
 iabbrev taought taught
 iabbrev teacing teaching
+iabbrev TEam Team
 iabbrev Tema Team
 iabbrev tema team
 iabbrev TEams Teams
