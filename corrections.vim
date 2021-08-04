@@ -360,6 +360,7 @@ iabbrev assumign assuming
 iabbrev assumjption assumption
 iabbrev assukmptions assumptions
 iabbrev assumptiosn assumptions
+iabbrev anthete athlete
 iabbrev atmosphereic atmospheric
 iabbrev atmosphreric atmospheric
 iabbrev attachemnt attachment
@@ -1314,6 +1315,7 @@ iabbrev depper deeper
 iabbrev Defautl Default
 iabbrev deafult default
 iabbrev deauflt default
+iabbrev deautlt default
 iabbrev defautl default
 iabbrev defauylt default
 iabbrev defualt default
@@ -1352,6 +1354,7 @@ iabbrev dmeand demand
 iabbrev dseamdn demand
 iabbrev emdand demand
 iabbrev dnesity density
+iabbrev deorderant deodorant
 iabbrev Deparment Department
 iabbrev depdnd depend
 iabbrev dependance dependence
@@ -2138,6 +2141,7 @@ iabbrev Firmna Firman
 iabbrev Friman Firman
 iabbrev FIrst First
 iabbrev Frist First
+iabbrev firstr first
 iabbrev frist first
 iabbrev ifrst first
 iabbrev ifhs fish
@@ -2345,6 +2349,7 @@ iabbrev gneerators generators
 iabbrev geomerty geometry
 iabbrev geometyr geometry
 iabbrev Georger George
+iabbrev gest gets
 iabbrev Geting Getting
 iabbrev geetting getting
 iabbrev gettign getting
@@ -2842,6 +2847,7 @@ iabbrev jvavascript JavaScript
 iabbrev jersery jersey
 iabbrev jbo job
 iabbrev jbos jobs
+iabbrev JOe Joe
 iabbrev JHohn John
 iabbrev JOhn John
 iabbrev Jhon John
@@ -3448,6 +3454,7 @@ iabbrev officinal official
 iabbrev ofifical official
 iabbrev oftne often
 iabbrev oftentiems oftentimes
+iabbrev odl old
 iabbrev odler older
 iabbrev Olvie Olive
 iabbrev ommited omitted
@@ -3576,6 +3583,7 @@ iabbrev outup output
 iabbrev outupt output
 iabbrev outuptu output
 iabbrev outptus outputs
+iabbrev outrageoulsy outrageously
 iabbrev OUtside Outside
 iabbrev Otuside Outside
 iabbrev Outsdie Outside
@@ -4218,6 +4226,7 @@ iabbrev relateed related
 iabbrev releatd related
 iabbrev rlated related
 iabbrev rleated related
+iabbrev relathionship relationship
 iabbrev relatioinship relationship
 iabbrev relationnship relationship
 iabbrev relationsihp relationship
@@ -4242,6 +4251,7 @@ iabbrev remaingin remaining
 iabbrev remainging remaining
 iabbrev remainign remaining
 iabbrev remianing remaining
+iabbrev Remmeber Remember
 iabbrev remienders reminders
 iabbrev REmote Remote
 iabbrev Remtoe Remote
@@ -4404,6 +4414,7 @@ iabbrev Reuslts Results
 iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
+iabbrev retryed retried
 iabbrev retor retro
 iabbrev Retrocommissiong Retrocommissioning
 iabbrev retrocommissiongin retrocommissioning
@@ -4462,6 +4473,7 @@ iabbrev Runnign Running
 iabbrev runign running
 iabbrev runni9ng running
 iabbrev runnign running
+iabbrev rusn runs
 iabbrev sa SA
 iabbrev sacrificied sacrificed
 iabbrev SAlly Sally
@@ -4631,6 +4643,7 @@ iabbrev seriall serial
 iabbrev Sereis Series
 iabbrev sereis series
 iabbrev sseries series
+iabbrev serios serious
 iabbrev Servie Service
 iabbrev servcie service
 iabbrev sessiuon session
@@ -4838,6 +4851,7 @@ iabbrev specififed specified
 iabbrev sepcifify specify
 iabbrev specifiy specify
 iabbrev specifing specifying
+iabbrev sppech speech
 iabbrev Spepd Speed
 iabbrev spped speed
 iabbrev sepll spell
@@ -5955,6 +5969,7 @@ iabbrev woould would
 iabbrev woudl would
 iabbrev wouold would
 iabbrev wuoudl would
+iabbrev wirte write
 iabbrev worng wrong
 iabbrev yaer year
 iabbrev yare year
