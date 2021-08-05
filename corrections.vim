@@ -339,6 +339,7 @@ iabbrev ASHREA ASHRAE
 iabbrev asekd asked
 iabbrev Askign Asking
 iabbrev ascpects aspects
+iabbrev Assesment Assessment
 iabbrev assesments assessments
 iabbrev assessmetnts assessments
 iabbrev assignead assigned
@@ -1348,6 +1349,7 @@ iabbrev deliverabel deliverable
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
 iabbrev develiverables deliverables
+iabbrev dleta delta
 iabbrev Deltke Deltek
 iabbrev Deamnd Demand
 iabbrev dmeand demand
@@ -2359,6 +2361,7 @@ iabbrev givew given
 iabbrev givne given
 iabbrev Globla Global
 iabbrev gllobal global
+iabbrev globla global
 iabbrev globablly globally
 iabbrev glpyh glyph
 iabbrev gola goal
@@ -2681,6 +2684,8 @@ iabbrev Inherrently Inherently
 iabbrev inherrently inherently
 iabbrev INitial Initial
 iabbrev Initiial Initial
+iabbrev iinitail initial
+iabbrev iinitial initial
 iabbrev initail initial
 iabbrev inital initial
 iabbrev initali initial
@@ -2872,6 +2877,7 @@ iabbrev dkey key
 iabbrev keystorke keystroke
 iabbrev keystorkes keystrokes
 iabbrev ekywords keywords
+iabbrev kcik kick
 iabbrev Kimal Kimla
 iabbrev Ktichen Kitchen
 iabbrev ktichen kitchen
@@ -3544,6 +3550,7 @@ iabbrev orignal original
 iabbrev oriigal original
 iabbrev oringial original
 iabbrev origianlly originally
+iabbrev orignianlly originally
 iabbrev origined originated
 iabbrev originatign originating
 iabbrev OTher Other
@@ -4284,6 +4291,7 @@ iabbrev rpelaced replaced
 iabbrev REplacemnt Replacement
 iabbrev Repalcment Replacement
 iabbrev Replacemnet Replacement
+iabbrev Replacmeent Replacement
 iabbrev repalcement replacement
 iabbrev repalcemnt replacement
 iabbrev repalcment replacement
@@ -5038,6 +5046,7 @@ iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev Sycn Sync
 iabbrev Syunc Sync
+iabbrev syncitng syncing
 iabbrev synicng syncing
 iabbrev syntacially syntactically
 iabbrev SYntax Syntax
@@ -5546,6 +5555,7 @@ iabbrev ytpes types
 iabbrev TYpeScript TypeScript
 iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
+iabbrev Typcial Typical
 iabbrev tyhpical typical
 iabbrev typiucal typical
 iabbrev typiuckal typical
@@ -5755,6 +5765,7 @@ iabbrev verificaiton verification
 iabbrev vreification verification
 iabbrev vefriyf verify
 iabbrev verifiy verify
+iabbrev Veresion Version
 iabbrev veresion version
 iabbrev veriosn version
 iabbrev verison version
