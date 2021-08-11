@@ -660,6 +660,7 @@ iabbrev Clal Call
 iabbrev clal call
 iabbrev caem came
 iabbrev cmae came
+iabbrev Camear Camera
 iabbrev camerag camera
 iabbrev CAn Can
 iabbrev canbe can be
@@ -667,6 +668,7 @@ iabbrev cna can
 iabbrev cancelled canceled
 iabbrev capabillites capabilities
 iabbrev capabiliity capability
+iabbrev capabiltiy capability
 iabbrev capabiltiyt capability
 iabbrev capacitnace capacitance
 iabbrev capcaities capacities
@@ -766,6 +768,7 @@ iabbrev Cheerry Cherry
 iabbrev Cherrpy Cherry
 iabbrev Chery Cherry
 iabbrev Cheryyp Cherry
+iabbrev Chrrey Cherry
 iabbrev childern children
 iabbrev Chiled Chilled
 iabbrev chillled chilled
@@ -1861,6 +1864,7 @@ iabbrev equipoement equipment
 iabbrev equipoemnt equipment
 iabbrev equipoemtn equipment
 iabbrev equipoment equipment
+iabbrev equipometn equipment
 iabbrev equpiemtn equipment
 iabbrev equpiment equipment
 iabbrev equpimetn equipment
@@ -2520,6 +2524,7 @@ iabbrev humitiy humidity
 iabbrev Huniting Hunting
 iabbrev hunignt hunting
 iabbrev Hyperparametres Hyperparameters
+iabbrev hypen hyphen
 iabbrev hypens hyphens
 iabbrev hystersis hysteresis
 iabbrev Ina Ian
@@ -3158,6 +3163,7 @@ iabbrev meaurements measurements
 iabbrev measrues measures
 iabbrev measueres measures
 iabbrev measurse measures
+iabbrev MEchanicla Mechanical
 iabbrev Mechancial Mechanical
 iabbrev Mechanicla Mechanical
 iabbrev mechancial mechanical
@@ -3398,6 +3404,7 @@ iabbrev nomencluature nomenclature
 iabbrev nomial nominal
 iabbrev nomianal nominal
 iabbrev nnon noon
+iabbrev Nomral Normal
 iabbrev nnormal normal
 iabbrev nomral normal
 iabbrev nomrla normal
@@ -3719,6 +3726,9 @@ iabbrev PHone Phone
 iabbrev Phoen Phone
 iabbrev phnoe phone
 iabbrev phoen phone
+iabbrev Phto Photo
+iabbrev phtoo photo
+iabbrev Phtoos Photos
 iabbrev phycisal physical
 iabbrev physcally physically
 iabbrev pinao piano
@@ -4631,6 +4641,7 @@ iabbrev sepaate separate
 iabbrev separatue separate
 iabbrev serpate separate
 iabbrev speaarte separate
+iabbrev seapated separated
 iabbrev seperated separated
 iabbrev spearaetd separated
 iabbrev seaparter separator
@@ -5756,6 +5767,7 @@ iabbrev ventialtiaon ventilation
 iabbrev ventialtion ventilation
 iabbrev Verifiatioon Verification
 iabbrev verficaiton verification
+iabbrev verficiation verification
 iabbrev verfiicaiton verification
 iabbrev verfiication verification
 iabbrev verifcaiotn verification
@@ -5940,6 +5952,7 @@ iabbrev WOkred Worked
 iabbrev WOrked Worked
 iabbrev Wokred Worked
 iabbrev workeds worked
+iabbrev Workflwo Workflow
 iabbrev workflwo workflow
 iabbrev WOkrign Working
 iabbrev WOkring Working
