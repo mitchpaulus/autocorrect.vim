@@ -65,6 +65,7 @@ iabbrev actulaly actually
 iabbrev Actuatoar Actuator
 iabbrev Adaptaiton Adaptation
 iabbrev ADd Add
+iabbrev daded added
 iabbrev Adidtion Addition
 iabbrev addiiton addition
 iabbrev addion addition
@@ -846,6 +847,7 @@ iabbrev coollected collected
 iabbrev colleciotns collection
 iabbrev colleciton collection
 iabbrev Coollege College
+iabbrev Collsion Collision
 iabbrev oclor color
 iabbrev COlorado Colorado
 iabbrev COlumn Column
@@ -890,6 +892,7 @@ iabbrev Commericial Commercial
 iabbrev commerecial commercial
 iabbrev commerical commercial
 iabbrev Commissionieed Commissioned
+iabbrev Commisssioned Commissioned
 iabbrev COmmissioign Commissioning
 iabbrev COmmissionign Commissioning
 iabbrev Commisiongin Commissioning
@@ -1135,6 +1138,7 @@ iabbrev controleld controlled
 iabbrev conttrolled controlled
 iabbrev contyrolled controlled
 iabbrev contorller controller
+iabbrev controlelr controller
 iabbrev contorllers controllers
 iabbrev contreollers controllers
 iabbrev Controllign Controlling
@@ -1551,6 +1555,8 @@ iabbrev disply display
 iabbrev disseratioatn dissertation
 iabbrev disseration dissertation
 iabbrev dissertaiton dissertation
+iabbrev distirncxt distinct
+iabbrev distrincxt distinct
 iabbrev Distribuiton Distribution
 iabbrev Distriubution Distribution
 iabbrev distribuution distribution
@@ -1850,10 +1856,12 @@ iabbrev Equipement Equipment
 iabbrev Equipemnt Equipment
 iabbrev Equipmetn Equipment
 iabbrev Equpiment Equipment
+iabbrev eequipment equipment
 iabbrev eqiupment equipment
 iabbrev equiepment equipment
 iabbrev equiment equipment
 iabbrev equipaemtn equipment
+iabbrev equipament equipment
 iabbrev equipement equipment
 iabbrev equipemetn equipment
 iabbrev equipemnt equipment
@@ -2200,6 +2208,7 @@ iabbrev fof for
 iabbrev forf for
 iabbrev fro for
 iabbrev ofr for
+iabbrev forsee foresee
 iabbrev Froest Forest
 iabbrev fomr form
 iabbrev vorm form
@@ -3648,6 +3657,7 @@ iabbrev parmaetesr parameters
 iabbrev paretn parent
 iabbrev partent parent
 iabbrev Parentheiss Parenthesis
+iabbrev parenthsize parenthesize
 iabbrev paretns parents
 iabbrev aprse parse
 iabbrev paresr parser
@@ -3894,6 +3904,7 @@ iabbrev preparting preparing
 iabbrev preprend prepend
 iabbrev Prequisite Prerequisite
 iabbrev Prerequistiee Prerequisite
+iabbrev prerequistite prerequisite
 iabbrev prerequitsite prerequisite
 iabbrev Prerequisitevs Prerequisites
 iabbrev Prerequisties Prerequisites
@@ -4071,6 +4082,7 @@ iabbrev propsoed proposed
 iabbrev protecdtion protection
 iabbrev protectdion protection
 iabbrev rpove prove
+iabbrev proviced provided
 iabbrev PRovider Provider
 iabbrev psychrometreics psychrometrics
 iabbrev publlications publications
@@ -4190,6 +4202,7 @@ iabbrev recogoized recognized
 iabbrev recommenadtions recommendations
 iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
+iabbrev reocrd record
 iabbrev recoreded recorded
 iabbrev reocrded recorded
 iabbrev recoreds records
@@ -4504,6 +4517,7 @@ iabbrev smapel sample
 iabbrev smaple sample
 iabbrev Smapling Sampling
 iabbrev samplign sampling
+iabbrev smaplign sampling
 iabbrev smapling sampling
 iabbrev sxampleing sampling
 iabbrev snaitation sanitation
@@ -4614,6 +4628,7 @@ iabbrev Semeseter Semester
 iabbrev semicolin semicolon
 iabbrev smeinar seminar
 iabbrev sned send
+iabbrev sendign sending
 iabbrev snese sense
 iabbrev sensical sensical
 iabbrev sensitiviey Sensitivity
@@ -4825,6 +4840,7 @@ iabbrev soultin solution
 iabbrev solutiosn solutions
 iabbrev sollve solve
 iabbrev sove solve
+iabbrev smoe some
 iabbrev soem some
 iabbrev somehting something
 iabbrev someithign something
@@ -5302,6 +5318,7 @@ iabbrev thna than
 iabbrev Thanskgiving Thanksgiving
 iabbrev THat That
 iabbrev Taht That
+iabbrev atha that
 iabbrev athat that
 iabbrev atht that
 iabbrev htat that
@@ -5560,6 +5577,7 @@ iabbrev twekas tweaks
 iabbrev twicew twice
 iabbrev wtwice twice
 iabbrev TYpe Type
+iabbrev tyep type
 iabbrev tyupe type
 iabbrev tyeps types
 iabbrev ytpes types
@@ -5603,6 +5621,7 @@ iabbrev uncertaintny uncertainty
 iabbrev uncertanity uncertainty
 iabbrev uncertianty uncertainty
 iabbrev uncertinay uncertainty
+iabbrev unclera unclear
 iabbrev udner under
 iabbrev undre under
 iabbrev udnerfloor underfloor
@@ -5713,6 +5732,7 @@ iabbrev utilzied utilized
 iabbrev utilting utilizing
 iabbrev vaccum vacuum
 iabbrev vcacuum vacuum
+iabbrev avlid valid
 iabbrev validaiotn validation
 iabbrev validaiton validation
 iabbrev VAlidator Validator
@@ -5773,6 +5793,7 @@ iabbrev verfiication verification
 iabbrev verifcaiotn verification
 iabbrev verifiaciaton verification
 iabbrev verificaiotn verification
+iabbrev verificaitn verification
 iabbrev verificaiton verification
 iabbrev vreification verification
 iabbrev vefriyf verify
