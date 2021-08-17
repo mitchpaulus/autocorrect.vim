@@ -96,6 +96,7 @@ iabbrev advangtage advantage
 iabbrev Adviosr Advisor
 iabbrev Advisro Advisor
 iabbrev adviosr advisor
+iabbrev asthetically aesthetically
 iabbrev Asthetics Aesthetics
 iabbrev aestheics aesthetics
 iabbrev asthetics aesthetics
@@ -149,6 +150,7 @@ iabbrev aligened aligned
 iabbrev al all
 iabbrev lal all
 iabbrev alow allow
+iabbrev allwos allows
 iabbrev alogn along
 iabbrev Alphabatize Alphabetize
 iabbrev alreaedy already
@@ -727,6 +729,7 @@ iabbrev chiar chair
 iabbrev Chagne Change
 iabbrev chagne change
 iabbrev chnage change
+iabbrev chagned changed
 iabbrev chagnes changes
 iabbrev changds changes
 iabbrev chantges changes
@@ -1183,6 +1186,7 @@ iabbrev Coorinate Coordinate
 iabbrev Coordiantion Coordination
 iabbrev copeid copied
 iabbrev cipy copy
+iabbrev coyp copy
 iabbrev ocpy copy
 iabbrev copyitng copying
 iabbrev copyting copying
@@ -1888,6 +1892,7 @@ iabbrev escpae escape
 iabbrev escapting escaping
 iabbrev Esmeradla Esmeralda
 iabbrev Especailly Especially
+iabbrev escially especially
 iabbrev espciallly especially
 iabbrev espcially especially
 iabbrev especailly especially
@@ -1896,6 +1901,7 @@ iabbrev essense essence
 iabbrev Eseentially Essentially
 iabbrev essentialy essentially
 iabbrev esttae estate
+iabbrev asthetically esthetically
 iabbrev Esitmate Estimate
 iabbrev eestimate estimate
 iabbrev esimate estimate
@@ -2070,6 +2076,7 @@ iabbrev FAults Faults
 iabbrev falults faults
 iabbrev fdaults faults
 iabbrev faovirte favorite
+iabbrev favoiorate favorite
 iabbrev favoirte favorite
 iabbrev favoritie favorite
 iabbrev fdd FDD
@@ -2215,6 +2222,7 @@ iabbrev vorm form
 iabbrev fomrat format
 iabbrev foramt format
 iabbrev forrmat format
+iabbrev fomratting formatting
 iabbrev Fomrs Forms
 iabbrev fomrs forms
 iabbrev forsm forms
@@ -2734,6 +2742,7 @@ iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev insdie inside
+iabbrev inspiraation inspiration
 iabbrev inspiratiosn inspirations
 iabbrev inspried inspired
 iabbrev INstall Install
@@ -2922,6 +2931,7 @@ iabbrev alnding landing
 iabbrev Lanugauge Language
 iabbrev alanguage language
 iabbrev lanaguate language
+iabbrev langauage language
 iabbrev languagte language
 iabbrev langurage language
 iabbrev lnaguage language
@@ -3378,6 +3388,7 @@ iabbrev negithbor neighbor
 iabbrev neighbort neighbor
 iabbrev neightbaor neighbor
 iabbrev neightbor neighbor
+iabbrev Neobme Neobem
 iabbrev NEessle Nessel
 iabbrev NEssel Nessel
 iabbrev Nesslel Nessel
@@ -3515,6 +3526,7 @@ iabbrev operaitons operations
 iabbrev operatoir operator
 iabbrev opereator operator
 iabbrev Opinioned Opinionated
+iabbrev Opportunites Opportunities
 iabbrev opportunies opportunities
 iabbrev opportuniteis opportunities
 iabbrev Opprotunity Opportunity
@@ -4899,6 +4911,7 @@ iabbrev SPlit Split
 iabbrev sptli split
 iabbrev sponosr sponsor
 iabbrev sporsorign sponsoring
+iabbrev sppol spool
 iabbrev sporatic sporadic
 iabbrev sporatically sporadically
 iabbrev spto spot
@@ -5475,6 +5488,7 @@ iabbrev otken token
 iabbrev toekn token
 iabbrev otkens tokens
 iabbrev toekns tokens
+iabbrev tokesn tokens
 iabbrev TOld Told
 iabbrev TOll Toll
 iabbrev Tooll Toll
@@ -5529,6 +5543,7 @@ iabbrev Transferrign Transferring
 iabbrev treansoffrmer transformer
 iabbrev trnasient transient
 iabbrev transpaerent transparent
+iabbrev transpiller transpiler
 iabbrev transporation transportation
 iabbrev transportionat transportation
 iabbrev travelled traveled
