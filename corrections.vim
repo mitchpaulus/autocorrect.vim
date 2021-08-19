@@ -63,6 +63,8 @@ iabbrev actualy actually
 iabbrev actucally actually
 iabbrev actulaly actually
 iabbrev Actuatoar Actuator
+iabbrev acutatoars actuators
+iabbrev acutators actuators
 iabbrev Adaptaiton Adaptation
 iabbrev ADd Add
 iabbrev daded added
@@ -1593,6 +1595,7 @@ iabbrev dcoumentaiton documentation
 iabbrev dcoumentation documentation
 iabbrev docuemanation documentation
 iabbrev docuemantiona documentation
+iabbrev docuematnion documentation
 iabbrev docuematnoin documentation
 iabbrev docuemenation documentation
 iabbrev docuementation documentation
@@ -1601,6 +1604,7 @@ iabbrev docuemneation documentation
 iabbrev docuemntaiton documentation
 iabbrev docuemntation documentation
 iabbrev docuemtnaiton documentation
+iabbrev documenataion documentation
 iabbrev documenatino documentation
 iabbrev documenation documentation
 iabbrev documentaion documentation
@@ -1647,6 +1651,7 @@ iabbrev drwawer drawer
 iabbrev drwaing drawing
 iabbrev draings drawings
 iabbrev drawwigns drawings
+iabbrev drwaings drawings
 iabbrev drwan drawn
 iabbrev dirve drive
 iabbrev drivesr drivers
@@ -2390,6 +2395,7 @@ iabbrev oges goes
 iabbrev GOing Going
 iabbrev Goiing Going
 iabbrev cgoing going
+iabbrev goign going
 iabbrev goinv going
 iabbrev goiung going
 iabbrev gonig going
@@ -2826,6 +2832,7 @@ iabbrev Intorduction Introduction
 iabbrev Introduciont Introduction
 iabbrev Introduciton Introduction
 iabbrev intution intuition
+iabbrev invlaid invalid
 iabbrev invserse inverse
 iabbrev inversly inversely
 iabbrev inversino inversion
@@ -3086,6 +3093,7 @@ iabbrev maintainging maintaining
 iabbrev Maintenacen Maintenance
 iabbrev Maintence Maintenance
 iabbrev Maintenence Maintenance
+iabbrev maintenane maintenance
 iabbrev maintencance maintenance
 iabbrev maintence maintenance
 iabbrev maintenencae maintenance
@@ -4351,6 +4359,7 @@ iabbrev rerport report
 iabbrev rerpot report
 iabbrev rerprot report
 iabbrev roeport report
+iabbrev rpeorrt report
 iabbrev rpeort report
 iabbrev rpeot report
 iabbrev rperot report
@@ -4752,6 +4761,7 @@ iabbrev sheathign sheathing
 iabbrev sheeet sheet
 iabbrev sehell shell
 iabbrev sehll shell
+iabbrev sheell shell
 iabbrev shfits shifts
 iabbrev Shrit Shirt
 iabbrev shootouyt shootout
@@ -5138,6 +5148,7 @@ iabbrev tnaks tanks
 iabbrev TAsk Task
 iabbrev Taks Task
 iabbrev taks task
+iabbrev Takss Tasks
 iabbrev taought taught
 iabbrev teacing teaching
 iabbrev TEam Team
