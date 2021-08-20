@@ -1493,6 +1493,7 @@ iabbrev differnece difference
 iabbrev diffrence difference
 iabbrev diffeerences differences
 iabbrev differenrces differences
+iabbrev dfiferent different
 iabbrev diferent different
 iabbrev diffeerent different
 iabbrev diffeernt different
@@ -1678,6 +1679,7 @@ iabbrev dynamcilaly dynamically
 iabbrev dynamicaly dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
+iabbrev esily easily
 iabbrev ecm ECM
 iabbrev Ecnomizer Economizer
 iabbrev Econmoizer Economizer
@@ -2480,6 +2482,7 @@ iabbrev hleper helper
 iabbrev ehlpful helpful
 iabbrev helpuful helpful
 iabbrev hleping helping
+iabbrev ehre here
 iabbrev hree here
 iabbrev Heres Here's
 iabbrev hueristics heuristics
@@ -2695,6 +2698,7 @@ iabbrev informaotin information
 iabbrev informatin information
 iabbrev informatino information
 iabbrev informatoin information
+iabbrev infrmation information
 iabbrev infromation information
 iabbrev iniofmration information
 iabbrev inmfromation information
@@ -3043,6 +3047,7 @@ iabbrev lcoaiton location
 iabbrev lcoation location
 iabbrev locaiont location
 iabbrev locaiotn location
+iabbrev locaitnn location
 iabbrev locaitno location
 iabbrev locaiton location
 iabbrev lociaitn location
@@ -3090,6 +3095,7 @@ iabbrev maintian maintain
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
 iabbrev maintainging maintaining
+iabbrev Maintanence Maintenance
 iabbrev Maintenacen Maintenance
 iabbrev Maintence Maintenance
 iabbrev Maintenence Maintenance
@@ -4797,6 +4803,7 @@ iabbrev Siemnes Siemens
 iabbrev signla signal
 iabbrev singal signal
 iabbrev signficant significant
+iabbrev signifiant significant
 iabbrev signifiatn significant
 iabbrev significat significant
 iabbrev significati significant
@@ -4893,6 +4900,7 @@ iabbrev Specilized Specialized
 iabbrev spciifc specific
 iabbrev specidic specific
 iabbrev speciific specific
+iabbrev speicfic specific
 iabbrev specificaly specifically
 iabbrev specificaiton specification
 iabbrev specificiation specification
@@ -5364,6 +5372,7 @@ iabbrev th the
 iabbrev ther the
 iabbrev thge the
 iabbrev thre the
+iabbrev thte the
 iabbrev trhe the
 iabbrev tthe the
 iabbrev tye the
@@ -5535,6 +5544,7 @@ iabbrev traditioanl traditional
 iabbrev trialing trailing
 iabbrev Traingin Training
 iabbrev Trainign Training
+iabbrev Trianging Training
 iabbrev Trinaing Training
 iabbrev traiingng training
 iabbrev traingin training
@@ -5559,6 +5569,7 @@ iabbrev transporation transportation
 iabbrev transportionat transportation
 iabbrev travelled traveled
 iabbrev traeated treated
+iabbrev Treehosue Treehouse
 iabbrev rtrend trend
 iabbrev tnred trend
 iabbrev trand trend
