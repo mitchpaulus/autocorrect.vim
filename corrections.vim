@@ -371,6 +371,7 @@ iabbrev atmosphereic atmospheric
 iabbrev atmosphreric atmospheric
 iabbrev attachemnt attachment
 iabbrev attachemtn attachment
+iabbrev Attachements Attachments
 iabbrev Attachemnts Attachments
 iabbrev attachements attachments
 iabbrev attachemtns attachments
@@ -848,6 +849,7 @@ iabbrev cils coils
 iabbrev Collaboraiton Collaboration
 iabbrev collabloariton collaboration
 iabbrev collaboartion collaboration
+iabbrev collegaue colleague
 iabbrev coollected collected
 iabbrev colleciotns collection
 iabbrev colleciton collection
@@ -1053,6 +1055,7 @@ iabbrev Conrim Confirm
 iabbrev confirmaiton confirmation
 iabbrev Confusted Confused
 iabbrev confustion confusion
+iabbrev conjuntion conjunction
 iabbrev conencted connected
 iabbrev conenected connected
 iabbrev conenction connection
@@ -1524,6 +1527,7 @@ iabbrev direclty directly
 iabbrev direcly directly
 iabbrev directdly directly
 iabbrev drieclty directly
+iabbrev drieclyt directly
 iabbrev driectly directly
 iabbrev directoriues directories
 iabbrev direcdtory directory
@@ -2892,6 +2896,7 @@ iabbrev JOhn John
 iabbrev Jhon John
 iabbrev Joihn John
 iabbrev Hohnson Johnson
+iabbrev Johnshon Johnson
 iabbrev joiningj joining
 iabbrev Jsoh Josh
 iabbrev SJON JSON
@@ -3136,6 +3141,7 @@ iabbrev manula manual
 iabbrev mnaula manual
 iabbrev manulaly manually
 iabbrev manulas manuals
+iabbrev manuafacturer manufacturer
 iabbrev manufactureres manufacturers
 iabbrev mahy many
 iabbrev mnay many
@@ -3359,6 +3365,7 @@ iabbrev multiople multiple
 iabbrev multipel multiple
 iabbrev multipole multiple
 iabbrev multple multiple
+iabbrev mutlple multiple
 iabbrev Multiplicaiton Multiplication
 iabbrev multiplicaiton multiplication
 iabbrev multiopleyer multiplier
@@ -5201,6 +5208,7 @@ iabbrev etmperature temperature
 iabbrev taemperatue temperature
 iabbrev tamperabguer temperature
 iabbrev temaperatrure temperature
+iabbrev temeprature temperature
 iabbrev temmperature temperature
 iabbrev tempaeratuer temperature
 iabbrev tempaerautre temperature
@@ -5485,6 +5493,7 @@ iabbrev Thursdya Thursday
 iabbrev Thusrday Thursday
 iabbrev Tuhrsday Thursday
 iabbrev Thursdsay Thursdays
+iabbrev Tigher Tighter
 iabbrev til till
 iabbrev TIm Tim
 iabbrev Tiem Time
@@ -5892,6 +5901,7 @@ iabbrev wrranty warranty
 iabbrev aws was
 iabbrev Wwater Water
 iabbrev wtaer water
+iabbrev wtera water
 iabbrev wya way
 iabbrev Weahter Weather
 iabbrev wather weather
