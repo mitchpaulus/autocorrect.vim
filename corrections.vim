@@ -98,6 +98,7 @@ iabbrev advangtage advantage
 iabbrev Adviosr Advisor
 iabbrev Advisro Advisor
 iabbrev adviosr advisor
+iabbrev aesteic aesthetic
 iabbrev asthetically aesthetically
 iabbrev Asthetics Aesthetics
 iabbrev aestheics aesthetics
@@ -163,6 +164,7 @@ iabbrev Alos Also
 iabbrev alos also
 iabbrev alsso also
 iabbrev aslo also
+iabbrev altenrative alternative
 iabbrev Althouugh Although
 iabbrev Athough Although
 iabbrev althoguh although
@@ -565,6 +567,7 @@ iabbrev buidign building
 iabbrev buiding building
 iabbrev buidlign building
 iabbrev buidling building
+iabbrev buidlnig building
 iabbrev buiilding building
 iabbrev buikdlign building
 iabbrev buildgin building
@@ -1003,6 +1006,7 @@ iabbrev commpress compress
 iabbrev comrpession compression
 iabbrev Compresor Compressor
 iabbrev comptuer compute
+iabbrev cmoptuer computer
 iabbrev comptuer computer
 iabbrev comptuers computers
 iabbrev concewpt concept
@@ -3506,6 +3510,7 @@ iabbrev fo of
 iabbrev oif of
 iabbrev officinal official
 iabbrev ofifical official
+iabbrev Oftne Often
 iabbrev oftne often
 iabbrev oftentiems oftentimes
 iabbrev odl old
@@ -5347,6 +5352,7 @@ iabbrev termailns terminals
 iabbrev Temrinate Terminate
 iabbrev temrinate terminate
 iabbrev terminatedf terminated
+iabbrev temrniator terminator
 iabbrev termingology terminology
 iabbrev Tets Test
 iabbrev testgin testing
