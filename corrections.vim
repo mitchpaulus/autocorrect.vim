@@ -62,6 +62,7 @@ iabbrev actauully actually
 iabbrev actualy actually
 iabbrev actucally actually
 iabbrev actulaly actually
+iabbrev acutally actually
 iabbrev Actuatoar Actuator
 iabbrev acutatoars actuators
 iabbrev acutators actuators
@@ -1828,6 +1829,7 @@ iabbrev enitre entire
 iabbrev entier entire
 iabbrev entiree entire
 iabbrev etneir entire
+iabbrev entirly entirely
 iabbrev entitites entities
 iabbrev entrace entrance
 iabbrev entires entries
@@ -2074,6 +2076,7 @@ iabbrev Farenheit Fahrenheit
 iabbrev farhenheit Fahrenheit
 iabbrev fial fail
 iabbrev fialed failed
+iabbrev failign failing
 iabbrev failrue failure
 iabbrev fialure failure
 iabbrev fari fair
@@ -2387,6 +2390,7 @@ iabbrev gneerators generators
 iabbrev geomerty geometry
 iabbrev geometyr geometry
 iabbrev Georger George
+iabbrev gewt get
 iabbrev gest gets
 iabbrev Geting Getting
 iabbrev geetting getting
@@ -2863,6 +2867,7 @@ iabbrev Invenstemnt Investment
 iabbrev investement investment
 iabbrev inviation invitation
 iabbrev invitue invite
+iabbrev involed involved
 iabbrev invovled involved
 iabbrev irreversilbe irreversible
 iabbrev fis is
@@ -3388,6 +3393,7 @@ iabbrev naems names
 iabbrev anmign naming
 iabbrev namign naming
 iabbrev Natual Natural
+iabbrev naturla natural
 iabbrev nautral natural
 iabbrev Naturaly Naturally
 iabbrev narturally naturally
@@ -4334,6 +4340,7 @@ iabbrev remvoe remove
 iabbrev reomve remove
 iabbrev removewd removed
 iabbrev reomved removed
+iabbrev rmeoved removed
 iabbrev renamign renaming
 iabbrev REno Reno
 iabbrev reorganizatiojn reorganization
@@ -5812,6 +5819,7 @@ iabbrev varialbe variable
 iabbrev variazble variable
 iabbrev Varialbes Variables
 iabbrev vairables variables
+iabbrev vairalbes variables
 iabbrev vairlabes variables
 iabbrev variablwes variables
 iabbrev varialbeles variables
@@ -5852,6 +5860,7 @@ iabbrev vefriyf verify
 iabbrev verifiy verify
 iabbrev Veresion Version
 iabbrev veresion version
+iabbrev verion version
 iabbrev veriosn version
 iabbrev verison version
 iabbrev verseion version
