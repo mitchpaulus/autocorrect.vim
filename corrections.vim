@@ -208,6 +208,7 @@ iabbrev anslysis analysis
 iabbrev nalysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
+iabbrev Analzzye Analyze
 iabbrev alnaalyze analyze
 iabbrev analzye analyze
 iabbrev Analysed Analyzed
@@ -485,6 +486,7 @@ iabbrev beofre before
 iabbrev bewfore before
 iabbrev bewforee before
 iabbrev Beginnign Beginning
+iabbrev beginnig beginning
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
 iabbrev beginnigs beginnings
@@ -676,6 +678,7 @@ iabbrev CAn Can
 iabbrev canbe can be
 iabbrev cna can
 iabbrev cancelled canceled
+iabbrev capabaiblites capabilities
 iabbrev capabillites capabilities
 iabbrev capabiliity capability
 iabbrev capabiltiy capability
@@ -705,6 +708,7 @@ iabbrev categoraized categorized
 iabbrev catefory category
 iabbrev cuase cause
 iabbrev casued caused
+iabbrev Ceilign Ceiling
 iabbrev ceilign ceiling
 iabbrev cewilign ceiling
 iabbrev Celebraiton Celebration
@@ -874,6 +878,7 @@ iabbrev coolumsn columns
 iabbrev coulmns columns
 iabbrev coulnmsn columns
 iabbrev combinatino combination
+iabbrev comibination combination
 iabbrev combonations combinations
 iabbrev comibned combined
 iabbrev comew come
@@ -1068,6 +1073,7 @@ iabbrev conneciton connection
 iabbrev consectuive consecutive
 iabbrev consectuvive consecutive
 iabbrev Condsider Consider
+iabbrev cosider consider
 iabbrev Considerationd Considerations
 iabbrev condsidered considered
 iabbrev consdiderd considered
@@ -1238,6 +1244,7 @@ iabbrev Coutner Counter
 iabbrev coutner counter
 iabbrev Coutnry Country
 iabbrev coutnery country
+iabbrev conts counts
 iabbrev coutns counts
 iabbrev Coutnyt County
 iabbrev coures course
@@ -1257,6 +1264,7 @@ iabbrev creiteria criteria
 iabbrev crediterion criterion
 iabbrev creiterion criterion
 iabbrev ciritical critical
+iabbrev cirtical critical
 iabbrev critcial critical
 iabbrev criticial critical
 iabbrev criticla critical
@@ -1268,6 +1276,7 @@ iabbrev currrent current
 iabbrev currtent current
 iabbrev Currenlty Currently
 iabbrev curerntly currently
+iabbrev currehtly currently
 iabbrev currenlty currently
 iabbrev currenltyl currently
 iabbrev currenly currently
@@ -1297,6 +1306,7 @@ iabbrev Dalls Dallas
 iabbrev Dallsa Dallas
 iabbrev Dalmation Dalmatian
 iabbrev dalmation dalmatian
+iabbrev damanaged damaged
 iabbrev DAmper Damper
 iabbrev damnper damper
 iabbrev dampe4r damper
@@ -1673,8 +1683,10 @@ iabbrev ductwork duct work
 iabbrev dupm dump
 iabbrev dumpitng dumping
 iabbrev dupcliate duplicate
+iabbrev dupklcate duplicate
 iabbrev duploicate duplicate
 iabbrev dupcliates duplicates
+iabbrev dupolicates duplicates
 iabbrev dupilcating duplicating
 iabbrev Druing During
 iabbrev Durnig During
@@ -1824,6 +1836,7 @@ iabbrev enthlayp enthalpy
 iabbrev enthlpy enthalpy
 iabbrev nthalpy enthalpy
 iabbrev tnthalpy enthalpy
+iabbrev Entier Entire
 iabbrev enetire entire
 iabbrev enitre entire
 iabbrev entier entire
@@ -1847,6 +1860,7 @@ iabbrev environement environment
 iabbrev environemnt environment
 iabbrev environemtn environment
 iabbrev environemtnet environment
+iabbrev envriorment environment
 iabbrev enviromental environmental
 iabbrev enviorments environments
 iabbrev enviroments environments
@@ -3059,6 +3073,7 @@ iabbrev locator locater
 iabbrev Locaiton Location
 iabbrev lcoaiton location
 iabbrev lcoation location
+iabbrev loation location
 iabbrev locaiont location
 iabbrev locaiotn location
 iabbrev locaitnn location
@@ -3655,6 +3670,7 @@ iabbrev OUtside Outside
 iabbrev Otuside Outside
 iabbrev Outsdie Outside
 iabbrev Outsdsie Outside
+iabbrev oautside outside
 iabbrev otuside outside
 iabbrev outdsie outside
 iabbrev outsdide outside
@@ -4009,6 +4025,7 @@ iabbrev priece price
 iabbrev PRicing Pricing
 iabbrev primeary primary
 iabbrev princeple principle
+iabbrev PRint Print
 iabbrev pritn print
 iabbrev pirntign printing
 iabbrev Prioriteis Priorities
@@ -4051,6 +4068,7 @@ iabbrev produciton production
 iabbrev prodcuciotns productions
 iabbrev prodcuts products
 iabbrev Profesional Professional
+iabbrev professionsal professional
 iabbrev profient proficient
 iabbrev fprofile profile
 iabbrev profeil profile
@@ -4774,6 +4792,7 @@ iabbrev Severla Several
 iabbrev serval several
 iabbrev serveal several
 iabbrev servearl several
+iabbrev serveral several
 iabbrev sevearl several
 iabbrev shlal shall
 iabbrev hsare share
@@ -5061,6 +5080,7 @@ iabbrev Submitatl Submittal
 iabbrev submitall submittal
 iabbrev submittall submittal
 iabbrev submitalls submittals
+iabbrev submitatls submittals
 iabbrev submittals submittals
 iabbrev subimitteed submitted
 iabbrev submiting submitting
@@ -5367,6 +5387,7 @@ iabbrev TExas Texas
 iabbrev texet text
 iabbrev texst text
 iabbrev htan than
+iabbrev thanb than
 iabbrev thna than
 iabbrev Thanskgiving Thanksgiving
 iabbrev THat That
@@ -5515,6 +5536,7 @@ iabbrev teim time
 iabbrev teimm time
 iabbrev tiem time
 iabbrev timeer timer
+iabbrev teims times
 iabbrev tiems times
 iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
@@ -5658,6 +5680,7 @@ iabbrev typiucally typically
 iabbrev tyupically typically
 iabbrev Ubutntu Ubuntu
 iabbrev Ubutnu Ubuntu
+iabbrev utlimately ultimately
 iabbrev Ultrasonci Ultrasonic
 iabbrev ultrasonci ultrasonic
 iabbrev unaccoutned unaccounted
@@ -6089,6 +6112,7 @@ iabbrev youy you
 iabbrev yuou you
 iabbrev zerio zero
 iabbrev Zoen Zone
+iabbrev zeon zone
 iabbrev zoen zone
 iabbrev zonne zone
 iabbrev zoens zones
