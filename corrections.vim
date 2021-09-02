@@ -2990,6 +2990,7 @@ iabbrev leanr learn
 iabbrev Leanring Learning
 iabbrev leanring learning
 iabbrev leats least
+iabbrev LEft Left
 iabbrev LEgacy Legacy
 iabbrev legla legal
 iabbrev Lengend Legend
@@ -3817,6 +3818,7 @@ iabbrev pviot pivot
 iabbrev palce place
 iabbrev palceholder placeholder
 iabbrev placehodler placeholder
+iabbrev placenholdre placeholder
 iabbrev placehodlers placeholders
 iabbrev palcement placement
 iabbrev palces places
@@ -5713,6 +5715,7 @@ iabbrev Understnad Understand
 iabbrev udnerstand understand
 iabbrev understanded understand
 iabbrev understnad understand
+iabbrev Understainding Understanding
 iabbrev udnerstanding understanding
 iabbrev understandidng understanding
 iabbrev understandiung understanding
@@ -5880,6 +5883,7 @@ iabbrev verificaitn verification
 iabbrev verificaiton verification
 iabbrev vreification verification
 iabbrev vefriyf verify
+iabbrev verfiy verify
 iabbrev verifiy verify
 iabbrev Veresion Version
 iabbrev veresion version
