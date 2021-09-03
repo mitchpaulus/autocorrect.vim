@@ -1247,6 +1247,7 @@ iabbrev coutnery country
 iabbrev conts counts
 iabbrev coutns counts
 iabbrev Coutnyt County
+iabbrev ocunty county
 iabbrev coures course
 iabbrev covver cover
 iabbrev COIVD COVID
@@ -1631,6 +1632,7 @@ iabbrev documentaion documentation
 iabbrev documentaiont documentation
 iabbrev documentaiotn documentation
 iabbrev documentaiton documentation
+iabbrev documentatino documentation
 iabbrev documention documentation
 iabbrev documetiona documentation
 iabbrev docuemneted documented
@@ -2004,6 +2006,7 @@ iabbrev execture execute
 iabbrev exectued executed
 iabbrev exectuing executing
 iabbrev executuion execution
+iabbrev exectuive executive
 iabbrev executivew executive
 iabbrev exectuors executors
 iabbrev exericse exercise
@@ -4143,6 +4146,7 @@ iabbrev Proposlas Proposals
 iabbrev Porposed Proposed
 iabbrev propsed proposed
 iabbrev propsoed proposed
+iabbrev propiritary proprietary
 iabbrev protecdtion protection
 iabbrev protectdion protection
 iabbrev rpove prove
@@ -4879,6 +4883,7 @@ iabbrev Stie Site
 iabbrev Stite Site
 iabbrev iste site
 iabbrev stie site
+iabbrev sitaution situation
 iabbrev situaiton situation
 iabbrev situaitons situations
 iabbrev isze size
@@ -5927,6 +5932,7 @@ iabbrev volumen volume
 iabbrev voulme volume
 iabbrev Volunttering Volunteering
 iabbrev vulnerablility vulnerability
+iabbrev WAde Wade
 iabbrev Wainting Waiting
 iabbrev Waitning Waiting
 iabbrev wating waiting
