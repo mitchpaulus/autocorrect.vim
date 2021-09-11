@@ -174,6 +174,7 @@ iabbrev Alwyas Always
 iabbrev alsways always
 iabbrev alwasy always
 iabbrev alwyas always
+iabbrev ambigiutiy ambiguity
 iabbrev ambigous ambiguous
 iabbrev amoung among
 iabbrev amounto amount
@@ -475,6 +476,7 @@ iabbrev Bascially Basically
 iabbrev bascially basically
 iabbrev basiclaly basically
 iabbrev bassi basis
+iabbrev beautful beautiful
 iabbrev Becuase Because
 iabbrev becaues because
 iabbrev becuase because
@@ -675,6 +677,7 @@ iabbrev cmae came
 iabbrev Camear Camera
 iabbrev camerag camera
 iabbrev CAn Can
+iabbrev acn can
 iabbrev canbe can be
 iabbrev cna can
 iabbrev cancelled canceled
@@ -1011,6 +1014,7 @@ iabbrev compoonents components
 iabbrev commpress compress
 iabbrev comrpession compression
 iabbrev Compresor Compressor
+iabbrev Computationla Computational
 iabbrev comptuer compute
 iabbrev cmoptuer computer
 iabbrev comptuer computer
@@ -1078,6 +1082,7 @@ iabbrev Considerationd Considerations
 iabbrev condsidered considered
 iabbrev consdiderd considered
 iabbrev consided considered
+iabbrev consistnecy consistency
 iabbrev ocnsistency consistency
 iabbrev consistnet consistent
 iabbrev consistnetn consistent
@@ -1694,6 +1699,7 @@ iabbrev Druing During
 iabbrev Durnig During
 iabbrev duriung during
 iabbrev durnig during
+iabbrev Dyanicm Dynamic
 iabbrev dynamci dynamic
 iabbrev dynaminc dynamic
 iabbrev dynaimally dynamically
@@ -1817,6 +1823,7 @@ iabbrev Egineered Engineered
 iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
+iabbrev enoguh enough
 iabbrev enought enough
 iabbrev enrollement enrollment
 iabbrev entials entails
@@ -2045,6 +2052,7 @@ iabbrev explan explain
 iabbrev Explaingin Explaining
 iabbrev explaingin explaining
 iabbrev explainign explaining
+iabbrev explanatino explanation
 iabbrev Explations Explanations
 iabbrev expliclit explicit
 iabbrev explicti explicit
@@ -2064,6 +2072,7 @@ iabbrev Expressoin Expression
 iabbrev expresssions expressions
 iabbrev Exnted Extend
 iabbrev extensibile extensible
+iabbrev extrension extension
 iabbrev extensiosn extensions
 iabbrev exetiror exterior
 iabbrev exterioro exterior
@@ -2072,6 +2081,7 @@ iabbrev Extermely Extremely
 iabbrev extemrely extremely
 iabbrev extermely extremely
 iabbrev extermley extremely
+iabbrev extremly extremely
 iabbrev extrremely extremely
 iabbrev facebook Facebook
 iabbrev facilites facilities
@@ -2313,6 +2323,7 @@ iabbrev fullfill fulfill
 iabbrev fulll full
 iabbrev Fucntion Function
 iabbrev Funciton Function
+iabbrev Funtion Function
 iabbrev fucniton function
 iabbrev fucntion function
 iabbrev funciotn function
@@ -2360,6 +2371,7 @@ iabbrev funcitons functions
 iabbrev functdions functions
 iabbrev functins functions
 iabbrev functiosn functions
+iabbrev functiuons functions
 iabbrev fudnamental fundamental
 iabbrev FUndamentals Fundamentals
 iabbrev Furneral Funeral
@@ -2862,6 +2874,7 @@ iabbrev intorducted introduced
 iabbrev introducted introduced
 iabbrev Intorductino Introduction
 iabbrev Intorduction Introduction
+iabbrev Introcution Introduction
 iabbrev Introduciont Introduction
 iabbrev Introduciton Introduction
 iabbrev intution intuition
@@ -3101,6 +3114,7 @@ iabbrev loigc logic
 iabbrev logicla logical
 iabbrev logisitcs logistics
 iabbrev lgos logs
+iabbrev logn long
 iabbrev slong long
 iabbrev logner longer
 iabbrev loook look
@@ -3295,6 +3309,7 @@ iabbrev mintues minutes
 iabbrev miscellanous miscellaneous
 iabbrev Missign Missing
 iabbrev msising missing
+iabbrev mispelled misspelled
 iabbrev msitakes mistakes
 iabbrev maixing mixing
 iabbrev minxing mixing
@@ -3390,6 +3405,7 @@ iabbrev myuch much
 iabbrev multicollinearlity multicollinearity
 iabbrev Multiople Multiple
 iabbrev multiople multiple
+iabbrev multipe multiple
 iabbrev multipel multiple
 iabbrev multipole multiple
 iabbrev multple multiple
@@ -3574,6 +3590,7 @@ iabbrev operaitonla operational
 iabbrev operatialn operational
 iabbrev Operaitons Operations
 iabbrev operaitons operations
+iabbrev opeartor operator
 iabbrev operatoir operator
 iabbrev opereator operator
 iabbrev Opinioned Opinionated
@@ -3772,6 +3789,7 @@ iabbrev perofmarnce performance
 iabbrev perofrmance performance
 iabbrev preformance performance
 iabbrev performaning performing
+iabbrev perofmraing performing
 iabbrev periemater perimeter
 iabbrev perimieter perimeter
 iabbrev peroid period
@@ -3856,6 +3874,7 @@ iabbrev polts plots
 iabbrev pltted plotted
 iabbrev ploitters plotters
 iabbrev plubming plumbing
+iabbrev pluraize pluralize
 iabbrev pnematic pneumatic
 iabbrev pnumatic pneumatic
 iabbrev pnematics pneumatics
@@ -4019,6 +4038,7 @@ iabbrev Preiovusly Previously
 iabbrev Preivulsly Previously
 iabbrev Previoulsy Previously
 iabbrev Previousluy Previously
+iabbrev Priovusly Previously
 iabbrev Prviouslyu Previously
 iabbrev precviously previously
 iabbrev preiovusly previously
@@ -4091,6 +4111,7 @@ iabbrev projgram program
 iabbrev programmble programmable
 iabbrev Programmaticlaly Programmatically
 iabbrev prommed programmed
+iabbrev programmign programming
 iabbrev programmihng programming
 iabbrev programmming programming
 iabbrev progrmaming programming
@@ -4284,6 +4305,7 @@ iabbrev reduceds reduces
 iabbrev reducition reduction
 iabbrev reducitno reduction
 iabbrev reduciton reduction
+iabbrev reductino reduction
 iabbrev redudancy redundancy
 iabbrev Refacotr Refactor
 iabbrev refacotr refactor
@@ -4515,6 +4537,7 @@ iabbrev Reuslts Results
 iabbrev resutls results
 iabbrev reulsts results
 iabbrev reuslts results
+iabbrev rseutls results
 iabbrev retryed retried
 iabbrev retor retro
 iabbrev Retrocommissiong Retrocommissioning
@@ -4534,6 +4557,7 @@ iabbrev Retuns Returns
 iabbrev REvenue Revenue
 iabbrev Referencewr Reverence
 iabbrev REview Review
+iabbrev Reivew Review
 iabbrev Reveiew Review
 iabbrev Reveiw Review
 iabbrev reivew review
@@ -5023,6 +5047,7 @@ iabbrev statemnt statement
 iabbrev statemtn statement
 iabbrev statment statement
 iabbrev Statemments Statements
+iabbrev stametns statements
 iabbrev statemntes statements
 iabbrev statemtns statements
 iabbrev statments statements
@@ -5612,6 +5637,7 @@ iabbrev transefer transfer
 iabbrev trnasfer transfer
 iabbrev transferrable transferable
 iabbrev Transferrign Transferring
+iabbrev transofrmed transformed
 iabbrev treansoffrmer transformer
 iabbrev trnasient transient
 iabbrev transpaerent transparent
@@ -5638,6 +5664,7 @@ iabbrev tyrends trends
 iabbrev Tervor Trevor
 iabbrev Tridium Tridium
 iabbrev Treid Tried
+iabbrev trival trivial
 iabbrev troubleshootting troubleshooting
 iabbrev troubleshotoign troubleshooting
 iabbrev truuck truck
