@@ -8,6 +8,7 @@ iabbrev abiltiy ability
 iabbrev abiltiyt ability
 iabbrev abel able
 iabbrev ABout About
+iabbrev Abiut About
 iabbrev abaout about
 iabbrev abourt about
 iabbrev aboutr about
@@ -1739,6 +1740,7 @@ iabbrev effortr effort
 iabbrev efforst efforts
 iabbrev Eikegra Eikagra
 iabbrev EIther Either
+iabbrev Etiher Either
 iabbrev weitther either
 iabbrev Eelctric Electric
 iabbrev Eelectric Electric
@@ -1824,6 +1826,7 @@ iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
 iabbrev enoguh enough
+iabbrev enoguth enough
 iabbrev enought enough
 iabbrev enrollement enrollment
 iabbrev entials entails
@@ -1859,6 +1862,9 @@ iabbrev entorpy entropy
 iabbrev enttry entry
 iabbrev entyr entry
 iabbrev enuemerable enumerable
+iabbrev Enviorment Environment
+iabbrev Environemnet Environment
+iabbrev enviorment environment
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
 iabbrev enviromenmtn environment
@@ -1878,6 +1884,7 @@ iabbrev eqaul equal
 iabbrev equail equal
 iabbrev equla equal
 iabbrev equzl equal
+iabbrev equialiyt equality
 iabbrev equilaiyt equality
 iabbrev equlaity equality
 iabbrev EQuation Equation
@@ -3050,6 +3057,7 @@ iabbrev limitaiton limitation
 iabbrev olimitations limitations
 iabbrev Limitied Limited
 iabbrev limtis limits
+iabbrev lnei line
 iabbrev Linera Linear
 iabbrev lienar linear
 iabbrev linera linear
@@ -3950,6 +3958,7 @@ iabbrev ptoentail potential
 iabbrev ptoential potential
 iabbrev potentailly potentially
 iabbrev potentiallly potentially
+iabbrev potentilaly potentially
 iabbrev ptonetially potentially
 iabbrev ptotently potentially
 iabbrev Poweer Power
@@ -4846,6 +4855,7 @@ iabbrev shortucts shortcuts
 iabbrev shrotened shortened
 iabbrev SHould Should
 iabbrev SHuold Should
+iabbrev Shiould Should
 iabbrev Shoudl Should
 iabbrev hsould should
 iabbrev shoud should
@@ -5224,6 +5234,7 @@ iabbrev takne taken
 iabbrev Takign Taking
 iabbrev TMAU TAMU
 iabbrev tnaks tanks
+iabbrev targetes targets
 iabbrev TAsk Task
 iabbrev Taks Task
 iabbrev taks task
@@ -5489,6 +5500,7 @@ iabbrev thermodynamcic thermodynamic
 iabbrev Thermodynamcis Thermodynamics
 iabbrev thermodynaimics thermodynamics
 iabbrev thermodynamcis thermodynamics
+iabbrev thermostst thermostat
 iabbrev THese These
 iabbrev htese these
 iabbrev thiese these
@@ -5706,6 +5718,7 @@ iabbrev typiuckal typical
 iabbrev tyupical typical
 iabbrev TYpiucally Typically
 iabbrev Typcially Typically
+iabbrev Typicaly Typically
 iabbrev typcially typically
 iabbrev typeiclaly typically
 iabbrev typicallly typically
@@ -5967,6 +5980,7 @@ iabbrev watingin waiting
 iabbrev wiating waiting
 iabbrev wkaing waking
 iabbrev wlak walk
+iabbrev Walthrough Walkthrough
 iabbrev walthrough walkthrough
 iabbrev watn want
 iabbrev wnat want
