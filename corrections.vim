@@ -408,6 +408,7 @@ iabbrev auotmate automate
 iabbrev automaated automated
 iabbrev automateds automated
 iabbrev autiomatic automatic
+iabbrev automateic automatic
 iabbrev Automaticaly Automatically
 iabbrev autaomatically automatically
 iabbrev automaitcllay automatically
@@ -1054,6 +1055,7 @@ iabbrev conditoins conditions
 iabbrev condtiosn conditions
 iabbrev condusive conducive
 iabbrev conductinve conductive
+iabbrev conferenece conference
 iabbrev cvonference conference
 iabbrev converecnes conferences
 iabbrev condifience confidence
@@ -1203,6 +1205,7 @@ iabbrev coolgin cooling
 iabbrev coolign cooling
 iabbrev coolking cooling
 iabbrev cooloing cooling
+iabbrev coooing cooling
 iabbrev cooolign cooling
 iabbrev coooling cooling
 iabbrev ocoling cooling
@@ -1956,6 +1959,7 @@ iabbrev Esitmate Estimate
 iabbrev eestimate estimate
 iabbrev esimate estimate
 iabbrev esitmate estimate
+iabbrev estiamte estimate
 iabbrev estimaate estimate
 iabbrev estiamted estimated
 iabbrev estimeated estimated
@@ -2434,6 +2438,7 @@ iabbrev gest gets
 iabbrev Geting Getting
 iabbrev geetting getting
 iabbrev gettign getting
+iabbrev gettting getting
 iabbrev Github GitHub
 iabbrev gvie give
 iabbrev givew given
@@ -2842,11 +2847,13 @@ iabbrev integraiton integration
 iabbrev integrtation integration
 iabbrev integrations integrations
 iabbrev intelligcne intelligence
+iabbrev INtended Intended
 iabbrev initended intended
 iabbrev itnerest interest
 iabbrev interesetd interested
 iabbrev interesteds interested
 iabbrev Intereseting Interesting
+iabbrev intereseting interesting
 iabbrev interesing interesting
 iabbrev interestiong interesting
 iabbrev interseting interesting
@@ -2955,6 +2962,7 @@ iabbrev Julain Julian
 iabbrev Juen June
 iabbrev jsut just
 iabbrev ujst just
+iabbrev Justificaitno Justification
 iabbrev Ketih Keith
 iabbrev Kettucky Kentucky
 iabbrev kernal kernel
@@ -3649,6 +3657,7 @@ iabbrev orgainazation organization
 iabbrev orgainzation organization
 iabbrev organiation organization
 iabbrev organizaiton organization
+iabbrev organziaiton organization
 iabbrev rogainations organizations
 iabbrev Orgainzing Organizing
 iabbrev Origilan Original
@@ -3824,6 +3833,7 @@ iabbrev pwersonal personal
 iabbrev persoinally personally
 iabbrev Persenel Personnel
 iabbrev Personel Personnel
+iabbrev personell personnel
 iabbrev PHase Phase
 iabbrev PHawse Phase
 iabbrev Pahse Phase
@@ -3890,6 +3900,7 @@ iabbrev pltos plots
 iabbrev polts plots
 iabbrev pltted plotted
 iabbrev ploitters plotters
+iabbrev plubmer plumber
 iabbrev plubming plumbing
 iabbrev pluraize pluralize
 iabbrev pnematic pneumatic
@@ -4244,6 +4255,7 @@ iabbrev Quesitons Questions
 iabbrev Quesrtions Questions
 iabbrev Questinos Questions
 iabbrev quations questions
+iabbrev queitson questions
 iabbrev quesitons questions
 iabbrev Qucdk Quick
 iabbrev qiuik quick
@@ -4761,6 +4773,7 @@ iabbrev sensores sensors
 iabbrev sensosr sensors
 iabbrev sensosrs sensors
 iabbrev seonsors sensors
+iabbrev snesoer sensors
 iabbrev snesors sensors
 iabbrev snet sent
 iabbrev seaparate separate
@@ -5193,6 +5206,7 @@ iabbrev swithc switch
 iabbrev swtich switch
 iabbrev switchees switches
 iabbrev swtiches switches
+iabbrev switchgaar switchgear
 iabbrev Sycn Sync
 iabbrev Syunc Sync
 iabbrev syncitng syncing
@@ -5391,6 +5405,7 @@ iabbrev Temrianil Terminal
 iabbrev Temrianl Terminal
 iabbrev Temrinal Terminal
 iabbrev Termain Terminal
+iabbrev Termainl Terminal
 iabbrev Termialn Terminal
 iabbrev Termianl Terminal
 iabbrev Termilan Terminal
