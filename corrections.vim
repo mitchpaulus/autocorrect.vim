@@ -21,6 +21,7 @@ iabbrev abstarctions abstractions
 iabbrev Acadmey Academy
 iabbrev accelearted accelerated
 iabbrev aceptable acceptable
+iabbrev aceess access
 iabbrev accessiblity accessibility
 iabbrev accesible accessible
 iabbrev accidnet accident
@@ -985,6 +986,7 @@ iabbrev complier compiler
 iabbrev compoiler compiler
 iabbrev COmpilers Compilers
 iabbrev compliing compiling
+iabbrev ocmplaints complaints
 iabbrev compolement complement
 iabbrev Compelte Complete
 iabbrev compelte complete
@@ -1653,6 +1655,7 @@ iabbrev DOg Dog
 iabbrev doign doing
 iabbrev donig doing
 iabbrev odmain domain
+iabbrev doemstic domestic
 iabbrev doen done
 iabbrev odne done
 iabbrev DOnut Donut
@@ -3152,6 +3155,7 @@ iabbrev maintinained maintained
 iabbrev maintainging maintaining
 iabbrev Maintanence Maintenance
 iabbrev Maintenacen Maintenance
+iabbrev Maintenanece Maintenance
 iabbrev Maintence Maintenance
 iabbrev Maintenence Maintenance
 iabbrev maintenane maintenance
@@ -3177,6 +3181,7 @@ iabbrev Managmeent Management
 iabbrev Managnemnt Management
 iabbrev managmeent management
 iabbrev managmenet management
+iabbrev managment management
 iabbrev mangaement management
 iabbrev mangagment management
 iabbrev mangaer manager
@@ -3790,6 +3795,7 @@ iabbrev Perfomrance Performance
 iabbrev Performacne Performance
 iabbrev Prefomrance Performance
 iabbrev perfomance performance
+iabbrev perfomrance performance
 iabbrev perforamcne performance
 iabbrev perforamnce performance
 iabbrev performacne performance
@@ -3810,11 +3816,14 @@ iabbrev permissioniongs permissions
 iabbrev permissioniosn permissions
 iabbrev permissionnis permissions
 iabbrev prequisitve perquisite
+iabbrev perons person
 iabbrev perisonal personal
 iabbrev perosnal personal
 iabbrev personla personal
 iabbrev pwersonal personal
 iabbrev persoinally personally
+iabbrev Persenel Personnel
+iabbrev Personel Personnel
 iabbrev PHase Phase
 iabbrev PHawse Phase
 iabbrev Pahse Phase
@@ -4398,6 +4407,7 @@ iabbrev reomved removed
 iabbrev rmeoved removed
 iabbrev renamign renaming
 iabbrev REno Reno
+iabbrev Revovations Renovations
 iabbrev reorganizatiojn reorganization
 iabbrev Reorgainze Reorganize
 iabbrev Reparing Repairing
@@ -5379,6 +5389,7 @@ iabbrev teerm term
 iabbrev temr term
 iabbrev Temrianil Terminal
 iabbrev Temrianl Terminal
+iabbrev Temrinal Terminal
 iabbrev Termain Terminal
 iabbrev Termialn Terminal
 iabbrev Termianl Terminal
@@ -5958,6 +5969,7 @@ iabbrev VIsit Visit
 iabbrev Visti Visit
 iabbrev viisti visit
 iabbrev visti visit
+iabbrev Vistied Visited
 iabbrev Viusal Visual
 iabbrev VIsualization Visualization
 iabbrev visualation visualization
