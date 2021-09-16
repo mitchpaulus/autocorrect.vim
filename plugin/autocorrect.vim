@@ -14,7 +14,7 @@ endif
 let g:AutocorrectLoaded=0
 
 function! s:AutocorrectForceLoad()
-    let previousDirectory = expand("%:p:h")
+    let previousDirectory = getcwd()
 
     if !exists("g:AutocorrectDisableBuiltIn")
         " Load built in abbreviations
