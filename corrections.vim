@@ -512,6 +512,7 @@ iabbrev betwewen between
 iabbrev billtion billion
 iabbrev bils bills
 iabbrev bindgin binding
+iabbrev bindign binding
 iabbrev binndings bindings
 iabbrev birthdya birthday
 iabbrev Blakcout Blackout
@@ -1557,6 +1558,7 @@ iabbrev drieclty directly
 iabbrev drieclyt directly
 iabbrev driectly directly
 iabbrev directoriues directories
+iabbrev driectories directories
 iabbrev direcdtory directory
 iabbrev direcory directory
 iabbrev direcotry directory
@@ -2302,6 +2304,7 @@ iabbrev foward forward
 iabbrev forwareded forwarded
 iabbrev Foudn Found
 iabbrev foudn found
+iabbrev ofund found
 iabbrev foru four
 iabbrev Foiruier Fourier
 iabbrev fractionall fractional
@@ -2538,6 +2541,7 @@ iabbrev hleper helper
 iabbrev ehlpful helpful
 iabbrev helpuful helpful
 iabbrev hleping helping
+iabbrev Heneryg Henry
 iabbrev ehre here
 iabbrev hree here
 iabbrev Heres Here's
@@ -2617,6 +2621,7 @@ iabbrev identifieres identifiers
 iabbrev identiifers identifiers
 iabbrev indentifiers identifiers
 iabbrev idel idle
+iabbrev Ingore Ignore
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
@@ -3043,6 +3048,7 @@ iabbrev Libarrya Library
 iabbrev Librayr Library
 iabbrev libary library
 iabbrev librayr library
+iabbrev Licesnse License
 iabbrev licorise licorice
 iabbrev Lighyt Light
 iabbrev lghit light
@@ -4109,6 +4115,7 @@ iabbrev Processs Process
 iabbrev prcoess process
 iabbrev proces process
 iabbrev proecess process
+iabbrev PRocessing Processing
 iabbrev processign processing
 iabbrev Prodcue Produce
 iabbrev prodcue produce
@@ -4225,6 +4232,7 @@ iabbrev purpoess purposes
 iabbrev PUt Put
 iabbrev Pyton Python
 iabbrev pyhton python
+iabbrev pythno python
 iabbrev pythnon python
 iabbrev Qaulitative Qualitative
 iabbrev Qaulity Quality
@@ -4295,6 +4303,7 @@ iabbrev reayd ready
 iabbrev reaffrim reaffirm
 iabbrev relaity reality
 iabbrev raelly really
+iabbrev reallly really
 iabbrev realy really
 iabbrev relaly really
 iabbrev reanalyiss reanalysis
@@ -4497,6 +4506,8 @@ iabbrev represesnts represents
 iabbrev reproducability reproducibility
 iabbrev Reproducable Reproducible
 iabbrev reproducable reproducible
+iabbrev Requst Request
+iabbrev erquest request
 iabbrev requrest request
 iabbrev requrested requested
 iabbrev requestor requester
@@ -5451,6 +5462,7 @@ iabbrev terminatedf terminated
 iabbrev temrniator terminator
 iabbrev termingology terminology
 iabbrev Tets Test
+iabbrev Tesingt Testing
 iabbrev testgin testing
 iabbrev TExas Texas
 iabbrev texet text
