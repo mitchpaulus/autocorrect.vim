@@ -75,6 +75,7 @@ iabbrev Adidtion Addition
 iabbrev addiiton addition
 iabbrev addion addition
 iabbrev addiotn addition
+iabbrev additon addition
 iabbrev addtion addition
 iabbrev Addiitonal Additional
 iabbrev Additioanl Additional
@@ -146,6 +147,7 @@ iabbrev algorihgm algorithm
 iabbrev algorihtm algorithm
 iabbrev algoritm algorithm
 iabbrev algortihm algorithm
+iabbrev algrothim algorithm
 iabbrev alogrithm algorithm
 iabbrev algorihtms algorithms
 iabbrev alogrighms algorithms
@@ -208,6 +210,7 @@ iabbrev anlaysis analysis
 iabbrev anlsyiss analysis
 iabbrev anlysis analysis
 iabbrev anslysis analysis
+iabbrev naalysis analysis
 iabbrev nalysis analysis
 iabbrev anaylytically analytically
 iabbrev anlaytics analytics
@@ -281,6 +284,7 @@ iabbrev applicaitons applications
 iabbrev appleid applied
 iabbrev apploied applied
 iabbrev appllies applies
+iabbrev paplies applies
 iabbrev Appyly Apply
 iabbrev applky apply
 iabbrev paply apply
@@ -438,6 +442,7 @@ iabbrev avialbe available
 iabbrev avialble available
 iabbrev avialible available
 iabbrev aviallaibe available
+iabbrev anveage average
 iabbrev akw awk
 iabbrev byab baby
 iabbrev Bakc Back
@@ -745,6 +750,7 @@ iabbrev certificaiton certification
 iabbrev chanin chain
 iabbrev chiar chair
 iabbrev Chagne Change
+iabbrev Chnage Change
 iabbrev chagne change
 iabbrev chnage change
 iabbrev chagned changed
@@ -1019,6 +1025,8 @@ iabbrev compoonents components
 iabbrev commpress compress
 iabbrev comrpession compression
 iabbrev Compresor Compressor
+iabbrev compuatation computation
+iabbrev compuation computation
 iabbrev Computationla Computational
 iabbrev comptuer compute
 iabbrev cmoptuer computer
@@ -1260,6 +1268,7 @@ iabbrev conts counts
 iabbrev coutns counts
 iabbrev Coutnyt County
 iabbrev ocunty county
+iabbrev copule couple
 iabbrev coures course
 iabbrev covver cover
 iabbrev COIVD COVID
@@ -1272,6 +1281,7 @@ iabbrev Creaiton Creation
 iabbrev credentails credentials
 iabbrev credites credits
 iabbrev Creepoing Creeping
+iabbrev creiteris creiteria
 iabbrev Cresent Crescent
 iabbrev creiteria criteria
 iabbrev crediterion criterion
@@ -1350,6 +1360,7 @@ iabbrev deailng dealing
 iabbrev debuging debugging
 iabbrev Decmember December
 iabbrev decidied decided
+iabbrev dediced decided
 iabbrev decidsion decision
 iabbrev decalre declare
 iabbrev decommissoin decommission
@@ -1618,6 +1629,7 @@ iabbrev docuemtn document
 iabbrev doecuemnt document
 iabbrev doecument document
 iabbrev Dcouematation Documentation
+iabbrev Docuemntaino Documentation
 iabbrev Docuemntaiont Documentation
 iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
@@ -1648,6 +1660,7 @@ iabbrev documentaiton documentation
 iabbrev documentatino documentation
 iabbrev documention documentation
 iabbrev documetiona documentation
+iabbrev documneation documentation
 iabbrev docuemneted documented
 iabbrev docuemnted documented
 iabbrev docuementign documenting
@@ -1813,6 +1826,7 @@ iabbrev ENergy Energy
 iabbrev Eneryg Energy
 iabbrev enegy energy
 iabbrev enenrgy energy
+iabbrev enery energy
 iabbrev eneryg energy
 iabbrev enerygm energy
 iabbrev enewryg energy
@@ -1833,6 +1847,7 @@ iabbrev Egineered Engineered
 iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
+iabbrev engough enough
 iabbrev enoguh enough
 iabbrev enoguth enough
 iabbrev enought enough
@@ -1863,6 +1878,7 @@ iabbrev entier entire
 iabbrev entiree entire
 iabbrev etneir entire
 iabbrev entirly entirely
+iabbrev entirlye entirely
 iabbrev entitites entities
 iabbrev entrace entrance
 iabbrev entires entries
@@ -1941,6 +1957,7 @@ iabbrev qeuipment equipment
 iabbrev qeuiqpment equipment
 iabbrev eerror error
 iabbrev erros errors
+iabbrev errosr errors
 iabbrev errrors errors
 iabbrev errros errors
 iabbrev escpae escape
@@ -2001,6 +2018,7 @@ iabbrev everythiong everything
 iabbrev everytihg everything
 iabbrev everyting everything
 iabbrev everytingh everything
+iabbrev exaclty exactly
 iabbrev exactyl exactly
 iabbrev Exampel Example
 iabbrev Exmaple Example
@@ -2041,6 +2059,7 @@ iabbrev eixist exist
 iabbrev exisited existed
 iabbrev Exisiting Existing
 iabbrev elxisting existing
+iabbrev exisiting existing
 iabbrev exisitn existing
 iabbrev exisitng existing
 iabbrev existng existing
@@ -2166,9 +2185,11 @@ iabbrev fiedls fields
 iabbrev fielsds fields
 iabbrev fileds fields
 iabbrev filelds fields
+iabbrev FIgure Figure
 iabbrev Figurte Figure
 iabbrev figuure figure
 iabbrev FIgured Figured
+iabbrev FIgures Figures
 iabbrev Figrues Figures
 iabbrev fiel file
 iabbrev figle file
@@ -2255,6 +2276,7 @@ iabbrev foler folder
 iabbrev oflder folder
 iabbrev fodlers folders
 iabbrev Folow Follow
+iabbrev floow follow
 iabbrev folloow follow
 iabbrev floowing following
 iabbrev folloiwing following
@@ -2343,6 +2365,7 @@ iabbrev Funciton Function
 iabbrev Funtion Function
 iabbrev fucniton function
 iabbrev fucntion function
+iabbrev funcditon function
 iabbrev funciotn function
 iabbrev funcitdon function
 iabbrev funcitno function
@@ -2397,6 +2420,7 @@ iabbrev rurther further
 iabbrev Futuer Future
 iabbrev furture future
 iabbrev futre future
+iabbrev futuer future
 iabbrev fuuture future
 iabbrev ufture future
 iabbrev Garge Garage
@@ -2626,6 +2650,7 @@ iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
 iabbrev iamges images
+iabbrev immediatley immediately
 iabbrev immediatly immediately
 iabbrev impelmetn implement
 iabbrev impement implement
@@ -2671,6 +2696,7 @@ iabbrev impoartant important
 iabbrev imporatant important
 iabbrev imporatnt important
 iabbrev importatn important
+iabbrev importatne important
 iabbrev importatnt important
 iabbrev improatnat important
 iabbrev improatnt important
@@ -2712,10 +2738,12 @@ iabbrev increaseing increasing
 iabbrev incrteasing increasing
 iabbrev indedependt independent
 iabbrev indentpent independent
+iabbrev independnt independent
 iabbrev indepenedent independent
 iabbrev indepndent independent
 iabbrev INdicates Indicates
 iabbrev indiciatiton indication
+iabbrev Indiviudal Individual
 iabbrev Indiviudaul Individual
 iabbrev ijndividual individual
 iabbrev indifivalu individual
@@ -2727,6 +2755,7 @@ iabbrev individaully individually
 iabbrev indiviudally individually
 iabbrev inddor indoor
 iabbrev INdustrial Industrial
+iabbrev industyr industry
 iabbrev inflitration infiltration
 iabbrev iinform inform
 iabbrev INformaiton Information
@@ -2874,6 +2903,7 @@ iabbrev interinal internal
 iabbrev interla internal
 iabbrev internla internal
 iabbrev itnerla internal
+iabbrev itnernal internal
 iabbrev interanlly internally
 iabbrev Internaitional International
 iabbrev Internaitonal International
@@ -3133,6 +3163,7 @@ iabbrev Lockotu Lockout
 iabbrev lgo log
 iabbrev logarighm logarithm
 iabbrev logartihm logarithm
+iabbrev logatirhm logarithm
 iabbrev logatrihm logarithm
 iabbrev lgic logic
 iabbrev loigc logic
@@ -3149,6 +3180,7 @@ iabbrev looknig looking
 iabbrev Loopo Loop
 iabbrev looop loop
 iabbrev olop loop
+iabbrev lvoe love
 iabbrev lwo low
 iabbrev Loower Lower
 iabbrev loower lower
@@ -3206,6 +3238,7 @@ iabbrev Machester Manchester
 iabbrev Mnaual Manual
 iabbrev Mnaula Manual
 iabbrev manmual manual
+iabbrev manuaal manual
 iabbrev manula manual
 iabbrev mnaula manual
 iabbrev manulaly manually
@@ -3244,6 +3277,7 @@ iabbrev Matlba Matlab
 iabbrev matirx matrix
 iabbrev maximimum maximum
 iabbrev Maybew Maybe
+iabbrev meaining meaning
 iabbrev menaing meaning
 iabbrev measn means
 iabbrev menat meant
@@ -3335,9 +3369,12 @@ iabbrev mintue minute
 iabbrev mintues minutes
 iabbrev miscellanous miscellaneous
 iabbrev Missign Missing
+iabbrev missinng missing
 iabbrev msising missing
 iabbrev mispelled misspelled
 iabbrev msitakes mistakes
+iabbrev Mithc Mitch
+iabbrev Mtich Mitch
 iabbrev maixing mixing
 iabbrev minxing mixing
 iabbrev MMBUT MMBTU
@@ -3370,6 +3407,7 @@ iabbrev modificatiuons modifications
 iabbrev modificiations modifications
 iabbrev MOdified Modified
 iabbrev modifeid modified
+iabbrev modifyied modified
 iabbrev moidify modify
 iabbrev MOdule Module
 iabbrev Modeule Module
@@ -3424,6 +3462,7 @@ iabbrev MOstly Mostly
 iabbrev Mosty Mostly
 iabbrev moter motor
 iabbrev MOtors Motors
+iabbrev Mountina Mountain
 iabbrev Moutnain Mountain
 iabbrev mountted mounted
 iabbrev movew move
@@ -3476,6 +3515,7 @@ iabbrev neeeds needs
 iabbrev n3egative negative
 iabbrev neagagive negative
 iabbrev Neglible Negligible
+iabbrev neglible negligible
 iabbrev negibor neighbor
 iabbrev negithbor neighbor
 iabbrev neighbort neighbor
@@ -3763,6 +3803,7 @@ iabbrev paraemters parameters
 iabbrev parametesr parameters
 iabbrev pareameters parameters
 iabbrev parmaetesr parameters
+iabbrev parmeetsrf parameters
 iabbrev paretn parent
 iabbrev partent parent
 iabbrev Parentheiss Parenthesis
@@ -3823,6 +3864,7 @@ iabbrev periemater perimeter
 iabbrev perimieter perimeter
 iabbrev peroid period
 iabbrev preiod period
+iabbrev peirods periods
 iabbrev permannet permanent
 iabbrev Premissions Permissions
 iabbrev perimissions permissions
@@ -4243,6 +4285,7 @@ iabbrev quailty quality
 iabbrev quailyt quality
 iabbrev quaklity quality
 iabbrev qualiyt quality
+iabbrev quialty quality
 iabbrev quialyt quality
 iabbrev qulaity quality
 iabbrev quantificaiton quantification
@@ -4275,6 +4318,7 @@ iabbrev quiclyi quickly
 iabbrev quikcly quickly
 iabbrev quilckly quickly
 iabbrev quilte quite
+iabbrev qutie quite
 iabbrev quoatiaon quotation
 iabbrev qutoed quoted
 iabbrev qoutes quotes
@@ -4327,6 +4371,7 @@ iabbrev recieved received
 iabbrev REcently Recently
 iabbrev recoginition recognition
 iabbrev recogoized recognized
+iabbrev Recomendations Recommendations
 iabbrev recommenadtions recommendations
 iabbrev recoomendations recommendations
 iabbrev REconsile Reconcile
@@ -4673,6 +4718,7 @@ iabbrev savinsg savings
 iabbrev svaings savings
 iabbrev svings savings
 iabbrev asy say
+iabbrev sya say
 iabbrev syaing saying
 iabbrev syas says
 iabbrev scenarious scenarios
@@ -4892,6 +4938,7 @@ iabbrev SHuold Should
 iabbrev Shiould Should
 iabbrev Shoudl Should
 iabbrev hsould should
+iabbrev sholud should
 iabbrev shoud should
 iabbrev shoudl should
 iabbrev shouuuld should
@@ -4984,6 +5031,7 @@ iabbrev sollve solve
 iabbrev sove solve
 iabbrev smoe some
 iabbrev soem some
+iabbrev someoen someone
 iabbrev somehting something
 iabbrev someithign something
 iabbrev somethign something
@@ -5078,7 +5126,9 @@ iabbrev satandrad standard
 iabbrev standpoitn standpoint
 iabbrev stadns stands
 iabbrev strated started
+iabbrev Stargin Starting
 iabbrev Starign Starting
+iabbrev Strating Starting
 iabbrev starign starting
 iabbrev starst starts
 iabbrev staturup startup
@@ -5326,6 +5376,7 @@ iabbrev tempaeruter temperature
 iabbrev tempaetuer temperature
 iabbrev tempareature temperature
 iabbrev tempartuer temperature
+iabbrev tempature temperature
 iabbrev tempearature temperature
 iabbrev tempearture temperature
 iabbrev tempearutre temperature
@@ -5569,6 +5620,7 @@ iabbrev thei this
 iabbrev thsi this
 iabbrev THomas Thomas
 iabbrev THose Those
+iabbrev htose those
 iabbrev thougth thought
 iabbrev Thoguhts Thoughts
 iabbrev thoughs thoughts
@@ -5751,6 +5803,7 @@ iabbrev TeypScript TypeScript
 iabbrev TypeScirpt TypeScript
 iabbrev Typcial Typical
 iabbrev tyhpical typical
+iabbrev typcial typical
 iabbrev typiucal typical
 iabbrev typiuckal typical
 iabbrev tyupical typical
@@ -5798,6 +5851,7 @@ iabbrev Understnad Understand
 iabbrev udnerstand understand
 iabbrev understanded understand
 iabbrev understnad understand
+iabbrev udnerstandable understandable
 iabbrev Understainding Understanding
 iabbrev udnerstanding understanding
 iabbrev understandidng understanding
@@ -5906,6 +5960,7 @@ iabbrev validaiton validation
 iabbrev VAlidator Validator
 iabbrev Validatort Validator
 iabbrev valubale valuable
+iabbrev valutable valuable
 iabbrev avlue value
 iabbrev valeu value
 iabbrev vaule value
@@ -6091,6 +6146,7 @@ iabbrev whereever wherever
 iabbrev wehtehrt whether
 iabbrev wehther whether
 iabbrev whehter whether
+iabbrev whetehr whether
 iabbrev whetther whether
 iabbrev whthere whether
 iabbrev whcih which
@@ -6129,6 +6185,7 @@ iabbrev wituh with
 iabbrev wtih with
 iabbrev iwthin within
 iabbrev wihthin within
+iabbrev wihtihn within
 iabbrev wihtin within
 iabbrev withign within
 iabbrev withing within
