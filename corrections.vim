@@ -1032,6 +1032,7 @@ iabbrev comptuer compute
 iabbrev cmoptuer computer
 iabbrev comptuer computer
 iabbrev comptuers computers
+iabbrev concelaing concealing
 iabbrev concewpt concept
 iabbrev ocncept concept
 iabbrev concetps concepts
@@ -1570,6 +1571,7 @@ iabbrev drieclyt directly
 iabbrev driectly directly
 iabbrev directoriues directories
 iabbrev driectories directories
+iabbrev dieretoyr directory
 iabbrev direcdtory directory
 iabbrev direcory directory
 iabbrev direcotry directory
@@ -1635,6 +1637,7 @@ iabbrev Docuemntaiton Documentation
 iabbrev Documenation Documentation
 iabbrev Documentaiont Documentation
 iabbrev Documentaiton Documentation
+iabbrev Documentaityon Documentation
 iabbrev Documention Documentation
 iabbrev coeumentation documentation
 iabbrev dcoumentaiton documentation
@@ -2205,6 +2208,7 @@ iabbrev Fillign Filling
 iabbrev Fuilling Filling
 iabbrev filleing filling
 iabbrev Fitler Filter
+iabbrev fitler filter
 iabbrev fitlers filters
 iabbrev FInal Final
 iabbrev fianl final
@@ -2464,6 +2468,7 @@ iabbrev gewt get
 iabbrev gest gets
 iabbrev Geting Getting
 iabbrev geetting getting
+iabbrev gettgin getting
 iabbrev gettign getting
 iabbrev gettting getting
 iabbrev Github GitHub
@@ -3237,6 +3242,7 @@ iabbrev managerse managers
 iabbrev Machester Manchester
 iabbrev Mnaual Manual
 iabbrev Mnaula Manual
+iabbrev manaul manual
 iabbrev manmual manual
 iabbrev manuaal manual
 iabbrev manula manual
@@ -4410,6 +4416,7 @@ iabbrev refigerator refrigerator
 iabbrev reagardiung regarding
 iabbrev regartding regarding
 iabbrev reagrds regards
+iabbrev regarsd regards
 iabbrev regrads regards
 iabbrev Regenearrte Regenerate
 iabbrev Regeneratre Regenerate
@@ -5185,6 +5192,7 @@ iabbrev strenght strength
 iabbrev Streches Stretches
 iabbrev striclty strictly
 iabbrev Sring String
+iabbrev stinrg string
 iabbrev STrings Strings
 iabbrev strucutre structure
 iabbrev Studnent Student
@@ -5520,6 +5528,7 @@ iabbrev texet text
 iabbrev texst text
 iabbrev htan than
 iabbrev thanb than
+iabbrev thatn than
 iabbrev thna than
 iabbrev Thanskgiving Thanksgiving
 iabbrev THat That
@@ -5675,6 +5684,7 @@ iabbrev tiems times
 iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
 iabbrev temistmaaps timestamps
+iabbrev tiemzone timezone
 iabbrev TIp Tip
 iabbrev tilte title
 iabbrev tmxux tmux
