@@ -1,3 +1,4 @@
+iabbrev abbreivaiton abbreviation
 iabbrev abbreviatoin abbreviation
 iabbrev Abilty Ability
 iabbrev abbility ability
@@ -2552,6 +2553,7 @@ iabbrev thave have
 iabbrev hainvg having
 iabbrev haiving having
 iabbrev Haystakc Haystack
+iabbrev sheaders headers
 iabbrev Heaidng Heading
 iabbrev ehadings headings
 iabbrev Headquareters Headquarters
@@ -2595,6 +2597,7 @@ iabbrev Historina Historian
 iabbrev historina historian
 iabbrev hsitorain historian
 iabbrev hikstorical historical
+iabbrev historicakl historical
 iabbrev HIstorically Historically
 iabbrev histoyr history
 iabbrev hti hit
@@ -3024,6 +3027,7 @@ iabbrev knoiwldege knowledge
 iabbrev knowledgable knowledgeable
 iabbrev knonw known
 iabbrev knwon known
+iabbrev kwown known
 iabbrev Keyle Kyle
 iabbrev Kyel Kyle
 iabbrev albvel label
@@ -3584,6 +3588,7 @@ iabbrev Ntoes Notes
 iabbrev noets notes
 iabbrev notse notes
 iabbrev ntoes notes
+iabbrev onotes notes
 iabbrev Nothign Nothing
 iabbrev nothign nothing
 iabbrev noticiable noticeable
@@ -4257,6 +4262,7 @@ iabbrev protectdion protection
 iabbrev rpove prove
 iabbrev proviced provided
 iabbrev PRovider Provider
+iabbrev psychrometiics psychrometrics
 iabbrev psychrometreics psychrometrics
 iabbrev publlications publications
 iabbrev PUll Pull
@@ -4322,6 +4328,7 @@ iabbrev quckly quickly
 iabbrev quiclky quickly
 iabbrev quiclyi quickly
 iabbrev quikcly quickly
+iabbrev quikly quickly
 iabbrev quilckly quickly
 iabbrev quilte quite
 iabbrev qutie quite
@@ -5311,6 +5318,7 @@ iabbrev ssytems systems
 iabbrev syhstems systems
 iabbrev sysetms systems
 iabbrev sysmtems systems
+iabbrev systemss systems
 iabbrev systmes systems
 iabbrev systms systems
 iabbrev sytesms systems
@@ -5825,6 +5833,7 @@ iabbrev typeiclaly typically
 iabbrev typicallly typically
 iabbrev typicaly typically
 iabbrev typiucally typically
+iabbrev tyuipcally typically
 iabbrev tyupically typically
 iabbrev Ubutntu Ubuntu
 iabbrev Ubutnu Ubuntu
@@ -5951,6 +5960,7 @@ iabbrev usign using
 iabbrev usingn using
 iabbrev usula usual
 iabbrev usallly usually
+iabbrev usaully usually
 iabbrev utilites utilities
 iabbrev Uiltity Utility
 iabbrev uitlilty utility
