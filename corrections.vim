@@ -333,6 +333,7 @@ iabbrev ARae Area
 iabbrev ARea Area
 iabbrev raea area
 iabbrev araes areas
+iabbrev argumetn argument
 iabbrev argumentets arguments
 iabbrev arugments arguments
 iabbrev Arthimetic Arithmetic
@@ -894,6 +895,7 @@ iabbrev coulnmsn columns
 iabbrev combinatino combination
 iabbrev comibination combination
 iabbrev combonations combinations
+iabbrev combiend combined
 iabbrev comibned combined
 iabbrev comew come
 iabbrev comfrot comfort
@@ -2010,6 +2012,7 @@ iabbrev evaluatoin evaluation
 iabbrev evalueaiton evaluation
 iabbrev evaluuation evaluation
 iabbrev evaulation evaluation
+iabbrev Evaportative Evaporative
 iabbrev ewven even
 iabbrev eventaul eventual
 iabbrev eveyr every
@@ -2221,6 +2224,7 @@ iabbrev FInalizing Finalizing
 iabbrev FInializing Finalizing
 iabbrev Finalziing Finalizing
 iabbrev finializing finalizing
+iabbrev Finially Finally
 iabbrev Finlaly Finally
 iabbrev fuinally finally
 iabbrev Fidn Find
@@ -2384,6 +2388,7 @@ iabbrev ufnction function
 iabbrev FUnctional Functional
 iabbrev Fucnttional Functional
 iabbrev Functianl Functional
+iabbrev Functiaonl Functional
 iabbrev Functinal Functional
 iabbrev Functioanl Functional
 iabbrev funcationl functional
@@ -3695,6 +3700,7 @@ iabbrev optimziation optimization
 iabbrev otptimziaton optimization
 iabbrev optimzie optimize
 iabbrev opiton option
+iabbrev opoint option
 iabbrev optoin option
 iabbrev Opitons Options
 iabbrev opitions options
@@ -4397,6 +4403,7 @@ iabbrev recurison recursion
 iabbrev recusive recursive
 iabbrev Redefinning Redefining
 iabbrev reod redo
+iabbrev reodo redo
 iabbrev REdoing Redoing
 iabbrev reduceds reduces
 iabbrev reducition reduction
@@ -4939,6 +4946,7 @@ iabbrev sheeet sheet
 iabbrev sehell shell
 iabbrev sehll shell
 iabbrev sheell shell
+iabbrev shfit shift
 iabbrev shfits shifts
 iabbrev Shrit Shirt
 iabbrev shootouyt shootout
@@ -5471,6 +5479,7 @@ iabbrev tempalge template
 iabbrev tempalte template
 iabbrev tmeplate template
 iabbrev TEmplates Templates
+iabbrev Tempaltes Templates
 iabbrev Tempelatse Templates
 iabbrev tempaltes templates
 iabbrev templasets templates
@@ -5757,6 +5766,7 @@ iabbrev transefer transfer
 iabbrev trnasfer transfer
 iabbrev transferrable transferable
 iabbrev Transferrign Transferring
+iabbrev Transfomraitons Transformations
 iabbrev transofrmed transformed
 iabbrev treansoffrmer transformer
 iabbrev trnasient transient
@@ -6051,6 +6061,7 @@ iabbrev verison version
 iabbrev verseion version
 iabbrev versino version
 iabbrev vresion version
+iabbrev vereison versions
 iabbrev veriseons versions
 iabbrev verseions versions
 iabbrev versixons versions
