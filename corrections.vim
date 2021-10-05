@@ -27,6 +27,7 @@ iabbrev accessiblity accessibility
 iabbrev accesible accessible
 iabbrev accidnet accident
 iabbrev accidently accidentally
+iabbrev accomponying accompanying
 iabbrev accompying accompanying
 iabbrev accompolish accomplish
 iabbrev acocmplish accomplish
@@ -1754,6 +1755,7 @@ iabbrev Eidson Edison
 iabbrev edigint editing
 iabbrev editning editing
 iabbrev eidtor editor
+iabbrev deidtors editors
 iabbrev effectiley effectively
 iabbrev effectivientss effectiveness
 iabbrev effectes effects
@@ -2314,6 +2316,7 @@ iabbrev vorm form
 iabbrev fomrat format
 iabbrev foramt format
 iabbrev forrmat format
+iabbrev fomrats formats
 iabbrev fomratting formatting
 iabbrev Fomrs Forms
 iabbrev fomrs forms
@@ -2505,6 +2508,7 @@ iabbrev graduyation graduation
 iabbrev gramamrs grammars
 iabbrev Grpah Graph
 iabbrev grahp graph
+iabbrev grpah graph
 iabbrev grpahic graphic
 iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
@@ -2513,6 +2517,7 @@ iabbrev graphcis graphics
 iabbrev grpahcis graphics
 iabbrev grpahics graphics
 iabbrev grpahsics graphics
+iabbrev grpahs graphs
 iabbrev graviational gravitational
 iabbrev greek Greek
 iabbrev Grenenwood Greenwood
@@ -2861,6 +2866,7 @@ iabbrev inspried inspired
 iabbrev INstall Install
 iabbrev Instlal Install
 iabbrev Invstall Install
+iabbrev insall install
 iabbrev insatll install
 iabbrev instlal install
 iabbrev Installatiopn Installation
@@ -4146,6 +4152,7 @@ iabbrev primeary primary
 iabbrev princeple principle
 iabbrev PRint Print
 iabbrev pritn print
+iabbrev prtin print
 iabbrev pirntign printing
 iabbrev Prioriteis Priorities
 iabbrev Pritorities Priorities
@@ -4234,6 +4241,7 @@ iabbrev projgect project
 iabbrev porjects projects
 iabbrev proejcts projects
 iabbrev projecdts projects
+iabbrev projectgs projects
 iabbrev projedts projects
 iabbrev projets projects
 iabbrev projexts projects
@@ -4992,6 +5000,7 @@ iabbrev significatn significant
 iabbrev Significatly Significantly
 iabbrev signficantly significantly
 iabbrev significatnly significantly
+iabbrev ismilar similar
 iabbrev simialr similar
 iabbrev smilar similar
 iabbrev similarily similarly
@@ -5145,6 +5154,7 @@ iabbrev staffign staffing
 iabbrev stari stair
 iabbrev Standand Standard
 iabbrev satandrad standard
+iabbrev satndard standard
 iabbrev standpoitn standpoint
 iabbrev stadns stands
 iabbrev strated started
@@ -5698,6 +5708,7 @@ iabbrev tiem time
 iabbrev timeer timer
 iabbrev teims times
 iabbrev tiems times
+iabbrev tmies times
 iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
 iabbrev temistmaaps timestamps
@@ -5970,6 +5981,7 @@ iabbrev usign using
 iabbrev usingn using
 iabbrev usula usual
 iabbrev usallly usually
+iabbrev usally usually
 iabbrev usaully usually
 iabbrev utilites utilities
 iabbrev Uiltity Utility
