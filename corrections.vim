@@ -4506,6 +4506,7 @@ iabbrev Revovations Renovations
 iabbrev reorganizatiojn reorganization
 iabbrev Reorgainze Reorganize
 iabbrev Reparing Repairing
+iabbrev Reparies Repairs
 iabbrev reparis repairs
 iabbrev repateing repeating
 iabbrev repitition repetition
@@ -4878,6 +4879,7 @@ iabbrev Sequcnece Sequence
 iabbrev Sequience Sequence
 iabbrev seequence sequence
 iabbrev sequencew sequence
+iabbrev sequnce sequence
 iabbrev sequqence sequence
 iabbrev sqequence sequence
 iabbrev Sequencse Sequences
@@ -5060,6 +5062,7 @@ iabbrev soultin solution
 iabbrev solutiosn solutions
 iabbrev sollve solve
 iabbrev sove solve
+iabbrev SOme Some
 iabbrev smoe some
 iabbrev soem some
 iabbrev someoen someone
@@ -5568,6 +5571,7 @@ iabbrev tahht that
 iabbrev taht that
 iabbrev tath that
 iabbrev thatt that
+iabbrev thta that
 iabbrev THe The
 iabbrev Teh The
 iabbrev Tthe The
@@ -5945,6 +5949,7 @@ iabbrev upodate update
 iabbrev UPdated Updated
 iabbrev updaetgd updated
 iabbrev UPdates Updates
+iabbrev Updatse Updates
 iabbrev udpates updates
 iabbrev UPdating Updating
 iabbrev Updaitng Updating
