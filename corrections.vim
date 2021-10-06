@@ -238,6 +238,7 @@ iabbrev nand and
 iabbrev tand and
 iabbrev Andoever Andover
 iabbrev Angleles Angeles
+iabbrev anlge Angle
 iabbrev anniiversary anniversary
 iabbrev anniversity anniversity
 iabbrev annotaiton annotation
@@ -728,6 +729,7 @@ iabbrev ceilign ceiling
 iabbrev cewilign ceiling
 iabbrev Celebraiton Celebration
 iabbrev clell cell
+iabbrev Celing Celling
 iabbrev Celcius Celsius
 iabbrev cetner center
 iabbrev cewnter center
@@ -1147,6 +1149,7 @@ iabbrev conent content
 iabbrev contnent content
 iabbrev Contens Contents
 iabbrev contetx context
+iabbrev ocntext context
 iabbrev continulally continually
 iabbrev continulaly continually
 iabbrev contineue continue
@@ -2488,6 +2491,7 @@ iabbrev Globla Global
 iabbrev gllobal global
 iabbrev globla global
 iabbrev globablly globally
+iabbrev glroious glorious
 iabbrev glpyh glyph
 iabbrev gola goal
 iabbrev oges goes
@@ -2668,6 +2672,7 @@ iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
 iabbrev iamges images
+iabbrev iamgine imagine
 iabbrev immediatley immediately
 iabbrev immediatly immediately
 iabbrev impelmetn implement
@@ -2869,6 +2874,7 @@ iabbrev Invstall Install
 iabbrev insall install
 iabbrev insatll install
 iabbrev instlal install
+iabbrev INstlalation Installation
 iabbrev Installatiopn Installation
 iabbrev inslatioation installation
 iabbrev installaiton installation
@@ -3284,6 +3290,7 @@ iabbrev marekd marked
 iabbrev markders markers
 iabbrev Mayr Mary
 iabbrev amster master
+iabbrev amtch match
 iabbrev mataches matches
 iabbrev matcing matching
 iabbrev materila material
@@ -3928,6 +3935,7 @@ iabbrev picturse pictures
 iabbrev picutres pictures
 iabbrev peice piece
 iabbrev peices pieces
+iabbrev piope pipe
 iabbrev pipelien pipeline
 iabbrev piplien pipeline
 iabbrev piopelines pipelines
@@ -4366,6 +4374,7 @@ iabbrev frate rate
 iabbrev artes rates
 iabbrev reate rates
 iabbrev artio ratio
+iabbrev arw raw
 iabbrev readidy readily
 iabbrev reaidng reading
 iabbrev REAMDE README
@@ -4396,6 +4405,7 @@ iabbrev recevied received
 iabbrev recevived received
 iabbrev recieved received
 iabbrev REcently Recently
+iabbrev recipricate reciprocate
 iabbrev recoginition recognition
 iabbrev recogoized recognized
 iabbrev Recomendations Recommendations
@@ -5717,6 +5727,7 @@ iabbrev Tiemstamp Timestamp
 iabbrev teimstamp timestamp
 iabbrev temistmaaps timestamps
 iabbrev tiemzone timezone
+iabbrev tiemzones timezones
 iabbrev TIp Tip
 iabbrev tilte title
 iabbrev tmxux tmux
@@ -5735,6 +5746,7 @@ iabbrev Tooll Toll
 iabbrev tomoorrow tomorrow
 iabbrev tomroorw tomorrow
 iabbrev TOok Took
+iabbrev otol tool
 iabbrev Toolabr Toolbar
 iabbrev toolign tooling
 iabbrev toolos tools
