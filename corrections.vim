@@ -472,6 +472,7 @@ iabbrev bvanquet banquet
 iabbrev abr bar
 iabbrev Bararcks Barracks
 iabbrev Bartton Barton
+iabbrev BAsed Based
 iabbrev BGased Based
 iabbrev absed based
 iabbrev Baseilne Baseline
@@ -541,6 +542,7 @@ iabbrev BOilers Boilers
 iabbrev bilers boilers
 iabbrev obok book
 iabbrev bookelt booklet
+iabbrev bookmarkding bookmarking
 iabbrev bookamrks bookmarks
 iabbrev Boolena Boolean
 iabbrev boolens booleans
@@ -685,6 +687,7 @@ iabbrev cliabration calibration
 iabbrev clibration calibration
 iabbrev Clal Call
 iabbrev clal call
+iabbrev cvalled called
 iabbrev caem came
 iabbrev cmae came
 iabbrev Camear Camera
@@ -1161,6 +1164,7 @@ iabbrev Contionous Continuous
 iabbrev contrcting contracting
 iabbrev Contracotr Contractor
 iabbrev contracdtor contractor
+iabbrev contracor contractor
 iabbrev contractiors contractors
 iabbrev Contriubtued Contributed
 iabbrev contirubted contributed
@@ -1209,6 +1213,7 @@ iabbrev conventioanl conventional
 iabbrev convewrsation conversation
 iabbrev ocnversion conversion
 iabbrev convewrrt convert
+iabbrev cocok cook
 iabbrev cooeld cooled
 iabbrev ocoled cooled
 iabbrev COoling Cooling
@@ -2001,6 +2006,7 @@ iabbrev esitimation estimation
 iabbrev esitmation estimation
 iabbrev estiamtion estimation
 iabbrev estimatoin estimation
+iabbrev esimtaions estimations
 iabbrev ethecial ethical
 iabbrev Eruopean European
 iabbrev Evalualte Evaluate
@@ -2504,6 +2510,7 @@ iabbrev goiung going
 iabbrev gonig going
 iabbrev oging going
 iabbrev GOod Good
+iabbrev Goodgle Google
 iabbrev Googoel Google
 iabbrev govenrment government
 iabbrev governemnt government
@@ -2516,6 +2523,7 @@ iabbrev grpah graph
 iabbrev grpahic graphic
 iabbrev Grapahcis Graphics
 iabbrev Graphcis Graphics
+iabbrev Graphsics Graphics
 iabbrev Grpahics Graphics
 iabbrev graphcis graphics
 iabbrev grpahcis graphics
@@ -2671,6 +2679,7 @@ iabbrev Ingore Ignore
 iabbrev ingore ignore
 iabbrev ingored ignored
 iabbrev ingores ignores
+iabbrev ignroing ignoring
 iabbrev iamges images
 iabbrev iamgine imagine
 iabbrev immediatley immediately
@@ -2728,6 +2737,7 @@ iabbrev improtatn important
 iabbrev importatnly importantly
 iabbrev Improts Imports
 iabbrev improts imports
+iabbrev IMprove Improve
 iabbrev Improe Improve
 iabbrev imporve improve
 iabbrev impored improved
@@ -2916,6 +2926,7 @@ iabbrev intereseting interesting
 iabbrev interesing interesting
 iabbrev interestiong interesting
 iabbrev interseting interesting
+iabbrev interesets interests
 iabbrev INterface Interface
 iabbrev Interace Interface
 iabbrev Interafce Interface
@@ -3121,6 +3132,7 @@ iabbrev lihgts lights
 iabbrev LIke Like
 iabbrev Liek Like
 iabbrev liek like
+iabbrev liekly likely
 iabbrev liely likely
 iabbrev likelty likely
 iabbrev likley likely
@@ -3372,6 +3384,7 @@ iabbrev Mehotds Methods
 iabbrev mehtods methods
 iabbrev meothds methods
 iabbrev metirc metric
+iabbrev meterics metrics
 iabbrev Microsfot Microsoft
 iabbrev midinght midnight
 iabbrev mgiht might
@@ -4239,6 +4252,7 @@ iabbrev porject project
 iabbrev proejct project
 iabbrev proeject project
 iabbrev profject project
+iabbrev projct project
 iabbrev projecdt project
 iabbrev projectd project
 iabbrev projedt project
@@ -4536,6 +4550,7 @@ iabbrev repalcemnt replacement
 iabbrev repalcment replacement
 iabbrev replacemetn replacement
 iabbrev replacemnt replacement
+iabbrev replacmeent replacement
 iabbrev replacment replacement
 iabbrev repolacemnt replacement
 iabbrev rfeplacemnet replacement
@@ -6134,6 +6149,7 @@ iabbrev watingin waiting
 iabbrev wiating waiting
 iabbrev wkaing waking
 iabbrev wlak walk
+iabbrev Walkthorugh Walkthrough
 iabbrev Walthrough Walkthrough
 iabbrev walthrough walkthrough
 iabbrev watn want
@@ -6294,6 +6310,7 @@ iabbrev Worklaod Workload
 iabbrev WOrks Works
 iabbrev workds works
 iabbrev owrksheet worksheet
+iabbrev woryying worrying
 iabbrev wroth worth
 iabbrev WOuld Would
 iabbrev fwould would
