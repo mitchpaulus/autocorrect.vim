@@ -2594,6 +2594,7 @@ iabbrev hleper helper
 iabbrev ehlpful helpful
 iabbrev helpuful helpful
 iabbrev hleping helping
+iabbrev Henery Henry
 iabbrev Heneryg Henry
 iabbrev ehre here
 iabbrev hree here
@@ -3198,6 +3199,7 @@ iabbrev locaiotns locations
 iabbrev locaitons locations
 iabbrev Lockoout Lockout
 iabbrev Lockotu Lockout
+iabbrev lokcs locks
 iabbrev lgo log
 iabbrev logarighm logarithm
 iabbrev logartihm logarithm
@@ -3976,6 +3978,7 @@ iabbrev palnt plant
 iabbrev platn plant
 iabbrev plnat plant
 iabbrev polant plant
+iabbrev plnats plants
 iabbrev palusible plausible
 iabbrev paly play
 iabbrev plya play
@@ -4129,6 +4132,7 @@ iabbrev presentaiton presentation
 iabbrev presentatino presentation
 iabbrev presentiaont presentation
 iabbrev presention presentation
+iabbrev presneation presentation
 iabbrev presnetation presentation
 iabbrev presnetioan presentation
 iabbrev pressentaiton presentation
@@ -4529,6 +4533,7 @@ iabbrev REno Reno
 iabbrev Revovations Renovations
 iabbrev reorganizatiojn reorganization
 iabbrev Reorgainze Reorganize
+iabbrev reparierd repaired
 iabbrev Reparing Repairing
 iabbrev Reparies Repairs
 iabbrev reparis repairs
@@ -4821,6 +4826,7 @@ iabbrev Scirpted Scripted
 iabbrev Scirpts Scripts
 iabbrev scdripts scripts
 iabbrev scirpts scripts
+iabbrev scripst scripts
 iabbrev scritps scripts
 iabbrev scxripts scripts
 iabbrev sripts scripts
@@ -5374,6 +5380,7 @@ iabbrev TAble Table
 iabbrev talbe table
 iabbrev tagblse tables
 iabbrev taggins tagging
+iabbrev TAke Take
 iabbrev atake take
 iabbrev atke take
 iabbrev takeawya takeaway
@@ -5778,6 +5785,7 @@ iabbrev totla total
 iabbrev toltals totals
 iabbrev totlas totals
 iabbrev otwer tower
+iabbrev toweres towers
 iabbrev Toytoa Toyota
 iabbrev Tyotoa Toyota
 iabbrev Trackign Tracking
@@ -6324,6 +6332,7 @@ iabbrev woudl would
 iabbrev wouold would
 iabbrev wuoudl would
 iabbrev wirte write
+iabbrev writtne written
 iabbrev worng wrong
 iabbrev yaer year
 iabbrev yare year
