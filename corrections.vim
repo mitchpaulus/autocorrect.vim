@@ -151,6 +151,7 @@ iabbrev algoritm algorithm
 iabbrev algortihm algorithm
 iabbrev algrothim algorithm
 iabbrev alogrithm algorithm
+iabbrev Alogrithms Algorithms
 iabbrev algorihtms algorithms
 iabbrev alogrighms algorithms
 iabbrev alogrithms algorithms
@@ -496,6 +497,7 @@ iabbrev becuase because
 iabbrev becvause because
 iabbrev bewcome become
 iabbrev beeen been
+iabbrev beene been
 iabbrev befoer before
 iabbrev beofre before
 iabbrev bewfore before
@@ -1489,6 +1491,7 @@ iabbrev detilas details
 iabbrev detectino detection
 iabbrev determiation determination
 iabbrev determiniation determination
+iabbrev Detemrine Determine
 iabbrev Determien Determine
 iabbrev detemrine determine
 iabbrev deteriming determine
@@ -1927,6 +1930,7 @@ iabbrev equzl equal
 iabbrev equialiyt equality
 iabbrev equilaiyt equality
 iabbrev equlaity equality
+iabbrev EQuatino Equation
 iabbrev EQuation Equation
 iabbrev Equaitno Equation
 iabbrev Equaiton Equation
@@ -2406,6 +2410,7 @@ iabbrev Functioanl Functional
 iabbrev funcationl functional
 iabbrev funcitional functional
 iabbrev funcitonal functional
+iabbrev functilnal functional
 iabbrev functinlal functional
 iabbrev functioanl functional
 iabbrev funtional functional
@@ -2876,6 +2881,7 @@ iabbrev insenstivie insensitive
 iabbrev insentive insensitive
 iabbrev inseration insertion
 iabbrev insdie inside
+iabbrev inseide inside
 iabbrev inspiraation inspiration
 iabbrev inspiratiosn inspirations
 iabbrev inspried inspired
@@ -2922,6 +2928,7 @@ iabbrev initended intended
 iabbrev itnerest interest
 iabbrev interesetd interested
 iabbrev interesteds interested
+iabbrev INteresting Interesting
 iabbrev Intereseting Interesting
 iabbrev intereseting interesting
 iabbrev interesing interesting
@@ -2953,6 +2960,7 @@ iabbrev interpoation interpolation
 iabbrev interregating interrogating
 iabbrev interupptions interruptions
 iabbrev interuptions interruptions
+iabbrev INtersection Intersection
 iabbrev internavl interval
 iabbrev inveteravl interval
 iabbrev inot into
@@ -3144,9 +3152,12 @@ iabbrev olimitations limitations
 iabbrev Limitied Limited
 iabbrev limtis limits
 iabbrev lnei line
+iabbrev lnie line
 iabbrev Linera Linear
 iabbrev lienar linear
 iabbrev linera linear
+iabbrev LInes Lines
+iabbrev Llines Lines
 iabbrev LInk Link
 iabbrev linuux Linux
 iabbrev llinux Linux
@@ -4285,6 +4296,7 @@ iabbrev properityes properties
 iabbrev properteis properties
 iabbrev porperty property
 iabbrev proeprty property
+iabbrev propety property
 iabbrev porportion proportion
 iabbrev proportialn proportional
 iabbrev proportinal proportional
@@ -4475,6 +4487,7 @@ iabbrev regernation regeneration
 iabbrev regisetered registered
 iabbrev REgression Regression
 iabbrev regrssion regression
+iabbrev regualr regular
 iabbrev regural regular
 iabbrev regualry regularly
 iabbrev erheat reheat
@@ -5080,6 +5093,7 @@ iabbrev spo so
 iabbrev sopa soap
 iabbrev Socail Social
 iabbrev socail social
+iabbrev Sfotware Software
 iabbrev Softwaere Software
 iabbrev softawer software
 iabbrev softwaer software
@@ -6244,6 +6258,7 @@ iabbrev hwite white
 iabbrev WHo Who
 iabbrev Whiole Whole
 iabbrev wholeheardely wholeheartedly
+iabbrev Wikipeida Wikipedia
 iabbrev wikipedia wikipedia
 iabbrev Willaiams Williams
 iabbrev iwndow window
@@ -6251,6 +6266,7 @@ iabbrev widnow window
 iabbrev windwow window
 iabbrev WInd0ows Windows
 iabbrev WIndows Windows
+iabbrev WInodws Windows
 iabbrev Windwos Windows
 iabbrev Windwows Windows
 iabbrev Winodws Windows
