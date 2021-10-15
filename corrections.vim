@@ -2721,6 +2721,7 @@ iabbrev Implemnter Implementer
 iabbrev Implemtner Implementer
 iabbrev Implmeenter Implementer
 iabbrev Implmeneter Implementer
+iabbrev Implmenets Implements
 iabbrev impleid implied
 iabbrev improt import
 iabbrev importantance importance
@@ -3409,6 +3410,7 @@ iabbrev milliton million
 iabbrev milltion million
 iabbrev milluion million
 iabbrev midn mind
+iabbrev minimial minimal
 iabbrev minimual minimal
 iabbrev Mniiimzie Minimize
 iabbrev Minimmum Minimum
@@ -3706,6 +3708,7 @@ iabbrev operaitgn operating
 iabbrev operatieng operating
 iabbrev Operat56i5on Operation
 iabbrev operaiton operation
+iabbrev Operaational Operational
 iabbrev Operataitonal Operational
 iabbrev oeprational operational
 iabbrev operaitonla operational
@@ -4563,6 +4566,7 @@ iabbrev REplacemnt Replacement
 iabbrev Repalcment Replacement
 iabbrev Replacemnet Replacement
 iabbrev Replacmeent Replacement
+iabbrev Replacment Replacement
 iabbrev repalcement replacement
 iabbrev repalcemnt replacement
 iabbrev repalcment replacement
@@ -4681,6 +4685,7 @@ iabbrev resposne response
 iabbrev responsibilites responsibilities
 iabbrev responsiblities responsibilities
 iabbrev Repsonsible Responsible
+iabbrev repsonible responsible
 iabbrev responsbile responsible
 iabbrev Restartign Restarting
 iabbrev restartign restarting
@@ -5081,6 +5086,8 @@ iabbrev situaitons situations
 iabbrev isze size
 iabbrev siziung sizing
 iabbrev skilsl skills
+iabbrev SksySpark SkySpark
+iabbrev SkySPark SkySpark
 iabbrev SkySpakr SkySpark
 iabbrev lslides slides
 iabbrev sloep slope
@@ -5419,6 +5426,7 @@ iabbrev techincal technical
 iabbrev techinckal technical
 iabbrev techinial technical
 iabbrev techinical technical
+iabbrev technaicila technical
 iabbrev Techincally Technically
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
@@ -6129,6 +6137,7 @@ iabbrev versino version
 iabbrev vresion version
 iabbrev vereison versions
 iabbrev veriseons versions
+iabbrev verseins versions
 iabbrev verseions versions
 iabbrev versixons versions
 iabbrev veritcally vertically
@@ -6137,6 +6146,7 @@ iabbrev iva via
 iabbrev vai via
 iabbrev Vdieo Video
 iabbrev Vidoe Video
+iabbrev veiwer viewer
 iabbrev veiws views
 iabbrev Virignia Virginia
 iabbrev virutal virtual
@@ -6347,6 +6357,7 @@ iabbrev woould would
 iabbrev woudl would
 iabbrev wouold would
 iabbrev wuoudl would
+iabbrev wraper wrapper
 iabbrev wirte write
 iabbrev writtne written
 iabbrev worng wrong
