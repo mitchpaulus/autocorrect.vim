@@ -248,6 +248,7 @@ iabbrev annulal annual
 iabbrev naanual annual
 iabbrev anomolies anomalies
 iabbrev Anbother Another
+iabbrev Antoher Another
 iabbrev annother another
 iabbrev antoher another
 iabbrev Answeringt Answering
@@ -300,6 +301,7 @@ iabbrev apporach approach
 iabbrev apprach approach
 iabbrev appraoch approach
 iabbrev approahc approach
+iabbrev pappraoch approach
 iabbrev paproach approach
 iabbrev appropirate appropriate
 iabbrev approriate appropriate
@@ -1615,6 +1617,7 @@ iabbrev Discusion Discussion
 iabbrev Discusision Discussion
 iabbrev Discusison Discussion
 iabbrev Disucssion Discussion
+iabbrev disccusion discussion
 iabbrev discusion discussion
 iabbrev disscussionn discussion
 iabbrev disucssion discussion
@@ -2347,6 +2350,7 @@ iabbrev forumalas formulas
 iabbrev Fortunaley Fortunately
 iabbrev Fortunatley Fortunately
 iabbrev Fortunatlye Fortunately
+iabbrev Fourm Forum
 iabbrev foward forward
 iabbrev forwareded forwarded
 iabbrev Foudn Found
@@ -2582,6 +2586,7 @@ iabbrev haiving having
 iabbrev Haystakc Haystack
 iabbrev sheaders headers
 iabbrev Heaidng Heading
+iabbrev ehading heading
 iabbrev ehadings headings
 iabbrev Headquareters Headquarters
 iabbrev heatlh health
@@ -3095,6 +3100,7 @@ iabbrev languagse languages
 iabbrev lnaguages languages
 iabbrev lnagugaes languages
 iabbrev alrge large
+iabbrev lartge large
 iabbrev llage large
 iabbrev lrage large
 iabbrev alst last
@@ -4099,6 +4105,7 @@ iabbrev pracitcla practical
 iabbrev pratical practical
 iabbrev practivce practice
 iabbrev Prantl Prandtl
+iabbrev precedding preceding
 iabbrev precisly precisely
 iabbrev predition prediciton
 iabbrev pedicted predicted
@@ -4471,6 +4478,7 @@ iabbrev referecne reference
 iabbrev referencem reference
 iabbrev refernce reference
 iabbrev refernece reference
+iabbrev Refernces References
 iabbrev refernecing referencing
 iabbrev Reformaatted Reformatted
 iabbrev refrehsed refreshed
@@ -4636,6 +4644,7 @@ iabbrev requestor requester
 iabbrev requiere require
 iabbrev requrie require
 iabbrev Requrired Required
+iabbrev Reuqired Required
 iabbrev requerid required
 iabbrev requied required
 iabbrev requiredy required
@@ -4929,6 +4938,7 @@ iabbrev Sequience Sequence
 iabbrev seequence sequence
 iabbrev sequencew sequence
 iabbrev sequnce sequence
+iabbrev sequndce sequence
 iabbrev sequqence sequence
 iabbrev sqequence sequence
 iabbrev Sequencse Sequences
@@ -5141,6 +5151,7 @@ iabbrev spacding spacing
 iabbrev SPAGETTI SPAGHETTI
 iabbrev SPeaker Speaker
 iabbrev Sepcial Special
+iabbrev Speicla Special
 iabbrev sepcila special
 iabbrev speical special
 iabbrev Specilized Specialized
@@ -5360,6 +5371,7 @@ iabbrev Sycn Sync
 iabbrev Syunc Sync
 iabbrev syncitng syncing
 iabbrev synicng syncing
+iabbrev sysncing syncing
 iabbrev syntacially syntactically
 iabbrev SYntax Syntax
 iabbrev synatx syntax
