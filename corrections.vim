@@ -747,6 +747,7 @@ iabbrev Centrla Central
 iabbrev Cnetral Central
 iabbrev centrla central
 iabbrev certral central
+iabbrev cetnral central
 iabbrev cewntral central
 iabbrev cnetal central
 iabbrev cnetral central
@@ -905,6 +906,7 @@ iabbrev coulnmsn columns
 iabbrev combinatino combination
 iabbrev comibination combination
 iabbrev combonations combinations
+iabbrev cominations combinations
 iabbrev combiend combined
 iabbrev comibned combined
 iabbrev comew come
@@ -982,8 +984,10 @@ iabbrev coumunicaiton communication
 iabbrev communicty community
 iabbrev comapny company
 iabbrev compnay company
+iabbrev Comare Compare
 iabbrev comapre compare
 iabbrev comapred compared
+iabbrev compariosn comparison
 iabbrev comparision comparison
 iabbrev comparisoin comparison
 iabbrev comparsion comparison
@@ -1253,6 +1257,7 @@ iabbrev correpsnd correspond
 iabbrev correspodn correspond
 iabbrev correspoind correspond
 iabbrev correspnded corresponded
+iabbrev correpsonmding corresponding
 iabbrev correspoding corresponding
 iabbrev correspodnign corresponding
 iabbrev correspoidng corresponding
@@ -1780,6 +1785,7 @@ iabbrev efficienty efficiency
 iabbrev efficincy efficiency
 iabbrev effoft effort
 iabbrev effortr effort
+iabbrev effotr effort
 iabbrev efforst efforts
 iabbrev Eikegra Eikagra
 iabbrev EIther Either
@@ -1965,6 +1971,7 @@ iabbrev equipemetn equipment
 iabbrev equipemnt equipment
 iabbrev equipemtn equipment
 iabbrev equipmemtne equipment
+iabbrev equipmeth equipment
 iabbrev equipmetn equipment
 iabbrev equipoement equipment
 iabbrev equipoemnt equipment
@@ -2103,6 +2110,7 @@ iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
 iabbrev expereince experience
+iabbrev expericnes experience
 iabbrev experiecne experience
 iabbrev experieece experience
 iabbrev experiement experiment
@@ -2554,6 +2562,7 @@ iabbrev guarantted guaranteed
 iabbrev GUardians Guardians
 iabbrev Gudieline Guideline
 iabbrev Guidleine Guideline
+iabbrev Guidleing Guideline
 iabbrev Guidleline Guideline
 iabbrev Guidleines Guidelines
 iabbrev guideines guidelines
@@ -2750,6 +2759,7 @@ iabbrev importatnly importantly
 iabbrev Improts Imports
 iabbrev improts imports
 iabbrev IMprove Improve
+iabbrev Impore Improve
 iabbrev Improe Improve
 iabbrev imporve improve
 iabbrev impored improved
@@ -2846,6 +2856,7 @@ iabbrev inofrmation information
 iabbrev inromation information
 iabbrev invofmaton information
 iabbrev informated informed
+iabbrev infromed informed
 iabbrev Ingrediants Ingredients
 iabbrev Inherrently Inherently
 iabbrev inherrently inherently
@@ -3325,6 +3336,7 @@ iabbrev amster master
 iabbrev amtch match
 iabbrev mataches matches
 iabbrev matcing matching
+iabbrev Materila Material
 iabbrev materila material
 iabbrev materla material
 iabbrev mathematica Mathematica
@@ -3606,6 +3618,7 @@ iabbrev NExant Nexant
 iabbrev Nexasnt Nexant
 iabbrev NExt Next
 iabbrev enxt next
+iabbrev nexct next
 iabbrev nexdt next
 iabbrev nexzt next
 iabbrev ncie nice
@@ -3791,6 +3804,7 @@ iabbrev oiur our
 iabbrev otu out
 iabbrev ouyt out
 iabbrev otubreak outbreak
+iabbrev Otucomes Outcomes
 iabbrev Outdooor Outdoor
 iabbrev otudoor outdoor
 iabbrev outdooar outdoor
@@ -4346,6 +4360,7 @@ iabbrev prupurose purpose
 iabbrev pruposes purposes
 iabbrev purpoess purposes
 iabbrev PUt Put
+iabbrev Pytohn Python
 iabbrev Pyton Python
 iabbrev pyhton python
 iabbrev pythno python
@@ -4530,6 +4545,7 @@ iabbrev releif relief
 iabbrev relocaitons relocations
 iabbrev REly Rely
 iabbrev reamin remain
+iabbrev REmianing Remaining
 iabbrev Reaminging Remaining
 iabbrev Remainign Remaining
 iabbrev remaingin remaining
@@ -4579,6 +4595,7 @@ iabbrev repalcement replacement
 iabbrev repalcemnt replacement
 iabbrev repalcment replacement
 iabbrev replacemetn replacement
+iabbrev replacemnet replacement
 iabbrev replacemnt replacement
 iabbrev replacmeent replacement
 iabbrev replacment replacement
@@ -4593,6 +4610,7 @@ iabbrev Repoort Report
 iabbrev Reprot Report
 iabbrev erport report
 iabbrev reperot report
+iabbrev reporst report
 iabbrev reportj report
 iabbrev repotr report
 iabbrev reprot report
@@ -5081,6 +5099,7 @@ iabbrev simulaiton simulation
 iabbrev simulaitons simulations
 iabbrev Simulataneous Simultaneous
 iabbrev siunce since
+iabbrev snice since
 iabbrev Sinlge Single
 iabbrev signel single
 iabbrev signle single
@@ -6085,6 +6104,7 @@ iabbrev avlues values
 iabbrev valeus values
 iabbrev valuse values
 iabbrev vlaues values
+iabbrev vlause values
 iabbrev vlues values
 iabbrev valuve valve
 iabbrev vlave valve
