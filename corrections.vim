@@ -718,6 +718,7 @@ iabbrev capicaity capacity
 iabbrev capicity capacity
 iabbrev cappactiy capacity
 iabbrev cpacity capacity
+iabbrev Captial Capital
 iabbrev capations captions
 iabbrev cpations captions
 iabbrev caputre capture
@@ -2014,6 +2015,7 @@ iabbrev estiamted estimated
 iabbrev estimeated estimated
 iabbrev estitamed estimated
 iabbrev sitmated estimated
+iabbrev estiamets estimates
 iabbrev esitmating estimating
 iabbrev esimtaion estimation
 iabbrev esitimation estimation
@@ -3144,6 +3146,7 @@ iabbrev libary library
 iabbrev librayr library
 iabbrev Licesnse License
 iabbrev licorise licorice
+iabbrev lifes lifes
 iabbrev Lighyt Light
 iabbrev lghit light
 iabbrev lihgt light
@@ -3762,6 +3765,7 @@ iabbrev otptimziaton optimization
 iabbrev optimzie optimize
 iabbrev opiton option
 iabbrev opoint option
+iabbrev opotin option
 iabbrev optoin option
 iabbrev Opitons Options
 iabbrev opitions options
@@ -3788,6 +3792,7 @@ iabbrev Origilan Original
 iabbrev origal original
 iabbrev origianl original
 iabbrev origiinal original
+iabbrev originall original
 iabbrev orignal original
 iabbrev oriigal original
 iabbrev oringial original
@@ -3899,6 +3904,7 @@ iabbrev partialy partially
 iabbrev Particiapnts Participants
 iabbrev aprticular particular
 iabbrev paraticlaur particular
+iabbrev paraticualr particular
 iabbrev paritcular particular
 iabbrev particaular particular
 iabbrev particaulr particular
@@ -4344,6 +4350,7 @@ iabbrev publlications publications
 iabbrev PUll Pull
 iabbrev upll pull
 iabbrev Puleld Pulled
+iabbrev Puleled Pulled
 iabbrev Pulliung Pulling
 iabbrev pulliing pulling
 iabbrev pulliung pulling
