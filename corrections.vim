@@ -1222,6 +1222,7 @@ iabbrev conventioanl conventional
 iabbrev convewrsation conversation
 iabbrev ocnversion conversion
 iabbrev convewrrt convert
+iabbrev convictoin conviction
 iabbrev cocok cook
 iabbrev cooeld cooled
 iabbrev ocoled cooled
@@ -1933,6 +1934,7 @@ iabbrev enviromental environmental
 iabbrev enviorments environments
 iabbrev enviroments environments
 iabbrev environemntes environments
+iabbrev Epidimeology Epidemiology
 iabbrev eqaul equal
 iabbrev equail equal
 iabbrev equla equal
@@ -3132,6 +3134,7 @@ iabbrev Lengend Legend
 iabbrev lenght length
 iabbrev lneght length
 iabbrev lenghts lengths
+iabbrev elt let
 iabbrev leverl level
 iabbrev levle level
 iabbrev lvel level
@@ -3430,6 +3433,7 @@ iabbrev militayr military
 iabbrev milliton million
 iabbrev milltion million
 iabbrev milluion million
+iabbrev Milwaukke Milwaukee
 iabbrev midn mind
 iabbrev minimial minimal
 iabbrev minimual minimal
