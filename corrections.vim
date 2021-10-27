@@ -392,6 +392,7 @@ iabbrev attachemtn attachment
 iabbrev Attachements Attachments
 iabbrev Attachemnts Attachments
 iabbrev attachements attachments
+iabbrev attachemnts attachments
 iabbrev attachemtns attachments
 iabbrev attachgements attachments
 iabbrev attachmetns attachments
@@ -828,6 +829,7 @@ iabbrev chosne chosen
 iabbrev cohsen chosen
 iabbrev Chirstmas Christmas
 iabbrev Chuch Church
+iabbrev Cincinatti Cincinnati
 iabbrev Circuti Circuit
 iabbrev circuti circuit
 iabbrev curcuit circuit
@@ -1054,6 +1056,7 @@ iabbrev concelaing concealing
 iabbrev concewpt concept
 iabbrev ocncept concept
 iabbrev concetps concepts
+iabbrev Conceptially Conceptually
 iabbrev concenr concern
 iabbrev corencen concern
 iabbrev concersn concerns
@@ -1424,6 +1427,7 @@ iabbrev dealy delay
 iabbrev delte delete
 iabbrev dleeted deleted
 iabbrev dleting deleting
+iabbrev Deleiton Deletion
 iabbrev deliverabel deliverable
 iabbrev deliveragble deliverable
 iabbrev deliverables deliverables
@@ -1835,6 +1839,7 @@ iabbrev Eamil Email
 iabbrev eamil email
 iabbrev emali email
 iabbrev emial email
+iabbrev meail email
 iabbrev evmails emails
 iabbrev meails emails
 iabbrev emergingn emerging
@@ -2196,6 +2201,7 @@ iabbrev faovirte favorite
 iabbrev favoiorate favorite
 iabbrev favoirte favorite
 iabbrev favoritie favorite
+iabbrev favoirties favorites
 iabbrev fdd FDD
 iabbrev feasiblity feasibility
 iabbrev featrue feature
@@ -2483,6 +2489,7 @@ iabbrev Generlaly Generally
 iabbrev Genrally Generally
 iabbrev genearlly generally
 iabbrev gnerally generally
+iabbrev geneate generate
 iabbrev genreate generate
 iabbrev gnerate generate
 iabbrev Generageted Generated
@@ -4443,6 +4450,7 @@ iabbrev artio ratio
 iabbrev arw raw
 iabbrev readidy readily
 iabbrev reaidng reading
+iabbrev redading reading
 iabbrev REAMDE README
 iabbrev reaady ready
 iabbrev reayd ready
@@ -5900,6 +5908,7 @@ iabbrev trendend trended
 iabbrev trrended trended
 iabbrev Trendign Trending
 iabbrev trendeing trending
+iabbrev trenidng trending
 iabbrev Trneds Trends
 iabbrev rtends trends
 iabbrev trneds trends
