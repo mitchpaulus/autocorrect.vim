@@ -16,6 +16,7 @@ iabbrev aboutr about
 iabbrev abvout about
 iabbrev aobut about
 iabbrev aoubt about
+iabbrev aboslute absolute
 iabbrev absoule absolute
 iabbrev absoulte absolute
 iabbrev abstarctions abstractions
@@ -1763,6 +1764,7 @@ iabbrev dynamicaly dynamically
 iabbrev easilyi easily
 iabbrev easliy easily
 iabbrev esily easily
+iabbrev Esay Easy
 iabbrev ecm ECM
 iabbrev Ecnomizer Economizer
 iabbrev Econmoizer Economizer
@@ -2499,6 +2501,7 @@ iabbrev gerneated generated
 iabbrev gneerated generated
 iabbrev genearitong generating
 iabbrev gneeration generation
+iabbrev Genenrator Generator
 iabbrev geneartor generator
 iabbrev generagor generator
 iabbrev gneerator generator
@@ -2795,6 +2798,7 @@ iabbrev includieng including
 iabbrev incompressibiility incompressibility
 iabbrev Inconsistgen Inconsistent
 iabbrev inconvient inconvenient
+iabbrev incorrecdt incorrect
 iabbrev incrorect incorrect
 iabbrev incorectly incorrectly
 iabbrev incorrecdlty incorrectly
@@ -2918,6 +2922,7 @@ iabbrev Instlal Install
 iabbrev Invstall Install
 iabbrev insall install
 iabbrev insatll install
+iabbrev insatlla install
 iabbrev instlal install
 iabbrev INstlalation Installation
 iabbrev Installatiopn Installation
@@ -5457,6 +5462,7 @@ iabbrev atke take
 iabbrev takeawya takeaway
 iabbrev takne taken
 iabbrev Takign Taking
+iabbrev tlaking talking
 iabbrev TMAU TAMU
 iabbrev tnaks tanks
 iabbrev targetes targets
@@ -5808,6 +5814,7 @@ iabbrev Thursdsay Thursdays
 iabbrev Tigher Tighter
 iabbrev til till
 iabbrev TIm Tim
+iabbrev TIme Time
 iabbrev Tiem Time
 iabbrev atime time
 iabbrev teim time
