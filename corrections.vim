@@ -106,6 +106,7 @@ iabbrev Adviosr Advisor
 iabbrev Advisro Advisor
 iabbrev adviosr advisor
 iabbrev aesteic aesthetic
+iabbrev Aesthiclaly Aesthetically
 iabbrev asthetically aesthetically
 iabbrev Asthetics Aesthetics
 iabbrev aestheics aesthetics
@@ -140,6 +141,8 @@ iabbrev Almao Alamo
 iabbrev Alamr Alarm
 iabbrev alamr alarm
 iabbrev alram alarm
+iabbrev Alamring Alarming
+iabbrev Alaarms Alarms
 iabbrev alrams alarms
 iabbrev Albequeque Albuquerque
 iabbrev Albequerqe Albuquerque
@@ -247,6 +250,7 @@ iabbrev annotaiton annotation
 iabbrev annula annual
 iabbrev annulal annual
 iabbrev naanual annual
+iabbrev anomilies anomalies
 iabbrev anomolies anomalies
 iabbrev Anbother Another
 iabbrev Antoher Another
@@ -605,6 +609,7 @@ iabbrev buildnig building
 iabbrev builgin building
 iabbrev builgind building
 iabbrev bulding building
+iabbrev bulidign building
 iabbrev buliding building
 iabbrev bulidng building
 iabbrev lubilding building
@@ -1622,6 +1627,7 @@ iabbrev Disclousere Disclosure
 iabbrev disclousre disclosure
 iabbrev dscovery discovery
 iabbrev discrepencies discrepancies
+iabbrev descrepency discrepancy
 iabbrev discuesed discussed
 iabbrev discussiung discussing
 iabbrev DIscussion Discussion
@@ -1885,6 +1891,7 @@ iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
 iabbrev engough enough
+iabbrev engouh enough
 iabbrev enoguh enough
 iabbrev enoguth enough
 iabbrev enought enough
@@ -2120,6 +2127,7 @@ iabbrev expecdted expected
 iabbrev expectedc expected
 iabbrev expnse expense
 iabbrev Experinece Experience
+iabbrev expereicne experience
 iabbrev expereince experience
 iabbrev expericnes experience
 iabbrev experiecne experience
@@ -2733,6 +2741,7 @@ iabbrev implementaiton implementation
 iabbrev implmentation implementation
 iabbrev impelmented implemented
 iabbrev implemetned implemented
+iabbrev implmeented implemented
 iabbrev implmeneted implemented
 iabbrev IMplelemneter Implementer
 iabbrev IMplementer Implementer
@@ -2875,6 +2884,7 @@ iabbrev infromed informed
 iabbrev Ingrediants Ingredients
 iabbrev Inherrently Inherently
 iabbrev inherrently inherently
+iabbrev inheritence inheritance
 iabbrev INitial Initial
 iabbrev Initiial Initial
 iabbrev iinitail initial
@@ -3462,6 +3472,7 @@ iabbrev mintue minute
 iabbrev mintues minutes
 iabbrev miscellanous miscellaneous
 iabbrev Missign Missing
+iabbrev missign missing
 iabbrev missinng missing
 iabbrev msising missing
 iabbrev mispelled misspelled
@@ -3689,6 +3700,7 @@ iabbrev nubmers numbers
 iabbrev Numverical Numerical
 iabbrev numercial numerical
 iabbrev Ojbect Object
+iabbrev objecdt object
 iabbrev ojbect object
 iabbrev obejcts objects
 iabbrev objets objects
@@ -3918,6 +3930,7 @@ iabbrev paritla partial
 iabbrev partail partial
 iabbrev partialy partially
 iabbrev Particiapnts Participants
+iabbrev aprticualr particular
 iabbrev aprticular particular
 iabbrev paraticlaur particular
 iabbrev paraticualr particular
@@ -4172,6 +4185,7 @@ iabbrev Prerequistiee Prerequisite
 iabbrev prerequistite prerequisite
 iabbrev prerequitsite prerequisite
 iabbrev Prerequisitevs Prerequisites
+iabbrev Prerequisitves Prerequisites
 iabbrev Prerequisties Prerequisites
 iabbrev presecne presence
 iabbrev presetn present
@@ -4286,6 +4300,7 @@ iabbrev profjiels profiles
 iabbrev rpofiles profiles
 iabbrev PRogram Program
 iabbrev Progrma Program
+iabbrev pgorma program
 iabbrev porgram program
 iabbrev prgoram program
 iabbrev progmra program
@@ -4295,6 +4310,7 @@ iabbrev projgram program
 iabbrev programmble programmable
 iabbrev Programmaticlaly Programmatically
 iabbrev prommed programmed
+iabbrev prgoramming programming
 iabbrev programmign programming
 iabbrev programmihng programming
 iabbrev programmming programming
@@ -4383,6 +4399,7 @@ iabbrev prupurose purpose
 iabbrev pruposes purposes
 iabbrev purpoess purposes
 iabbrev PUt Put
+iabbrev PYthon Python
 iabbrev Pytohn Python
 iabbrev Pyton Python
 iabbrev pyhton python
@@ -4626,6 +4643,7 @@ iabbrev replacment replacement
 iabbrev repolacemnt replacement
 iabbrev rfeplacemnet replacement
 iabbrev rpelacement replacement
+iabbrev Replacments Replacements
 iabbrev repalcaemnts replacements
 iabbrev replacments replacements
 iabbrev repldacments replacements
@@ -5090,6 +5108,7 @@ iabbrev Shutodwon Shutdown
 iabbrev shtudowns shutdowns
 iabbrev sdie side
 iabbrev sidse side
+iabbrev Siemensn Siemens
 iabbrev Siemesn Siemens
 iabbrev Siemnes Siemens
 iabbrev signla signal
@@ -6149,6 +6168,7 @@ iabbrev vairables variables
 iabbrev vairalbes variables
 iabbrev vairlabes variables
 iabbrev variablwes variables
+iabbrev variaibles variables
 iabbrev varialbeles variables
 iabbrev varialbes variables
 iabbrev varialbles variables
