@@ -1094,6 +1094,7 @@ iabbrev condusive conducive
 iabbrev conductinve conductive
 iabbrev conferenece conference
 iabbrev cvonference conference
+iabbrev conferneces conferences
 iabbrev converecnes conferences
 iabbrev condifience confidence
 iabbrev configt config
@@ -1297,6 +1298,7 @@ iabbrev Coutner Counter
 iabbrev coutner counter
 iabbrev Coutnry Country
 iabbrev coutnery country
+iabbrev coutnryu country
 iabbrev conts counts
 iabbrev coutns counts
 iabbrev Coutnyt County
@@ -1789,6 +1791,7 @@ iabbrev edigint editing
 iabbrev editning editing
 iabbrev eidtor editor
 iabbrev deidtors editors
+iabbrev educaiton education
 iabbrev effectiley effectively
 iabbrev effectivientss effectiveness
 iabbrev effectes effects
@@ -2082,6 +2085,7 @@ iabbrev exmapllse examples
 iabbrev Ecxel Excel
 iabbrev Excewl Excel
 iabbrev Excle Excel
+iabbrev excewpt except
 iabbrev exceptiopn exception
 iabbrev excewption exception
 iabbrev excpetion exception
@@ -2353,6 +2357,7 @@ iabbrev fof for
 iabbrev forf for
 iabbrev fro for
 iabbrev ofr for
+iabbrev foriegn foreign
 iabbrev forsee foresee
 iabbrev Froest Forest
 iabbrev fomr form
@@ -2411,6 +2416,7 @@ iabbrev fornt front
 iabbrev frnt front
 iabbrev frotn front
 iabbrev frontedn frontend
+iabbrev frustrationg frustrating
 iabbrev ftp FTP
 iabbrev FUel Fuel
 iabbrev Fule Fuel
@@ -2553,6 +2559,7 @@ iabbrev Goodgle Google
 iabbrev Googoel Google
 iabbrev govenrment government
 iabbrev governemnt government
+iabbrev gvovernmental governmental
 iabbrev gmp gpm
 iabbrev graduyation graduation
 iabbrev gramamrs grammars
@@ -2838,6 +2845,7 @@ iabbrev industyr industry
 iabbrev inflitration infiltration
 iabbrev iinform inform
 iabbrev INformaiton Information
+iabbrev Infomraiton Information
 iabbrev Informaation Information
 iabbrev Informaiont Information
 iabbrev Informaiotn Information
@@ -2862,6 +2870,7 @@ iabbrev informaiont information
 iabbrev informaiootn information
 iabbrev informaiotn information
 iabbrev informaitno information
+iabbrev informaitohn information
 iabbrev informaiton information
 iabbrev informaotin information
 iabbrev informatin information
@@ -3421,6 +3430,7 @@ iabbrev Meida Media
 iabbrev medai media
 iabbrev meida media
 iabbrev meadian median
+iabbrev MEdical Medical
 iabbrev MEeting Meeting
 iabbrev Meeitng Meeting
 iabbrev meetign meeting
@@ -4378,6 +4388,7 @@ iabbrev proviced provided
 iabbrev PRovider Provider
 iabbrev psychrometiics psychrometrics
 iabbrev psychrometreics psychrometrics
+iabbrev Plubic Public
 iabbrev publlications publications
 iabbrev PUll Pull
 iabbrev upll pull
@@ -4701,6 +4712,7 @@ iabbrev erquest request
 iabbrev requrest request
 iabbrev requrested requested
 iabbrev requestor requester
+iabbrev requrests requests
 iabbrev requiere require
 iabbrev requrie require
 iabbrev Requrired Required
@@ -5077,6 +5089,7 @@ iabbrev sehll shell
 iabbrev sheell shell
 iabbrev shfit shift
 iabbrev shfits shifts
+iabbrev shiping shipping
 iabbrev Shrit Shirt
 iabbrev shootouyt shootout
 iabbrev Shrot Short
