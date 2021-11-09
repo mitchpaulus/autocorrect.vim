@@ -335,6 +335,7 @@ iabbrev Architecturla Architectural
 iabbrev archetictural architectural
 iabbrev architectdure architecture
 iabbrev architecutrue architecture
+iabbrev arvhies archives
 iabbrev Aer Are
 iabbrev aer are
 iabbrev aqre are
@@ -1391,6 +1392,7 @@ iabbrev Deadbaand Deadband
 iabbrev dadband deadband
 iabbrev daedband deadband
 iabbrev deadbadn deadband
+iabbrev deadbadnads deadbands
 iabbrev deailng dealing
 iabbrev debuging debugging
 iabbrev Decmember December
@@ -1845,6 +1847,7 @@ iabbrev elemetns elements
 iabbrev elemets elements
 iabbrev evevation elevation
 iabbrev elevatiaonl elevational
+iabbrev elimeinated eliminated
 iabbrev elswe else
 iabbrev Eamil Email
 iabbrev eamil email
@@ -3341,6 +3344,7 @@ iabbrev mangatger manager
 iabbrev manageers managers
 iabbrev managerse managers
 iabbrev Machester Manchester
+iabbrev manipulaiton manipulation
 iabbrev Mnaual Manual
 iabbrev Mnaula Manual
 iabbrev manaul manual
@@ -3864,6 +3868,7 @@ iabbrev Outlooko Outlook
 iabbrev Outolloik Outlook
 iabbrev Outolok Outlook
 iabbrev OUtput Output
+iabbrev Oputput Output
 iabbrev Ouptu Output
 iabbrev Ouptut Output
 iabbrev Outpotu Output
@@ -3934,6 +3939,7 @@ iabbrev paretns parents
 iabbrev aprse parse
 iabbrev paresr parser
 iabbrev aprsing parsing
+iabbrev parsgin parsing
 iabbrev aprt part
 iabbrev aprtial partial
 iabbrev paritla partial
@@ -4348,6 +4354,7 @@ iabbrev projfct project
 iabbrev projfect project
 iabbrev projgect project
 iabbrev porjects projects
+iabbrev preojcts projects
 iabbrev proejcts projects
 iabbrev projecdts projects
 iabbrev projectgs projects
@@ -5025,6 +5032,7 @@ iabbrev sseries series
 iabbrev serios serious
 iabbrev Servie Service
 iabbrev servcie service
+iabbrev Serviecs Services
 iabbrev sessiuon session
 iabbrev ste set
 iabbrev SEtp9oitn Setpoint
@@ -5404,6 +5412,7 @@ iabbrev suoders sudoers
 iabbrev suggesitons suggestions
 iabbrev sumarized summarized
 iabbrev Sumary Summary
+iabbrev Summayr Summary
 iabbrev sumamry summary
 iabbrev sumary summary
 iabbrev summayr summary
@@ -6450,6 +6459,7 @@ iabbrev woudl would
 iabbrev wouold would
 iabbrev wuoudl would
 iabbrev wraper wrapper
+iabbrev Writie Write
 iabbrev wirte write
 iabbrev writtne written
 iabbrev worng wrong
