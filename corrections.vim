@@ -1172,6 +1172,7 @@ iabbrev conent content
 iabbrev contnent content
 iabbrev Contens Contents
 iabbrev contetx context
+iabbrev contexct context
 iabbrev ocntext context
 iabbrev continulally continually
 iabbrev continulaly continually
@@ -1229,6 +1230,7 @@ iabbrev convensition convention
 iabbrev convetino convention
 iabbrev convetion convention
 iabbrev ocnvention convention
+iabbrev conventilan conventional
 iabbrev conventioanl conventional
 iabbrev convewrsation conversation
 iabbrev ocnversion conversion
@@ -1271,6 +1273,7 @@ iabbrev correspodn correspond
 iabbrev correspoind correspond
 iabbrev correspnded corresponded
 iabbrev correpsonmding corresponding
+iabbrev corresonding corresponding
 iabbrev correspoding corresponding
 iabbrev correspodnign corresponding
 iabbrev correspoidng corresponding
@@ -1616,6 +1619,7 @@ iabbrev direcotry directory
 iabbrev direcotyr directory
 iabbrev directoy directory
 iabbrev directoyr directory
+iabbrev directroy directory
 iabbrev directry directory
 iabbrev diretory directory
 iabbrev driectory directory
@@ -1757,6 +1761,7 @@ iabbrev dumpitng dumping
 iabbrev dupcliate duplicate
 iabbrev dupklcate duplicate
 iabbrev duploicate duplicate
+iabbrev dupoicate duplicate
 iabbrev dupcliates duplicates
 iabbrev dupolicates duplicates
 iabbrev dupilcating duplicating
@@ -1893,6 +1898,7 @@ iabbrev EnergtyStar EnergyStar
 iabbrev Enginere Engineer
 iabbrev enigneer engineer
 iabbrev Egineered Engineered
+iabbrev egineered engineered
 iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
@@ -2396,6 +2402,7 @@ iabbrev foru four
 iabbrev Foiruier Fourier
 iabbrev fractionall fractional
 iabbrev frameowkr framework
+iabbrev framerwork framework
 iabbrev frawerwork framework
 iabbrev frmaework framework
 iabbrev Francsios Francisco
@@ -3184,6 +3191,7 @@ iabbrev librayr library
 iabbrev Licesnse License
 iabbrev licorise licorice
 iabbrev lifes lifes
+iabbrev lfietime lifetime
 iabbrev Lighyt Light
 iabbrev lghit light
 iabbrev lihgt light
@@ -3256,9 +3264,11 @@ iabbrev lcoation location
 iabbrev loation location
 iabbrev locaiont location
 iabbrev locaiotn location
+iabbrev locaition location
 iabbrev locaitnn location
 iabbrev locaitno location
 iabbrev locaiton location
+iabbrev locatino location
 iabbrev lociaitn location
 iabbrev lociation location
 iabbrev loction location
@@ -3300,6 +3310,7 @@ iabbrev mage made
 iabbrev magentic magnetic
 iabbrev magents magnets
 iabbrev magintuide magnitude
+iabbrev magniftude magnitude
 iabbrev mial mail
 iabbrev Mian Main
 iabbrev mian main
@@ -3334,6 +3345,7 @@ iabbrev magnage manage
 iabbrev Managemnet Management
 iabbrev Managmeent Management
 iabbrev Managnemnt Management
+iabbrev managemetn management
 iabbrev managmeent management
 iabbrev managmenet management
 iabbrev managment management
@@ -3680,6 +3692,7 @@ iabbrev Nomral Normal
 iabbrev nnormal normal
 iabbrev nomral normal
 iabbrev nomrla normal
+iabbrev normall normal
 iabbrev normla normal
 iabbrev normalizaiton normalization
 iabbrev Normallly Normally
@@ -3973,6 +3986,7 @@ iabbrev penatlty penalty
 iabbrev penatly penalty
 iabbrev pentalby penalty
 iabbrev Pnethouse Penthouse
+iabbrev Peiople People
 iabbrev peiople people
 iabbrev pepople people
 iabbrev poeple people
@@ -4271,6 +4285,7 @@ iabbrev Pritorities Priorities
 iabbrev priortization prioritization
 iabbrev pritiorizing prioritizing
 iabbrev Privelage Privilege
+iabbrev privelages privileges
 iabbrev Probalby Probably
 iabbrev Probvalby Probably
 iabbrev porbablyb probably
@@ -4553,8 +4568,10 @@ iabbrev referencem reference
 iabbrev refernce reference
 iabbrev refernece reference
 iabbrev Refernces References
+iabbrev Referneces References
 iabbrev refernecing referencing
 iabbrev Reformaatted Reformatted
+iabbrev Refreash Refresh
 iabbrev refrehsed refreshed
 iabbrev REfrigerant Refrigerant
 iabbrev refrigeratant refrigerant
@@ -4708,6 +4725,7 @@ iabbrev reposoityr repository
 iabbrev reposotiyr repository
 iabbrev repostiory repository
 iabbrev repostitoyr repository
+iabbrev respository repository
 iabbrev representaion representation
 iabbrev represeted represented
 iabbrev represesnts represents
@@ -4961,6 +4979,7 @@ iabbrev sectino section
 iabbrev sectiosn section
 iabbrev securtiy security
 iabbrev seee see
+iabbrev Seeign Seeing
 iabbrev segmenetation segmentation
 iabbrev selct select
 iabbrev seslect select
@@ -5110,6 +5129,7 @@ iabbrev SHuold Should
 iabbrev Shiould Should
 iabbrev Shoudl Should
 iabbrev hsould should
+iabbrev shold should
 iabbrev sholud should
 iabbrev shoud should
 iabbrev shoudl should
@@ -5249,6 +5269,7 @@ iabbrev Specificiations Specifications
 iabbrev specificaiotns specifications
 iabbrev specificaitons specifications
 iabbrev specificantions specifications
+iabbrev speficics specifics
 iabbrev psecified specified
 iabbrev sepcified specified
 iabbrev sepecified specified
@@ -5342,6 +5363,7 @@ iabbrev stuatus status
 iabbrev Stema Steam
 iabbrev staem steam
 iabbrev Stpe Step
+iabbrev setp step
 iabbrev stpe step
 iabbrev Stpes Steps
 iabbrev stesp steps
@@ -5362,6 +5384,7 @@ iabbrev straighforward straightforward
 iabbrev striaghtforward straightforward
 iabbrev stragne strange
 iabbrev straem stream
+iabbrev strema stream
 iabbrev strenght strength
 iabbrev Streches Stretches
 iabbrev striclty strictly
@@ -5825,6 +5848,7 @@ iabbrev threshld threshold
 iabbrev thresholld threshold
 iabbrev trhrehosld threshold
 iabbrev Trhehsolds Thresholds
+iabbrev thoroguh through
 iabbrev thorugh through
 iabbrev thoruhg through
 iabbrev throght through
@@ -6096,6 +6120,7 @@ iabbrev unsuccesful unsuccessful
 iabbrev Unitl Until
 iabbrev unitl until
 iabbrev Upcomign Upcoming
+iabbrev upcomign upcoming
 iabbrev UPdate Update
 iabbrev Udpate Update
 iabbrev Upate Update
@@ -6129,6 +6154,7 @@ iabbrev ubran urban
 iabbrev uninals urinals
 iabbrev url URL
 iabbrev useage usage
+iabbrev ued used
 iabbrev uesd used
 iabbrev sueufl useful
 iabbrev usefuli useful
@@ -6334,6 +6360,7 @@ iabbrev WEst West
 iabbrev WHat What
 iabbrev Waht What
 iabbrev Whbat What
+iabbrev Whta What
 iabbrev hwat what
 iabbrev waht what
 iabbrev whqat what
@@ -6381,6 +6408,7 @@ iabbrev WInodws Windows
 iabbrev Windwos Windows
 iabbrev Windwows Windows
 iabbrev Winodws Windows
+iabbrev Wndows Windows
 iabbrev windwos windows
 iabbrev WIng Wing
 iabbrev WIth With
@@ -6403,6 +6431,7 @@ iabbrev withing within
 iabbrev WIthout Without
 iabbrev iwthout without
 iabbrev withotu without
+iabbrev withoyut without
 iabbrev Witneess Witness
 iabbrev WOrd Word
 iabbrev Wrod Word
