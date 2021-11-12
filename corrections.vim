@@ -1104,6 +1104,7 @@ iabbrev Configuraiton Configuration
 iabbrev coinfiguraiton configuration
 iabbrev confifguraiton configuration
 iabbrev configuation configuration
+iabbrev configuraiotn configuration
 iabbrev configuraiton configuration
 iabbrev configuraqtion configuration
 iabbrev configurtation configuration
@@ -2436,6 +2437,7 @@ iabbrev fulll full
 iabbrev Fucntion Function
 iabbrev Funciton Function
 iabbrev Funtion Function
+iabbrev fucniotn function
 iabbrev fucniton function
 iabbrev fucntion function
 iabbrev funcditon function
@@ -3165,6 +3167,7 @@ iabbrev leasd leads
 iabbrev Leakding Leaking
 iabbrev Leanr Learn
 iabbrev leanr learn
+iabbrev leanred learned
 iabbrev Leanring Learning
 iabbrev leanring learning
 iabbrev leats least
