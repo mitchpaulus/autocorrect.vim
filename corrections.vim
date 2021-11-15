@@ -515,6 +515,7 @@ iabbrev Beginnign Beginning
 iabbrev beginnig beginning
 iabbrev beginnign beginning
 iabbrev beginnnign beginning
+iabbrev begignnings beginnings
 iabbrev beginnigs beginnings
 iabbrev behaviior behavior
 iabbrev behvaior behavior
@@ -1102,6 +1103,7 @@ iabbrev configt config
 iabbrev ocnfig config
 iabbrev Configuraiton Configuration
 iabbrev coinfiguraiton configuration
+iabbrev confgiruaiton configuration
 iabbrev confifguraiton configuration
 iabbrev configuation configuration
 iabbrev configuraiotn configuration
@@ -1420,6 +1422,7 @@ iabbrev dfeault default
 iabbrev efault default
 iabbrev defatuls defaults
 iabbrev fdefine define
+iabbrev defiend defined
 iabbrev definned defined
 iabbrev defininng defining
 iabbrev Definiteyl Definitely
@@ -1612,6 +1615,7 @@ iabbrev drieclty directly
 iabbrev drieclyt directly
 iabbrev driectly directly
 iabbrev directoriues directories
+iabbrev directorys directories
 iabbrev driectories directories
 iabbrev dieretoyr directory
 iabbrev direcdtory directory
@@ -5242,6 +5246,7 @@ iabbrev Somethimes Sometimes
 iabbrev soemwhere somewhere
 iabbrev saught sought
 iabbrev Soruce Source
+iabbrev Sourcee Source
 iabbrev soruce source
 iabbrev souce source
 iabbrev soources sources
@@ -6463,6 +6468,7 @@ iabbrev Wokringi Working
 iabbrev Woriking Working
 iabbrev Woriknig Working
 iabbrev Workign Working
+iabbrev Workigno Working
 iabbrev Workikng Working
 iabbrev Workingo Working
 iabbrev Workiung Working
