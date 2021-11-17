@@ -988,11 +988,13 @@ iabbrev ocmmon common
 iabbrev commonlky commonly
 iabbrev communciate communicate
 iabbrev communciates communicates
+iabbrev COUMMUNICATION COMMUNICATION
 iabbrev commujnication communication
 iabbrev communcaiton communication
 iabbrev communicaiotn communication
 iabbrev communicaiton communication
 iabbrev coumunicaiton communication
+iabbrev communicaitons communications
 iabbrev communicty community
 iabbrev comapny company
 iabbrev compnay company
@@ -1520,6 +1522,7 @@ iabbrev deatials details
 iabbrev detials details
 iabbrev detilas details
 iabbrev detectino detection
+iabbrev detctor detector
 iabbrev determiation determination
 iabbrev determiniation determination
 iabbrev Detemrine Determine
@@ -1868,6 +1871,7 @@ iabbrev emial email
 iabbrev meail email
 iabbrev evmails emails
 iabbrev meails emails
+iabbrev emergynecy emergency
 iabbrev emergingn emerging
 iabbrev Empyt Empty
 iabbrev empyt empty
@@ -2325,6 +2329,7 @@ iabbrev ifrst first
 iabbrev ifhs fish
 iabbrev ifsh fish
 iabbrev FIx Fix
+iabbrev fxed fixed
 iabbrev ifxes fixes
 iabbrev FIxing Fixing
 iabbrev finxing fixing
@@ -2360,6 +2365,7 @@ iabbrev follwoign following
 iabbrev follwoing following
 iabbrev folowing following
 iabbrev folowoing following
+iabbrev foollowing following
 iabbrev sollowing following
 iabbrev footgae footage
 iabbrev footgaet footage
@@ -2608,6 +2614,7 @@ iabbrev guarantte guarantee
 iabbrev guarantted guaranteed
 iabbrev GUardians Guardians
 iabbrev Gudieline Guideline
+iabbrev Gudielinte Guideline
 iabbrev Guidleine Guideline
 iabbrev Guidleing Guideline
 iabbrev Guidleline Guideline
@@ -2749,6 +2756,7 @@ iabbrev ingores ignores
 iabbrev ignroing ignoring
 iabbrev iamges images
 iabbrev iamgine imagine
+iabbrev initated imitated
 iabbrev immediatley immediately
 iabbrev immediatly immediately
 iabbrev impelmetn implement
@@ -2932,6 +2940,7 @@ iabbrev intially initially
 iabbrev Initialte Initiate
 iabbrev initate initiate
 iabbrev intitiating initiating
+iabbrev Initiaiton Initiation
 iabbrev inelt inlet
 iabbrev linet inlet
 iabbrev Inlnie Inline
@@ -5088,6 +5097,7 @@ iabbrev septoin setpoint
 iabbrev septoint setpoint
 iabbrev sestpoint setpoint
 iabbrev setipiont setpoint
+iabbrev setoint setpoint
 iabbrev setpiotn setpoint
 iabbrev setpoing setpoint
 iabbrev setpoinut setpoint
@@ -5099,6 +5109,7 @@ iabbrev Setpoitns Setpoints
 iabbrev septoins setpoints
 iabbrev septoints setpoints
 iabbrev sestpoinst setpoints
+iabbrev setpionts setpoints
 iabbrev setpoins setpoints
 iabbrev setpoitns setpoints
 iabbrev stepoints setpoints
@@ -5167,6 +5178,7 @@ iabbrev sidse side
 iabbrev Siemensn Siemens
 iabbrev Siemesn Siemens
 iabbrev Siemnes Siemens
+iabbrev signl signal
 iabbrev signla signal
 iabbrev singal signal
 iabbrev signficant significant
@@ -5223,6 +5235,7 @@ iabbrev slwodown slowdown
 iabbrev samll small
 iabbrev samrt smart
 iabbrev Simth Smith
+iabbrev somke smoke
 iabbrev smtp SMTP
 iabbrev spo so
 iabbrev sopa soap
