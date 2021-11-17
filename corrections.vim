@@ -59,6 +59,7 @@ iabbrev Activew Active
 iabbrev Actve Active
 iabbrev Acdtivies Activities
 iabbrev activies activities
+iabbrev activites activities
 iabbrev acutal actual
 iabbrev Actulaly Actually
 iabbrev Acutally Actually
@@ -3795,6 +3796,7 @@ iabbrev operaiton operation
 iabbrev Operaational Operational
 iabbrev Operataitonal Operational
 iabbrev oeprational operational
+iabbrev operaitonal operational
 iabbrev operaitonla operational
 iabbrev operatialn operational
 iabbrev Operaitons Operations
@@ -3818,6 +3820,7 @@ iabbrev Optimziainton Optimization
 iabbrev Optimziaiton Optimization
 iabbrev Optimziation Optimization
 iabbrev Optiomization Optimization
+iabbrev optimizaiotn optimization
 iabbrev optimizaiton optimization
 iabbrev optimziaiotn optimization
 iabbrev optimziaiton optimization
@@ -4169,6 +4172,7 @@ iabbrev possiblyh possibly
 iabbrev possilbiy possibly
 iabbrev possilby possibly
 iabbrev posssilby possibly
+iabbrev PostScirpt PostScript
 iabbrev potentail potential
 iabbrev potentiail potential
 iabbrev potentila potential
@@ -4213,6 +4217,7 @@ iabbrev Prelimiary Preliminary
 iabbrev permier premier
 iabbrev preimum premium
 iabbrev preoparation preparation
+iabbrev preparatin preparation
 iabbrev prepration preparation
 iabbrev preprationa preparation
 iabbrev preparting preparing
@@ -5482,6 +5487,7 @@ iabbrev swtich switch
 iabbrev switchees switches
 iabbrev swtiches switches
 iabbrev switchgaar switchgear
+iabbrev SYmmetrical Symmetrical
 iabbrev Sycn Sync
 iabbrev Syunc Sync
 iabbrev syncitng syncing
