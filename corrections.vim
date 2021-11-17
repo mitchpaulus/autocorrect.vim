@@ -1743,6 +1743,7 @@ iabbrev dowloaded downloaded
 iabbrev downlladed downloaded
 iabbrev dowenloads downloads
 iabbrev DOwnstairs Downstairs
+iabbrev downstram downstream
 iabbrev downstrream downstream
 iabbrev Downtonw Downtown
 iabbrev doewntown downtown
@@ -3293,6 +3294,7 @@ iabbrev logartihm logarithm
 iabbrev logatirhm logarithm
 iabbrev logatrihm logarithm
 iabbrev lgic logic
+iabbrev lgoic logic
 iabbrev loigc logic
 iabbrev logicla logical
 iabbrev logisitcs logistics
@@ -4766,6 +4768,7 @@ iabbrev rquired required
 iabbrev rueiquireed required
 iabbrev requiremnet requirement
 iabbrev requiements requirements
+iabbrev requiemernts requirements
 iabbrev requirementse requirements
 iabbrev requiremnets requirements
 iabbrev requirmentrs requirements
@@ -6254,6 +6257,7 @@ iabbrev Ventilatin Ventilation
 iabbrev ventialation ventilation
 iabbrev ventialtiaon ventilation
 iabbrev ventialtion ventilation
+iabbrev verbage verbiage
 iabbrev Verifiatioon Verification
 iabbrev verficaiton verification
 iabbrev verficiation verification
