@@ -98,6 +98,7 @@ iabbrev Adjsut Adjust
 iabbrev adjsutable adjustable
 iabbrev adjustements adjustments
 iabbrev adjustemsnts adjustments
+iabbrev ADmin Admin
 iabbrev Adminsitrative Administrative
 iabbrev adopeted adopted
 iabbrev Adrain Adrian
@@ -584,6 +585,7 @@ iabbrev broekn broken
 iabbrev browswer browser
 iabbrev bubblle bubble
 iabbrev Buidl Build
+iabbrev Buildt Build
 iabbrev Buyild Build
 iabbrev buidl build
 iabbrev BUildeing Building
@@ -1414,6 +1416,7 @@ iabbrev decreaesed decreased
 iabbrev decreasees decreases
 iabbrev dedicaed dedicated
 iabbrev depper deeper
+iabbrev Deafult Default
 iabbrev Defautl Default
 iabbrev deafult default
 iabbrev deauflt default
@@ -2361,6 +2364,7 @@ iabbrev folloow follow
 iabbrev floowing following
 iabbrev folloiwing following
 iabbrev followign following
+iabbrev follwing following
 iabbrev follwoign following
 iabbrev follwoing following
 iabbrev folowing following
@@ -5128,6 +5132,7 @@ iabbrev serveal several
 iabbrev servearl several
 iabbrev serveral several
 iabbrev sevearl several
+iabbrev sahll shall
 iabbrev shlal shall
 iabbrev hsare share
 iabbrev SharePoitn SharePoint
