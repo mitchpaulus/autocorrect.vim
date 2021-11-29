@@ -435,6 +435,7 @@ iabbrev automaitcllay automatically
 iabbrev automatcially automatically
 iabbrev automaticaly automatically
 iabbrev automoatically automatically
+iabbrev auotmation automation
 iabbrev automaation automation
 iabbrev auxillary auxiliary
 iabbrev avaiable available
@@ -631,6 +632,7 @@ iabbrev buidlligns buildings
 iabbrev buildgins buildings
 iabbrev buildigns buildings
 iabbrev builgins buildings
+iabbrev builtinds buildings
 iabbrev buioldings buildings
 iabbrev buiolgings buildings
 iabbrev buldigns buildings
@@ -2580,6 +2582,7 @@ iabbrev cgoing going
 iabbrev goign going
 iabbrev goinv going
 iabbrev goiung going
+iabbrev goivng going
 iabbrev gonig going
 iabbrev oging going
 iabbrev GOod Good
@@ -3339,6 +3342,7 @@ iabbrev Mian Main
 iabbrev mian main
 iabbrev mainstram mainstream
 iabbrev maintian maintain
+iabbrev maintin maintain
 iabbrev maintainablity maintainability
 iabbrev maintinained maintained
 iabbrev maintainging maintaining
@@ -3721,6 +3725,7 @@ iabbrev normalizaiton normalization
 iabbrev Normallly Normally
 iabbrev nomrally normally
 iabbrev normallly normally
+iabbrev normmaly normally
 iabbrev normnally normally
 iabbrev norht North
 iabbrev NOt Not
@@ -4156,6 +4161,7 @@ iabbrev poritons portions
 iabbrev protions portions
 iabbrev Positon Position
 iabbrev Postion Position
+iabbrev posiiotn position
 iabbrev posistion position
 iabbrev positiong position
 iabbrev positoin position
@@ -5132,6 +5138,7 @@ iabbrev serveal several
 iabbrev servearl several
 iabbrev serveral several
 iabbrev sevearl several
+iabbrev SAFT SFAT
 iabbrev sahll shall
 iabbrev shlal shall
 iabbrev hsare share
@@ -5477,6 +5484,7 @@ iabbrev usmmed summed
 iabbrev sunslight sunlight
 iabbrev supercede supersede
 iabbrev Superceded Superseded
+iabbrev Suuply Supply
 iabbrev su7pply supply
 iabbrev suply supply
 iabbrev supplky supply
