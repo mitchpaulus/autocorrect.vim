@@ -1020,6 +1020,7 @@ iabbrev Compoatibility Compatibility
 iabbrev capatible compatible
 iabbrev competiting competing
 iabbrev compilaiton compilation
+iabbrev compiliaiton compilation
 iabbrev compliaiton compilation
 iabbrev compliation compilation
 iabbrev compiel compile
@@ -1965,6 +1966,7 @@ iabbrev entyr entry
 iabbrev enuemerable enumerable
 iabbrev Enviorment Environment
 iabbrev Environemnet Environment
+iabbrev Environemnt Environment
 iabbrev enviorment environment
 iabbrev enviormentmt environment mt
 iabbrev enviornment environment
@@ -2296,6 +2298,7 @@ iabbrev Fitler Filter
 iabbrev fitler filter
 iabbrev fitlers filters
 iabbrev FInal Final
+iabbrev Fianl Final
 iabbrev fianl final
 iabbrev filan final
 iabbrev filnal final
@@ -4885,6 +4888,7 @@ iabbrev reveiw review
 iabbrev reviwe review
 iabbrev Reiveiwing Reviewing
 iabbrev Reivewing Reviewing
+iabbrev reivews reviews
 iabbrev Reviseed Revised
 iabbrev Revisoin Revision
 iabbrev reisit revisit
@@ -5440,6 +5444,7 @@ iabbrev storign storing
 iabbrev straighforward straightforward
 iabbrev striaghtforward straightforward
 iabbrev stragne strange
+iabbrev strageties strategies
 iabbrev straem stream
 iabbrev strema stream
 iabbrev strenght strength
