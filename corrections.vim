@@ -1005,6 +1005,7 @@ iabbrev compnay company
 iabbrev Comare Compare
 iabbrev comapre compare
 iabbrev comapred compared
+iabbrev Comparingin Comparing
 iabbrev compariosn comparison
 iabbrev comparision comparison
 iabbrev comparisoin comparison
@@ -1067,6 +1068,7 @@ iabbrev comptuer compute
 iabbrev cmoptuer computer
 iabbrev comptuer computer
 iabbrev comptuers computers
+iabbrev compmuting computing
 iabbrev concelaing concealing
 iabbrev concewpt concept
 iabbrev ocncept concept
@@ -1463,6 +1465,7 @@ iabbrev Deamnd Demand
 iabbrev dmeand demand
 iabbrev dseamdn demand
 iabbrev emdand demand
+iabbrev denomiator denominator
 iabbrev dnesity density
 iabbrev deorderant deodorant
 iabbrev Deparment Department
@@ -1680,6 +1683,7 @@ iabbrev distercit district
 iabbrev distributin distriubtion
 iabbrev dirunal diurnal
 iabbrev ividvie divide
+iabbrev od do
 iabbrev odcs docs
 iabbrev dcouemnt document
 iabbrev dcoument document
@@ -1918,6 +1922,7 @@ iabbrev egineered engineered
 iabbrev Enginereing Engineering
 iabbrev enginnering engineering
 iabbrev egineers engineers
+iabbrev Enlish English
 iabbrev engough enough
 iabbrev engouh enough
 iabbrev enoguh enough
@@ -2120,6 +2125,7 @@ iabbrev excpetions exceptions
 iabbrev exhanger exchange
 iabbrev exhcange exchange
 iabbrev exchagner exchanger
+iabbrev exchangesr exchangers
 iabbrev exectuable executable
 iabbrev exectue execute
 iabbrev execture execute
@@ -2751,10 +2757,12 @@ iabbrev hystersis hysteresis
 iabbrev Ina Ian
 iabbrev diea idea
 iabbrev idael ideal
+iabbrev identificaitno identification
 iabbrev indentifier identifier
 iabbrev identifieres identifiers
 iabbrev identiifers identifiers
 iabbrev indentifiers identifiers
+iabbrev identiifes identifies
 iabbrev idel idle
 iabbrev Ingore Ignore
 iabbrev ingore ignore
@@ -2865,6 +2873,7 @@ iabbrev indiciatiton indication
 iabbrev Indiviudal Individual
 iabbrev Indiviudaul Individual
 iabbrev ijndividual individual
+iabbrev inddivudal individual
 iabbrev indifivalu individual
 iabbrev indiviual individual
 iabbrev indiviudal individual
@@ -3479,6 +3488,7 @@ iabbrev Meeitng Meeting
 iabbrev meetign meeting
 iabbrev meetingf meeting
 iabbrev meetring meeting
+iabbrev meleting melting
 iabbrev memeory memory
 iabbrev Menotr Mentor
 iabbrev meterological meteorological
@@ -3709,6 +3719,7 @@ iabbrev ngiht night
 iabbrev nomeclature nomenclature
 iabbrev nomencalture nomenclature
 iabbrev nomencalute nomenclature
+iabbrev nomencalutere nomenclature
 iabbrev nomencaluture nomenclature
 iabbrev nomenclautere nomenclature
 iabbrev nomencluature nomenclature
@@ -4019,6 +4030,7 @@ iabbrev Pnethouse Penthouse
 iabbrev Peiople People
 iabbrev peiople people
 iabbrev pepople people
+iabbrev pieople people
 iabbrev poeple people
 iabbrev popele people
 iabbrev Perfomrance Performance
@@ -4144,6 +4156,7 @@ iabbrev poisnt points
 iabbrev poitns points
 iabbrev ponits points
 iabbrev pooints points
+iabbrev polynomical polynomial
 iabbrev ploytropic polytropic
 iabbrev polytorpic polytropic
 iabbrev poplualar popular
@@ -4596,6 +4609,7 @@ iabbrev refacotr refactor
 iabbrev refactyor refactor
 iabbrev Refacotring Refactoring
 iabbrev REferecne Reference
+iabbrev Refernce Reference
 iabbrev referecne reference
 iabbrev referencem reference
 iabbrev refernce reference
@@ -4814,6 +4828,7 @@ iabbrev resoluution resolution
 iabbrev resovle resolve
 iabbrev resoelves resolves
 iabbrev Resourees Resources
+iabbrev resourcers resources
 iabbrev erspect respect
 iabbrev respcet respect
 iabbrev respecdt respect
@@ -5417,6 +5432,7 @@ iabbrev stomatch stomach
 iabbrev stoped stopped
 iabbrev stoppiong stopping
 iabbrev stoarge storage
+iabbrev storegae storage
 iabbrev stroed stored
 iabbrev sotres stores
 iabbrev storeis stories
@@ -5591,6 +5607,7 @@ iabbrev techinial technical
 iabbrev techinical technical
 iabbrev technaicila technical
 iabbrev Techincally Technically
+iabbrev techinuques techniques
 iabbrev techniquers techniques
 iabbrev technoilogies technologies
 iabbrev Techonology Technology
