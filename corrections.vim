@@ -981,6 +981,7 @@ iabbrev commissioniong commissioning
 iabbrev commissionoing commissioning
 iabbrev commissiooing commissioning
 iabbrev commmissiongin commissioning
+iabbrev commmissiooing commissioning
 iabbrev commsisiongin commissioning
 iabbrev commsssioning commissioning
 iabbrev commmit commit
@@ -1248,6 +1249,7 @@ iabbrev conventioanl conventional
 iabbrev convewrsation conversation
 iabbrev ocnversion conversion
 iabbrev convewrrt convert
+iabbrev convertability convertibility
 iabbrev convictoin conviction
 iabbrev cocok cook
 iabbrev cooeld cooled
@@ -3420,6 +3422,7 @@ iabbrev Marhc March
 iabbrev Marhd March
 iabbrev amrk mark
 iabbrev makr mark
+iabbrev Markdwon Markdown
 iabbrev markdonw markdown
 iabbrev marekd marked
 iabbrev markders markers
@@ -5589,6 +5592,7 @@ iabbrev atake take
 iabbrev atke take
 iabbrev takeawya takeaway
 iabbrev takne taken
+iabbrev takees takes
 iabbrev Takign Taking
 iabbrev tlaking talking
 iabbrev TMAU TAMU
@@ -6236,6 +6240,7 @@ iabbrev usallly usually
 iabbrev usally usually
 iabbrev usaully usually
 iabbrev utilites utilities
+iabbrev utilties utilities
 iabbrev Uiltity Utility
 iabbrev uitlilty utility
 iabbrev uitlity utility
@@ -6415,6 +6420,7 @@ iabbrev Wednessday Wednesday
 iabbrev Wendesady Wednesday
 iabbrev Wennedsay Wednesday
 iabbrev weke week
+iabbrev wekk week
 iabbrev weeekends weekends
 iabbrev wekends weekends
 iabbrev wweks weeks
@@ -6471,6 +6477,8 @@ iabbrev windwow window
 iabbrev WInd0ows Windows
 iabbrev WIndows Windows
 iabbrev WInodws Windows
+iabbrev Widnows Windows
+iabbrev Widnwos Windows
 iabbrev Windwos Windows
 iabbrev Windwows Windows
 iabbrev Winodws Windows
@@ -6557,6 +6565,7 @@ iabbrev wuoudl would
 iabbrev wraper wrapper
 iabbrev Writie Write
 iabbrev wirte write
+iabbrev wirting writing
 iabbrev writtne written
 iabbrev worng wrong
 iabbrev yaer year
