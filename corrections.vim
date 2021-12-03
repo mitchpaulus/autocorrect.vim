@@ -3865,6 +3865,7 @@ iabbrev optimziatino optimization
 iabbrev optimziation optimization
 iabbrev otptimziaton optimization
 iabbrev optimzie optimize
+iabbrev optimzied optimized
 iabbrev opiton option
 iabbrev opoint option
 iabbrev opotin option
@@ -5020,6 +5021,7 @@ iabbrev Sebasitan Sebastian
 iabbrev Sebastioan Sebastian
 iabbrev Seocnd Second
 iabbrev Seoncd Second
+iabbrev sconed second
 iabbrev seconed second
 iabbrev sedond second
 iabbrev seocnd second
