@@ -797,6 +797,7 @@ ia caharcteristic characteristic
 ia cahractersictic characteristic
 ia characteritsics characteristics
 ia characaaters characters
+ia charactesr characters
 ia chartr chart
 ia chrat chart
 ia chaisng chasing
@@ -1875,6 +1876,8 @@ ia elemets elements
 ia evevation elevation
 ia elevatiaonl elevational
 ia elimeinated eliminated
+ia eliminatign eliminating
+ia eliminatiung eliminating
 ia elswe else
 ia Eamil Email
 ia eamil email
@@ -4600,6 +4603,7 @@ ia reocrded recorded
 ia recoreds records
 ia reocreds records
 ia recurison recursion
+ia Recurisve Recursive
 ia recusive recursive
 ia Redefinning Redefining
 ia reod redo
