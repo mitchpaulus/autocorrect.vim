@@ -62,9 +62,9 @@ function! s:AddToAbbrev(wrongSpelledWord)
     "G - to end of file, o - make new line and enter insert mode, iabbrev
     "[variable word]
     if line('$') == 1 && strchars(getline(1)) == 0
-        execute "normal! iiabbrev " . a:wrongSpelledWord
+        execute "normal! iia " . a:wrongSpelledWord
     else
-        execute "normal! Goiabbrev " . a:wrongSpelledWord
+        execute "normal! Goia " . a:wrongSpelledWord
     endif
     "store misspelled word in s register, replace with first spell suggestion,
     "repaste misspelled word, append and insert space.
