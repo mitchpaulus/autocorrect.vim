@@ -26,8 +26,8 @@ fi
 prevNumCorrections="$(wc -l < corrections.vim)"
 
 # The final sort uses bytewise sorting (LC_ALL=C), but [f]olds the case,
-# and uses [d]ictionay order, meaning only blanks and alphanumeric characters
-# are considered. This should make the sorting cosistent across all my
+# and uses [d]ictionary order, meaning only blanks and alphanumeric characters
+# are considered. This should make the sorting consistent across all my
 # computers.
 cat "$autocorrectfile" "corrections.vim" | \
     sed 's/\r$//' | \
