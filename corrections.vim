@@ -1,4 +1,5 @@
 ia abbreivaiton abbreviation
+ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
 ia Abilty Ability
 ia abbility ability
@@ -120,6 +121,7 @@ ia aftenronon afternoon
 ia afternon afternoon
 ia AGain Again
 ia agian again
+ia agaisnt against
 ia AGe Age
 ia aggregatre aggregate
 ia aggreation aggregation
@@ -1504,6 +1506,7 @@ ia descriptio description
 ia descriptoin description
 ia descripton description
 ia descritpion description
+ia descritpoin description
 ia Descriptiosn Descriptions
 ia descriptoins descriptions
 ia descritive descriptive
@@ -2220,6 +2223,7 @@ ia FAiclity Facility
 ia Faciity Facility
 ia Facililty Facility
 ia Facillity Facility
+ia Faciltiyt Facility
 ia Facilty Facility
 ia faciliity facility
 ia facillity facility
@@ -6161,6 +6165,7 @@ ia unexpanded unexpanded
 ia unfamilar unfamiliar
 ia unicode Unicode
 ia uique unique
+ia uniuqe unique
 ia unqiue unique
 ia uhnti unit
 ia uint unit
