@@ -532,6 +532,7 @@ ia belive believe
 ia besdies besides
 ia bset best
 ia bettter better
+ia beetween between
 ia beteween between
 ia betwen between
 ia betwene between
@@ -1712,6 +1713,7 @@ ia coeumentation documentation
 ia dcoumentaiton documentation
 ia dcoumentation documentation
 ia docuemanation documentation
+ia docuemantion documentation
 ia docuemantiona documentation
 ia docuematnion documentation
 ia docuematnoin documentation
@@ -2853,6 +2855,7 @@ ia inb in
 ia inthe in the
 ia ni in
 ia INclude Include
+ia Inlcude Include
 ia inlcude include
 ia Inclucded Included
 ia inclucded included
@@ -5324,6 +5327,7 @@ ia psace space
 ia sapce space
 ia spacew space
 ia spacding spacing
+ia spcaign spacing
 ia SPAGETTI SPAGHETTI
 ia SPeaker Speaker
 ia Sepcial Special
@@ -5912,6 +5916,7 @@ ia htis this
 ia thei this
 ia thsi this
 ia THomas Thomas
+ia Thoams Thomas
 ia THose Those
 ia htose those
 ia thougth thought
