@@ -830,6 +830,7 @@ ia Chery Cherry
 ia Cheryyp Cherry
 ia Chrrey Cherry
 ia childern children
+ia CHilled Chilled
 ia Chiled Chilled
 ia chillled chilled
 ia CHiller Chiller
@@ -2414,6 +2415,7 @@ ia fomrat format
 ia foramt format
 ia forrmat format
 ia fomrats formats
+ia FOrmatters Formatters
 ia fomratting formatting
 ia Fomrs Forms
 ia fomrs forms
@@ -3035,6 +3037,7 @@ ia integrations integrations
 ia intelligcne intelligence
 ia INtended Intended
 ia initended intended
+ia interaect interact
 ia itnerest interest
 ia interesetd interested
 ia interesteds interested
@@ -5109,6 +5112,7 @@ ia sequndce sequence
 ia sequqence sequence
 ia sqequence sequence
 ia Sequencse Sequences
+ia Sequnces Sequences
 ia squesnces sequences
 ia sequencialy sequentially
 ia sequenctially sequentially
@@ -6168,6 +6172,7 @@ ia udnertaken undertaken
 ia Underwod Underwood
 ia unexpanded unexpanded
 ia unfamilar unfamiliar
+ia Unfortunatley Unfortunately
 ia unicode Unicode
 ia uique unique
 ia uniuqe unique
