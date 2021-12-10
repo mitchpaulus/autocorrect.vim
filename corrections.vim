@@ -525,6 +525,7 @@ ia beginnigs beginnings
 ia behaviior behavior
 ia behvaior behavior
 ia behing behind
+ia beeing being
 ia beign being
 ia bewing being
 ia Belive Believe
@@ -2166,6 +2167,7 @@ ia eapnd expand
 ia exapandde expanded
 ia exapnded expanded
 ia expannding expanding
+ia exapnds expands
 ia epansion expansion
 ia exapansion expansion
 ia expansionj expansion
@@ -3279,6 +3281,7 @@ ia Llines Lines
 ia LInk Link
 ia linuux Linux
 ia llinux Linux
+ia liqudi liquid
 ia liquied liquid
 ia leisted listed
 ia listerner listener
@@ -4113,6 +4116,7 @@ ia peice piece
 ia peices pieces
 ia piope pipe
 ia pipelien pipeline
+ia piplein pipeline
 ia piplien pipeline
 ia piopelines pipelines
 ia Ptich Pitch
