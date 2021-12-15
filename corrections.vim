@@ -1437,7 +1437,9 @@ ia depper deeper
 ia Deafult Default
 ia Defautl Default
 ia deafult default
+ia deafutl default
 ia deauflt default
+ia deautl default
 ia deautlt default
 ia defautl default
 ia defauylt default
@@ -1518,6 +1520,7 @@ ia descritpion description
 ia descritpoin description
 ia Descriptiosn Descriptions
 ia descriptoins descriptions
+ia descirptive descriptive
 ia descritive descriptive
 ia Deisng Design
 ia Desgin Design
@@ -3294,6 +3297,7 @@ ia linera linear
 ia LInes Lines
 ia Llines Lines
 ia LInk Link
+ia LInks Links
 ia linuux Linux
 ia llinux Linux
 ia liqudi liquid
@@ -4077,6 +4081,7 @@ ia popele people
 ia Perfomrance Performance
 ia Performacne Performance
 ia Prefomrance Performance
+ia Preformance Performance
 ia perfomance performance
 ia perfomrance performance
 ia perforamcne performance
@@ -4634,6 +4639,7 @@ ia REconsile Reconcile
 ia reocrd record
 ia recoreded recorded
 ia reocrded recorded
+ia Recordder Recorder
 ia recoreds records
 ia reocreds records
 ia recurison recursion
@@ -5785,6 +5791,8 @@ ia TEmplates Templates
 ia Tempaltes Templates
 ia Tempelatse Templates
 ia tempaltes templates
+ia tempaltse templates
+ia tempatles templates
 ia templasets templates
 ia tempslates templates
 ia tmeplates templates
