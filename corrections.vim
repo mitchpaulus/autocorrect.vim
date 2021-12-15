@@ -75,6 +75,7 @@ ia acutatoars actuators
 ia acutators actuators
 ia Adaptaiton Adaptation
 ia ADd Add
+iabbrev ADd Add
 ia daded added
 ia Adidtion Addition
 ia addiiton addition
@@ -371,6 +372,7 @@ ia ASHRE ASHRAE
 ia ASHREA ASHRAE
 ia asekd asked
 ia Askign Asking
+iabbrev askign asking
 ia ascpects aspects
 ia Assesment Assessment
 ia assesments assessments
@@ -864,6 +866,7 @@ ia Clairdige Claridge
 ia Clardige Claridge
 ia calss class
 ia lcass class
+iabbrev calne clean
 ia cleanign cleaning
 ia clenaup cleanup
 ia cleraed cleared
@@ -990,6 +993,7 @@ ia commmissiongin commissioning
 ia commmissiooing commissioning
 ia commsisiongin commissioning
 ia commsssioning commissioning
+iabbrev commisssioning commissioning
 ia commmit commit
 ia commti commit
 ia ocmmit commit
@@ -1244,6 +1248,7 @@ ia contorrls controls
 ia contreols controls
 ia controsl controls
 ia ocntrosl controls
+iabbrev contrls controls
 ia convienent convenient
 ia convient convenient
 ia convensition convention
@@ -1478,6 +1483,7 @@ ia denomiator denominator
 ia dnesity density
 ia deorderant deodorant
 ia Deparment Department
+iabbrev departmetn department
 ia depdnd depend
 ia dependance dependence
 ia dependecies dependencies
@@ -2115,6 +2121,7 @@ ia everythiong everything
 ia everytihg everything
 ia everyting everything
 ia everytingh everything
+iabbrev Evertying Everything
 ia exaclty exactly
 ia exactyl exactly
 ia Exampel Example
@@ -2441,6 +2448,7 @@ ia forwareded forwarded
 ia Foudn Found
 ia foudn found
 ia ofund found
+iabbrev FOuntain Fountain
 ia foru four
 ia Foiruier Fourier
 ia fractionall fractional
@@ -2559,6 +2567,7 @@ ia Generlaly Generally
 ia Genrally Generally
 ia genearlly generally
 ia gnerally generally
+iabbrev genearly generally
 ia geneate generate
 ia genreate generate
 ia gnerate generate
@@ -2616,12 +2625,15 @@ ia govenrment government
 ia governemnt government
 ia gvovernmental governmental
 ia gmp gpm
+iabbrev graudate graduate
 ia graduyation graduation
 ia gramamrs grammars
 ia Grpah Graph
 ia grahp graph
 ia grpah graph
 ia grpahic graphic
+iabbrev Graphci Graphic
+iabbrev grpahci graphic
 ia Grapahcis Graphics
 ia Graphcis Graphics
 ia Graphsics Graphics
@@ -2630,6 +2642,7 @@ ia graphcis graphics
 ia grpahcis graphics
 ia grpahics graphics
 ia grpahsics graphics
+iabbrev gprahics graphics
 ia grpahs graphs
 ia graviational gravitational
 ia greek Greek
@@ -3016,6 +3029,7 @@ ia inistalled installed
 ia insatalled installed
 ia insatlled installed
 ia isntalled installed
+iabbrev insalled installed
 ia insatnce instance
 ia instane instance
 ia instanceds instances
@@ -3244,6 +3258,7 @@ ia libary library
 ia librayr library
 ia Licesnse License
 ia licorise licorice
+iabbrev Lfie Life
 ia lifes lifes
 ia lfietime lifetime
 ia Lighyt Light
@@ -3441,6 +3456,7 @@ ia makr mark
 ia Markdwon Markdown
 ia markdonw markdown
 ia marekd marked
+iabbrev makred marked
 ia markders markers
 ia Mayr Mary
 ia amster master
@@ -3780,6 +3796,7 @@ ia notificaitons notifications
 ia novle novel
 ia Novemenber November
 ia Novermber November
+iabbrev NOw Now
 ia nozle nozzle
 ia nubmer number
 ia nunmber number
@@ -3982,6 +3999,7 @@ ia apcakge package
 ia pacakge package
 ia packgae package
 ia pakcage package
+iabbrev apkcage package
 ia pakcaged packaged
 ia pakcages packages
 ia Pakcing Packing
@@ -4152,8 +4170,10 @@ ia palying playing
 ia play9ing playing
 ia palys plays
 ia pzlaza plaza
+iabbrev Palza Plaza
 ia pelase please
 ia plently plenty
+iabbrev Pelnum Plenum
 ia pllt plot
 ia plto plot
 ia pltos plots
@@ -4798,6 +4818,7 @@ ia reposotiyr repository
 ia repostiory repository
 ia repostitoyr repository
 ia respository repository
+iabbrev reposiotyr repository
 ia representaion representation
 ia represeted represented
 ia represesnts represents
@@ -4867,6 +4888,7 @@ ia responsiblities responsibilities
 ia Repsonsible Responsible
 ia repsonible responsible
 ia responsbile responsible
+iabbrev resonsbible responsible
 ia Restartign Restarting
 ia restartign restarting
 ia restaturant restaurant
@@ -5031,6 +5053,7 @@ ia scxripts scripts
 ia sripts scripts
 ia Serach Search
 ia searhc search
+iabbrev serach search
 ia seraches searches
 ia Seraching Searching
 ia seraching searching
@@ -5530,6 +5553,7 @@ ia usmmed summed
 ia sunslight sunlight
 ia supercede supersede
 ia Superceded Superseded
+iabbrev supervisoray supervisory
 ia Suuply Supply
 ia su7pply supply
 ia suply supply
@@ -5593,6 +5617,7 @@ ia systmne system
 ia sytem system
 ia sytesm system
 ia syustem system
+iabbrev sysytem system
 ia Ssytems Systems
 ia Systesm Systems
 ia ssytems systems
@@ -5925,11 +5950,13 @@ ia thei this
 ia thsi this
 ia THomas Thomas
 ia Thoams Thomas
+iabbrev THomas Thomas
 ia THose Those
 ia htose those
 ia thougth thought
 ia Thoguhts Thoughts
 ia thoughs thoughts
+iabbrev threda thread
 ia THree Three
 ia trhee three
 ia thershold threshold
@@ -6161,6 +6188,7 @@ ia unclera unclear
 ia udner under
 ia undre under
 ia udnerfloor underfloor
+iabbrev underneatn underneath
 ia underreprsented underrepresented
 ia underscope underscore
 ia Understnad Understand
@@ -6365,6 +6393,7 @@ ia verseions versions
 ia versixons versions
 ia veritcally vertically
 ia vewry very
+iabbrev Vestible Vestibule
 ia iva via
 ia vai via
 ia Vdieo Video
@@ -6382,6 +6411,7 @@ ia Visti Visit
 ia viisti visit
 ia visti visit
 ia Vistied Visited
+iabbrev viesits visits
 ia Viusal Visual
 ia VIsualization Visualization
 ia visualation visualization
@@ -6540,6 +6570,7 @@ ia owkr work
 ia owrk work
 ia wokr work
 ia workl work
+iabbrev WOrk Work
 ia WOkred Worked
 ia WOrked Worked
 ia Wokred Worked
