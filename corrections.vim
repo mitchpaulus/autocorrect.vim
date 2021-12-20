@@ -1004,6 +1004,7 @@ ia commonlky commonly
 ia communciate communicate
 ia communciates communicates
 ia COUMMUNICATION COMMUNICATION
+ia Communicaiton Communication
 ia commujnication communication
 ia communcaiton communication
 ia communicaiotn communication
@@ -1127,6 +1128,7 @@ ia coinfiguraiton configuration
 ia confgiruaiton configuration
 ia confifguraiton configuration
 ia configuation configuration
+ia configuraiont configuration
 ia configuraiotn configuration
 ia configuraiton configuration
 ia configuraqtion configuration
@@ -1434,6 +1436,7 @@ ia decreaesed decreased
 ia decreasees decreases
 ia dedicaed dedicated
 ia depper deeper
+ia Deafualt Default
 ia Deafult Default
 ia Defautl Default
 ia deafult default
@@ -1446,6 +1449,7 @@ ia defauylt default
 ia defualt default
 ia dfeault default
 ia efault default
+ia deauflts defaults
 ia defatuls defaults
 ia fdefine define
 ia defiend defined
@@ -1527,6 +1531,7 @@ ia Desgin Design
 ia Desing Design
 ia Dessign Design
 ia desgin design
+ia desigh design
 ia desing design
 ia disgnation designation
 ia edesignation designation
@@ -1990,6 +1995,7 @@ ia Environemnet Environment
 ia Environemnt Environment
 ia enviorment environment
 ia enviormentmt environment mt
+ia enviornemnt environment
 ia enviornment environment
 ia enviromenmtn environment
 ia enviroment environment
@@ -2151,6 +2157,7 @@ ia exhcange exchange
 ia exchagner exchanger
 ia exchangesr exchangers
 ia exectuable executable
+ia exeucutalble executable
 ia exectue execute
 ia execture execute
 ia exectued executed
@@ -2240,6 +2247,7 @@ ia Facililty Facility
 ia Facillity Facility
 ia Faciltiyt Facility
 ia Facilty Facility
+ia Faclity Facility
 ia faciliity facility
 ia facillity facility
 ia FacillityGrid FacilityGrid
@@ -3252,6 +3260,7 @@ ia levle level
 ia lvel level
 ia lvelv level
 ia lvevl level
+ia flevels levels
 ia liason liaison
 ia libaries libraries
 ia LIbrary Library
@@ -3311,6 +3320,7 @@ ia lieterature literature
 ia Littel Little
 ia littee little
 ia littel little
+ia Lyold Lloyd
 ia Laod Load
 ia laod load
 ia loaqded loaded
@@ -3466,6 +3476,7 @@ ia Mayr Mary
 ia amster master
 ia amtch match
 ia mataches matches
+ia matchign matching
 ia matcing matching
 ia Materila Material
 ia materila material
@@ -4983,6 +4994,7 @@ ia sampel sample
 ia sampele sample
 ia smapel sample
 ia smaple sample
+ia smaples samples
 ia Smapling Sampling
 ia samplign sampling
 ia smaplign sampling
@@ -5043,6 +5055,7 @@ ia scrreen screen
 ia screenshtos screenshots
 ia Scirpt Script
 ia sciprt script
+ia scipt script
 ia scirpt script
 ia scrdipt script
 ia scripot script
