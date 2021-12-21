@@ -1949,6 +1949,7 @@ ia egineered engineered
 ia Enginereing Engineering
 ia enginnering engineering
 ia egineers engineers
+ia Englihs English
 ia Enlish English
 ia engough enough
 ia engouh enough
@@ -2706,6 +2707,7 @@ ia sheaders headers
 ia Heaidng Heading
 ia ehading heading
 ia ehadings headings
+ia headigns headings
 ia Headquareters Headquarters
 ia heatlh health
 ia HEat Heat
