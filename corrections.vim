@@ -25,6 +25,7 @@ ia Acadmey Academy
 ia accelearted accelerated
 ia aceptable acceptable
 ia aceess access
+ia adcces access
 ia accessiblity accessibility
 ia accesible accessible
 ia accidnet accident
@@ -122,6 +123,7 @@ ia aftenronon afternoon
 ia afternon afternoon
 ia AGain Again
 ia agian again
+ia Agaisnst Against
 ia agaisnt against
 ia AGe Age
 ia aggregatre aggregate
@@ -192,6 +194,7 @@ ia alwasy always
 ia alwyas always
 ia ambigiutiy ambiguity
 ia ambigous ambiguous
+ia Ameendments Amendments
 ia amoung among
 ia amounto amount
 ia amoutn amount
@@ -881,6 +884,7 @@ ia clsoed closed
 ia lcosed closed
 ia xlosed closed
 ia CLoseout Closeout
+ia Closeds Closes
 ia Clsoing Closing
 ia clsoing closing
 ia lcosing closing
@@ -1066,6 +1070,7 @@ ia completley completely
 ia compeletes completes
 ia compelting completing
 ia compeltion completion
+ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
 ia compoennts components
@@ -1284,6 +1289,7 @@ ia coooling cooling
 ia ocoling cooling
 ia Coorinate Coordinate
 ia Coordiantion Coordination
+ia Coordinatior Coordinator
 ia copeid copied
 ia cipy copy
 ia coyp copy
@@ -1688,6 +1694,7 @@ ia disccusion discussion
 ia discusion discussion
 ia disscussionn discussion
 ia disucssion discussion
+ia disfiurement disfigurement
 ia dispaly display
 ia disply display
 ia disseratioatn dissertation
@@ -1763,6 +1770,7 @@ ia DOg Dog
 ia doign doing
 ia donig doing
 ia odmain domain
+ia Domesitc Domestic
 ia doemstic domestic
 ia doen done
 ia odne done
@@ -1820,6 +1828,7 @@ ia dynaimally dynamically
 ia dynamcially dynamically
 ia dynamcilaly dynamically
 ia dynamicaly dynamically
+ia easeir easier
 ia easilyi easily
 ia easliy easily
 ia esily easily
@@ -1843,6 +1852,7 @@ ia editning editing
 ia eidtor editor
 ia deidtors editors
 ia educaiton education
+ia educatinosl educational
 ia effectiley effectively
 ia effectivientss effectiveness
 ia effectes effects
@@ -1909,6 +1919,8 @@ ia evmails emails
 ia meails emails
 ia emergynecy emergency
 ia emergingn emerging
+ia empoyer employer
+ia emploiyement employment
 ia Empyt Empty
 ia empyt empty
 ia emulaotrs emulators
@@ -2012,10 +2024,12 @@ ia enviorments environments
 ia enviroments environments
 ia environemntes environments
 ia Epidimeology Epidemiology
+ia Equla Equal
 ia eqaul equal
 ia equail equal
 ia equla equal
 ia equzl equal
+ia qual equal
 ia equialiyt equality
 ia equilaiyt equality
 ia equlaity equality
@@ -2164,6 +2178,8 @@ ia execture execute
 ia exectued executed
 ia exectuing executing
 ia executuion execution
+ia Excecutive Executive
+ia Executivie Executive
 ia exectuive executive
 ia executivew executive
 ia exectuors executors
@@ -2268,6 +2284,7 @@ ia failry fairly
 ia faily fairly
 ia farily fairly
 ia fiarly fairly
+ia Flase False
 ia flase false
 ia familar familiar
 ia FAn Fan
@@ -2735,6 +2752,7 @@ ia hierachy hierarchy
 ia hgih high
 ia dhigher higher
 ia hgiher higher
+ia highert higher
 ia hihger higher
 ia highlihgt highlight
 ia Highlighitng Highlighting
@@ -2781,6 +2799,7 @@ ia Howerver However
 ia howerver however
 ia Html HTML
 ia html HTML
+ia huann human
 ia Humidifciation Humidification
 ia humidifciaiton humidification
 ia humidificaiton humidification
@@ -2851,6 +2870,7 @@ ia Implemtner Implementer
 ia Implmeenter Implementer
 ia Implmeneter Implementer
 ia Implmenets Implements
+ia implicity implicitly
 ia impleid implied
 ia improt import
 ia importantance importance
@@ -3053,6 +3073,7 @@ ia insstead instead
 ia instaed instead
 ia insteadd instead
 ia Institutue Institute
+ia institutaion institution
 ia insturction instruction
 ia Insturcitons Instructions
 ia Insluaiton Insulation
@@ -3081,6 +3102,7 @@ ia INterface Interface
 ia Interace Interface
 ia Interafce Interface
 ia tnerface interface
+ia iterferes interferes
 ia interioro interior
 ia intermeidate intermediate
 ia intenral internal
@@ -3095,6 +3117,7 @@ ia Internaitional International
 ia Internaitonal International
 ia internalation international
 ia internatial international
+ia internationl international
 ia inteernet internet
 ia intenet internet
 ia interpoleated interpolated
@@ -3544,6 +3567,7 @@ ia meetign meeting
 ia meetingf meeting
 ia meetring meeting
 ia meleting melting
+ia emmber member
 ia memeory memory
 ia Menotr Mentor
 ia meterological meteorological
@@ -3895,6 +3919,7 @@ ia Opinioned Opinionated
 ia Opportunites Opportunities
 ia opportunies opportunities
 ia opportuniteis opportunities
+ia opportunites opportunities
 ia Opprotunity Opportunity
 ia opprotunity opportunity
 ia oppsoed opposed
@@ -4634,6 +4659,7 @@ ia resaonable reasonable
 ia REasonably Reasonably
 ia reasonablely reasonably
 ia reasonalbly reasonably
+ia REauthorization Reauthorization
 ia rubuttal rebuttal
 ia reclaibrated recalibrated
 ia recieve receive
@@ -4641,6 +4667,7 @@ ia Recieved Received
 ia recevied received
 ia recevived received
 ia recieved received
+ia recieves receives
 ia REcently Recently
 ia recipricate reciprocate
 ia recoginition recognition
@@ -4703,6 +4730,7 @@ ia regrssion regression
 ia regualr regular
 ia regural regular
 ia regualry regularly
+ia REgulation Regulation
 ia erheat reheat
 ia rehate reheat
 ia reheta reheat
@@ -4717,6 +4745,7 @@ ia relathionship relationship
 ia relatioinship relationship
 ia relationnship relationship
 ia relationsihp relationship
+ia relationslhip relationship
 ia relationsyhiop relationship
 ia Relationjships Relationships
 ia realitive relative
@@ -4851,6 +4880,7 @@ ia requrested requested
 ia requestor requester
 ia requrests requests
 ia requiere require
+ia requre require
 ia requrie require
 ia Requrired Required
 ia Reuqired Required
@@ -4893,6 +4923,7 @@ ia resoluution resolution
 ia resovle resolve
 ia resoelves resolves
 ia Resourees Resources
+ia resouces resources
 ia resourcers resources
 ia erspect respect
 ia respcet respect
@@ -4924,6 +4955,7 @@ ia resutls results
 ia reulsts results
 ia reuslts results
 ia rseutls results
+ia REtaliation Retaliation
 ia retryed retried
 ia retor retro
 ia Retrocommissiong Retrocommissioning
@@ -5091,6 +5123,7 @@ ia Secondayr Secondary
 ia Seconddadry Secondary
 ia secondayr secondary
 ia seconeary secondary
+ia Sectdion Section
 ia secdtion section
 ia seciotn section
 ia secitioon section
@@ -5225,6 +5258,7 @@ ia serveal several
 ia servearl several
 ia serveral several
 ia sevearl several
+ia Sexcual Sexual
 ia SAFT SFAT
 ia sahll shall
 ia shlal shall
@@ -5563,6 +5597,7 @@ ia successivley successively
 ia succincly succinctly
 ia usch such
 ia suoders sudoers
+ia suffifce suffice
 ia suggesitons suggestions
 ia sumarized summarized
 ia Sumary Summary
@@ -5926,6 +5961,7 @@ ia theer there
 ia theere there
 ia theerre there
 ia threr there
+ia Teherfore Therefore
 ia Threfore Therefore
 ia Threrfore Therefore
 ia therfore therefore
@@ -6585,6 +6621,7 @@ ia iwthout without
 ia withotu without
 ia withoyut without
 ia Witneess Witness
+ia womne women
 ia WOrd Word
 ia Wrod Word
 ia worindg wording
