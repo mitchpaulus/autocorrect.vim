@@ -30,7 +30,8 @@ prevNumCorrections="$(wc -l < corrections.vim)"
 # are considered. This should make the sorting consistent across all my
 # computers.
 cat "$autocorrectfile" "corrections.vim" | \
-    sed 's/\r$//' | \
+    sed 's/\r$//' |
+    sed 's/^iabbrev/ia/' | \
     sort -u | \
     LC_ALL=C sort -f -d -k 3,3 > tmp && mv tmp corrections.vim
 
