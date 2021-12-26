@@ -30,6 +30,7 @@ ia accessiblity accessibility
 ia accesible accessible
 ia accidnet accident
 ia accidently accidentally
+ia accompnay accompany
 ia accomponying accompanying
 ia accompying accompanying
 ia accompolish accomplish
@@ -87,6 +88,7 @@ ia Addiitonal Additional
 ia Additioanl Additional
 ia addiitonal additional
 ia addiontal additional
+ia additianl additional
 ia additiaonl additional
 ia additinal additional
 ia additioanl additional
@@ -132,6 +134,7 @@ ia aggregatrion aggregation
 ia aggregration aggregation
 ia aggresive aggressive
 ia aggreement agreement
+ia argreement agreement
 ia ahaed ahead
 ia Ari Air
 ia ahir air
@@ -196,6 +199,7 @@ ia ambigous ambiguous
 ia Ameendments Amendments
 ia amoung among
 ia amounto amount
+ia amountt amount
 ia amoutn amount
 ia na an
 ia Analgoies Analogies
@@ -269,6 +273,7 @@ ia Anthohny Anthony
 ia Anythony Anthony
 ia Antoionio Antonio
 ia Antoniao Antonio
+ia aany any
 ia Anthing Anything
 ia Anytihng Anything
 ia anythign anything
@@ -1356,6 +1361,7 @@ ia Creepoing Creeping
 ia creiteris creiteria
 ia Cresent Crescent
 ia creiteria criteria
+ia creteria criteria
 ia crediterion criterion
 ia creiterion criterion
 ia ciritical critical
@@ -1436,6 +1442,7 @@ ia decidied decided
 ia dediced decided
 ia decidsion decision
 ia decalre declare
+ia Declien Decline
 ia decommissoin decommission
 ia decreaesed decreased
 ia decreasees decreases
@@ -2270,6 +2277,7 @@ ia FacillityGrid FacilityGrid
 ia facotr factor
 ia fractor factor
 ia Facotry Factory
+ia FAculty Faculty
 ia Fahrenheti Fahrenheit
 ia Farenheit Fahrenheit
 ia farhenheit Fahrenheit
@@ -2677,6 +2685,7 @@ ia greek Greek
 ia Grenenwood Greenwood
 ia Grennwood Greenwood
 ia GRids Grids
+ia frocery grocery
 ia Grup Group
 ia gorup group
 ia gropu group
@@ -2786,6 +2795,7 @@ ia horespower horsepower
 ia Hosptial Hospital
 ia hositpal hospital
 ia hto hot
+ia Hotle Hotel
 ia horu hour
 ia horuly hourly
 ia horus hours
@@ -2903,6 +2913,7 @@ ia ina in a
 ia inb in
 ia inthe in the
 ia ni in
+ia Inappropraite Inappropriate
 ia INclude Include
 ia Inlcude Include
 ia inlcude include
@@ -3387,6 +3398,7 @@ ia locaitons locations
 ia Lockoout Lockout
 ia Lockotu Lockout
 ia lokcs locks
+ia lodign lodging
 ia lgo log
 ia logarighm logarithm
 ia logartihm logarithm
@@ -3565,6 +3577,7 @@ ia Meeitng Meeting
 ia meetign meeting
 ia meetingf meeting
 ia meetring meeting
+ia meetingfsf meetings
 ia meleting melting
 ia emmber member
 ia memeory memory
@@ -3868,6 +3881,8 @@ ia Octboer October
 ia Octover October
 ia fo of
 ia oif of
+ia sof of
+ia offerse offers
 ia officinal official
 ia ofifical official
 ia Oftne Often
@@ -4454,6 +4469,7 @@ ia produciton production
 ia prodcuciotns productions
 ia prodcuts products
 ia Profesional Professional
+ia profesianl professional
 ia professionsal professional
 ia profient proficient
 ia fprofile profile
@@ -4907,6 +4923,7 @@ ia Rescheudled Rescheduled
 ia Researhc Research
 ia reaseach research
 ia reasearch research
+ia resarech research
 ia researhc research
 ia reserach research
 ia REset Reset
@@ -5276,6 +5293,7 @@ ia shfit shift
 ia shfits shifts
 ia shiping shipping
 ia Shrit Shirt
+ia shrit shirt
 ia shootouyt shootout
 ia Shrot Short
 ia shrot short
@@ -5414,6 +5432,7 @@ ia spacew space
 ia spacding spacing
 ia spcaign spacing
 ia SPAGETTI SPAGHETTI
+ia speark speak
 ia SPeaker Speaker
 ia Sepcial Special
 ia Speicla Special
@@ -5484,6 +5503,7 @@ ia stabel stable
 ia stakced stacked
 ia staffign staffing
 ia stari stair
+ia stampsl stamps
 ia Standand Standard
 ia satandrad standard
 ia satndard standard
@@ -5608,6 +5628,7 @@ ia usmmed summed
 ia sunslight sunlight
 ia supercede supersede
 ia Superceded Superseded
+ia superviosr supervisor
 ia supervisoray supervisory
 ia Suuply Supply
 ia su7pply supply
