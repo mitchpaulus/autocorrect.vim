@@ -751,6 +751,7 @@ ia capations captions
 ia cpations captions
 ia caputre capture
 ia carsd cards
+ia carerr career
 ia carepting carpeting
 ia cartesina Cartesian
 ia cvase case
@@ -995,6 +996,7 @@ ia commisioning commissioning
 ia commissioing commissioning
 ia commissiongin commissioning
 ia commissionign commissioning
+ia commissionigng commissioning
 ia commissioniong commissioning
 ia commissionoing commissioning
 ia commissiooing commissioning
@@ -2202,6 +2204,7 @@ ia exisited existed
 ia Exisiting Existing
 ia elxisting existing
 ia exigting existing
+ia exisintg existing
 ia exisiting existing
 ia exisitn existing
 ia exisitng existing
@@ -3933,8 +3936,11 @@ ia oeprational operational
 ia operaitonal operational
 ia operaitonla operational
 ia operatialn operational
+ia operpational operational
 ia Operaitons Operations
 ia operaitons operations
+ia operationrs operations
+ia operatoins operations
 ia opeartor operator
 ia operatoir operator
 ia opereator operator
@@ -4498,6 +4504,7 @@ ia projgram program
 ia programmble programmable
 ia Programmaticlaly Programmatically
 ia prommed programmed
+ia pgromammign programming
 ia prgoramming programming
 ia programmign programming
 ia programmihng programming
@@ -5752,6 +5759,7 @@ ia techinial technical
 ia techinical technical
 ia technaicila technical
 ia Techincally Technically
+ia techiniuqes techniques
 ia techinuques techniques
 ia techniquers techniques
 ia technoilogies technologies
@@ -6250,6 +6258,7 @@ ia typicaly typically
 ia typiucally typically
 ia tyuipcally typically
 ia tyupically typically
+ia ubiqutous ubiquitous
 ia Ubutntu Ubuntu
 ia Ubutnu Ubuntu
 ia utlimately ultimately
