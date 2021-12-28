@@ -23,6 +23,7 @@ ia absoulte absolute
 ia abstarctions abstractions
 ia Acadmey Academy
 ia accelearted accelerated
+ia accewptable acceptable
 ia aceptable acceptable
 ia aceess access
 ia adcces access
@@ -1086,6 +1087,7 @@ ia Compresor Compressor
 ia compuatation computation
 ia compuation computation
 ia Computationla Computational
+ia computatiaonla computational
 ia comptuer compute
 ia cmoptuer computer
 ia comptuer computer
@@ -1834,6 +1836,7 @@ ia dynaimally dynamically
 ia dynamcially dynamically
 ia dynamcilaly dynamically
 ia dynamicaly dynamically
+ia dynamcis dynamics
 ia easeir easier
 ia easilyi easily
 ia easliy easily
@@ -2198,6 +2201,7 @@ ia eixist exist
 ia exisited existed
 ia Exisiting Existing
 ia elxisting existing
+ia exigting existing
 ia exisiting existing
 ia exisitn existing
 ia exisitng existing
@@ -2310,6 +2314,7 @@ ia fdd FDD
 ia feasiblity feasibility
 ia featrue feature
 ia featqures features
+ia featurtes features
 ia Februray February
 ia Feedbakc Feedback
 ia feeback feedback
@@ -2333,6 +2338,7 @@ ia fielsds fields
 ia fileds fields
 ia filelds fields
 ia FIgure Figure
+ia Figuge Figure
 ia Figurte Figure
 ia figuure figure
 ia FIgured Figured
@@ -2539,6 +2545,7 @@ ia funtion function
 ia ufnction function
 ia FUnctional Functional
 ia Fucnttional Functional
+ia Funcitional Functional
 ia Functianl Functional
 ia Functiaonl Functional
 ia Functinal Functional
@@ -3142,6 +3149,7 @@ ia inot into
 ia iunto into
 ia Intriniscally Intrinsically
 ia Introudce Introduce
+ia introuduce introduce
 ia intorducted introduced
 ia introducted introduced
 ia Intorductino Introduction
@@ -3650,6 +3658,7 @@ ia mdoleing modeling
 ia modelign modeling
 ia modleing modeling
 ia modleling modeling
+ia modleoing modeling
 ia modlieng modeling
 ia modling modeling
 ia odeling modeling
@@ -4559,6 +4568,7 @@ ia PRovider Provider
 ia psychrometiics psychrometrics
 ia psychrometreics psychrometrics
 ia Plubic Public
+ia publicaiton publication
 ia publlications publications
 ia PUll Pull
 ia upll pull
@@ -4704,6 +4714,7 @@ ia Redefinning Redefining
 ia reod redo
 ia reodo redo
 ia REdoing Redoing
+ia redueced reduced
 ia reduceds reduces
 ia reducition reduction
 ia reducitno reduction
@@ -4768,6 +4779,7 @@ ia realtive relative
 ia relateive relative
 ia rellative relative
 ia relase release
+ia releasae release
 ia relavant relevant
 ia relavent relevant
 ia reliabiltiy reliability
@@ -5002,6 +5014,7 @@ ia Reivewing Reviewing
 ia reivews reviews
 ia Reviseed Revised
 ia Revisoin Revision
+ia Revsion Revision
 ia reisit revisit
 ia Reichard Richard
 ia Ricahrd Richard
@@ -6530,6 +6543,7 @@ ia wather weather
 ia weawther weather
 ia Webiste Website
 ia webdsiyte website
+ia webiste website
 ia webstie website
 ia WEdnesday Wednesday
 ia Wedenesday Wednesday
