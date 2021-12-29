@@ -656,6 +656,7 @@ ia bulidings buildings
 ia bvuidlgnis buildings
 ia ubildings buildings
 ia buidls builds
+ia buitl built
 ia bulit built
 ia bubl bulb
 ia builb bulb
@@ -792,6 +793,7 @@ ia certianly certainly
 ia certificaiton certification
 ia chanin chain
 ia chiar chair
+ia CHange Change
 ia Chagne Change
 ia Chnage Change
 ia chagne change
@@ -1221,6 +1223,7 @@ ia Continous Continuous
 ia Continousous Continuous
 ia Continuouss Continuous
 ia Contionous Continuous
+ia continuoulsy continuously
 ia contrcting contracting
 ia Contracotr Contractor
 ia contracdtor contractor
@@ -2149,9 +2152,11 @@ ia eventaul eventual
 ia eveyr every
 ia ewvery every
 ia everytone everyone
+ia Everthing Everything
 ia Evertying Everything
 ia Everythign Everything
 ia evertyhgin everything
+ia evertying everything
 ia everythign everything
 ia everythiong everything
 ia everytihg everything
@@ -2569,6 +2574,7 @@ ia funcitonality functionality
 ia functianlity functionality
 ia functilanlity functionality
 ia functinality functionality
+ia functinalty functionality
 ia functioanlity functionality
 ia functioanliyt functionality
 ia functionaliity functionality
@@ -2737,6 +2743,7 @@ ia hvae have
 ia thave have
 ia hainvg having
 ia haiving having
+ia hvaing having
 ia Haystakc Haystack
 ia sheaders headers
 ia Heaidng Heading
@@ -3708,6 +3715,7 @@ ia montioning monitoring
 ia montioring monitoring
 ia montioroing monitoring
 ia montiroing monitoring
+ia Montiors Monitors
 ia montiors monitors
 ia monthylo monthly
 ia montly monthly
@@ -3773,6 +3781,7 @@ ia enearest nearest
 ia enearsets nearest
 ia neccesarily necessarily
 ia neccessarikly necessarily
+ia necesarrily necessarily
 ia necesdarily necessarily
 ia neeccessary necessary
 ia NEed Need
@@ -3898,6 +3907,7 @@ ia offerse offers
 ia officinal official
 ia ofifical official
 ia Oftne Often
+ia ofthen often
 ia oftne often
 ia oftentiems oftentimes
 ia odl old
@@ -5426,6 +5436,7 @@ ia solutiosn solutions
 ia sollve solve
 ia sove solve
 ia SOme Some
+ia Soem Some
 ia smoe some
 ia soem some
 ia someoen someone
@@ -5449,6 +5460,7 @@ ia Speace Space
 ia psace space
 ia sapce space
 ia spacew space
+ia spcae space
 ia spacding spacing
 ia spcaign spacing
 ia SPAGETTI SPAGHETTI
@@ -5546,7 +5558,9 @@ ia statemtn statement
 ia statment statement
 ia Statemments Statements
 ia stametns statements
+ia statemetns statements
 ia statemntes statements
+ia statemnts statements
 ia statemtns statements
 ia statments statements
 ia staes states
@@ -6395,6 +6409,7 @@ ia usaully usually
 ia utilites utilities
 ia utilties utilities
 ia Uiltity Utility
+ia Utiltiy Utility
 ia uitlilty utility
 ia uitlity utility
 ia utiltiy utility
