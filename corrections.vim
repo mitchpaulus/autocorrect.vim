@@ -661,6 +661,7 @@ ia bulit built
 ia bubl bulb
 ia builb bulb
 ia bulib bulb
+ia BUmp Bump
 ia budnled bundled
 ia ubrned burned
 ia BUrns Burns
@@ -2495,6 +2496,7 @@ ia Fortunatlye Fortunately
 ia Fourm Forum
 ia foward forward
 ia forwareded forwarded
+ia FOund Found
 ia Foudn Found
 ia foudn found
 ia ofund found
@@ -5220,6 +5222,7 @@ ia sensores sensors
 ia sensosr sensors
 ia sensosrs sensors
 ia seonsors sensors
+ia sesnsors sensors
 ia snesoer sensors
 ia snesors sensors
 ia snet sent
@@ -6269,6 +6272,7 @@ ia typiuckal typical
 ia tyupical typical
 ia TYpiucally Typically
 ia Typcially Typically
+ia Typciually Typically
 ia Typicaly Typically
 ia typcially typically
 ia typeiclaly typically
@@ -6661,6 +6665,7 @@ ia Winodws Windows
 ia Wndows Windows
 ia windwos windows
 ia WIng Wing
+ia wipsing wiping
 ia WIth With
 ia Wiht With
 ia Wtih With
