@@ -2784,6 +2784,7 @@ ia Highlighitng Highlighting
 ia fhighlighting highlighting
 ia hgihlighting highlighting
 ia highlighing highlighting
+ia highlihgitng highlighting
 ia highlihgting highlighting
 ia highlihting highlighting
 ia himsellf himself
@@ -2955,6 +2956,7 @@ ia incorreclty incorrectly
 ia increasees increases
 ia increaseing increasing
 ia incrteasing increasing
+ia indenpendence independence
 ia indedependt independent
 ia indentpent independent
 ia independnt independent
@@ -4354,6 +4356,7 @@ ia PRactical Practical
 ia pracitcla practical
 ia pratical practical
 ia practivce practice
+ia Practidces Practices
 ia Prantl Prandtl
 ia precedding preceding
 ia precisly precisely
@@ -4513,6 +4516,7 @@ ia progrsm program
 ia projgram program
 ia programmble programmable
 ia Programmaticlaly Programmatically
+ia progrmamed programmed
 ia prommed programmed
 ia pgromammign programming
 ia prgoramming programming
@@ -4950,6 +4954,7 @@ ia requries requires
 ia reuqires requires
 ia Rescheudled Rescheduled
 ia Researhc Research
+ia Reserach Research
 ia reaseach research
 ia reasearch research
 ia resarech research
