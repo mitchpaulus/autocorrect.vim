@@ -3082,6 +3082,8 @@ ia insall install
 ia insatll install
 ia insatlla install
 ia instlal install
+ia isntall install
+ia istnall install
 ia INstlalation Installation
 ia Installatiopn Installation
 ia inslatioation installation
@@ -5149,6 +5151,7 @@ ia scripot script
 ia scritp script
 ia scsript script
 ia scxript script
+ia sript script
 ia Scirpted Scripted
 ia Scirpts Scripts
 ia scdripts scripts
