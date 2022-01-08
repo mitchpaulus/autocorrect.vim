@@ -771,6 +771,7 @@ ia Celebraiton Celebration
 ia clell cell
 ia Celing Celling
 ia Celcius Celsius
+ia Cetner Center
 ia cetner center
 ia cewnter center
 ia cewtner center
@@ -1394,6 +1395,7 @@ ia currenltyl currently
 ia currenly currently
 ia currenlyt currently
 ia currenty currently
+ia Cirruculum Curriculum
 ia curosr cursor
 ia cursro cursor
 ia curvativure curvature
@@ -2022,6 +2024,7 @@ ia enttry entry
 ia entyr entry
 ia enuemerable enumerable
 ia Enviorment Environment
+ia Enviormnet Environment
 ia Environemnet Environment
 ia Environemnt Environment
 ia enviorment environment
@@ -2301,6 +2304,7 @@ ia farhenheit Fahrenheit
 ia fial fail
 ia fialed failed
 ia failign failing
+ia afils fails
 ia failrue failure
 ia fialure failure
 ia fari fair
@@ -3119,6 +3123,7 @@ ia Insluaiton Insulation
 ia insureance insurance
 ia intanible intangible
 ia intergral integral
+ia integreated integrated
 ia Integratign Integrating
 ia integraiton integration
 ia integrtation integration
@@ -3459,6 +3464,7 @@ ia Loower Lower
 ia loower lower
 ia lucnh lunch
 ia machien machine
+ia machesines machines
 ia Macrosciptic Macroscopic
 ia mage made
 ia magentic magnetic
@@ -3554,6 +3560,7 @@ ia mathematica Mathematica
 ia matehematical mathematical
 ia matehematilca mathematical
 ia mathematicla mathematical
+ia matehmetaiclly mathematically
 ia mathematicans mathematicians
 ia Matalb Matlab
 ia Matlba Matlab
@@ -4428,6 +4435,7 @@ ia pressentaiton presentation
 ia rpesentation presentation
 ia Presentaations Presentations
 ia presenations presentations
+ia presentaitons presentations
 ia presneted presented
 ia Preussue Pressure
 ia apressure pressure
@@ -4531,6 +4539,7 @@ ia programmble programmable
 ia Programmaticlaly Programmatically
 ia progrmamed programmed
 ia prommed programmed
+ia pgraomming programming
 ia pgromammign programming
 ia prgoramming programming
 ia programmign programming
@@ -4600,6 +4609,7 @@ ia protectdion protection
 ia rpove prove
 ia proviced provided
 ia PRovider Provider
+ia pyschrometric psychrometric
 ia psychrometiics psychrometrics
 ia psychrometreics psychrometrics
 ia Plubic Public
@@ -5216,6 +5226,7 @@ ia sleecting selecting
 ia selectdion selection
 ia slection selection
 ia Semeseter Semester
+ia Semseter Semester
 ia semicolin semicolon
 ia smeinar seminar
 ia sned send
@@ -5464,6 +5475,7 @@ ia SOme Some
 ia Soem Some
 ia smoe some
 ia soem some
+ia Somehwo Somehow
 ia someoen someone
 ia somehting something
 ia someithign something
@@ -5581,6 +5593,7 @@ ia statemnet statement
 ia statemnt statement
 ia statemtn statement
 ia statment statement
+ia statmetn statement
 ia Statemments Statements
 ia stametns statements
 ia statemetns statements
@@ -5760,6 +5773,7 @@ ia syhstems systems
 ia sysetms systems
 ia sysmtems systems
 ia systemss systems
+ia systesm systems
 ia systmes systems
 ia systms systems
 ia sytesms systems
@@ -5786,6 +5800,7 @@ ia taks task
 ia Takss Tasks
 ia taought taught
 ia teacing teaching
+ia teacvhing teaching
 ia TEam Team
 ia Tema Team
 ia tema team
@@ -6175,6 +6190,7 @@ ia toolign tooling
 ia toolos tools
 ia topci topic
 ia topcis topics
+ia toppics topics
 ia TOtal Total
 ia Totoal Total
 ia Ttoal Total
@@ -6448,6 +6464,7 @@ ia utilting utilizing
 ia vaccum vacuum
 ia vcacuum vacuum
 ia avlid valid
+ia Validatiorn Validation
 ia validaiotn validation
 ia validaiton validation
 ia VAlidator Validator
@@ -6507,6 +6524,7 @@ ia ventialtion ventilation
 ia verbage verbiage
 ia Verifiatioon Verification
 ia verficaiton verification
+ia verfication verification
 ia verficiation verification
 ia verfiicaiton verification
 ia verfiication verification
