@@ -89,6 +89,7 @@ ia Addiitonal Additional
 ia Additioanl Additional
 ia addiitonal additional
 ia addiontal additional
+ia additialn additional
 ia additianl additional
 ia additiaonl additional
 ia additinal additional
@@ -186,6 +187,7 @@ ia Alos Also
 ia alos also
 ia alsso also
 ia aslo also
+ia altnerate alternate
 ia altenrative alternative
 ia Althouugh Although
 ia Athough Although
@@ -931,6 +933,7 @@ ia Coollege College
 ia Collsion Collision
 ia oclor color
 ia COlorado Colorado
+ia Colros Colors
 ia COlumn Column
 ia columnm column
 ia comlum column
@@ -1211,6 +1214,7 @@ ia contaienrs containers
 ia containesr containers
 ia contianers containers
 ia containg containing
+ia Containes Contains
 ia Contaisn Contains
 ia conatins contains
 ia contians contains
@@ -1360,6 +1364,7 @@ ia ocunty county
 ia copule couple
 ia coures course
 ia covver cover
+ia covewred covered
 ia COIVD COVID
 ia cracs CRACs
 ia crnaked cranked
@@ -1396,6 +1401,7 @@ ia currenly currently
 ia currenlyt currently
 ia currenty currently
 ia Cirruculum Curriculum
+ia ciricullum curriculum
 ia curosr cursor
 ia cursro cursor
 ia curvativure curvature
@@ -3049,6 +3055,7 @@ ia iinitial initial
 ia initail initial
 ia inital initial
 ia initali initial
+ia initila initial
 ia intiail initial
 ia intial initial
 ia intiial initial
@@ -5648,6 +5655,7 @@ ia Sring String
 ia stinrg string
 ia STrings Strings
 ia strucutre structure
+ia strcutees structures
 ia Studnent Student
 ia studnet student
 ia STuido Studio
@@ -6191,6 +6199,7 @@ ia toolos tools
 ia topci topic
 ia topcis topics
 ia toppics topics
+ia tpics topics
 ia TOtal Total
 ia Totoal Total
 ia Ttoal Total
