@@ -158,6 +158,7 @@ ia alrams alarms
 ia Albequeque Albuquerque
 ia Albequerqe Albuquerque
 ia Albequerque Albuquerque
+ia Albrquerque Albuquerque
 ia Algorihgm Algorithm
 ia algorighm algorithm
 ia algorihgm algorithm
@@ -2239,6 +2240,7 @@ ia expansionj expansion
 ia exapansions expansions
 ia expecst expect
 ia exepcted expected
+ia exepected expected
 ia expecdted expected
 ia expectedc expected
 ia expnse expense
@@ -2282,6 +2284,7 @@ ia exterioro exterior
 ia extermanl external
 ia Extermely Extremely
 ia extemrely extremely
+ia extermelty extremely
 ia extermely extremely
 ia extermley extremely
 ia extremly extremely
@@ -2569,6 +2572,7 @@ ia funtion function
 ia ufnction function
 ia FUnctional Functional
 ia Fucnttional Functional
+ia Funcatioanl Functional
 ia Funcitional Functional
 ia Functianl Functional
 ia Functiaonl Functional
@@ -2645,6 +2649,7 @@ ia genreated generated
 ia gerneated generated
 ia gneerated generated
 ia genearitong generating
+ia genration generation
 ia gneeration generation
 ia Genenrator Generator
 ia geneartor generator
@@ -3489,6 +3494,7 @@ ia maintinained maintained
 ia maintainging maintaining
 ia Maintanence Maintenance
 ia Maintenacen Maintenance
+ia Maintenacne Maintenance
 ia Maintenanece Maintenance
 ia Maintence Maintenance
 ia Maintenence Maintenance
@@ -3621,6 +3627,7 @@ ia meadian median
 ia MEdical Medical
 ia MEeting Meeting
 ia Meeitng Meeting
+ia meeeting meeting
 ia meetign meeting
 ia meetingf meeting
 ia meetring meeting
@@ -3977,6 +3984,7 @@ ia operaitonla operational
 ia operatialn operational
 ia operpational operational
 ia Operaitons Operations
+ia Operationrs Operations
 ia operaitons operations
 ia operationrs operations
 ia operatoins operations
@@ -4273,6 +4281,7 @@ ia platn plant
 ia plnat plant
 ia polant plant
 ia plnats plants
+ia platfrom platform
 ia palusible plausible
 ia paly play
 ia plya play
@@ -4317,6 +4326,7 @@ ia polytorpic polytropic
 ia poplualar popular
 ia popualte populate
 ia popualted populated
+ia prot port
 ia protable portable
 ia Portfoilfo Portfolio
 ia Protfoilo Portfolio
@@ -4643,6 +4653,7 @@ ia pruposes purposes
 ia purpoess purposes
 ia PUt Put
 ia PYthon Python
+ia Ptyhon Python
 ia Pytohn Python
 ia Pyton Python
 ia pyhton python
@@ -5170,6 +5181,7 @@ ia socope scope
 ia socpe scope
 ia Scopeing Scoping
 ia scroe score
+ia Sctot Scott
 ia scrreen screen
 ia screenshtos screenshots
 ia Scirpt Script
@@ -5473,6 +5485,7 @@ ia softweare software
 ia sofwtware software
 ia SOlar Solar
 ia Soldi Solid
+ia soluation solution
 ia solutio solution
 ia soultin solution
 ia solutiosn solutions
@@ -5643,6 +5656,7 @@ ia sotres stores
 ia storeis stories
 ia storign storing
 ia straighforward straightforward
+ia straightowrad straightforward
 ia striaghtforward straightforward
 ia stragne strange
 ia strageties strategies
@@ -5949,6 +5963,7 @@ ia tempatles templates
 ia templasets templates
 ia tempslates templates
 ia tmeplates templates
+ia temperator temporary
 ia tennants tenants
 ia teerm term
 ia temr term
@@ -6332,6 +6347,7 @@ ia ultrasonci ultrasonic
 ia unaccoutned unaccounted
 ia unavailbale unavailable
 ia unavaillable unavailable
+ia unavialbe unavailable
 ia unware unaware
 ia ucnertainties uncertainties
 ia Unceratinty Uncertainty
