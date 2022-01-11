@@ -2613,6 +2613,7 @@ ia functiosn functions
 ia functiuons functions
 ia fudnamental fundamental
 ia FUndamentals Fundamentals
+ia ufnding funding
 ia Furneral Funeral
 ia furhter further
 ia rurther further
@@ -3631,6 +3632,7 @@ ia meeeting meeting
 ia meetign meeting
 ia meetingf meeting
 ia meetring meeting
+ia meteing meeting
 ia meetingfsf meetings
 ia meleting melting
 ia emmber member
@@ -4017,6 +4019,7 @@ ia optimziation optimization
 ia otptimziaton optimization
 ia optimzie optimize
 ia optimzied optimized
+ia Optoin Option
 ia opiton option
 ia opoint option
 ia opotin option
@@ -4220,6 +4223,7 @@ ia permissioniosn permissions
 ia permissionnis permissions
 ia prequisitve perquisite
 ia perons person
+ia perosn person
 ia perisonal personal
 ia perosnal personal
 ia personla personal
@@ -4891,6 +4895,7 @@ ia Repalce Replace
 ia repalce replace
 ia repladce replace
 ia replatec replace
+ia repalced replaced
 ia repclaced replaced
 ia rpelaced replaced
 ia REplacemnt Replacement
@@ -5143,6 +5148,7 @@ ia staturation saturation
 ia Saturadya Saturday
 ia svae save
 ia saivngs savings
+ia savigns savings
 ia savinsg savings
 ia svaings savings
 ia svings savings
