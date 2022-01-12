@@ -174,6 +174,7 @@ ia alogrithms algorithms
 ia Alogn Align
 ia aling align
 ia aligened aligned
+ia alings aligns
 ia al all
 ia lal all
 ia alow allow
@@ -615,6 +616,7 @@ ia Buidling Building
 ia Buildgion Building
 ia Buildic Building
 ia Buildign Building
+ia Builkding Building
 ia biulding building
 ia buidign building
 ia buiding building
@@ -626,6 +628,7 @@ ia buikdlign building
 ia buildgin building
 ia buildign building
 ia buildin building
+ia buildinng building
 ia buildling building
 ia buildng building
 ia buildnig building
@@ -1018,6 +1021,7 @@ ia commsssioning commissioning
 ia commmit commit
 ia commti commit
 ia ocmmit commit
+ia committment commitment
 ia commiteed committed
 ia commmon common
 ia ocmmon common
@@ -1568,6 +1572,7 @@ ia desing design
 ia disgnation designation
 ia edesignation designation
 ia desiging designing
+ia desigingni designing
 ia deesriable desirable
 ia desrisable desirable
 ia desried desired
@@ -1966,6 +1971,7 @@ ia ENergy Energy
 ia Eneryg Energy
 ia enegy energy
 ia enenrgy energy
+ia energys energy
 ia enery energy
 ia eneryg energy
 ia enerygm energy
@@ -2250,6 +2256,7 @@ ia expereince experience
 ia expericnes experience
 ia experiecne experience
 ia experieece experience
+ia expreiene experience
 ia experiement experiment
 ia experimentla experimental
 ia expertice expertise
@@ -2728,6 +2735,7 @@ ia Gropu Group
 ia Grup Group
 ia gorup group
 ia gropu group
+ia groupo group
 ia gropus groups
 ia grwo grow
 ia guarantte guarantee
@@ -2968,6 +2976,7 @@ ia includddes includes
 ia includeds includes
 ia inlcudes includes
 ia includieng including
+ia INclusion Inclusion
 ia incompressibiility incompressibility
 ia Inconsistgen Inconsistent
 ia inconvient inconvenient
@@ -3288,6 +3297,7 @@ ia knoiwldege knowledge
 ia knowledgable knowledgeable
 ia knonw known
 ia knwon known
+ia kwon known
 ia kwown known
 ia Keyle Kyle
 ia Kyel Kyle
@@ -3815,6 +3825,7 @@ ia nautral natural
 ia Naturaly Naturally
 ia narturally naturally
 ia Navitage Navigate
+ia naviation navigation
 ia enearest nearest
 ia enearsets nearest
 ia neccesarily necessarily
@@ -4003,6 +4014,7 @@ ia opprotunity opportunity
 ia oppsoed opposed
 ia oppostie opposite
 ia opitmal optimal
+ia optimzial optimal
 ia optiomal optimal
 ia OPptimziation Optimization
 ia Optimizaiton Optimization
@@ -4166,6 +4178,7 @@ ia aprticualr particular
 ia aprticular particular
 ia paraticlaur particular
 ia paraticualr particular
+ia parcular particular
 ia paritcular particular
 ia particaular particular
 ia particaulr particular
@@ -4195,6 +4208,7 @@ ia pepople people
 ia pieople people
 ia poeple people
 ia popele people
+ia Pecent Percent
 ia Perfomrance Performance
 ia Performacne Performance
 ia Prefomrance Performance
@@ -4396,6 +4410,7 @@ ia powershell PowerShell
 ia PRactical Practical
 ia pracitcla practical
 ia pratical practical
+ia practicew practice
 ia practivce practice
 ia Practidces Practices
 ia Prantl Prandtl
@@ -4764,6 +4779,7 @@ ia recieves receives
 ia REcently Recently
 ia recipricate reciprocate
 ia recoginition recognition
+ia recongition recognition
 ia recogoized recognized
 ia Recomendations Recommendations
 ia recommenadtions recommendations
@@ -5037,6 +5053,7 @@ ia responsiblities responsibilities
 ia Repsonsible Responsible
 ia repsonible responsible
 ia resonsbible responsible
+ia resonsbile responsible
 ia responsbile responsible
 ia Restartign Restarting
 ia restartign restarting
@@ -5474,6 +5491,7 @@ ia lslides slides
 ia sloep slope
 ia slwodown slowdown
 ia samll small
+ia Samrt Smart
 ia samrt smart
 ia Simth Smith
 ia somke smoke
@@ -5611,6 +5629,7 @@ ia Strating Starting
 ia starign starting
 ia starst starts
 ia staturup startup
+ia Statemnet Statement
 ia astatemtn statement
 ia staatement statement
 ia statemet statement
