@@ -1753,6 +1753,7 @@ ia diveristy diversity
 ia ividvie divide
 ia od do
 ia odcs docs
+ia Docuemnt Document
 ia dcouemnt document
 ia dcoument document
 ia docuemnet document
@@ -3148,6 +3149,7 @@ ia institutaion institution
 ia insturction instruction
 ia Insturcitons Instructions
 ia Insluaiton Insulation
+ia inslulation insulation
 ia insureance insurance
 ia intanible intangible
 ia intergral integral
@@ -4411,6 +4413,7 @@ ia ptonetially potentially
 ia ptotently potentially
 ia Poweer Power
 ia pwoer power
+ia tpower power
 ia pwoered powered
 ia powershell PowerShell
 ia PRactical Practical
@@ -4791,6 +4794,7 @@ ia Recomendations Recommendations
 ia recommenadtions recommendations
 ia recoomendations recommendations
 ia REconsile Reconcile
+ia reconneciton reconnection
 ia reocrd record
 ia recoreded recorded
 ia reocrded recorded
@@ -4821,6 +4825,7 @@ ia referecne reference
 ia referencem reference
 ia refernce reference
 ia refernece reference
+ia Referecnes References
 ia Refernces References
 ia Referneces References
 ia refernecing referencing
