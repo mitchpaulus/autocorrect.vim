@@ -101,6 +101,7 @@ ia addresssed addressed
 ia addsd adds
 ia adeqauyate adequate
 ia Adjsut Adjust
+ia adjsut adjust
 ia adjsutable adjustable
 ia adjustements adjustments
 ia adjustemsnts adjustments
@@ -402,12 +403,14 @@ ia assuem assume
 ia aassumed assumed
 ia assuemd assumed
 ia assusmed assumed
+ia asumed assumed
 ia assuems assumes
 ia Assumign Assuming
 ia assumign assuming
 ia assumjption assumption
 ia assukmptions assumptions
 ia assumptiosn assumptions
+ia asyncrounous asynchronous
 ia anthete athlete
 ia atmosphereic atmospheric
 ia atmosphreric atmospheric
@@ -1744,6 +1747,9 @@ ia Distrcit District
 ia distercit district
 ia distributin distriubtion
 ia dirunal diurnal
+ia divsere diverse
+ia divserse diverse
+ia diveristy diversity
 ia ividvie divide
 ia od do
 ia odcs docs
@@ -5265,6 +5271,7 @@ ia selectedc selected
 ia sleceted selected
 ia sleected selected
 ia sleecting selecting
+ia seleciton selection
 ia selectdion selection
 ia slection selection
 ia Semeseter Semester
@@ -5748,6 +5755,7 @@ ia sunslight sunlight
 ia supercede supersede
 ia Superceded Superseded
 ia superviosr supervisor
+ia superviosry supervisory
 ia supervisoray supervisory
 ia Suuply Supply
 ia su7pply supply
@@ -6507,6 +6515,7 @@ ia uitlity utility
 ia utiltiy utility
 ia utiltiyt utility
 ia utiltliy utility
+ia utilazation utilization
 ia Utilzie Utilize
 ia utilitze utilize
 ia utilzied utilized
@@ -6579,6 +6588,7 @@ ia verficiation verification
 ia verfiicaiton verification
 ia verfiication verification
 ia verifcaiotn verification
+ia verifcation verification
 ia verifiaciaton verification
 ia verificaiotn verification
 ia verificaitn verification
