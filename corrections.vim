@@ -408,6 +408,7 @@ ia assuems assumes
 ia Assumign Assuming
 ia assumign assuming
 ia assumjption assumption
+ia asusmption assumption
 ia assukmptions assumptions
 ia assumptiosn assumptions
 ia asyncrounous asynchronous
@@ -1747,6 +1748,7 @@ ia distrubtion distribution
 ia distriubuter distributor
 ia Distrcit District
 ia distercit district
+ia dsitrict district
 ia distributin distriubtion
 ia dirunal diurnal
 ia divsere diverse
@@ -3523,6 +3525,7 @@ ia Maintenacne Maintenance
 ia Maintenanece Maintenance
 ia Maintence Maintenance
 ia Maintenence Maintenance
+ia maintenacne maintenance
 ia maintenane maintenance
 ia maintencance maintenance
 ia maintence maintenance
@@ -4589,6 +4592,7 @@ ia progrsm program
 ia projgram program
 ia programmble programmable
 ia Programmaticlaly Programmatically
+ia programmaticaly programmatically
 ia progrmamed programmed
 ia prommed programmed
 ia pgraomming programming
@@ -4652,6 +4656,7 @@ ia proportinally proportionally
 ia Proposla Proposal
 ia proposla proposal
 ia Proposlas Proposals
+ia propsoals proposals
 ia Porposed Proposed
 ia propsed proposed
 ia propsoed proposed
@@ -6674,6 +6679,7 @@ ia wanteed wanted
 ia wnated wanted
 ia wrranty warranty
 ia aws was
+ia Wter Water
 ia Wwater Water
 ia wtaer water
 ia wtera water
