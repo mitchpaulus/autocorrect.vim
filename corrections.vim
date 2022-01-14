@@ -88,6 +88,7 @@ ia addtion addition
 ia Addiitonal Additional
 ia Additioanl Additional
 ia addiitonal additional
+ia addintoial additional
 ia addiontal additional
 ia additialn additional
 ia additianl additional
@@ -2761,6 +2762,7 @@ ia Guidleing Guideline
 ia Guidleline Guideline
 ia Guidleines Guidelines
 ia guideines guidelines
+ia gusy guys
 ia ahd had
 ia haad had
 ia hbad had
@@ -3582,6 +3584,7 @@ ia mappigns mappings
 ia mapas maps
 ia Marhc March
 ia Marhd March
+ia Makr Mark
 ia amrk mark
 ia makr mark
 ia Markdwon Markdown
@@ -3784,6 +3787,7 @@ ia montiroing monitoring
 ia Montiors Monitors
 ia montiors monitors
 ia monthylo monthly
+ia montlhly monthly
 ia montly monthly
 ia montlyh monthly
 ia montyhly monthly
@@ -4903,6 +4907,7 @@ ia remainging remaining
 ia remainign remaining
 ia remianing remaining
 ia Remmeber Remember
+ia Rmeind Remind
 ia remienders reminders
 ia REmote Remote
 ia Remtoe Remote
@@ -5215,6 +5220,7 @@ ia scheduels schedules
 ia scheudles schedules
 ia scheuudles schedules
 ia shcedules schedules
+ia Scheduliing Scheduling
 ia scheduleing scheduling
 ia schedulign scheduling
 ia scheudling scheduling
