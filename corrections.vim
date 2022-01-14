@@ -493,6 +493,7 @@ ia bakcup backup
 ia bakcups backups
 ia abackwards backwards
 ia backwareds backwards
+ia bading badging
 ia balanace balance
 ia balancde balance
 ia balnace balance
@@ -822,6 +823,7 @@ ia Chatper Chapter
 ia cahpter chapter
 ia chaper chapter
 ia chatper chapter
+ia hcaracter character
 ia caharcteristic characteristic
 ia cahractersictic characteristic
 ia characteritsics characteristics
@@ -2177,6 +2179,7 @@ ia Evaportative Evaporative
 ia ewven even
 ia eventaul eventual
 ia eveyr every
+ia evry every
 ia ewvery every
 ia everytone everyone
 ia Everthing Everything
@@ -2392,6 +2395,7 @@ ia ifle file
 ia FIles Files
 ia fiels files
 ia fles files
+ia ifles files
 ia iles files
 ia fil fill
 ia Fillign Filling
@@ -2771,6 +2775,7 @@ ia ahppended happened
 ia hapenning happening
 ia happending happening
 ia happensd happens
+ia harrassing harassing
 ia ahrd hard
 ia ahas has
 ia ahs has
@@ -3473,6 +3478,7 @@ ia logarighm logarithm
 ia logartihm logarithm
 ia logatirhm logarithm
 ia logatrihm logarithm
+ia loggged logged
 ia lgic logic
 ia lgoic logic
 ia loigc logic
@@ -3532,6 +3538,7 @@ ia maek make
 ia makea make a
 ia Maekfile Makefile
 ia Mkaefile Makefile
+ia Mkes Makes
 ia amkes makes
 ia makign making
 ia magnage manage
