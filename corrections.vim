@@ -600,6 +600,7 @@ ia brainstoriming brainstorming
 ia Breka Break
 ia breka break
 ia brekadown breakdown
+ia breakre breaker
 ia Brikc Brick
 ia briging bringing
 ia brining bringing
@@ -1249,6 +1250,7 @@ ia contrcting contracting
 ia Contracotr Contractor
 ia contracdtor contractor
 ia contracor contractor
+ia contractdor contractor
 ia contractiors contractors
 ia Contriubtued Contributed
 ia contirubted contributed
@@ -1321,6 +1323,7 @@ ia coooling cooling
 ia ocoling cooling
 ia Coorinate Coordinate
 ia Coordiantion Coordination
+ia coordiantio coordination
 ia Coordinatior Coordinator
 ia copeid copied
 ia cipy copy
@@ -1707,6 +1710,7 @@ ia directoyr directory
 ia directroy directory
 ia directry directory
 ia diretory directory
+ia driecotyr directory
 ia driectory directory
 ia idrectory directory
 ia Disabeld Disabled
@@ -2011,6 +2015,7 @@ ia Enlish English
 ia engough enough
 ia engouh enough
 ia enoguh enough
+ia enoguht enough
 ia enoguth enough
 ia enought enough
 ia enrollement enrollment
@@ -3127,6 +3132,7 @@ ia INstall Install
 ia Instlal Install
 ia Invstall Install
 ia insall install
+ia insatall install
 ia insatll install
 ia insatlla install
 ia instlal install
@@ -3305,6 +3311,7 @@ ia keystorkes keystrokes
 ia ekywords keywords
 ia kcik kick
 ia Kimal Kimla
+ia Kitchne Kitchen
 ia Ktichen Kitchen
 ia ktichen kitchen
 ia ktiehcne kitchen
@@ -4240,6 +4247,7 @@ ia perfomrance performance
 ia perforamcne performance
 ia perforamnce performance
 ia performacne performance
+ia performeance performance
 ia perofmarnce performance
 ia perofrmance performance
 ia preformance performance
@@ -5405,6 +5413,7 @@ ia settting setting
 ia settigns settings
 ia settinsg settings
 ia seetup setup
+ia setuyp setup
 ia setps setups
 ia Severla Several
 ia serval several
@@ -5556,6 +5565,7 @@ ia someithign something
 ia somethign something
 ia somsethign something
 ia Somethimes Sometimes
+ia Sometmies Sometimes
 ia soemwhere somewhere
 ia saught sought
 ia Soruce Source
@@ -5869,6 +5879,7 @@ ia takne taken
 ia takees takes
 ia Takign Taking
 ia tlaking talking
+ia tlaks talks
 ia TMAU TAMU
 ia tnaks tanks
 ia targetes targets
@@ -6422,6 +6433,7 @@ ia uncertanity uncertainty
 ia uncertianty uncertainty
 ia uncertinay uncertainty
 ia unclera unclear
+ia uncondiitoned unconditioned
 ia udner under
 ia undre under
 ia udnerfloor underfloor
