@@ -1647,6 +1647,7 @@ ia devicee device
 ia edevices devices
 ia Deval Devil
 ia Deveil Devil
+ia diagnositc diagnostic
 ia Daigram Diagram
 ia diagrma diagram
 ia digarm diagram
@@ -2375,6 +2376,7 @@ ia FIdleity Fidelity
 ia Fideelity Fidelity
 ia Fideilty Fidelity
 ia Fideliuty Fidelity
+ia Fideliyt Fidelity
 ia Fidleity Fidelity
 ia Fidlity Fidelity
 ia Fiedlity Fidelity
@@ -2959,6 +2961,7 @@ ia Importatn Important
 ia Importatnt Important
 ia Improatant Important
 ia Improtant Important
+ia Improtatn Important
 ia impoartant important
 ia imporatant important
 ia imporatnt important
@@ -3578,6 +3581,7 @@ ia manula manual
 ia mnaula manual
 ia manulaly manually
 ia manulas manuals
+ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
 ia manufactureres manufacturers
 ia mahy many
@@ -3793,6 +3797,7 @@ ia montioroing monitoring
 ia montiroing monitoring
 ia Montiors Monitors
 ia montiors monitors
+ia Montlhy Monthly
 ia monthylo monthly
 ia montlhly monthly
 ia montly monthly
@@ -4614,6 +4619,7 @@ ia programmign programming
 ia programmihng programming
 ia programmming programming
 ia progrmaming programming
+ia progggrams programs
 ia progrmas programs
 ia Progess Progress
 ia proejgress progress
@@ -6031,6 +6037,7 @@ ia templasets templates
 ia tempslates templates
 ia tmeplates templates
 ia temperator temporary
+ia Tennant Tenant
 ia tennants tenants
 ia teerm term
 ia temr term
