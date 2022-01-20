@@ -408,6 +408,7 @@ ia asumed assumed
 ia assuems assumes
 ia Assumign Assuming
 ia assumign assuming
+ia Assumtion Assumption
 ia assumjption assumption
 ia asusmption assumption
 ia assukmptions assumptions
@@ -481,6 +482,7 @@ ia avialble available
 ia avialible available
 ia aviallaibe available
 ia anveage average
+ia aweare aware
 ia akw awk
 ia byab baby
 ia Bakc Back
@@ -500,6 +502,7 @@ ia balanace balance
 ia balancde balance
 ia balnace balance
 ia balnaces balances
+ia balancign balancing
 ia balll ball
 ia Badn Band
 ia bnak bank
@@ -678,6 +681,7 @@ ia BUmp Bump
 ia budnled bundled
 ia ubrned burned
 ia BUrns Burns
+ia Buhs Bush
 ia buisness business
 ia BUt But
 ia buit but
@@ -871,6 +875,7 @@ ia chiler chiller
 ia chyiller chiller
 ia CHillers Chillers
 ia Chjillers Chillers
+ia chilers chillers
 ia chilllers chillers
 ia cohice choice
 ia chooosing choosing
@@ -974,6 +979,7 @@ ia comfortbale comfortable
 ia comign coming
 ia ocming coming
 ia COmmand Command
+ia Comand Command
 ia Commadn Command
 ia comand command
 ia commad command
@@ -2085,6 +2091,7 @@ ia qual equal
 ia equialiyt equality
 ia equilaiyt equality
 ia equlaity equality
+ia equaliziation equalization
 ia EQuatino Equation
 ia EQuation Equation
 ia Equaitno Equation
@@ -2129,6 +2136,7 @@ ia equpiment equipment
 ia equpimetn equipment
 ia euiqpment equipment
 ia euqipment equipment
+ia euqipoment equipment
 ia qeuipment equipment
 ia qeuiqpment equipment
 ia eerror error
@@ -2268,6 +2276,7 @@ ia exepcted expected
 ia exepected expected
 ia expecdted expected
 ia expectedc expected
+ia expewnse expense
 ia expnse expense
 ia Experinece Experience
 ia expereicne experience
@@ -2316,6 +2325,7 @@ ia extermley extremely
 ia extremly extremely
 ia extrremely extremely
 ia facebook Facebook
+ia faciliteis facilities
 ia facilites facilities
 ia FAcility Facility
 ia FAciltiy Facility
@@ -2370,6 +2380,7 @@ ia featurtes features
 ia Februray February
 ia Feedbakc Feedback
 ia feeback feedback
+ia feedres feeders
 ia FIdelity Fidelity
 ia FIdielity Fidelity
 ia FIdleity Fidelity
@@ -2775,6 +2786,7 @@ ia haad had
 ia hbad had
 ia hari hair
 ia ahlls halls
+ia hadn hand
 ia hande handle
 ia ahndling handling
 ia handaling handling
@@ -3152,6 +3164,7 @@ ia inistalled installed
 ia insalled installed
 ia insatalled installed
 ia insatlled installed
+ia instlaled installed
 ia isntalled installed
 ia insatnce instance
 ia instane instance
@@ -3293,6 +3306,7 @@ ia Joihn John
 ia Hohnson Johnson
 ia Johnshon Johnson
 ia joiningj joining
+ia Jospeh Joseph
 ia Jsoh Josh
 ia SJON JSON
 ia json JSON
@@ -3452,6 +3466,7 @@ ia laoding loading
 ia loaidng loading
 ia lodaing loading
 ia laods loads
+ia laon loan
 ia lona loan
 ia Lobyb Lobby
 ia lboby lobby
@@ -3629,6 +3644,7 @@ ia measn means
 ia menat meant
 ia Measrue Measure
 ia Meaurse Measure
+ia measeur measure
 ia measrue measure
 ia meausre measure
 ia Measrued Measured
@@ -3986,6 +4002,7 @@ ia Octover October
 ia fo of
 ia oif of
 ia sof of
+ia offensers offenders
 ia offerse offers
 ia officinal official
 ia ofifical official
@@ -4822,6 +4839,7 @@ ia recongition recognition
 ia recogoized recognized
 ia Recomendations Recommendations
 ia recommenadtions recommendations
+ia recommendatison recommendations
 ia recoomendations recommendations
 ia REconsile Reconcile
 ia reconneciton reconnection
@@ -4919,6 +4937,7 @@ ia Remainign Remaining
 ia remaingin remaining
 ia remainging remaining
 ia remainign remaining
+ia remiaing remaining
 ia remianing remaining
 ia Remmeber Remember
 ia Rmeind Remind
@@ -4962,11 +4981,13 @@ ia Replacemnet Replacement
 ia Replacmeent Replacement
 ia Replacment Replacement
 ia repalcement replacement
+ia repalcemnet replacement
 ia repalcemnt replacement
 ia repalcment replacement
 ia replacemetn replacement
 ia replacemnet replacement
 ia replacemnt replacement
+ia replacemtn replacement
 ia replacmeent replacement
 ia replacment replacement
 ia repolacemnt replacement
@@ -4977,6 +4998,7 @@ ia repalcaemnts replacements
 ia replacments replacements
 ia repldacments replacements
 ia replcaer replacer
+ia repalcing replacing
 ia Repoort Report
 ia Reprot Report
 ia erport report
@@ -5231,6 +5253,7 @@ ia scheudled scheduled
 ia scueheudled scheduled
 ia Scheudles Schedules
 ia scheduels schedules
+ia scheludlse schedules
 ia scheudles schedules
 ia scheuudles schedules
 ia shcedules schedules
@@ -5263,6 +5286,7 @@ ia sript script
 ia Scirpted Scripted
 ia Scirpts Scripts
 ia scdripts scripts
+ia sciprts scripts
 ia scirpts scripts
 ia scripst scripts
 ia scritps scripts
@@ -5532,6 +5556,7 @@ ia skilsl skills
 ia SksySpark SkySpark
 ia SkySPark SkySpark
 ia SkySpakr SkySpark
+ia slahs slash
 ia lslides slides
 ia sloep slope
 ia slwodown slowdown
@@ -5707,6 +5732,7 @@ ia satatus status
 ia stuatus status
 ia Stema Steam
 ia staem steam
+ia stema steam
 ia Stpe Step
 ia setp step
 ia stpe step
@@ -6085,6 +6111,7 @@ ia tmerianl terminal
 ia tmerinal terminal
 ia tyerminal terminal
 ia termailns terminals
+ia termialns terminals
 ia Temrinate Terminate
 ia temrinate terminate
 ia terminatedf terminated
@@ -6379,6 +6406,7 @@ ia Tuesdya Tuesday
 ia Tusday Tuesday
 ia Tuyesdayf Tuesday
 ia tunign tuning
+ia trubines turbines
 ia trunaround turnaround
 ia turing turning
 ia TUrns Turns
