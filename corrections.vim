@@ -951,6 +951,7 @@ ia Collsion Collision
 ia oclor color
 ia COlorado Colorado
 ia Colros Colors
+ia oclors colors
 ia COlumn Column
 ia columnm column
 ia comlum column
@@ -2817,6 +2818,7 @@ ia ehading heading
 ia ehadings headings
 ia headigns headings
 ia Headquareters Headquarters
+ia Heatlh Health
 ia heatlh health
 ia HEat Heat
 ia HEating Heating
@@ -2847,6 +2849,7 @@ ia highert higher
 ia hihger higher
 ia highlihgt highlight
 ia Highlighitng Highlighting
+ia Highlihgthing Highlighting
 ia fhighlighting highlighting
 ia hgihlighting highlighting
 ia highlighing highlighting
@@ -3178,6 +3181,7 @@ ia insteadd instead
 ia Institutue Institute
 ia institutaion institution
 ia insturction instruction
+ia Instrucitnos Instructions
 ia Insturcitons Instructions
 ia Insluaiton Insulation
 ia inslulation insulation
@@ -3361,6 +3365,7 @@ ia Lanugauge Language
 ia alanguage language
 ia lanaguate language
 ia langauage language
+ia langauge language
 ia languagte language
 ia langurage language
 ia lnaguage language
@@ -3750,6 +3755,7 @@ ia Mtich Mitch
 ia maixing mixing
 ia minxing mixing
 ia MMBUT MMBTU
+ia mobilityi mobility
 ia Mdoe Mode
 ia mdoe mode
 ia Modle Model
@@ -4351,6 +4357,7 @@ ia platn plant
 ia plnat plant
 ia polant plant
 ia plnats plants
+ia plasitc plastic
 ia platfrom platform
 ia palusible plausible
 ia paly play
@@ -5802,6 +5809,7 @@ ia succedded succeeded
 ia succes success
 ia succesfful successful
 ia succesful successful
+ia successufl successful
 ia succsesful successful
 ia successivley successively
 ia succincly succinctly
@@ -5862,6 +5870,7 @@ ia synicng syncing
 ia sysncing syncing
 ia syntacially syntactically
 ia SYntax Syntax
+ia Synatx Syntax
 ia synatx syntax
 ia sysntax syntax
 ia syntehtic synthetic
@@ -6272,6 +6281,7 @@ ia Thursdya Thursday
 ia Thusrday Thursday
 ia Tuhrsday Thursday
 ia Thursdsay Thursdays
+ia thighen tighten
 ia Tigher Tighter
 ia til till
 ia TIm Tim
@@ -6816,6 +6826,7 @@ ia Whiole Whole
 ia wholeheardely wholeheartedly
 ia Wikipeida Wikipedia
 ia wikipedia wikipedia
+ia wil will
 ia Willaiams Williams
 ia iwndow window
 ia widnow window
