@@ -206,6 +206,8 @@ ia alwyas always
 ia ambigiutiy ambiguity
 ia ambigous ambiguous
 ia Ameendments Amendments
+ia Amecia America
+ia Amerecia America
 ia amoung among
 ia amounto amount
 ia amountt amount
@@ -216,6 +218,7 @@ ia analgous analogous
 ia analougous analogous
 ia analygous analogous
 ia analygousu analogous
+ia anlogue analogue
 ia Analyiss Analysis
 ia Analyusis Analysis
 ia analsyis analysis
@@ -442,6 +445,8 @@ ia attritbue attribute
 ia attriburtes attributes
 ia atttributes attributes
 ia Auguest August
+ia Austraila Australia
+ia Austrials Australia
 ia autehnticadtion authentication
 ia authenticaion authentication
 ia authenticaiton authentication
@@ -1049,6 +1054,7 @@ ia ocmmon common
 ia commonlky commonly
 ia communciate communicate
 ia communciates communicates
+ia communicatinng communicating
 ia COUMMUNICATION COMMUNICATION
 ia Communicaiton Communication
 ia commujnication communication
@@ -1201,6 +1207,7 @@ ia cosider consider
 ia Considerationd Considerations
 ia condsidered considered
 ia consdiderd considered
+ia consdiered considered
 ia consided considered
 ia consistnecy consistency
 ia ocnsistency consistency
@@ -1213,6 +1220,7 @@ ia consistns consists
 ia Constatn Constant
 ia Contstant Constant
 ia Cosntant Constant
+ia constand constant
 ia constatn constant
 ia constnat constant
 ia contsatn constant
@@ -1318,6 +1326,7 @@ ia convewrsation conversation
 ia ocnversion conversion
 ia convewrrt convert
 ia convertability convertibility
+ia converst converts
 ia convictoin conviction
 ia cocok cook
 ia cooeld cooled
@@ -1659,6 +1668,7 @@ ia devleopemtn development
 ia devleopment development
 ia developes develops
 ia devleops develops
+ia dervice device
 ia devicee device
 ia edevices devices
 ia Deval Devil
@@ -1699,6 +1709,7 @@ ia difficulity difficulty
 ia Diffuer Diffuser
 ia DIgit Digit
 ia idgit digit
+ia digial digital
 ia ditigal digital
 ia Dingin Dining
 ia dingin dining
@@ -2952,6 +2963,7 @@ ia impement implement
 ia implemnet implement
 ia implment implement
 ia Impelmentation Implementation
+ia Implemenatiaont Implementation
 ia Implemntation Implementation
 ia Implmeentation Implementation
 ia impelmentaiotn implementation
@@ -3246,6 +3258,7 @@ ia internatial international
 ia internationl international
 ia inteernet internet
 ia intenet internet
+ia Interoperability Interoperability
 ia interpoleated interpolated
 ia interpoation interpolation
 ia interregating interrogating
@@ -3975,6 +3988,7 @@ ia nomrally normally
 ia normallly normally
 ia normmaly normally
 ia normnally normally
+ia Norht North
 ia norht North
 ia NOt Not
 ia nnot not
@@ -4643,6 +4657,7 @@ ia profient proficient
 ia fprofile profile
 ia profeil profile
 ia profiel profile
+ia profiels profiles
 ia profjiels profiles
 ia rpofiles profiles
 ia PRogram Program
@@ -5089,6 +5104,7 @@ ia Requst Request
 ia erquest request
 ia requrest request
 ia requrested requested
+ia rquested requested
 ia requestor requester
 ia requrests requests
 ia requiere require
@@ -5738,6 +5754,7 @@ ia starign starting
 ia starst starts
 ia staturup startup
 ia Statemnet Statement
+ia Statemtn Statement
 ia Statment Statement
 ia astatemtn statement
 ia staatement statement
@@ -6407,6 +6424,7 @@ ia transofrmed transformed
 ia treansoffrmer transformer
 ia trnasient transient
 ia Trasnlator Translator
+ia trtansmission transmission
 ia transpaerent transparent
 ia transpiller transpiler
 ia transporation transportation
