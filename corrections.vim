@@ -85,6 +85,7 @@ ia addion addition
 ia addiotn addition
 ia additon addition
 ia addtion addition
+ia Addiitnoanal Additional
 ia Addiitonal Additional
 ia Additioanl Additional
 ia addiitonal additional
@@ -268,6 +269,7 @@ ia annotaiton annotation
 ia annula annual
 ia annulal annual
 ia naanual annual
+ia annutities annuities
 ia anomilies anomalies
 ia anomolies anomalies
 ia Anbother Another
@@ -626,6 +628,7 @@ ia Buidling Building
 ia Buildgion Building
 ia Buildic Building
 ia Buildign Building
+ia Buildinc Building
 ia Builkding Building
 ia biulding building
 ia buidign building
@@ -1038,6 +1041,7 @@ ia commti commit
 ia ocmmit commit
 ia committment commitment
 ia commiteed committed
+ia Comon Common
 ia commmon common
 ia ocmmon common
 ia commonlky commonly
@@ -1054,6 +1058,7 @@ ia communicaitons communications
 ia communicty community
 ia comapny company
 ia compnay company
+ia ocmpany company
 ia Comare Compare
 ia comapre compare
 ia comapred compared
@@ -1768,6 +1773,8 @@ ia divsere diverse
 ia divserse diverse
 ia diveristy diversity
 ia ividvie divide
+ia Divedends Dividends
+ia Divediends Dividends
 ia od do
 ia odcs docs
 ia Docuemnt Document
@@ -1975,6 +1982,7 @@ ia evmails emails
 ia meails emails
 ia emergynecy emergency
 ia emergingn emerging
+ia employeeds employees
 ia empoyer employer
 ia emploiyement employment
 ia Empyt Empty
@@ -3016,6 +3024,7 @@ ia includeds includes
 ia inlcudes includes
 ia includieng including
 ia INclusion Inclusion
+ia incoem income
 ia incompressibiility incompressibility
 ia Inconsistgen Inconsistent
 ia inconvient inconvenient
@@ -3179,6 +3188,7 @@ ia insstead instead
 ia instaed instead
 ia insteadd instead
 ia Institutue Institute
+ia instituation institution
 ia institutaion institution
 ia insturction instruction
 ia Instrucitnos Instructions
@@ -4013,6 +4023,7 @@ ia offerse offers
 ia officinal official
 ia ofifical official
 ia Oftne Often
+ia fotne often
 ia ofthen often
 ia oftne often
 ia oftentiems oftentimes
@@ -4253,11 +4264,13 @@ ia passted pasted
 ia Paht Path
 ia patritoic patriotic
 ia patten pattern
+ia paymetns payments
 ia PFD PDF
 ia Penalthy Penalty
 ia penatlty penalty
 ia penatly penalty
 ia pentalby penalty
+ia Pernsions Pensions
 ia Pnethouse Penthouse
 ia Peiople People
 ia peiople people
@@ -5160,6 +5173,7 @@ ia reutrn return
 ia returend returned
 ia Retunrs Returns
 ia Retuns Returns
+ia reutrns returns
 ia REvenue Revenue
 ia Referencewr Reverence
 ia REview Review
@@ -5708,6 +5722,7 @@ ia starign starting
 ia starst starts
 ia staturup startup
 ia Statemnet Statement
+ia Statment Statement
 ia astatemtn statement
 ia staatement statement
 ia statemet statement
@@ -5776,6 +5791,7 @@ ia strucutre structure
 ia strcutees structures
 ia Studnent Student
 ia studnet student
+ia sutdnet student
 ia STuido Studio
 ia Stuido Studio
 ia sutdy study
@@ -6415,6 +6431,7 @@ ia Tuesdeya Tuesday
 ia Tuesdya Tuesday
 ia Tusday Tuesday
 ia Tuyesdayf Tuesday
+ia TUiition Tuition
 ia tunign tuning
 ia trubines turbines
 ia trunaround turnaround
