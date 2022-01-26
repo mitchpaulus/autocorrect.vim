@@ -981,6 +981,7 @@ ia cominations combinations
 ia combiend combined
 ia comibned combined
 ia comew come
+ia Comfotr Comfort
 ia comfrot comfort
 ia comofrt comfort
 ia conformt comfort
@@ -1125,6 +1126,7 @@ ia complyhing complying
 ia compoennts components
 ia componenets components
 ia compoonents components
+ia comprehensitve comprehensive
 ia commpress compress
 ia comrpession compression
 ia Compresor Compressor
@@ -1347,6 +1349,7 @@ ia cooolign cooling
 ia coooling cooling
 ia ocoling cooling
 ia Coorinate Coordinate
+ia coordiante coordinate
 ia Coordiantion Coordination
 ia coordiantio coordination
 ia Coordinatior Coordinator
@@ -1510,6 +1513,7 @@ ia depper deeper
 ia Deafualt Default
 ia Deafult Default
 ia Defautl Default
+ia Defualt Default
 ia deafult default
 ia deafutl default
 ia deauflt default
@@ -1522,6 +1526,7 @@ ia dfeault default
 ia efault default
 ia deauflts defaults
 ia defatuls defaults
+ia deficiences deficiencies
 ia fdefine define
 ia defiend defined
 ia definned defined
@@ -1934,6 +1939,7 @@ ia educatinosl educational
 ia effectiley effectively
 ia effectivientss effectiveness
 ia effectes effects
+ia efficiencies efficiencies
 ia Efficiewncy Efficiency
 ia efficicency efficiency
 ia efficiencty efficiency
@@ -4015,6 +4021,7 @@ ia nubmer number
 ia nunmber number
 ia numering numbering
 ia nubmers numbers
+ia nubmerse numbers
 ia Numverical Numerical
 ia numercial numerical
 ia Ojbect Object
@@ -4118,6 +4125,7 @@ ia optimizaiotn optimization
 ia optimizaiton optimization
 ia optimziaiotn optimization
 ia optimziaiton optimization
+ia optimziaotin optimization
 ia optimziatino optimization
 ia optimziation optimization
 ia otptimziaton optimization
@@ -4947,6 +4955,7 @@ ia regernation regeneration
 ia regisetered registered
 ia REgression Regression
 ia regrssion regression
+ia REgular Regular
 ia regualr regular
 ia regural regular
 ia regualry regularly
@@ -5625,6 +5634,7 @@ ia Socail Social
 ia socail social
 ia Sfotware Software
 ia Softwaere Software
+ia Softwrae Software
 ia softawer software
 ia softwaer software
 ia softwaere software
@@ -6392,6 +6402,7 @@ ia toweres towers
 ia Toytoa Toyota
 ia Tyotoa Toyota
 ia Trackign Tracking
+ia Trakcing Tracking
 ia tarckign tracking
 ia trackign tracking
 ia trakcing tracking
@@ -6988,6 +6999,7 @@ ia yaer year
 ia yare year
 ia yera year
 ia yeras years
+ia YEs Yes
 ia yewt yet
 ia YOu You
 ia yhou you
