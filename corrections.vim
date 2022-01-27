@@ -2144,6 +2144,7 @@ ia Equipemnt Equipment
 ia Equipmetn Equipment
 ia Equpiment Equipment
 ia eequipment equipment
+ia eqiupemnt equipment
 ia eqiupment equipment
 ia equiepment equipment
 ia equiment equipment
