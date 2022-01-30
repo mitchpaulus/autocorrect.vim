@@ -473,6 +473,7 @@ ia avaialabe available
 ia avaialbable available
 ia avaialbe available
 ia avaialble available
+ia availaable available
 ia availabe available
 ia availabee available
 ia availalbe available
@@ -1124,6 +1125,7 @@ ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
 ia compoennts components
+ia compoents components
 ia componenets components
 ia compoonents components
 ia comprehensitve comprehensive
@@ -1836,6 +1838,7 @@ ia documenation documentation
 ia documentaion documentation
 ia documentaiont documentation
 ia documentaiotn documentation
+ia documentaitno documentation
 ia documentaiton documentation
 ia documentatino documentation
 ia documention documentation
@@ -2268,6 +2271,7 @@ ia exhcange exchange
 ia exchagner exchanger
 ia exchangesr exchangers
 ia exectuable executable
+ia execuable executable
 ia exeucutalble executable
 ia exectue execute
 ia execture execute
@@ -2834,6 +2838,7 @@ ia happending happening
 ia happensd happens
 ia harrassing harassing
 ia ahrd hard
+ia Hardoware Hardware
 ia ahas has
 ia ahs has
 ia ahve have
@@ -3227,6 +3232,7 @@ ia intanible intangible
 ia intergral integral
 ia integreated integrated
 ia Integratign Integrating
+ia Integreation Integration
 ia integraiton integration
 ia integrtation integration
 ia integrations integrations
@@ -3264,6 +3270,7 @@ ia Internaitonal International
 ia internalation international
 ia internatial international
 ia internationl international
+ia Internat Internet
 ia inteernet internet
 ia intenet internet
 ia Interoperability Interoperability
@@ -3393,6 +3400,7 @@ ia lbaeled labeled
 ia labelign labeling
 ia lableing labeling
 ia lables labels
+ia Laboraroties Laboratories
 ia Laboratoyr Laboratory
 ia Laboratoyrt Laboratory
 ia Laborayr Laboratory
@@ -3440,6 +3448,7 @@ ia lvelv level
 ia lvevl level
 ia flevels levels
 ia liason liaison
+ia LIberty Liberty
 ia libaries libraries
 ia LIbrary Library
 ia Libarrya Library
@@ -3611,6 +3620,7 @@ ia maek make
 ia makea make a
 ia Maekfile Makefile
 ia Mkaefile Makefile
+ia amker maker
 ia Mkes Makes
 ia amkes makes
 ia makign making
@@ -3642,6 +3652,7 @@ ia manulas manuals
 ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
 ia manufactureres manufacturers
+ia Mnay Many
 ia mahy many
 ia mnay many
 ia mpa map
@@ -4027,6 +4038,7 @@ ia nubmerse numbers
 ia Numverical Numerical
 ia numercial numerical
 ia Ojbect Object
+ia obejct object
 ia objecdt object
 ia ojbect object
 ia obejcts objects
@@ -4066,6 +4078,7 @@ ia Olvie Olive
 ia ommited omitted
 ia ommitted omitted
 ia onr on
+ia onthe on the
 ia ONce Once
 ia onec once
 ia ONe One
@@ -5140,6 +5153,7 @@ ia requiemernts requirements
 ia requirementse requirements
 ia requiremnets requirements
 ia requirmentrs requirements
+ia requirments requirements
 ia requrienments requirements
 ia requres requires
 ia requries requires
@@ -5359,6 +5373,7 @@ ia sripts scripts
 ia Serach Search
 ia searhc search
 ia serach search
+ia searchable searchable
 ia serached searched
 ia seraches searches
 ia Seraching Searching
@@ -5688,6 +5703,7 @@ ia Speicla Special
 ia sepcila special
 ia speical special
 ia Specilized Specialized
+ia Spefici Specific
 ia spciifc specific
 ia specidic specific
 ia speciific specific
@@ -6573,6 +6589,7 @@ ia unqiue unique
 ia uhnti unit
 ia uint unit
 ia unti unit
+ia Uniterd United
 ia Untis Units
 ia lunits units
 ia uints units
@@ -6992,6 +7009,7 @@ ia woudl would
 ia wouold would
 ia wuoudl would
 ia wraper wrapper
+ia writeaable writable
 ia Writie Write
 ia wirte write
 ia wirting writing
