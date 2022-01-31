@@ -1,3 +1,4 @@
+ia Abondonding Abandoning
 ia abbreivaiton abbreviation
 ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
@@ -904,6 +905,7 @@ ia circutis circuits
 ia curcuites circuits
 ia circualr circular
 ia Ciit Citi
+ia CIty City
 ia cliam claim
 ia Clairdge Claridge
 ia Clairdige Claridge
@@ -1479,6 +1481,7 @@ ia dampe4r damper
 ia dmaper damper
 ia dmpaers dampers
 ia Danelli Daniel
+ia Dianel Daniel
 ia dahsboard dashboard
 ia DAta Data
 ia daat data
@@ -2003,6 +2006,7 @@ ia eamil email
 ia emali email
 ia emial email
 ia meail email
+ia emaisl emails
 ia evmails emails
 ia meails emails
 ia emergynecy emergency
@@ -2737,6 +2741,7 @@ ia gneraator generator
 ia gnerator generator
 ia geneators generators
 ia generaotrs generators
+ia generaters generators
 ia gneerators generators
 ia geomerty geometry
 ia geometyr geometry
@@ -2839,6 +2844,7 @@ ia happensd happens
 ia harrassing harassing
 ia ahrd hard
 ia Hardoware Hardware
+ia Harrsion Harrison
 ia ahas has
 ia ahs has
 ia ahve have
