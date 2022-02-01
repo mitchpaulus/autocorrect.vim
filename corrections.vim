@@ -89,6 +89,7 @@ ia addtion addition
 ia Addiitnoanal Additional
 ia Addiitonal Additional
 ia Additioanl Additional
+ia Additonaol Additional
 ia addiitonal additional
 ia addintoial additional
 ia addiontal additional
@@ -98,6 +99,7 @@ ia additianl additional
 ia additiaonl additional
 ia additinal additional
 ia additioanl additional
+ia additionanl additional
 ia additonitnal additional
 ia addtional additional
 ia dadditional additional
@@ -3727,6 +3729,8 @@ ia measuremenht measurement
 ia measuremnet measurement
 ia measuremnt measurement
 ia measurment measurement
+ia measuarements measurements
+ia measuerments measurements
 ia measuremensts measurements
 ia measuremnets measurements
 ia measuremnts measurements
@@ -4813,6 +4817,7 @@ ia PUrple Purple
 ia prupurose purpose
 ia pruposes purposes
 ia purpoess purposes
+ia Puhs Push
 ia PUt Put
 ia PYthon Python
 ia Ptyhon Python
@@ -6164,6 +6169,7 @@ ia tempatles templates
 ia templasets templates
 ia tempslates templates
 ia tmeplates templates
+ia Temporray Temporary
 ia temperator temporary
 ia Tennant Tenant
 ia tennants tenants
