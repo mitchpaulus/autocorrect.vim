@@ -937,6 +937,7 @@ ia Clluster Cluster
 ia clustors clusters
 ia OC2 CO2
 ia Cosatdown Coastdown
+ia codce code
 ia ocde code
 ia codiing coding
 ia coefficent coefficient
@@ -1116,6 +1117,7 @@ ia compltetd completed
 ia complteted completed
 ia comptleted completed
 ia compeletlye completely
+ia compleetly completely
 ia completetly completely
 ia completey completely
 ia completeyl completely
@@ -1319,6 +1321,7 @@ ia contorrls controls
 ia contreols controls
 ia contrls controls
 ia controsl controls
+ia cotnrosl controls
 ia ocntrosl controls
 ia convienent convenient
 ia convient convenient
@@ -1514,6 +1517,7 @@ ia Declien Decline
 ia decommissoin decommission
 ia decreaesed decreased
 ia decreasees decreases
+ia decidiated dedicated
 ia dedicaed dedicated
 ia depper deeper
 ia Deafualt Default
@@ -2777,6 +2781,7 @@ ia oging going
 ia GOod Good
 ia Goodgle Google
 ia Googoel Google
+ia GOt Got
 ia govenrment government
 ia governemnt government
 ia gvovernmental governmental
@@ -3079,6 +3084,7 @@ ia indentpent independent
 ia independnt independent
 ia indepenedent independent
 ia indepndent independent
+ia indciate indicate
 ia INdicates Indicates
 ia indiciatiton indication
 ia Indiviudal Individual
@@ -3506,6 +3512,7 @@ ia linuux Linux
 ia llinux Linux
 ia liqudi liquid
 ia liquied liquid
+ia lsit list
 ia leisted listed
 ia listerner listener
 ia liests lists
@@ -4032,6 +4039,7 @@ ia noticiable noticeable
 ia notificaiton notification
 ia notificaitons notifications
 ia novle novel
+ia Novemeber November
 ia Novemenber November
 ia Novermber November
 ia NOw Now
@@ -5480,6 +5488,7 @@ ia Sereis Series
 ia sereis series
 ia sseries series
 ia serios serious
+ia sreved served
 ia Servie Service
 ia servcie service
 ia Serviecs Services
@@ -6448,6 +6457,7 @@ ia triangin training
 ia trianing training
 ia trinaing training
 ia TRane Trane
+ia Trnae Trane
 ia trnasducers transducers
 ia tansfer transfer
 ia transefer transfer
