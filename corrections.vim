@@ -363,6 +363,7 @@ ia Architecturla Architectural
 ia archetictural architectural
 ia architectdure architecture
 ia architecutrue architecture
+ia architeture architecture
 ia arvhies archives
 ia Aer Are
 ia aer are
@@ -1034,6 +1035,7 @@ ia Commissiooing Commissioning
 ia Commisssiong Commissioning
 ia Commisssiongin Commissioning
 ia Commjissiong Commissioning
+ia Commmissionign Commissioning
 ia Commsiiongin Commissioning
 ia Commsisiongin Commissioning
 ia Commsissiong Commissioning
@@ -1203,6 +1205,7 @@ ia configutration configuration
 ia COnfirm Confirm
 ia Conrim Confirm
 ia confirmaiton confirmation
+ia Confrimed Confirmed
 ia Confusted Confused
 ia confustion confusion
 ia conjuntion conjunction
@@ -1315,6 +1318,7 @@ ia Controllign Controlling
 ia Contorls Controls
 ia Contrls Controls
 ia Controsl Controls
+ia conntrls controls
 ia conrols controls
 ia conrtrols controls
 ia contorels controls
@@ -1335,6 +1339,7 @@ ia conventilan conventional
 ia conventioanl conventional
 ia convewrsation conversation
 ia converison conversion
+ia converseion conversion
 ia ocnversion conversion
 ia convewrrt convert
 ia convertability convertibility
@@ -1956,6 +1961,7 @@ ia efficiencies efficiencies
 ia Efficiewncy Efficiency
 ia efficicency efficiency
 ia efficiencty efficiency
+ia efficiencye efficiency
 ia efficienty efficiency
 ia efficincy efficiency
 ia effoft effort
@@ -1996,6 +2002,7 @@ ia electricay electricity
 ia electriciyt electricity
 ia electyriciyt electricity
 ia electyricyt electricity
+ia electronci electronic
 ia elemnmet element
 ia elemnt element
 ia elment element
@@ -2478,6 +2485,7 @@ ia Fianl Final
 ia fianl final
 ia filan final
 ia filnal final
+ia finall final
 ia finla final
 ia finialize finalize
 ia FInalizing Finalizing
@@ -2927,6 +2935,7 @@ ia holdiay holiday
 ia HOliddays Holidays
 ia hoem home
 ia Horizontla Horizontal
+ia Horiztonal Horizontal
 ia horizonatal horizontal
 ia Hoorry Horry
 ia horespower horsepower
@@ -3081,6 +3090,7 @@ ia increasees increases
 ia increaseing increasing
 ia incrteasing increasing
 ia indenpendence independence
+ia indepoendence independence
 ia indedependt independent
 ia indentpent independent
 ia independnt independent
@@ -3619,6 +3629,7 @@ ia Maintenacne Maintenance
 ia Maintenanece Maintenance
 ia Maintence Maintenance
 ia Maintenence Maintenance
+ia maintaneence maintenance
 ia maintenacne maintenance
 ia maintenane maintenance
 ia maintencance maintenance
@@ -3958,6 +3969,7 @@ ia neeccessary necessary
 ia NEed Need
 ia NEedc Need
 ia ened need
+ia neeed need
 ia eneded needed
 ia NEeds Needs
 ia eneds needs
@@ -4429,6 +4441,7 @@ ia Plannin8g Planning
 ia plannign planning
 ia palns plans
 ia Palnt Plant
+ia Plnat Plant
 ia pallnt plant
 ia palnt plant
 ia platn plant
@@ -4535,6 +4548,7 @@ ia potnetail potential
 ia potnetial potential
 ia ptoentail potential
 ia ptoential potential
+ia ptoetnal potential
 ia potentailly potentially
 ia potentiallly potentially
 ia potentilaly potentially
@@ -4970,6 +4984,7 @@ ia Referecnes References
 ia Refernces References
 ia Referneces References
 ia refernecing referencing
+ia refleccted reflected
 ia Reformaatted Reformatted
 ia Refreash Refresh
 ia refrehsed refreshed
@@ -6473,6 +6488,7 @@ ia Transferrign Transferring
 ia Transfomraitons Transformations
 ia transofrmed transformed
 ia treansoffrmer transformer
+ia Transfomrers Transformers
 ia trnasient transient
 ia Trasnlator Translator
 ia trtansmission transmission
@@ -6776,6 +6792,7 @@ ia verfiication verification
 ia verifcaiotn verification
 ia verifcation verification
 ia verifiaciaton verification
+ia verifiaiotn verification
 ia verificaiotn verification
 ia verificaitn verification
 ia verificaiton verification
