@@ -907,6 +907,7 @@ ia circutry circuitry
 ia circutis circuits
 ia curcuites circuits
 ia circualr circular
+ia citaitons citations
 ia Ciit Citi
 ia CIty City
 ia cliam claim
@@ -1132,6 +1133,7 @@ ia compeltion completion
 ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
+ia componenet component
 ia compoennts components
 ia compoents components
 ia componenets components
@@ -1165,6 +1167,7 @@ ia consiseness conciseness
 ia Conclustions Conclusions
 ia Conslusions Conclusions
 ia conculsions conclusions
+ia conlcusions conclusions
 ia ocnclusions conclusions
 ia ocncourse concourse
 ia concreate concrete
@@ -1495,6 +1498,7 @@ ia Dianel Daniel
 ia dahsboard dashboard
 ia DAta Data
 ia daat data
+ia daata data
 ia datapoints data points
 ia dta data
 ia Datbase Database
@@ -1609,6 +1613,7 @@ ia describved described
 ia decribing describing
 ia Descriptoin Description
 ia Descripton Description
+ia describtion description
 ia descripti description
 ia descriptio description
 ia descriptoin description
@@ -1863,6 +1868,7 @@ ia docuemnted documented
 ia docuementign documenting
 ia documentionat documenting
 ia doucmenting documenting
+ia Doucments Documents
 ia docuemnts documents
 ia doucments documents
 ia deso does
@@ -2527,6 +2533,7 @@ ia ifrst first
 ia ifhs fish
 ia ifsh fish
 ia FIx Fix
+ia ifx fix
 ia fxed fixed
 ia ifxes fixes
 ia FIxing Fixing
@@ -3845,6 +3852,7 @@ ia Modleing Modeling
 ia mdoeling modeling
 ia mdoleing modeling
 ia modelign modeling
+ia modelling modeling
 ia modleing modeling
 ia modleling modeling
 ia modleoing modeling
@@ -3857,6 +3865,7 @@ ia modles models
 ia modenr modern
 ia modeset modest
 ia modfication modification
+ia modificaiotn modification
 ia modificaiton modification
 ia modificaitons modifications
 ia modificatiuons modifications
@@ -4204,6 +4213,7 @@ ia rogainations organizations
 ia Orgainzing Organizing
 ia Origilan Original
 ia origal original
+ia origial original
 ia origianl original
 ia origiinal original
 ia originall original
@@ -4494,6 +4504,7 @@ ia polytorpic polytropic
 ia poplualar popular
 ia popualte populate
 ia popualted populated
+ia popualtes populates
 ia prot port
 ia protable portable
 ia Portfoilfo Portfolio
@@ -5595,6 +5606,7 @@ ia SHould Should
 ia SHuold Should
 ia Shiould Should
 ia Shoudl Should
+ia Shuld Should
 ia hsould should
 ia shold should
 ia sholud should
@@ -6702,6 +6714,7 @@ ia usefullness usefulness
 ia suer user
 ia us9ing using
 ia useing using
+ia usging using
 ia usign using
 ia usingn using
 ia usula usual
