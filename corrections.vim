@@ -1,4 +1,5 @@
 ia Abondonding Abandoning
+ia abondoning abandoning
 ia abbreivaiton abbreviation
 ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
@@ -724,6 +725,7 @@ ia caclulation calculation
 ia claculation calculation
 ia dalculation calculation
 ia Calcuaitons Calculations
+ia caclulations calculations
 ia calcualtions calculations
 ia caluclations calculations
 ia claculations calculations
@@ -1321,6 +1323,7 @@ ia Controllign Controlling
 ia Contorls Controls
 ia Contrls Controls
 ia Controsl Controls
+ia Coontorls Controls
 ia conntrls controls
 ia conrols controls
 ia conrtrols controls
@@ -3351,6 +3354,7 @@ ia inrrelevt irrelevant
 ia irreversilbe irreversible
 ia fis is
 ia isoalted isolated
+ia isolaiotn isolation
 ia isothermla isothermal
 ia isseu issue
 ia isseus issues
@@ -4328,6 +4332,7 @@ ia aprtial partial
 ia paritla partial
 ia partail partial
 ia partialy partially
+ia partilaly partially
 ia Particiapnts Participants
 ia aprticualr particular
 ia aprticular particular
@@ -4831,6 +4836,7 @@ ia Pulliung Pulling
 ia pulliing pulling
 ia pulliung pulling
 ia PUmp Pump
+ia upmp pump
 ia PUmps Pumps
 ia pmpups pumps
 ia poumps pumps
@@ -5394,6 +5400,7 @@ ia socpe scope
 ia Scopeing Scoping
 ia scroe score
 ia Sctot Scott
+ia scracth scratch
 ia scrreen screen
 ia screenshtos screenshots
 ia Scirpt Script
@@ -5459,6 +5466,7 @@ ia sleecting selecting
 ia seleciton selection
 ia selectdion selection
 ia slection selection
+ia selectvie selective
 ia Semeseter Semester
 ia Semseter Semester
 ia semicolin semicolon
@@ -6209,6 +6217,7 @@ ia Termain Terminal
 ia Termainl Terminal
 ia Termialn Terminal
 ia Termianl Terminal
+ia Termibla Terminal
 ia Termilan Terminal
 ia Terminail Terminal
 ia Termninail Terminal
@@ -6245,6 +6254,7 @@ ia tmenial terminal
 ia tmerianl terminal
 ia tmerinal terminal
 ia tyerminal terminal
+ia temrainls terminals
 ia termailns terminals
 ia termialns terminals
 ia Temrinate Terminate
@@ -6844,6 +6854,7 @@ ia Visison Vision
 ia VIsit Visit
 ia Visti Visit
 ia viisti visit
+ia vist visit
 ia visti visit
 ia Vistied Visited
 ia viesits visits
