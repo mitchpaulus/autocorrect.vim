@@ -504,6 +504,7 @@ ia bakc back
 ia Backgroudn Background
 ia backgorund background
 ia backgruond background
+ia bakcgroudn background
 ia Backslahs Backslash
 ia backslahs backslash
 ia backupa backup
@@ -819,6 +820,7 @@ ia cetnral central
 ia cewntral central
 ia cnetal central
 ia cnetral central
+ia cnetrla central
 ia Ceratin Certain
 ia Certian Certain
 ia ceratin certain
@@ -1349,6 +1351,7 @@ ia converseion conversion
 ia ocnversion conversion
 ia convewrrt convert
 ia convertability convertibility
+ia coverting converting
 ia converst converts
 ia convictoin conviction
 ia cocok cook
@@ -1499,6 +1502,7 @@ ia dmpaers dampers
 ia Danelli Daniel
 ia Dianel Daniel
 ia dahsboard dashboard
+ia daashboards dashboards
 ia DAta Data
 ia daat data
 ia daata data
@@ -1907,6 +1911,7 @@ ia drwa draw
 ia drwawer drawer
 ia drwaing drawing
 ia draings drawings
+ia drawigns drawings
 ia drawwigns drawings
 ia drwaings drawings
 ia drwan drawn
@@ -2141,6 +2146,7 @@ ia enviromental environmental
 ia enviorments environments
 ia enviroments environments
 ia environemntes environments
+ia Enviosn Envision
 ia Epidimeology Epidemiology
 ia Equla Equal
 ia eqaul equal
@@ -2217,6 +2223,7 @@ ia especitaly especially
 ia essense essence
 ia Eseentially Essentially
 ia essentialy essentially
+ia esssentially essentially
 ia esttae estate
 ia asthetically esthetically
 ia Esitmate Estimate
@@ -2262,6 +2269,7 @@ ia evry every
 ia ewvery every
 ia everytone everyone
 ia Everthing Everything
+ia Evertyhgin Everything
 ia Evertying Everything
 ia Everythign Everything
 ia evertyhgin everything
@@ -2743,6 +2751,7 @@ ia gneeral general
 ia gneral general
 ia Generlaly Generally
 ia Genrally Generally
+ia Genrlally Generally
 ia genearlly generally
 ia genearly generally
 ia gnerally generally
@@ -3460,6 +3469,7 @@ ia llage large
 ia lrage large
 ia alst last
 ia lateset latest
+ia Leadersihp Leadership
 ia leasd leads
 ia Leakding Leaking
 ia Leanr Learn
@@ -3467,6 +3477,7 @@ ia leanr learn
 ia leanred learned
 ia Leanring Learning
 ia leanring learning
+ia leaset least
 ia leats least
 ia LEft Left
 ia LEgacy Legacy
@@ -4844,6 +4855,7 @@ ia upmps pumps
 ia purchse purchase
 ia Puchased Purchased
 ia purcahsed purchased
+ia purhcased purchased
 ia PUrple Purple
 ia prupurose purpose
 ia pruposes purposes
@@ -5178,6 +5190,7 @@ ia reproducable reproducible
 ia Requst Request
 ia erquest request
 ia requrest request
+ia erquested requested
 ia requrested requested
 ia rquested requested
 ia requestor requester
@@ -5694,6 +5707,7 @@ ia slahs slash
 ia lslides slides
 ia sloep slope
 ia slwodown slowdown
+ia slowign slowing
 ia samll small
 ia Samrt Smart
 ia samrt smart
@@ -6255,6 +6269,7 @@ ia tmerianl terminal
 ia tmerinal terminal
 ia tyerminal terminal
 ia temrainls terminals
+ia termailnls terminals
 ia termailns terminals
 ia termialns terminals
 ia Temrinate Terminate
@@ -6364,6 +6379,7 @@ ia THink Think
 ia htink think
 ia thingks thinks
 ia THird Third
+ia THrid Third
 ia Thrid Third
 ia thrid third
 ia THis This
@@ -6974,6 +6990,7 @@ ia Whiole Whole
 ia wholeheardely wholeheartedly
 ia Wikipeida Wikipedia
 ia wikipedia wikipedia
+ia WIll Will
 ia wil will
 ia Willaiams Williams
 ia iwndow window
