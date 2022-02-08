@@ -814,6 +814,7 @@ ia cneter center
 ia cewntered centered
 ia Centrla Central
 ia Cnetral Central
+ia Cnetrla Central
 ia centrla central
 ia certral central
 ia cetnral central
@@ -1467,6 +1468,7 @@ ia currenltyl currently
 ia currenly currently
 ia currenlyt currently
 ia currenty currently
+ia currrenlty currently
 ia Cirruculum Curriculum
 ia ciricullum curriculum
 ia curosr cursor
@@ -2190,6 +2192,7 @@ ia equipement equipment
 ia equipemetn equipment
 ia equipemnt equipment
 ia equipemtn equipment
+ia equipmeant equipment
 ia equipmemtne equipment
 ia equipmeth equipment
 ia equipmetn equipment
@@ -5218,6 +5221,7 @@ ia requirementse requirements
 ia requiremnets requirements
 ia requirmentrs requirements
 ia requirments requirements
+ia requriemestn requirements
 ia requrienments requirements
 ia requres requires
 ia requries requires
@@ -5909,6 +5913,7 @@ ia straightowrad straightforward
 ia striaghtforward straightforward
 ia stragne strange
 ia strageties strategies
+ia stratetgies strategies
 ia straem stream
 ia strema stream
 ia strenght strength
