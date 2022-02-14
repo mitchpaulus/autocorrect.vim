@@ -204,6 +204,7 @@ ia Athough Although
 ia althoguh although
 ia altogehter altogether
 ia Alwyas Always
+ia alawys always
 ia alsways always
 ia alwasy always
 ia alwyas always
@@ -2392,6 +2393,7 @@ ia extensiosn extensions
 ia exetiror exterior
 ia exterioro exterior
 ia extermanl external
+ia extrpaolation extrapolation
 ia Extermely Extremely
 ia extemrely extremely
 ia extermelty extremely
@@ -3520,6 +3522,7 @@ ia lghting lighting
 ia lgighting lighting
 ia lighing lighting
 ia lighitng lighting
+ia lightign lighting
 ia lightins lighting
 ia lihgting lighting
 ia lihgts lights
@@ -3559,6 +3562,7 @@ ia lieterature literature
 ia Littel Little
 ia littee little
 ia littel little
+ia lttile little
 ia Lyold Lloyd
 ia Laod Load
 ia laod load
@@ -3702,6 +3706,7 @@ ia manulaly manually
 ia manulas manuals
 ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
+ia manufuacture manufacturer
 ia manufactureres manufacturers
 ia Mnay Many
 ia mahy many
@@ -4190,6 +4195,7 @@ ia optiomal optimal
 ia OPptimziation Optimization
 ia Optimizaiton Optimization
 ia Optimziainton Optimization
+ia Optimziaiotn Optimization
 ia Optimziaiton Optimization
 ia Optimziation Optimization
 ia Optiomization Optimization
@@ -4525,6 +4531,7 @@ ia popualte populate
 ia popualted populated
 ia popualtes populates
 ia prot port
+ia protabliity portability
 ia protable portable
 ia Portfoilfo Portfolio
 ia Protfoilo Portfolio
@@ -4915,6 +4922,7 @@ ia quiclyi quickly
 ia quikcly quickly
 ia quikly quickly
 ia quilckly quickly
+ia quitely quietly
 ia quilte quite
 ia qutie quite
 ia quoatiaon quotation
@@ -5434,6 +5442,7 @@ ia Scirpted Scripted
 ia Scirpts Scripts
 ia scdripts scripts
 ia sciprts scripts
+ia scirpst Scripts
 ia scirpts scripts
 ia scripst scripts
 ia scritps scripts
@@ -5914,6 +5923,7 @@ ia striaghtforward straightforward
 ia stragne strange
 ia strageties strategies
 ia stratetgies strategies
+ia stary stray
 ia straem stream
 ia strema stream
 ia strenght strength
@@ -6529,6 +6539,7 @@ ia trnasfer transfer
 ia transferrable transferable
 ia Transferrign Transferring
 ia Transfomraitons Transformations
+ia Trnasformaitons Transformations
 ia transofrmed transformed
 ia treansoffrmer transformer
 ia Transfomrers Transformers
