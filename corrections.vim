@@ -1390,6 +1390,7 @@ ia correcdt correct
 ia correctd correct
 ia correcdtly correctly
 ia correclty correctly
+ia ocrrectly correctly
 ia corerlate correlate
 ia correpsnd correspond
 ia correspodn correspond
@@ -2307,6 +2308,7 @@ ia excpetions exceptions
 ia exhanger exchange
 ia exhcange exchange
 ia exchagner exchanger
+ia Exhcangerse Exchangers
 ia exchangesr exchangers
 ia exectuable executable
 ia execuable executable
@@ -3242,6 +3244,7 @@ ia insall install
 ia insatall install
 ia insatll install
 ia insatlla install
+ia installl install
 ia instlal install
 ia isntall install
 ia istnall install
@@ -4388,6 +4391,7 @@ ia Peiople People
 ia peiople people
 ia pepople people
 ia pieople people
+ia pioeple people
 ia poeple people
 ia popele people
 ia Pecent Percent
