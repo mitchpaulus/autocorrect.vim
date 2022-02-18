@@ -305,6 +305,7 @@ ia papear appear
 ia ppear appear
 ia appearancew appearance
 ia aappears appears
+ia appeas appears
 ia appreas appears
 ia apepndix appendix
 ia applicaable applicable
@@ -1921,6 +1922,7 @@ ia drawwigns drawings
 ia drwaings drawings
 ia drwan drawn
 ia dirve drive
+ia drifen driven
 ia drivesr drivers
 ia dorp drop
 ia dropwdown dropdown
@@ -2565,6 +2567,7 @@ ia Fllor Floor
 ia Floro Floor
 ia floro floor
 ia lfoors floors
+ia FLow Flow
 ia Flwo Flow
 ia flolw flow
 ia flwo flow
@@ -2815,6 +2818,7 @@ ia goinv going
 ia goiung going
 ia goivng going
 ia gonig going
+ia goping going
 ia oging going
 ia GOod Good
 ia Goodgle Google
@@ -3776,8 +3780,10 @@ ia measuremenht measurement
 ia measuremnet measurement
 ia measuremnt measurement
 ia measurment measurement
+ia measruemenst measurements
 ia measuarements measurements
 ia measuerments measurements
+ia measuremenst measurements
 ia measuremensts measurements
 ia measuremnets measurements
 ia measuremnts measurements
@@ -6925,6 +6931,7 @@ ia wlak walk
 ia Walkthorugh Walkthrough
 ia Walthrough Walkthrough
 ia walthrough walkthrough
+ia wanwt want
 ia watn want
 ia wnat want
 ia wanteed wanted
