@@ -1113,6 +1113,7 @@ ia pcompiled compiled
 ia complier compiler
 ia compoiler compiler
 ia COmpilers Compilers
+ia compilign compiling
 ia compliing compiling
 ia ocmplaints complaints
 ia compolement complement
@@ -1129,6 +1130,7 @@ ia compleeted completed
 ia compltetd completed
 ia complteted completed
 ia comptleted completed
+ia Comopletely Completely
 ia compeletlye completely
 ia compleetly completely
 ia completetly completely
@@ -1376,6 +1378,7 @@ ia coooing cooling
 ia cooolign cooling
 ia coooling cooling
 ia ocoling cooling
+ia Coordiante Coordinate
 ia Coorinate Coordinate
 ia coordiante coordinate
 ia Coordiantion Coordination
@@ -2009,6 +2012,7 @@ ia eelectyrical electrical
 ia elecricial electrical
 ia electical electrical
 ia electircal electrical
+ia electrialc electrical
 ia electricial electrical
 ia electricla electrical
 ia ewlectrical electrical
@@ -3094,6 +3098,7 @@ ia ina in a
 ia inb in
 ia inthe in the
 ia ni in
+ia unaccessiable inaccessible
 ia Inappropraite Inappropriate
 ia INclude Include
 ia Inlcude Include
@@ -3785,9 +3790,11 @@ ia measuarements measurements
 ia measuerments measurements
 ia measuremenst measurements
 ia measuremensts measurements
+ia measuremetns measurements
 ia measuremnets measurements
 ia measuremnts measurements
 ia meaurements measurements
+ia meeasuremtnes measurements
 ia measrues measures
 ia measueres measures
 ia measurse measures
@@ -4141,6 +4148,7 @@ ia offensers offenders
 ia offerse offers
 ia officinal official
 ia ofifical official
+ia offssets offsets
 ia Oftne Often
 ia fotne often
 ia ofthen often
@@ -4931,6 +4939,7 @@ ia Quiclkly Quickly
 ia qauicly quickly
 ia quckly quickly
 ia quiclky quickly
+ia quicly quickly
 ia quiclyi quickly
 ia quikcly quickly
 ia quikly quickly
@@ -6934,6 +6943,7 @@ ia walthrough walkthrough
 ia wanwt want
 ia watn want
 ia wnat want
+ia wnt want
 ia wanteed wanted
 ia wnated wanted
 ia wrranty warranty
