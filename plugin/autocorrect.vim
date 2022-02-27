@@ -13,6 +13,28 @@ endif
 
 let g:AutocorrectLoaded=0
 
+" We asynchronously load the main correction file to not block user input.
+" This is done in chucks defined by this variable.
+let s:ChunkSize=500
+
+let s:Debug = 0
+
+function! s:SourceLines(lines)
+    for line in a:lines
+        execute line
+    endfor
+
+    if s:Debug
+        echom 'Loaded ' . len(a:lines) . ' lines'
+    endif
+endfunction
+
+" See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#creating_closures_in_loops_a_common_mistake
+" for why we dedicate a function to this.
+function! s:CreateCallback(lines)
+    return {-> s:SourceLines(a:lines) }
+endfunction
+
 function! s:AutocorrectForceLoad()
     let previousDirectory = getcwd()
 
@@ -20,7 +42,19 @@ function! s:AutocorrectForceLoad()
         " Load built in abbreviations
         execute "cd " . s:FilePath
         cd ..
-        source corrections.vim
+
+        let AbbreviationLines = readfile('corrections.vim')
+
+        " See Issue #3: Recommendation to load abbreviations asynchronously
+        let StartLineIndex = 0
+        while StartLineIndex <= len(AbbreviationLines)
+            " Vim protects us from index out of bounds errors
+            let EndLineIndex = StartLineIndex + s:ChunkSize - 1
+            let Lines        = AbbreviationLines[StartLineIndex : EndLineIndex]
+            let Callback     = s:CreateCallback(Lines)
+            call timer_start(1, Callback)
+            let StartLineIndex = EndLineIndex + 1
+        endwhile
     endif
 
     let s:personalFile = expand(g:AutocorrectPersonalFile)
@@ -87,14 +121,14 @@ function! s:RemoveWhitespace(text)
 endfunction
 
 if exists("g:AutocorrectFiletypes")
-augroup AutocorrectAutocommand
-" Clear out existing commands
-autocmd!
+    augroup AutocorrectAutocommand
+    " Clear out existing commands
+    autocmd!
 
-let s:FileTypesToAdd = []
-for item in g:AutocorrectFiletypes
-    call add(s:FileTypesToAdd,s:RemoveWhitespace(item))
-endfor
-execute "autocmd FileType " . join(s:FileTypesToAdd,",") . " AutocorrectTryLoad"
-augroup END
+    let s:FileTypesToAdd = []
+    for item in g:AutocorrectFiletypes
+        call add(s:FileTypesToAdd,s:RemoveWhitespace(item))
+    endfor
+    execute "autocmd FileType " . join(s:FileTypesToAdd,",") . " AutocorrectTryLoad"
+    augroup END
 endif
