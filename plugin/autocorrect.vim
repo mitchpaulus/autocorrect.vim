@@ -106,12 +106,12 @@ function! s:AddToAbbrev(wrongSpelledWord)
     setlocal filetype=vim
 endfunction
 
-nnoremap <Plug>(AutocorrectForceLoad) :<c-u>AutocorrectForceLoad<cr>
+nnoremap <Plug>(AutocorrectForceLoad) <Cmd>AutocorrectForceLoad<cr>
 if !hasmapto("\<Plug>(AutocorrectForceLoad)") && (empty(maparg("\<leader>af")) > 0)
     nmap <leader>fa <Plug>(AutocorrectForceLoad)
 endif
 
-nnoremap <Plug>(AutocorrectTryLoad) :<c-u>AutocorrectTryLoad<cr>
+nnoremap <Plug>(AutocorrectTryLoad) <Cmd>AutocorrectTryLoad<cr>
 if !hasmapto("\<Plug>(AutocorrectTryLoad)") && (empty(maparg("\<leader>at")) > 0)
     nmap <leader>ta <Plug>(AutocorrectTryLoad)
 endif
