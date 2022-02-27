@@ -3,6 +3,7 @@ ia abondoning abandoning
 ia abbreivaiton abbreviation
 ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
+ia abbreviatinos abbreviations
 ia Abilty Ability
 ia abbility ability
 ia abililty ability
@@ -57,6 +58,7 @@ ia acorss across
 ia acrsoss across
 ia ACtion Action
 ia Aciton Action
+ia acitons actions
 ia activatino activation
 ia activiation activation
 ia Acitve Active
@@ -427,6 +429,7 @@ ia asusmption assumption
 ia assukmptions assumptions
 ia assumptiosn assumptions
 ia asyncrounous asynchronous
+ia asyncronousyl asynchronously
 ia anthete athlete
 ia atmosphereic atmospheric
 ia atmosphreric atmospheric
@@ -788,6 +791,7 @@ ia capicity capacity
 ia cappactiy capacity
 ia cpacity capacity
 ia Captial Capital
+ia capitla capital
 ia capations captions
 ia cpations captions
 ia caputre capture
@@ -949,6 +953,7 @@ ia Clluster Cluster
 ia clustors clusters
 ia OC2 CO2
 ia Cosatdown Coastdown
+ia COde Code
 ia codce code
 ia ocde code
 ia codiing coding
@@ -1629,6 +1634,7 @@ ia describved described
 ia decribing describing
 ia Descriptoin Description
 ia Descripton Description
+ia Descritpion Description
 ia describtion description
 ia descripti description
 ia descriptio description
@@ -1855,6 +1861,7 @@ ia Documention Documentation
 ia coeumentation documentation
 ia dcoumentaiton documentation
 ia dcoumentation documentation
+ia deocumentation documentation
 ia docuemanation documentation
 ia docuemantion documentation
 ia docuemantiona documentation
@@ -2176,6 +2183,7 @@ ia Equaitno Equation
 ia Equaiton Equation
 ia equaiton equation
 ia equatoin equation
+ia equiaotn equation
 ia equiaton equation
 ia EQuations Equations
 ia eequations equations
@@ -2233,6 +2241,7 @@ ia espciallly especially
 ia espcially especially
 ia especailly especially
 ia especitaly especially
+ia espically especially
 ia essense essence
 ia Eseentially Essentially
 ia essentialy essentially
@@ -2308,6 +2317,7 @@ ia Excewl Excel
 ia Excle Excel
 ia excewpt except
 ia exceptiopn exception
+ia exceptoin exception
 ia excewption exception
 ia excpetion exception
 ia exceptionatlly exceptionally
@@ -2389,6 +2399,7 @@ ia explroeing exploring
 ia expoennetial exponential
 ia expononetials exponentials
 ia exponnets exponents
+ia Exprt Export
 ia exprot export
 ia epxorted exported
 ia exproted exported
@@ -3099,6 +3110,7 @@ ia inb in
 ia inthe in the
 ia ni in
 ia unaccessiable inaccessible
+ia inadvertantly inadvertently
 ia Inappropraite Inappropriate
 ia INclude Include
 ia Inlcude Include
@@ -3245,6 +3257,7 @@ ia insentive insensitive
 ia inseration insertion
 ia insdie inside
 ia inseide inside
+ia insgitht insight
 ia inspiraation inspiration
 ia inspiratiosn inspirations
 ia inspried inspired
@@ -3281,6 +3294,7 @@ ia insated instead
 ia insstead instead
 ia instaed instead
 ia insteadd instead
+ia insteard instead
 ia Institutue Institute
 ia instituation institution
 ia institutaion institution
@@ -3472,6 +3486,7 @@ ia lamdba lambda
 ia alnding landing
 ia Lanugauge Language
 ia alanguage language
+ia lagnuage language
 ia lanaguate language
 ia langauage language
 ia langauge language
@@ -4379,6 +4394,7 @@ ia aprticular particular
 ia paraticlaur particular
 ia paraticualr particular
 ia parcular particular
+ia paricualr particular
 ia paritcular particular
 ia particaular particular
 ia particaulr particular
@@ -4429,6 +4445,7 @@ ia performaning performing
 ia perofmraing performing
 ia periemater perimeter
 ia perimieter perimeter
+ia peirod period
 ia peroid period
 ia preiod period
 ia peirods periods
@@ -4524,6 +4541,7 @@ ia pltos plots
 ia polts plots
 ia pltted plotted
 ia ploitters plotters
+ia pulgin plugin
 ia plubmer plumber
 ia plubming plumbing
 ia pluraize pluralize
@@ -4985,6 +5003,7 @@ ia reanalysiss reanalysis
 ia rearrage rearrange
 ia reasonalbe reasonable
 ia reasonbable reasonable
+ia reasonbalbe reasonable
 ia reasonlabe reasonable
 ia reasonlable reasonable
 ia resaonable reasonable
@@ -6315,6 +6334,7 @@ ia Temrinate Terminate
 ia temrinate terminate
 ia terminatedf terminated
 ia temrniator terminator
+ia terminatior terminator
 ia termingology terminology
 ia Tets Test
 ia Tesingt Testing
