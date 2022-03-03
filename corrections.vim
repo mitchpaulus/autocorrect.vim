@@ -635,6 +635,7 @@ ia borken broken
 ia broekn broken
 ia browswer browser
 ia bubblle bubble
+ia ubg bug
 ia Buidl Build
 ia Buildt Build
 ia Buyild Build
@@ -667,6 +668,7 @@ ia buildng building
 ia buildnig building
 ia builgin building
 ia builgind building
+ia builidng building
 ia bulding building
 ia bulidign building
 ia buliding building
@@ -2431,6 +2433,7 @@ ia FAiclity Facility
 ia Faciity Facility
 ia Facililty Facility
 ia Facillity Facility
+ia Faciltiy Facility
 ia Faciltiyt Facility
 ia Facilty Facility
 ia Faclity Facility
@@ -2786,6 +2789,7 @@ ia geneate generate
 ia genreate generate
 ia gnerate generate
 ia Generageted Generated
+ia genearted generated
 ia generatretd generated
 ia genreated generated
 ia gerneated generated
@@ -2963,6 +2967,7 @@ ia highlihgitng highlighting
 ia highlihgting highlighting
 ia highlihting highlighting
 ia himsellf himself
+ia himslef himself
 ia hsi his
 ia Histoiran Historian
 ia Historina Historian
@@ -3449,6 +3454,7 @@ ia KEvin Kevin
 ia Kewvin Kevin
 ia Kye Key
 ia dkey key
+ia kesy keys
 ia keystorke keystroke
 ia keystorkes keystrokes
 ia ekywords keywords
@@ -3846,6 +3852,7 @@ ia meterological meteorological
 ia emter meter
 ia memeter meter
 ia Meteringin Metering
+ia Meterogic Meterlogic
 ia Mehtod Method
 ia mehtod method
 ia meothd method
@@ -5311,6 +5318,7 @@ ia responsibilites responsibilities
 ia responsiblities responsibilities
 ia Repsonsible Responsible
 ia repsonible responsible
+ia repsonsible responsible
 ia resonsbible responsible
 ia resonsbile responsible
 ia responsbile responsible
@@ -5591,6 +5599,7 @@ ia sequencialy sequentially
 ia sequenctially sequentially
 ia serail serial
 ia seriall serial
+ia serialziation serialization
 ia Sereis Series
 ia sereis series
 ia sseries series
@@ -5756,6 +5765,7 @@ ia situaitons situations
 ia isze size
 ia siziung sizing
 ia skilsl skills
+ia skpped skipped
 ia SksySpark SkySpark
 ia SkySPark SkySpark
 ia SkySpakr SkySpark
