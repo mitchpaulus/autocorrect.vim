@@ -49,6 +49,7 @@ ia acocutn account
 ia accoutned accounted
 ia accoutns accounts
 ia accuracte accurate
+ia achive achieve
 ia acheived achieved
 ia acknowledgement acknowledgment
 ia acquisitons acquisitions
@@ -642,6 +643,7 @@ ia Buyild Build
 ia buidl build
 ia BUildeing Building
 ia BUilding Building
+ia BUliding Building
 ia Biudlign Building
 ia Buidlgin Building
 ia Buidlign Building
@@ -1136,6 +1138,7 @@ ia compleated completed
 ia compleeted completed
 ia compltetd completed
 ia complteted completed
+ia compolllted completed
 ia comptleted completed
 ia Comopletely Completely
 ia compeletlye completely
@@ -1348,6 +1351,7 @@ ia contorrls controls
 ia contreols controls
 ia contrls controls
 ia controsl controls
+ia contrrols controls
 ia cotnrosl controls
 ia ocntrosl controls
 ia convienent convenient
@@ -1546,6 +1550,7 @@ ia Decmember December
 ia decidied decided
 ia dediced decided
 ia decidsion decision
+ia declaraiotn declaration
 ia decalre declare
 ia Declien Decline
 ia decommissoin decommission
@@ -2059,6 +2064,7 @@ ia evmails emails
 ia meails emails
 ia emergynecy emergency
 ia emergingn emerging
+ia emplirclaly empirically
 ia employeeds employees
 ia empoyer employer
 ia emploiyement employment
@@ -2408,6 +2414,7 @@ ia exproted exported
 ia expowse expose
 ia exposign exposing
 ia Expressoin Expression
+ia expresion expression
 ia expresssions expressions
 ia Exnted Extend
 ia extensibile extensible
@@ -2696,6 +2703,7 @@ ia Fule Fuel
 ia fule fuel
 ia fullfill fulfill
 ia fulll full
+ia FUnciton Function
 ia Fucntion Function
 ia Funciton Function
 ia Funtion Function
@@ -2828,6 +2836,7 @@ ia globablly globally
 ia glroious glorious
 ia glpyh glyph
 ia gola goal
+ia gaols goals
 ia oges goes
 ia GOing Going
 ia Goiing Going
@@ -2856,6 +2865,7 @@ ia grpah graph
 ia Graphci Graphic
 ia grpahci graphic
 ia grpahic graphic
+ia grpahicla graphical
 ia Grapahcis Graphics
 ia Graphcis Graphics
 ia Graphsics Graphics
@@ -3501,6 +3511,7 @@ ia langurage language
 ia lnaguage language
 ia langauges languages
 ia languagse languages
+ia langugaes languages
 ia lnaguages languages
 ia lnagugaes languages
 ia alrge large
@@ -3929,6 +3940,7 @@ ia modles models
 ia modenr modern
 ia modeset modest
 ia modfication modification
+ia modfification modification
 ia modificaiotn modification
 ia modificaiton modification
 ia modificaitons modifications
@@ -4889,6 +4901,7 @@ ia protocosl protocols
 ia rpove prove
 ia proviced provided
 ia PRovider Provider
+ia proividing providing
 ia pyschrometric psychrometric
 ia psychrometiics psychrometrics
 ia psychrometreics psychrometrics
@@ -5515,6 +5528,7 @@ ia sconed second
 ia seconed second
 ia sedond second
 ia seocnd second
+ia sewcond second
 ia Secondayr Secondary
 ia Seconddadry Secondary
 ia secondayr secondary
@@ -6592,6 +6606,7 @@ ia transefer transfer
 ia trnasfer transfer
 ia transferrable transferable
 ia Transferrign Transferring
+ia transformatiohn transformation
 ia Transfomraitons Transformations
 ia Trnasformaitons Transformations
 ia transofrmed transformed
