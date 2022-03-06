@@ -300,6 +300,7 @@ ia Anytihng Anything
 ia anythign anything
 ia anytihng anything
 ia anywereh anywhere
+ia apartr apart
 ia appartent apparent
 ia apparantly apparently
 ia apear appear
@@ -1440,6 +1441,7 @@ ia oucld could
 ia Coutn Count
 ia Coutner Counter
 ia coutner counter
+ia counterclockiwse counterclockwise
 ia Coutnry Country
 ia coutnery country
 ia coutnryu country
@@ -2158,6 +2160,7 @@ ia Environemnet Environment
 ia Environemnt Environment
 ia enviorment environment
 ia enviormentmt environment mt
+ia enviormnet environment
 ia enviornemnt environment
 ia enviornment environment
 ia enviromenmtn environment
@@ -2181,10 +2184,12 @@ ia equail equal
 ia equla equal
 ia equzl equal
 ia qual equal
+ia equailkty equality
 ia equialiyt equality
 ia equilaiyt equality
 ia equlaity equality
 ia equaliziation equalization
+ia equalis equals
 ia EQuatino Equation
 ia EQuation Equation
 ia Equaitno Equation
@@ -2717,6 +2722,7 @@ ia funcitno function
 ia funciton function
 ia functdion function
 ia functidon function
+ia functiion function
 ia functino function
 ia fundction function
 ia funtion function
@@ -3500,6 +3506,7 @@ ia Laborayr Laboratory
 ia liack lack
 ia lamdba lambda
 ia alnding landing
+ia Langauge Language
 ia Lanugauge Language
 ia alanguage language
 ia lagnuage language
@@ -3955,6 +3962,7 @@ ia Modeule Module
 ia moduel module
 ia modulel module
 ia moduels modules
+ia modulous modulus
 ia mositure moisture
 ia moels moles
 ia moement moment
@@ -4509,6 +4517,7 @@ ia picturse pictures
 ia picutres pictures
 ia peice piece
 ia peices pieces
+ia pioope pipe
 ia piope pipe
 ia pipelien pipeline
 ia piplein pipeline
@@ -4661,6 +4670,7 @@ ia practicew practice
 ia practivce practice
 ia Practidces Practices
 ia Prantl Prandtl
+ia precendence precedence
 ia precedding preceding
 ia precisly precisely
 ia predition prediciton
@@ -6101,6 +6111,7 @@ ia SYntax Syntax
 ia Synatx Syntax
 ia synatx syntax
 ia sysntax syntax
+ia ysntax syntax
 ia syntehtic synthetic
 ia SYstem System
 ia Sysetm System
