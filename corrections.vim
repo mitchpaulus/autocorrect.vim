@@ -638,6 +638,7 @@ ia broekn broken
 ia browswer browser
 ia bubblle bubble
 ia ubg bug
+ia BUild Build
 ia Buidl Build
 ia Buildt Build
 ia Buyild Build
@@ -2249,6 +2250,7 @@ ia escpae escape
 ia escapting escaping
 ia Esmeradla Esmeralda
 ia Especailly Especially
+ia Especialy Especially
 ia escially especially
 ia espciallly especially
 ia espcially especially
@@ -2798,6 +2800,7 @@ ia Genrally Generally
 ia Genrlally Generally
 ia genearlly generally
 ia genearly generally
+ia generaly generally
 ia gnerally generally
 ia geneate generate
 ia genreate generate
@@ -3667,6 +3670,7 @@ ia logartihm logarithm
 ia logatirhm logarithm
 ia logatrihm logarithm
 ia loggged logged
+ia Loigc Logic
 ia lgic logic
 ia lgoic logic
 ia loigc logic
@@ -4250,6 +4254,7 @@ ia opportunites opportunities
 ia Opprotunity Opportunity
 ia opprotunity opportunity
 ia oppsoed opposed
+ia Oppositie Opposite
 ia oppostie opposite
 ia opitmal optimal
 ia optimzial optimal
@@ -4930,6 +4935,7 @@ ia upmp pump
 ia PUmps Pumps
 ia pmpups pumps
 ia poumps pumps
+ia pujmps pumps
 ia upmps pumps
 ia purchse purchase
 ia Puchased Purchased
@@ -5284,6 +5290,7 @@ ia requrie require
 ia reuiqre require
 ia Requrired Required
 ia Reuqired Required
+ia requeirede required
 ia requerid required
 ia requied required
 ia requiredy required
@@ -5662,6 +5669,7 @@ ia setpoitn setpoint
 ia setpoiunt setpoint
 ia setpont setpoint
 ia stepoint setpoint
+ia stepoit setpoint
 ia Setpoitns Setpoints
 ia septoins setpoints
 ia septoints setpoints
@@ -6624,6 +6632,7 @@ ia transofrmed transformed
 ia treansoffrmer transformer
 ia Transfomrers Transformers
 ia trnasient transient
+ia transitins transitions
 ia Trasnlator Translator
 ia trtansmission transmission
 ia transpaerent transparent
@@ -7144,6 +7153,7 @@ ia WOkred Worked
 ia WOrked Worked
 ia Wokred Worked
 ia owrked worked
+ia worekd worked
 ia workeds worked
 ia Workflwo Workflow
 ia workflwo workflow
