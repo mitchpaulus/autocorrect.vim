@@ -50,6 +50,9 @@ For example, you could change it to be `<leader>l` using
 nmap <leader>l <Plug>(AutocorrectTryLoad)
 ```
 
+If you don't want the default mappings at all,
+then you can disable them by setting the variable `g:AutocorrectDisableDefaultMappings` to `1`.
+
 `ForceLoadAutocorrect` will always reread all the corrections. This is
 important when you add in corrections to your personal autocorrect file
 (See more on this [here](#extending)). `AutocorrectTryLoad` will do the

@@ -69,11 +69,6 @@ function! s:AutocorrectForceLoad()
     " Change working directory back to previous
     execute "cd " . fnameescape(previousDirectory)
 
-    nnoremap <Plug>(AutocorrectAddToAbbrev) yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
-    if !hasmapto("\<Plug>(AutocorrectAddToAbbrev)") && (empty(maparg("\<leader>a")) > 0)
-        " add [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
-        nmap <leader>a <Plug>(AutocorrectAddToAbbrev)
-    endif
 
     let g:AutocorrectLoaded=1
 endfunction
@@ -107,14 +102,24 @@ function! s:AddToAbbrev(wrongSpelledWord)
 endfunction
 
 nnoremap <Plug>(AutocorrectForceLoad) <Cmd>AutocorrectForceLoad<cr>
-if !hasmapto("\<Plug>(AutocorrectForceLoad)") && (empty(maparg("\<leader>af")) > 0)
-    nmap <leader>fa <Plug>(AutocorrectForceLoad)
+nnoremap <Plug>(AutocorrectTryLoad) <Cmd>AutocorrectTryLoad<cr>
+nnoremap <Plug>(AutocorrectAddToAbbrev) yiw:<C-u>call <SID>AddToAbbrev("<c-r>"")<cr>
+
+if !(exists('g:AutocorrectDisableDefaultMappings') && g:AutocorrectDisableDefaultMappings)
+    if !hasmapto("\<Plug>(AutocorrectForceLoad)") && empty(maparg("\<leader>fa"))
+        nmap <leader>fa <Plug>(AutocorrectForceLoad)
+    endif
+
+    if !hasmapto("\<Plug>(AutocorrectTryLoad)") && empty(maparg("\<leader>ta"))
+        nmap <leader>ta <Plug>(AutocorrectTryLoad)
+    endif
+
+    if !hasmapto("\<Plug>(AutocorrectAddToAbbrev)") && empty(maparg("\<leader>a"))
+        " add [a]bbreviation. Yanks inner word, runs the AddToAbbrev function.
+        nmap <leader>a <Plug>(AutocorrectAddToAbbrev)
+    endif
 endif
 
-nnoremap <Plug>(AutocorrectTryLoad) <Cmd>AutocorrectTryLoad<cr>
-if !hasmapto("\<Plug>(AutocorrectTryLoad)") && (empty(maparg("\<leader>at")) > 0)
-    nmap <leader>ta <Plug>(AutocorrectTryLoad)
-endif
 
 function! s:RemoveWhitespace(text)
     return substitute(a:text," ","","g")

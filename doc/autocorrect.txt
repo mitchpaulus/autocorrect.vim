@@ -48,6 +48,10 @@ like >
  :AutocorrectTryLoad
  :AutocorrectForceLoad
 
+If you don't want any of the default mappings, you can disable them using >
+
+ :let g:AutocorrectDisableDefaultMappings=1
+
 Loading automatically by filetype~
 
 By default, the autocorrect entries are not loaded on startup. If you want
