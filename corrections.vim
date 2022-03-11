@@ -104,6 +104,7 @@ ia additiaonl additional
 ia additinal additional
 ia additioanl additional
 ia additionanl additional
+ia additonal additional
 ia additonitnal additional
 ia addtional additional
 ia dadditional additional
@@ -159,6 +160,7 @@ ia airlfow airflow
 ia ariflow airflow
 ia Airprot Airport
 ia airprot airport
+ia airposrts airports
 ia Almao Alamo
 ia Alamr Alarm
 ia alamr alarm
@@ -549,6 +551,7 @@ ia basleines baselines
 ia Bascially Basically
 ia bascially basically
 ia basiclaly basically
+ia bassins basins
 ia bassi basis
 ia beautful beautiful
 ia Becuase Because
@@ -819,6 +822,7 @@ ia Celebraiton Celebration
 ia clell cell
 ia Celing Celling
 ia Celcius Celsius
+ia Cemeted Cemented
 ia Cetner Center
 ia cetner center
 ia cewnter center
@@ -1119,6 +1123,7 @@ ia compliaiton compilation
 ia compliation compilation
 ia compiel compile
 ia complile compile
+ia ccompiled compiled
 ia ocmplield compiled
 ia pcompiled compiled
 ia complier compiler
@@ -1193,6 +1198,7 @@ ia conlcusions conclusions
 ia ocnclusions conclusions
 ia ocncourse concourse
 ia concreate concrete
+ia Condensser Condenser
 ia Condsenser Condenser
 ia codnenser condenser
 ia condensser condenser
@@ -1489,6 +1495,7 @@ ia currenltyl currently
 ia currenly currently
 ia currenlyt currently
 ia currenty currently
+ia currnelty currently
 ia currrenlty currently
 ia Cirruculum Curriculum
 ia ciricullum curriculum
@@ -2664,6 +2671,7 @@ ia fomrulas formulas
 ia formuals formulas
 ia formulats formulas
 ia forumalas formulas
+ia formulaiton formulation
 ia Fortunaley Fortunately
 ia Fortunatley Fortunately
 ia Fortunatlye Fortunately
@@ -5025,6 +5033,7 @@ ia arw raw
 ia readidy readily
 ia reaidng reading
 ia redading reading
+ia readigns readings
 ia REAMDE README
 ia reaady ready
 ia reayd ready
@@ -5065,6 +5074,7 @@ ia Recomendations Recommendations
 ia recommenadtions recommendations
 ia recommendatison recommendations
 ia recoomendations recommendations
+ia recommendated recommended
 ia REconsile Reconcile
 ia reconneciton reconnection
 ia reocrd record
@@ -6306,6 +6316,7 @@ ia tmeperatures temperatures
 ia TEmplate Template
 ia Tempalte Template
 ia tameplate template
+ia temlate template
 ia tempalate template
 ia tempalge template
 ia tempalte template
