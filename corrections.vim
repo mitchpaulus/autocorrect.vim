@@ -1163,6 +1163,7 @@ ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
 ia componenet component
+ia componennt component
 ia compoennts components
 ia compoents components
 ia componenets components
@@ -1895,6 +1896,7 @@ ia docuemneation documentation
 ia docuemntaiton documentation
 ia docuemntation documentation
 ia docuemtnaiton documentation
+ia documeantion documentation
 ia documenataion documentation
 ia documenatino documentation
 ia documenation documentation
@@ -2357,6 +2359,7 @@ ia exchagner exchanger
 ia Exhcangerse Exchangers
 ia exchangesr exchangers
 ia exectuable executable
+ia execuaable executable
 ia execuable executable
 ia exeucutalble executable
 ia exectue execute
@@ -4048,6 +4051,7 @@ ia muychg much
 ia myuch much
 ia multicollinearlity multicollinearity
 ia Multiople Multiple
+ia Multipole Multiple
 ia multiople multiple
 ia multipe multiple
 ia multipel multiple
@@ -5241,6 +5245,7 @@ ia replacemnet replacement
 ia replacemnt replacement
 ia replacemtn replacement
 ia replacmeent replacement
+ia replacmenet replacement
 ia replacment replacement
 ia repolacemnt replacement
 ia rfeplacemnet replacement
@@ -5688,6 +5693,7 @@ ia septoint setpoint
 ia sestpoint setpoint
 ia setipiont setpoint
 ia setoint setpoint
+ia setpiont setpoint
 ia setpiotn setpoint
 ia setpoing setpoint
 ia setpoinut setpoint
@@ -5921,6 +5927,7 @@ ia specifing specifying
 ia sppech speech
 ia Spepd Speed
 ia spped speed
+ia speesd speeds
 ia sepll spell
 ia speeling spelling
 ia speelings spellings
@@ -6946,6 +6953,7 @@ ia variabtion variation
 ia varitions variations
 ia vareid varied
 ia varietly variety
+ia varity variety
 ia VArious Various
 ia vaarious various
 ia vaioruds various
@@ -7244,6 +7252,7 @@ ia yera year
 ia yeras years
 ia YEs Yes
 ia yewt yet
+ia Yokr York
 ia YOu You
 ia yhou you
 ia youy you
