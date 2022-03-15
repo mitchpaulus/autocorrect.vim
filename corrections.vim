@@ -513,6 +513,7 @@ ia Bakc Back
 ia bakc back
 ia Backgroudn Background
 ia backgorund background
+ia backgroaudn background
 ia backgruond background
 ia bakcgroudn background
 ia Backslahs Backslash
@@ -886,6 +887,7 @@ ia ehcked checked
 ia CHecking Checking
 ia Chekcing Checking
 ia checkign checking
+ia checkikng checking
 ia checkiung checking
 ia chekcing checking
 ia chewcking checking
@@ -1239,6 +1241,7 @@ ia confirmaiton confirmation
 ia Confrimed Confirmed
 ia Confusted Confused
 ia confustion confusion
+ia conjunctino conjunction
 ia conjuntion conjunction
 ia conencted connected
 ia conenected connected
@@ -1484,6 +1487,7 @@ ia criticla critical
 ia crtricial critical
 ia ctirical critical
 ia critisms criticism
+ia cruical crucial
 ia curerent current
 ia currrent current
 ia currtent current
@@ -2120,6 +2124,7 @@ ia Enginereing Engineering
 ia enginnering engineering
 ia egineers engineers
 ia Englihs English
+ia Englilsh English
 ia Enlish English
 ia engough enough
 ia engouh enough
@@ -2249,6 +2254,7 @@ ia euqipoment equipment
 ia qeuipment equipment
 ia qeuiqpment equipment
 ia eerror error
+ia Erros Errors
 ia erros errors
 ia errosr errors
 ia errrors errors
@@ -2437,6 +2443,7 @@ ia extensiosn extensions
 ia exetiror exterior
 ia exterioro exterior
 ia extermanl external
+ia extranous extraneous
 ia extrpaolation extrapolation
 ia Extermely Extremely
 ia extemrely extremely
@@ -2709,6 +2716,7 @@ ia fromm from
 ia rom from
 ia fornt front
 ia frnt front
+ia fronnt front
 ia frotn front
 ia frontedn frontend
 ia frustrationg frustrating
@@ -2925,6 +2933,7 @@ ia ahlls halls
 ia hadn hand
 ia hande handle
 ia ahndling handling
+ia hadnlign handling
 ia handaling handling
 ia handlaing handling
 ia handliang handling
@@ -3282,6 +3291,7 @@ ia inpuyt input
 ia intpu input
 ia intput input
 ia nput input
+ia inptus inputs
 ia insensivitve insensitive
 ia insenstive insensitive
 ia insenstivie insensitive
@@ -3375,6 +3385,9 @@ ia itnernal internal
 ia interanlly internally
 ia Internaitional International
 ia Internaitonal International
+ia Internatinlan International
+ia Internatioanl International
+ia Internatiolan International
 ia internalation international
 ia internatial international
 ia internationl international
@@ -3522,6 +3535,7 @@ ia Lanugauge Language
 ia alanguage language
 ia lagnuage language
 ia lanaguate language
+ia langague language
 ia langauage language
 ia langauge language
 ia languagte language
@@ -4931,6 +4945,7 @@ ia psychrometreics psychrometrics
 ia Plubic Public
 ia publicaiton publication
 ia publlications publications
+ia publicsher publisher
 ia PUll Pull
 ia upll pull
 ia Puleld Pulled
@@ -5086,6 +5101,7 @@ ia reocreds records
 ia recurison recursion
 ia Recurisve Recursive
 ia recusive recursive
+ia recursivley recursively
 ia Redefinning Redefining
 ia reod redo
 ia reodo redo
@@ -5779,6 +5795,7 @@ ia sijmple simple
 ia simle simple
 ia simpel simple
 ia smpile simple
+ia simplificity simplicity
 ia simplication simplification
 ia simplications simplifications
 ia simplifed simplified
@@ -6105,6 +6122,7 @@ ia surroundsing surrounding
 ia surroudngins surroundings
 ia surroudnings surroundings
 ia survery survey
+ia survye survey
 ia surveryed surveyed
 ia suscepible susceptible
 ia swign swing
@@ -6639,6 +6657,7 @@ ia Transferrign Transferring
 ia transformatiohn transformation
 ia Transfomraitons Transformations
 ia Trnasformaitons Transformations
+ia trsnamorations transformations
 ia transofrmed transformed
 ia treansoffrmer transformer
 ia Transfomrers Transformers
@@ -6711,6 +6730,7 @@ ia TypeScirpt TypeScript
 ia Typcial Typical
 ia tyhpical typical
 ia typcial typical
+ia typial typical
 ia typiucal typical
 ia typiuckal typical
 ia tyupical typical
@@ -6885,6 +6905,7 @@ ia validaiotn validation
 ia validaiton validation
 ia VAlidator Validator
 ia Validatort Validator
+ia avlidity validity
 ia valubale valuable
 ia valutable valuable
 ia avlue value
@@ -7100,6 +7121,7 @@ ia whcih which
 ia whihc which
 ia Whiel While
 ia hwile while
+ia whikle while
 ia whilee while
 ia whitle while
 ia Whtie White
