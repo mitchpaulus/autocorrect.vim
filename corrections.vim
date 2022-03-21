@@ -592,6 +592,7 @@ ia billtion billion
 ia bils bills
 ia bindgin binding
 ia bindign binding
+ia bindngs bindings
 ia binndings bindings
 ia birthdya birthday
 ia Blakcout Blackout
@@ -6749,6 +6750,7 @@ ia typcially typically
 ia typeiclaly typically
 ia typicallly typically
 ia typicaly typically
+ia typiclaly typically
 ia typiucally typically
 ia tyuipcally typically
 ia tyupically typically
@@ -6837,6 +6839,7 @@ ia unoccupiied unoccupied
 ia unreadalbe unreadable
 ia unsuccesful unsuccessful
 ia Unitl Until
+ia uhtil until
 ia unitl until
 ia Upcomign Upcoming
 ia upcomign upcoming
