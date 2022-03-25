@@ -1,6 +1,7 @@
 ia Abondonding Abandoning
 ia abondoning abandoning
 ia abbreivaiton abbreviation
+ia abbrevaiton abbreviation
 ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
 ia abbreviatinos abbreviations
@@ -595,6 +596,7 @@ ia bindign binding
 ia bindngs bindings
 ia binndings bindings
 ia birthdya birthday
+ia bwiweekly biweekly
 ia Blakcout Blackout
 ia balnk blank
 ia blendde blended
@@ -614,6 +616,7 @@ ia obok book
 ia bookelt booklet
 ia bookmarkding bookmarking
 ia bookamrks bookmarks
+ia bookmarkds bookmarks
 ia Boolena Boolean
 ia boolens booleans
 ia obsses bosses
@@ -1272,6 +1275,7 @@ ia Cosntant Constant
 ia constand constant
 ia constatn constant
 ia constnat constant
+ia contsant constant
 ia contsatn constant
 ia ocnsatnt constant
 ia ocnstant constant
@@ -1454,6 +1458,7 @@ ia Coutn Count
 ia Coutner Counter
 ia coutner counter
 ia counterclockiwse counterclockwise
+ia coutnries countries
 ia Coutnry Country
 ia coutnery country
 ia coutnryu country
@@ -1540,6 +1545,7 @@ ia Dianel Daniel
 ia dahsboard dashboard
 ia daashboards dashboards
 ia DAta Data
+ia Datat Data
 ia daat data
 ia daata data
 ia datapoints data points
@@ -1572,6 +1578,7 @@ ia Declien Decline
 ia decommissoin decommission
 ia decreaesed decreased
 ia decreasees decreases
+ia decreass decreases
 ia decidiated dedicated
 ia dedicaed dedicated
 ia depper deeper
@@ -2833,6 +2840,7 @@ ia gerneated generated
 ia gneerated generated
 ia genearitong generating
 ia genration generation
+ia genreation generation
 ia gneeration generation
 ia Genenrator Generator
 ia geneartor generator
@@ -4077,6 +4085,7 @@ ia naems names
 ia anmign naming
 ia namign naming
 ia Natual Natural
+ia natuall natural
 ia naturla natural
 ia nautral natural
 ia Naturaly Naturally
@@ -5558,6 +5567,7 @@ ia scirpst Scripts
 ia scirpts scripts
 ia scripst scripts
 ia scritps scripts
+ia scrxipts scripts
 ia scxripts scripts
 ia sripts scripts
 ia Serach Search
@@ -5927,6 +5937,7 @@ ia specifiy specify
 ia specifing specifying
 ia sppech speech
 ia Spepd Speed
+ia speeed speed
 ia spped speed
 ia speesd speeds
 ia sepll spell
@@ -6016,6 +6027,7 @@ ia Satsu Status
 ia satatus status
 ia stuatus status
 ia Stema Steam
+ia setam steam
 ia staem steam
 ia stema steam
 ia Stpe Step
@@ -6481,6 +6493,7 @@ ia theere there
 ia theerre there
 ia threr there
 ia Teherfore Therefore
+ia Thefrefore Therefore
 ia Threfore Therefore
 ia Threrfore Therefore
 ia therfore therefore
