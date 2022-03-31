@@ -94,6 +94,7 @@ ia addtion addition
 ia Addiitnoanal Additional
 ia Addiitonal Additional
 ia Additioanl Additional
+ia Additoanl Additional
 ia Additonaol Additional
 ia addiitonal additional
 ia addintoial additional
@@ -281,6 +282,7 @@ ia anlge Angle
 ia anniiversary anniversary
 ia anniversity anniversity
 ia annotaiton annotation
+ia annoucement announcement
 ia annula annual
 ia annulal annual
 ia naanual annual
@@ -1922,6 +1924,7 @@ ia docuemnted documented
 ia docuementign documenting
 ia documentionat documenting
 ia doucmenting documenting
+ia Dcouments Documents
 ia Doucments Documents
 ia docuemnts documents
 ia doucments documents
@@ -3024,6 +3027,7 @@ ia hsitorain historian
 ia hikstorical historical
 ia historicakl historical
 ia HIstorically Historically
+ia Histoires Histories
 ia histoyr history
 ia hti hit
 ia HOlder Holder
@@ -3201,6 +3205,7 @@ ia indepndent independent
 ia indciate indicate
 ia INdicates Indicates
 ia indiciatiton indication
+ia Indicies Indices
 ia Indiviudal Individual
 ia Indiviudaul Individual
 ia ijndividual individual
@@ -3610,6 +3615,7 @@ ia Lgithign Lighting
 ia Lighing Lighting
 ia lghting lighting
 ia lgighting lighting
+ia lgihging lighting
 ia lighing lighting
 ia lighitng lighting
 ia lightign lighting
@@ -4174,6 +4180,7 @@ ia norht North
 ia NOt Not
 ia nnot not
 ia nto not
+ia ont not
 ia notaiton notation
 ia NOtes Notes
 ia Noets Notes
@@ -4472,6 +4479,7 @@ ia paticualar particular
 ia Particularily Particularity
 ia particulary particularly
 ia aprtition partition
+ia partitiaotn partition
 ia partyy party
 ia apssed passed
 ia passwrod password
@@ -5295,6 +5303,7 @@ ia reproitng reporting
 ia reproting reporting
 ia reprotring reporting
 ia rpeorting reporting
+ia Reprots Reports
 ia reoports reports
 ia reporst reports
 ia reprots reports
@@ -5387,6 +5396,7 @@ ia repsonse response
 ia resposne response
 ia responsibilites responsibilities
 ia responsiblities responsibilities
+ia responsiblity responsibility
 ia Repsonsible Responsible
 ia repsonible responsible
 ia repsonsible responsible
@@ -6358,6 +6368,7 @@ ia temlate template
 ia tempalate template
 ia tempalge template
 ia tempalte template
+ia tempatle template
 ia tmeplate template
 ia TEmplates Templates
 ia Tempaltes Templates
@@ -7026,6 +7037,7 @@ ia veiws views
 ia Virignia Virginia
 ia virutal virtual
 ia viscoisty viscosity
+ia Vsio Visio
 ia VIsion Vision
 ia Visision Vision
 ia Visison Vision
