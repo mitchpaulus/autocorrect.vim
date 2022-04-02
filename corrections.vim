@@ -1047,6 +1047,7 @@ ia Commerical Commercial
 ia Commericial Commercial
 ia commerecial commercial
 ia commerical commercial
+ia commericial commercial
 ia Commissionieed Commissioned
 ia Commisssioned Commissioned
 ia COmmissioign Commissioning
@@ -1348,6 +1349,7 @@ ia contyrol control
 ia cotnrol control
 ia contorlled controlled
 ia contrlled controlled
+ia controled controlled
 ia controleld controlled
 ia conttrolled controlled
 ia contyrolled controlled
@@ -1460,9 +1462,12 @@ ia Coutn Count
 ia Coutner Counter
 ia coutner counter
 ia counterclockiwse counterclockwise
+ia countreis countries
 ia coutnries countries
+ia coutries countries
 ia Coutnry Country
 ia coutnery country
+ia coutnry country
 ia coutnryu country
 ia conts counts
 ia coutns counts
@@ -4548,6 +4553,7 @@ ia PHawse Phase
 ia Pahse Phase
 ia pahse phase
 ia pahases phases
+ia Phillippines Philippines
 ia philospohy philosophy
 ia Pheonix Phoenix
 ia PHone Phone
@@ -4754,6 +4760,7 @@ ia prerequitsite prerequisite
 ia Prerequisitevs Prerequisites
 ia Prerequisitves Prerequisites
 ia Prerequisties Prerequisites
+ia Prescence Presence
 ia presecne presence
 ia presetn present
 ia presnet present
@@ -5043,6 +5050,7 @@ ia quiclyi quickly
 ia quikcly quickly
 ia quikly quickly
 ia quilckly quickly
+ia quilcky quickly
 ia quitely quietly
 ia quilte quite
 ia qutie quite
@@ -5149,6 +5157,7 @@ ia Referecnes References
 ia Refernces References
 ia Referneces References
 ia refernecing referencing
+ia refering referring
 ia refleccted reflected
 ia Reformaatted Reformatted
 ia Refreash Refresh
