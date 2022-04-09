@@ -134,6 +134,7 @@ ia Asthetics Aesthetics
 ia aestheics aesthetics
 ia asthetics aesthetics
 ia afftecting affecting
+ia Affliation Affiliation
 ia AFter After
 ia Afternnon Afternoon
 ia aftenronon afternoon
@@ -789,6 +790,7 @@ ia canbe can be
 ia cna can
 ia czn can
 ia cancelled canceled
+ia canonicalize canonicalize
 ia capabaiblites capabilities
 ia capabillites capabilities
 ia capabiliity capability
@@ -1165,6 +1167,7 @@ ia completeyl completely
 ia completley completely
 ia compeletes completes
 ia compelting completing
+ia cmopletion completion
 ia compeltion completion
 ia compliatn compliant
 ia comiplicated complicated
@@ -1285,6 +1288,7 @@ ia ocnstant constant
 ia constatns constants
 ia construciton construction
 ia constructoin construction
+ia consturction construction
 ia constrcuts constructs
 ia COnsujpmtion Consumption
 ia coinsumption consumption
@@ -1747,6 +1751,7 @@ ia develoement development
 ia developement development
 ia developemnet development
 ia developemnt development
+ia developemtn development
 ia developmetn development
 ia developpment development
 ia devleopemnt development
@@ -2144,6 +2149,7 @@ ia egineers engineers
 ia Englihs English
 ia Englilsh English
 ia Enlish English
+ia enchnace enhance
 ia engough enough
 ia engouh enough
 ia enoguh enough
@@ -2207,6 +2213,7 @@ ia enviromental environmental
 ia enviorments environments
 ia enviroments environments
 ia environemntes environments
+ia evniroments environments
 ia Enviosn Envision
 ia Epidimeology Epidemiology
 ia Equla Equal
@@ -4960,6 +4967,8 @@ ia propsoed proposed
 ia propiritary proprietary
 ia protecdtion protection
 ia protectdion protection
+ia Protocal Protocol
+ia Protocl Protocol
 ia prootcol protocol
 ia protocll protocol
 ia protocls protocols
@@ -5096,6 +5105,7 @@ ia reasonbable reasonable
 ia reasonbalbe reasonable
 ia reasonlabe reasonable
 ia reasonlable reasonable
+ia reasonlbe reasonable
 ia resaonable reasonable
 ia REasonably Reasonably
 ia reasonablely reasonably
@@ -6627,6 +6637,7 @@ ia tiemzone timezone
 ia tiemzones timezones
 ia TIp Tip
 ia tilte title
+ia titel title
 ia tmxux tmux
 ia ot to
 ia oto to
@@ -6706,6 +6717,7 @@ ia trnasient transient
 ia transitins transitions
 ia Trasnlator Translator
 ia trtansmission transmission
+ia trnasmittance transmittance
 ia transpaerent transparent
 ia transpiller transpiler
 ia transporation transportation
@@ -6762,6 +6774,7 @@ ia twicew twice
 ia wtwice twice
 ia TYpe Type
 ia tyep type
+ia typoe type
 ia tyupe type
 ia tyeps types
 ia ytpes types
