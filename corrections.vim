@@ -1390,6 +1390,7 @@ ia conventioanl conventional
 ia convewrsation conversation
 ia converison conversion
 ia converseion conversion
+ia coversion conversion
 ia ocnversion conversion
 ia convewrrt convert
 ia convertability convertibility
@@ -1863,6 +1864,7 @@ ia disseration dissertation
 ia dissertaiton dissertation
 ia distirncxt distinct
 ia distrincxt distinct
+ia distingusih distinguish
 ia Distribuiton Distribution
 ia Distriubution Distribution
 ia distribuution distribution
@@ -2325,6 +2327,7 @@ ia Eruopean European
 ia Evalualte Evaluate
 ia evaulate evaluate
 ia evaluateed evaluated
+ia evalutaed evaluated
 ia Evaulating Evaluating
 ia evaulating evaluating
 ia Evaluaiotn Evaluation
@@ -2658,6 +2661,7 @@ ia fodlers folders
 ia Folow Follow
 ia floow follow
 ia folloow follow
+ia follolwed followed
 ia floowing following
 ia folloiwing following
 ia followign following
@@ -3387,6 +3391,7 @@ ia intelligcne intelligence
 ia INtended Intended
 ia initended intended
 ia interaect interact
+ia interconnecitons interconnections
 ia itnerest interest
 ia interesetd interested
 ia interesteds interested
@@ -3444,6 +3449,7 @@ ia Intorduction Introduction
 ia Introcution Introduction
 ia Introduciont Introduction
 ia Introduciton Introduction
+ia Introudciotn Introduction
 ia intution intuition
 ia invlaid invalid
 ia invserse inverse
@@ -4656,6 +4662,7 @@ ia polynomical polynomial
 ia ploytropic polytropic
 ia polytorpic polytropic
 ia poplualar popular
+ia popualr popular
 ia popualte populate
 ia popualted populated
 ia popualtes populates
