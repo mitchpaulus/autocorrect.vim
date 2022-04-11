@@ -3967,6 +3967,7 @@ ia minimimum minimum
 ia minmium minimum
 ia minmum minimum
 ia Minnestoa Minnesota
+ia Minro Minor
 ia Mintue Minute
 ia minnute minute
 ia mintue minute
@@ -5256,6 +5257,7 @@ ia reomve remove
 ia removewd removed
 ia reomved removed
 ia rmeoved removed
+ia rmoeoivng removing
 ia renamign renaming
 ia REno Reno
 ia Revovations Renovations
@@ -5831,6 +5833,7 @@ ia Siemnes Siemens
 ia signl signal
 ia signla signal
 ia singal signal
+ia singla signal
 ia signficant significant
 ia signifiant significant
 ia signifiatn significant
@@ -6776,6 +6779,7 @@ ia turing turning
 ia TUrns Turns
 ia twekaing tweaking
 ia twaerks tweaks
+ia tweask tweaks
 ia twekas tweaks
 ia twicew twice
 ia wtwice twice
@@ -6946,6 +6950,7 @@ ia usula usual
 ia usallly usually
 ia usally usually
 ia usaully usually
+ia usualy usually
 ia utilites utilities
 ia utilties utilities
 ia Uiltity Utility
