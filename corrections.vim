@@ -108,6 +108,7 @@ ia additioanl additional
 ia additionanl additional
 ia additonal additional
 ia additonitnal additional
+ia addtioanl additional
 ia addtional additional
 ia dadditional additional
 ia addresssed addressed
@@ -206,6 +207,7 @@ ia alos also
 ia alsso also
 ia aslo also
 ia altnerate alternate
+ia altenrates alternates
 ia altenrative alternative
 ia Althouugh Although
 ia Athough Although
@@ -560,6 +562,7 @@ ia bassins basins
 ia bassi basis
 ia beautful beautiful
 ia Becuase Because
+ia becasue because
 ia becaues because
 ia becuase because
 ia becvause because
@@ -584,6 +587,7 @@ ia beign being
 ia bewing being
 ia Belive Believe
 ia belive believe
+ia blieve believe
 ia besdies besides
 ia bset best
 ia bettter better
@@ -3097,6 +3101,7 @@ ia Ina Ian
 ia diea idea
 ia idael ideal
 ia identificaitno identification
+ia identiifed identified
 ia indentifier identifier
 ia identifieres identifiers
 ia identiifers identifiers
@@ -3604,6 +3609,7 @@ ia Lengend Legend
 ia lenght length
 ia lneght length
 ia lenghts lengths
+ia Lession Lesson
 ia elt let
 ia leverl level
 ia levle level
@@ -4104,6 +4110,7 @@ ia myslef myself
 ia anem name
 ia anme name
 ia naem name
+ia Namepalte Nameplate
 ia anmepalte nameplate
 ia anmeplate nameplate
 ia naems names
@@ -4545,6 +4552,7 @@ ia peroid period
 ia preiod period
 ia peirods periods
 ia permannet permanent
+ia premenently permanently
 ia Premissions Permissions
 ia perimissions permissions
 ia perimssisisons permissions
@@ -5906,6 +5914,7 @@ ia softawer software
 ia softwaer software
 ia softwaere software
 ia softweare software
+ia softwere software
 ia sofwtware software
 ia SOlar Solar
 ia Soldi Solid
@@ -5927,6 +5936,7 @@ ia somethign something
 ia somsethign something
 ia Somethimes Sometimes
 ia Sometmies Sometimes
+ia somethimes sometimes
 ia soemwhere somewhere
 ia saught sought
 ia Soruce Source
@@ -7016,6 +7026,7 @@ ia vareid varied
 ia varietly variety
 ia varity variety
 ia VArious Various
+ia Variosu Various
 ia vaarious various
 ia vaioruds various
 ia vairous Various
@@ -7024,6 +7035,7 @@ ia varoius various
 ia Valut Vault
 ia vehivcle vehicle
 ia vleocity velocity
+ia vendros vendors
 ia Ventilatin Ventilation
 ia ventialation ventilation
 ia ventialtiaon ventilation
