@@ -186,6 +186,7 @@ ia algrothim algorithm
 ia alogrithm algorithm
 ia Alogrithms Algorithms
 ia algorihtms algorithms
+ia algoritms algorithms
 ia alogrighms algorithms
 ia alogrithms algorithms
 ia Alogn Align
@@ -1195,6 +1196,7 @@ ia cmoptuer computer
 ia comptuer computer
 ia comptuers computers
 ia compmuting computing
+ia concatinating concatenating
 ia concelaing concealing
 ia concewpt concept
 ia ocncept concept
@@ -1821,6 +1823,7 @@ ia directdly directly
 ia drieclty directly
 ia drieclyt directly
 ia driectly directly
+ia direcories directories
 ia directoriues directories
 ia directorys directories
 ia driectories directories
@@ -2156,6 +2159,7 @@ ia Englihs English
 ia Englilsh English
 ia Enlish English
 ia enchnace enhance
+ia Enojoyed Enjoyed
 ia engough enough
 ia engouh enough
 ia enoguh enough
@@ -2640,6 +2644,7 @@ ia ifxes fixes
 ia FIxing Fixing
 ia finxing fixing
 ia fixutre fixture
+ia fixutres fixtures
 ia flippped flipped
 ia floatign floating
 ia Fllor Floor
@@ -3859,6 +3864,7 @@ ia matcing matching
 ia Materila Material
 ia materila material
 ia materla material
+ia Mateirlas Materials
 ia mathematica Mathematica
 ia matehematical mathematical
 ia matehematilca mathematical
@@ -5388,6 +5394,7 @@ ia reuqired required
 ia rquired required
 ia rueiquireed required
 ia requiremnet requirement
+ia reuqirement requirement
 ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
@@ -5690,6 +5697,7 @@ ia seonsors sensors
 ia sesnsors sensors
 ia snesoer sensors
 ia snesors sensors
+ia setn sent
 ia snet sent
 ia seaparate separate
 ia seaprate separate
@@ -5763,6 +5771,7 @@ ia Setpoitns Setpoints
 ia septoins setpoints
 ia septoints setpoints
 ia sestpoinst setpoints
+ia setoins setpoints
 ia setpionts setpoints
 ia setpoins setpoints
 ia setpoitns setpoints
