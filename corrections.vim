@@ -1147,6 +1147,7 @@ ia compoiler compiler
 ia COmpilers Compilers
 ia compilign compiling
 ia compliing compiling
+ia compalin complain
 ia ocmplaints complaints
 ia compolement complement
 ia Compelte Complete
@@ -1645,6 +1646,7 @@ ia deliverabel deliverable
 ia deliveragble deliverable
 ia deliverables deliverables
 ia develiverables deliverables
+ia Dleta Delta
 ia dleta delta
 ia Deltke Deltek
 ia Deamnd Demand
@@ -3659,6 +3661,7 @@ ia liely likely
 ia likelty likely
 ia likley likely
 ia Lmit Limit
+ia liimit limit
 ia lmit limit
 ia limitaiton limitation
 ia olimitations limitations
@@ -4581,6 +4584,7 @@ ia PHawse Phase
 ia Pahse Phase
 ia pahse phase
 ia pahases phases
+ia pahsing phasing
 ia Phillippines Philippines
 ia philospohy philosophy
 ia Pheonix Phoenix
@@ -6954,6 +6958,7 @@ ia url URL
 ia useage usage
 ia ued used
 ia uesd used
+ia Useufl Useful
 ia sueufl useful
 ia usefuli useful
 ia useufl useful
