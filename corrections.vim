@@ -136,6 +136,7 @@ ia asthetically aesthetically
 ia Asthetics Aesthetics
 ia aestheics aesthetics
 ia asthetics aesthetics
+ia affectign affecting
 ia afftecting affecting
 ia Affliation Affiliation
 ia AFter After
@@ -424,6 +425,7 @@ ia assigneing assigning
 ia assinging assigning
 ia assignemnents assignments
 ia Assitatn Assistant
+ia assitant assistant
 ia assocaited associated
 ia assoicated associated
 ia Assocaites Associates
@@ -653,6 +655,7 @@ ia braod broad
 ia broek broke
 ia borken broken
 ia broekn broken
+ia broutht brought
 ia browswer browser
 ia bubblle bubble
 ia ubg bug
@@ -2050,6 +2053,8 @@ ia effectiley effectively
 ia effectivientss effectiveness
 ia effectes effects
 ia efficiencies efficiencies
+ia efficieneis efficiencies
+ia eficiceies efficiencies
 ia Efficiewncy Efficiency
 ia efficicency efficiency
 ia efficiencty efficiency
@@ -2764,6 +2769,7 @@ ia rom from
 ia fornt front
 ia frnt front
 ia fronnt front
+ia froont front
 ia frotn front
 ia frontedn frontend
 ia frustrationg frustrating
@@ -4239,6 +4245,7 @@ ia notificaitons notifications
 ia novle novel
 ia Novemeber November
 ia Novemenber November
+ia Novementer November
 ia Novermber November
 ia NOw Now
 ia nozle nozzle
@@ -5069,6 +5076,7 @@ ia qunaittites quantities
 ia quartelry quarterly
 ia Quesiton Question
 ia queisont question
+ia quesiotn question
 ia quesiton question
 ia Qeustionaaire Questionnaire
 ia quesitionarrir questionnaire
@@ -5412,6 +5420,7 @@ ia requirementse requirements
 ia requiremnets requirements
 ia requirmentrs requirements
 ia requirments requirements
+ia requriements requirements
 ia requriemestn requirements
 ia requrienments requirements
 ia requres requires
@@ -5990,6 +5999,7 @@ ia spciifc specific
 ia specidic specific
 ia speciific specific
 ia speicfic specific
+ia spreici specific
 ia specificaly specifically
 ia specificaiton specification
 ia specificiation specification
