@@ -62,6 +62,7 @@ ia acrsoss across
 ia ACtion Action
 ia Aciton Action
 ia acitons actions
+ia activiate activate
 ia activatino activation
 ia activiation activation
 ia Acitve Active
@@ -108,6 +109,7 @@ ia additiaonl additional
 ia additinal additional
 ia additioanl additional
 ia additionanl additional
+ia additoinal additional
 ia additonal additional
 ia additonitnal additional
 ia addtioanl additional
@@ -404,6 +406,7 @@ ia aroudn around
 ia arround around
 ia aruond around
 ia arrya array
+ia aritcle article
 ia artticle article
 ia ARticles Articles
 ia Artifical Artificial
@@ -613,6 +616,7 @@ ia Blakcout Blackout
 ia balnk blank
 ia blendde blended
 ia bleneded blended
+ia lbined blind
 ia Blcok Block
 ia blokc block
 ia blockss blocks
@@ -671,6 +675,7 @@ ia Biudlign Building
 ia Buidlgin Building
 ia Buidlign Building
 ia Buidling Building
+ia Builcind Building
 ia Buildgion Building
 ia Buildic Building
 ia Buildign Building
@@ -2765,6 +2770,7 @@ ia FRom From
 ia frmo from
 ia froam from
 ia fromm from
+ia froom from
 ia rom from
 ia fornt front
 ia frnt front
@@ -2833,6 +2839,7 @@ ia Fucnttions Functions
 ia fucntions functions
 ia fucntiosn functions
 ia fuctions functions
+ia funcctions functions
 ia funcdtions functions
 ia funcitons functions
 ia functdions functions
@@ -3260,6 +3267,7 @@ ia individaully individually
 ia indiviudally individually
 ia inddor indoor
 ia INdustrial Industrial
+ia indusrial industrial
 ia industyr industry
 ia inflitration infiltration
 ia iinform inform
@@ -3407,6 +3415,7 @@ ia intanible intangible
 ia intergral integral
 ia integreated integrated
 ia Integratign Integrating
+ia intgretainig integrating
 ia Integreation Integration
 ia integraiton integration
 ia integrtation integration
@@ -3642,6 +3651,7 @@ ia libaries libraries
 ia LIbrary Library
 ia Libarrya Library
 ia Libaryar Library
+ia Libratry Library
 ia Libray Library
 ia Librayr Library
 ia libary library
@@ -4212,6 +4222,7 @@ ia nomial nominal
 ia nomianal nominal
 ia nnon noon
 ia Nomral Normal
+ia Normall Normal
 ia nnormal normal
 ia nomral normal
 ia nomrla normal
@@ -6027,6 +6038,7 @@ ia speelings spellings
 ia SPent Spent
 ia Spcie Spice
 ia spiunner spinner
+ia spliice splice
 ia SPlit Split
 ia sptli split
 ia sponosr sponsor
@@ -7038,6 +7050,7 @@ ia Varible Variable
 ia Vrailbe Variable
 ia vairalbe variable
 ia varailbe variable
+ia variabnle variable
 ia variaglbe variable
 ia varialbe variable
 ia variazble variable
