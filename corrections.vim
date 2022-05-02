@@ -2477,6 +2477,7 @@ ia expliclit explicit
 ia explicti explicit
 ia explicity explicitly
 ia explicly explicitly
+ia exporartion exploration
 ia Exploerer Explorer
 ia explroeing exploring
 ia expoennetial exponential
@@ -3664,6 +3665,7 @@ ia lfietime lifetime
 ia Lighyt Light
 ia lghit light
 ia lihgt light
+ia Lgihting Lighting
 ia Lgithign Lighting
 ia Lighing Lighting
 ia lghting lighting
@@ -4145,6 +4147,7 @@ ia Namepalte Nameplate
 ia anmepalte nameplate
 ia anmeplate nameplate
 ia naems names
+ia neams names
 ia anmign naming
 ia namign naming
 ia Natual Natural
@@ -4405,6 +4408,7 @@ ia organizaiton organization
 ia organziaiton organization
 ia rogainations organizations
 ia Orgainzing Organizing
+ia Origialn Original
 ia Origilan Original
 ia origal original
 ia origial original
@@ -4424,6 +4428,7 @@ ia ohter other
 ia toher other
 ia otherse others
 ia oiur our
+ia oru our
 ia otu out
 ia ouyt out
 ia otubreak outbreak
@@ -4880,6 +4885,7 @@ ia PRicing Pricing
 ia primeary primary
 ia princeple principle
 ia PRint Print
+ia pirnt print
 ia pritn print
 ia prtin print
 ia pirntign printing
@@ -5769,6 +5775,7 @@ ia Servie Service
 ia Sevice Service
 ia servcie service
 ia Serviecs Services
+ia Seriving Serving
 ia sessiuon session
 ia ste set
 ia SEtp9oitn Setpoint
@@ -6516,7 +6523,9 @@ ia tyerminal terminal
 ia temrainls terminals
 ia termailnls terminals
 ia termailns terminals
+ia termainls terminals
 ia termialns terminals
+ia termianls terminals
 ia Temrinate Terminate
 ia temrinate terminate
 ia terminatedf terminated
