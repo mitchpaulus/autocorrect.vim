@@ -5343,11 +5343,13 @@ ia replacemtn replacement
 ia replacmeent replacement
 ia replacmenet replacement
 ia replacment replacement
+ia replcaement replacement
 ia repolacemnt replacement
 ia rfeplacemnet replacement
 ia rpelacement replacement
 ia Replacments Replacements
 ia repalcaemnts replacements
+ia replacemensts replacements
 ia replacments replacements
 ia repldacments replacements
 ia replcaer replacer
@@ -5943,6 +5945,7 @@ ia SkySPark SkySpark
 ia SkySpakr SkySpark
 ia slahs slash
 ia lslides slides
+ia slithgly slightly
 ia sloep slope
 ia slwodown slowdown
 ia slowign slowing
@@ -6190,6 +6193,7 @@ ia submitatls submittals
 ia submittals submittals
 ia subimitteed submitted
 ia submiting submitting
+ia Subroutinges Subroutines
 ia subsance substance
 ia substantce substance
 ia substiture substitute
@@ -7018,6 +7022,7 @@ ia usaully usually
 ia usualy usually
 ia utilites utilities
 ia utilties utilities
+ia utiltiies utilities
 ia Uiltity Utility
 ia Utiltiy Utility
 ia uitlilty utility
