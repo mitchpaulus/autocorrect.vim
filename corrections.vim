@@ -455,6 +455,7 @@ ia attachemnt attachment
 ia attachemtn attachment
 ia Attachements Attachments
 ia Attachemnts Attachments
+ia attachemdents attachments
 ia attachements attachments
 ia attachemnts attachments
 ia attachemtns attachments
@@ -761,12 +762,14 @@ ia Calculationg Calculating
 ia calcualteing calculating
 ia calcualting calculating
 ia caclulation calculation
+ia caluclation calculation
 ia claculation calculation
 ia dalculation calculation
 ia Calcuaitons Calculations
 ia caclulations calculations
 ia calcualtions calculations
 ia caluclations calculations
+ia claculatations calculations
 ia claculations calculations
 ia Calcuoator Calculator
 ia calcualtoar calculator
@@ -775,6 +778,7 @@ ia calculatior calculator
 ia caluclator calculator
 ia claculator calculator
 ia Calander Calendar
+ia calander calendar
 ia Calcibrated Calibrated
 ia calicbrated calibrated
 ia clabirated calibrated
@@ -1734,6 +1738,7 @@ ia detailede detailed
 ia detialed detailed
 ia Detials Details
 ia deatials details
+ia deatils details
 ia detials details
 ia detilas details
 ia detectino detection
@@ -1822,6 +1827,7 @@ ia Diffuer Diffuser
 ia DIgit Digit
 ia idgit digit
 ia digial digital
+ia digitila digital
 ia ditigal digital
 ia Dingin Dining
 ia dingin dining
@@ -1995,6 +2001,7 @@ ia downtonn downtown
 ia drwa draw
 ia drwawer drawer
 ia drwaing drawing
+ia darwings drawings
 ia draings drawings
 ia drawigns drawings
 ia drawwigns drawings
@@ -2057,6 +2064,7 @@ ia educatinosl educational
 ia effectiley effectively
 ia effectivientss effectiveness
 ia effectes effects
+ia efficienceis efficiencies
 ia efficiencies efficiencies
 ia efficieneis efficiencies
 ia eficiceies efficiencies
@@ -2097,6 +2105,7 @@ ia ewlectrical electrical
 ia Eelectricity Electricity
 ia Electiricy Electricity
 ia eelctricy electricity
+ia eelctrricxty electricity
 ia elecdtricity electricity
 ia electicryyt electricity
 ia electifcity electricity
@@ -2341,6 +2350,7 @@ ia estitamed estimated
 ia sitmated estimated
 ia estiamets estimates
 ia esitmating estimating
+ia esimation estimation
 ia esimtaion estimation
 ia esitimation estimation
 ia esitmation estimation
@@ -3182,6 +3192,7 @@ ia Implmenets Implements
 ia implicity implicitly
 ia impleid implied
 ia improt import
+ia Importantce Importance
 ia importantance importance
 ia importantce importance
 ia IMprotnatn Important
@@ -4151,6 +4162,7 @@ ia neams names
 ia anmign naming
 ia namign naming
 ia Natual Natural
+ia antrual natural
 ia natuall natural
 ia naturl natural
 ia naturla natural
@@ -5502,6 +5514,7 @@ ia resutls results
 ia reulsts results
 ia reuslts results
 ia rseutls results
+ia Reatil Retail
 ia REtaliation Retaliation
 ia retryed retried
 ia retor retro
@@ -5819,6 +5832,7 @@ ia setpoins setpoints
 ia setpoitns setpoints
 ia stepoints setpoints
 ia stpeoints setpoints
+ia stpoitns setpoints
 ia SEts Sets
 ia seteting setting
 ia setintg setting
@@ -6088,6 +6102,7 @@ ia stampsl stamps
 ia Standand Standard
 ia satandrad standard
 ia satndard standard
+ia standared standard
 ia standpoitn standpoint
 ia stadns stands
 ia strated started
@@ -6530,6 +6545,7 @@ ia termailns terminals
 ia termainls terminals
 ia termialns terminals
 ia termianls terminals
+ia tremainls terminals
 ia Temrinate Terminate
 ia temrinate terminate
 ia terminatedf terminated
@@ -6656,6 +6672,7 @@ ia thougth thought
 ia Thoguhts Thoughts
 ia thoughs thoughts
 ia threda thread
+ia trhead thread
 ia THree Three
 ia trhee three
 ia thershold threshold
@@ -6789,6 +6806,7 @@ ia Transfomraitons Transformations
 ia Trnasformaitons Transformations
 ia trsnamorations transformations
 ia transofrmed transformed
+ia transformaer transformer
 ia treansoffrmer transformer
 ia Transfomrers Transformers
 ia trnasient transient
@@ -7001,6 +7019,7 @@ ia ubran urban
 ia uninals urinals
 ia url URL
 ia useage usage
+ia tused used
 ia ued used
 ia uesd used
 ia Useufl Useful
