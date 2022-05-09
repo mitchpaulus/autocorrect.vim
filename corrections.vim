@@ -739,6 +739,7 @@ ia ubrned burned
 ia BUrns Burns
 ia Buhs Bush
 ia buisness business
+ia busieness business
 ia BUt But
 ia buit but
 ia ubt but
@@ -803,6 +804,7 @@ ia caem came
 ia cmae came
 ia Camear Camera
 ia camerag camera
+ia comapaigns campaigns
 ia CAn Can
 ia acn can
 ia canbe can be
@@ -832,6 +834,7 @@ ia capitla capital
 ia capations captions
 ia cpations captions
 ia caputre capture
+ia careds cards
 ia carsd cards
 ia carerr career
 ia carepting carpeting
@@ -839,6 +842,7 @@ ia cartesina Cartesian
 ia cvase case
 ia caess cases
 ia casees cases
+ia categoiries categories
 ia categoraized categorized
 ia catefory category
 ia cuase cause
@@ -901,6 +905,7 @@ ia cahractersictic characteristic
 ia characteritsics characteristics
 ia characaaters characters
 ia charactesr characters
+ia chargges charges
 ia chartr chart
 ia chrat chart
 ia chaisng chasing
@@ -1275,6 +1280,7 @@ ia confirmaiton confirmation
 ia Confrimed Confirmed
 ia Confusted Confused
 ia confustion confusion
+ia congress Congress
 ia conjunctino conjunction
 ia conjuntion conjunction
 ia conencted connected
@@ -2860,6 +2866,7 @@ ia functiuons functions
 ia fudnamental fundamental
 ia FUndamentals Fundamentals
 ia ufnding funding
+ia ufnds funds
 ia Furneral Funeral
 ia furhter further
 ia rurther further
@@ -4310,7 +4317,10 @@ ia oif of
 ia sof of
 ia offensers offenders
 ia offerse offers
+ia Officila Official
+ia officail official
 ia officinal official
+ia offiical official
 ia ofifical official
 ia offssets offsets
 ia Oftne Often
@@ -4905,6 +4915,7 @@ ia Prioriteis Priorities
 ia Pritorities Priorities
 ia priortization prioritization
 ia pritiorizing prioritizing
+ia rpivate private
 ia Privelage Privilege
 ia privelages privileges
 ia Probalby Probably
@@ -5071,6 +5082,7 @@ ia purchse purchase
 ia Puchased Purchased
 ia purcahsed purchased
 ia purhcased purchased
+ia purchasese purchases
 ia PUrple Purple
 ia prupurose purpose
 ia pruposes purposes
@@ -5084,6 +5096,7 @@ ia Pyton Python
 ia pyhton python
 ia pythno python
 ia pythnon python
+ia qauilfies qualifies
 ia Qaulitative Qualitative
 ia Qaulity Quality
 ia Quailty Quality
@@ -5150,6 +5163,7 @@ ia reange range
 ia RAte Rate
 ia arte rate
 ia frate rate
+ia reate rate
 ia artes rates
 ia reate rates
 ia artio ratio
@@ -5456,6 +5470,7 @@ ia requriemestn requirements
 ia requrienments requirements
 ia requres requires
 ia requries requires
+ia requriesd requires
 ia reuqires requires
 ia Rescheudled Rescheduled
 ia Researhc Research
@@ -5706,6 +5721,7 @@ ia secitioon section
 ia seciton section
 ia sectino section
 ia sectiosn section
+ia sectyor sector
 ia securtiy security
 ia seee see
 ia Seeign Seeing
@@ -6173,6 +6189,7 @@ ia striaghtforward straightforward
 ia stragne strange
 ia strageties strategies
 ia stratetgies strategies
+ia stragegy strategy
 ia stary stray
 ia straem stream
 ia strema stream
@@ -6944,6 +6961,7 @@ ia understandiung understanding
 ia udnertaken undertaken
 ia Underwod Underwood
 ia unexpanded unexpanded
+ia unfailry unfairly
 ia unfamilar unfamiliar
 ia Unfortunatley Unfortunately
 ia unicode Unicode
