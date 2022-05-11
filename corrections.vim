@@ -971,6 +971,7 @@ ia cliam claim
 ia Clairdge Claridge
 ia Clairdige Claridge
 ia Clardige Claridge
+ia clairifactxion clarification
 ia calss class
 ia lcass class
 ia calne clean
@@ -1260,6 +1261,7 @@ ia cvonference conference
 ia conferneces conferences
 ia converecnes conferences
 ia condifience confidence
+ia condfidnet confident
 ia configt config
 ia ocnfig config
 ia Configuraiton Configuration
@@ -5163,6 +5165,7 @@ ia reange range
 ia RAte Rate
 ia arte rate
 ia frate rate
+ia raate rate
 ia reate rate
 ia artes rates
 ia reate rates
@@ -5290,6 +5293,7 @@ ia rleated related
 ia relathionship relationship
 ia relatioinship relationship
 ia relationnship relationship
+ia relationsihip relationship
 ia relationsihp relationship
 ia relationslhip relationship
 ia relationsyhiop relationship
