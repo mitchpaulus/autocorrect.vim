@@ -1253,6 +1253,7 @@ ia conditinos conditions
 ia conditionns conditions
 ia conditnions conditions
 ia conditoins conditions
+ia condtions conditions
 ia condtiosn conditions
 ia condusive conducive
 ia conductinve conductive
@@ -1278,6 +1279,7 @@ ia configurtation configuration
 ia configutration configuration
 ia COnfirm Confirm
 ia Conrim Confirm
+ia conrimr confirm
 ia confirmaiton confirmation
 ia Confrimed Confirmed
 ia Confusted Confused
@@ -1442,6 +1444,7 @@ ia coolgin cooling
 ia coolign cooling
 ia coolking cooling
 ia cooloing cooling
+ia coooiling cooling
 ia coooing cooling
 ia cooolign cooling
 ia coooling cooling
@@ -1798,6 +1801,7 @@ ia devicee device
 ia edevices devices
 ia Deval Devil
 ia Deveil Devil
+ia Diagnosiing Diagnosing
 ia diagnositc diagnostic
 ia Daigram Diagram
 ia diagrma diagram
@@ -2745,6 +2749,7 @@ ia Fomrs Forms
 ia fomrs forms
 ia forsm forms
 ia fomrual formula
+ia fomrula formula
 ia formual formula
 ia formuual formula
 ia forumal formula
@@ -3660,6 +3665,7 @@ ia lneght length
 ia lenghts lengths
 ia Lession Lesson
 ia elt let
+ia elvel level
 ia leverl level
 ia levle level
 ia lvel level
@@ -3987,6 +3993,7 @@ ia meleting melting
 ia emmber member
 ia memeory memory
 ia Menotr Mentor
+ia messgae message
 ia meterological meteorological
 ia emter meter
 ia memeter meter
@@ -6297,6 +6304,7 @@ ia switchees switches
 ia swtiches switches
 ia switchgaar switchgear
 ia SYmmetrical Symmetrical
+ia symptpms symptoms
 ia Sycn Sync
 ia Syunc Sync
 ia syncitng syncing
@@ -6454,6 +6462,7 @@ ia temperure temperature
 ia temperureate temperature
 ia tempetature temperature
 ia tempoerature temperature
+ia tempraatue temperature
 ia temprature temperature
 ia temprautrre temperature
 ia tempreature temperature
