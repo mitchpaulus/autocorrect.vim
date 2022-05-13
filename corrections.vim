@@ -554,6 +554,7 @@ ia Bartton Barton
 ia BAsed Based
 ia BGased Based
 ia absed based
+ia BAseline Baseline
 ia Baseilne Baseline
 ia Baslein Baseline
 ia Baslien Baseline
@@ -3281,6 +3282,7 @@ ia indiciatiton indication
 ia Indicies Indices
 ia Indiviudal Individual
 ia Indiviudaul Individual
+ia idndividual individual
 ia ijndividual individual
 ia inddivudal individual
 ia indifivalu individual
@@ -4085,6 +4087,7 @@ ia modificiations modifications
 ia MOdified Modified
 ia modifeid modified
 ia modifyied modified
+ia modfiy modify
 ia moidify modify
 ia MOdule Module
 ia Modeule Module
@@ -5495,6 +5498,7 @@ ia REset Reset
 ia reest reset
 ia resest reset
 ia resset reset
+ia reste reset
 ia residentiali residential
 ia residitnetal residential
 ia resiliant resilient
@@ -6540,6 +6544,7 @@ ia etrmianl terminal
 ia teminal terminal
 ia temrainil terminal
 ia temrainl terminal
+ia temreinal terminal
 ia temrial terminal
 ia temrialn terminal
 ia temrianl terminal
