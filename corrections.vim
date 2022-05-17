@@ -1588,6 +1588,7 @@ ia dampe4r damper
 ia dmaper damper
 ia dmpaers dampers
 ia Danelli Daniel
+ia Danile Daniel
 ia Dianel Daniel
 ia dahsboard dashboard
 ia daashboards dashboards
@@ -1645,6 +1646,7 @@ ia dfeault default
 ia efault default
 ia deauflts defaults
 ia defatuls defaults
+ia Defereed Deferred
 ia deficiences deficiencies
 ia fdefine define
 ia defiend defined
@@ -1860,6 +1862,7 @@ ia direcories directories
 ia directoriues directories
 ia directorys directories
 ia driectories directories
+ia Direcotry Directory
 ia dieretoyr directory
 ia direcdtory directory
 ia direcory directory
@@ -2585,6 +2588,7 @@ ia feasiblity feasibility
 ia featrue feature
 ia featqures features
 ia featurtes features
+ia ffeatures features
 ia Februray February
 ia Feedbakc Feedback
 ia feeback feedback
@@ -3693,6 +3697,7 @@ ia lfietime lifetime
 ia Lighyt Light
 ia lghit light
 ia lihgt light
+ia Lgihgintg Lighting
 ia Lgihting Lighting
 ia Lgithign Lighting
 ia Lighing Lighting
@@ -4528,6 +4533,7 @@ ia apge page
 ia pari pair
 ia pamplhet pamphlet
 ia pandco pandoc
+ia pannel panel
 ia apper paper
 ia paragrah paragraph
 ia paragrpah paragraph
@@ -5433,7 +5439,9 @@ ia rports reports
 ia repostiroes repositories
 ia reporsitoyr repository
 ia reposiotiyr repository
+ia reposioty repository
 ia reposiotyr repository
+ia repositary repository
 ia repositoyr repository
 ia reposoityr repository
 ia reposotiyr repository
@@ -5479,6 +5487,7 @@ ia requirementse requirements
 ia requiremnets requirements
 ia requirmentrs requirements
 ia requirments requirements
+ia requriemdents requirements
 ia requriements requirements
 ia requriemestn requirements
 ia requrienments requirements
@@ -5550,6 +5559,7 @@ ia retryed retried
 ia retor retro
 ia Retrocommissiong Retrocommissioning
 ia retrocommissiongin retrocommissioning
+ia retorfit retrofit
 ia retorift retrofit
 ia retroift retrofit
 ia REturn Return
@@ -6183,6 +6193,7 @@ ia Stpe Step
 ia setp step
 ia stpe step
 ia Stpes Steps
+ia setps steps
 ia stesp steps
 ia stpes steps
 ia STill Still
@@ -7436,6 +7447,7 @@ ia Writie Write
 ia wirte write
 ia wirting writing
 ia writtne written
+ia wrtten written
 ia worng wrong
 ia yaer year
 ia yare year
