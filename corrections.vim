@@ -48,6 +48,7 @@ ia Accoriodn Accordion
 ia accoutn account
 ia acocutn account
 ia accoutned accounted
+ia Accoutns Accounts
 ia accoutns accounts
 ia acccurate accurate
 ia accuracte accurate
@@ -2585,6 +2586,7 @@ ia favoritie favorite
 ia favoirties favorites
 ia fdd FDD
 ia feasiblity feasibility
+ia Featuree Feature
 ia featrue feature
 ia featqures features
 ia featurtes features
@@ -4937,6 +4939,7 @@ ia rpivate private
 ia Privelage Privilege
 ia privelages privileges
 ia Probalby Probably
+ia Probaly Probably
 ia Probvalby Probably
 ia porbablyb probably
 ia proablyb probably
@@ -6146,6 +6149,7 @@ ia satndard standard
 ia standared standard
 ia standpoitn standpoint
 ia stadns stands
+ia stareted started
 ia strated started
 ia Stargin Starting
 ia Starign Starting
@@ -7076,6 +7080,7 @@ ia useufl useful
 ia usfeul useful
 ia usefullness usefulness
 ia suer user
+ia Usuing Using
 ia us9ing using
 ia useing using
 ia usging using
@@ -7244,6 +7249,7 @@ ia wiating waiting
 ia wkaing waking
 ia wlak walk
 ia Walkthorugh Walkthrough
+ia Walkthrouhg Walkthrough
 ia Walthrough Walkthrough
 ia walthrough walkthrough
 ia wanwt want
