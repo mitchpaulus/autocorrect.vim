@@ -48,6 +48,7 @@ ia Accoriodn Accordion
 ia accoutn account
 ia acocutn account
 ia accoutned accounted
+ia accoutntd accounted
 ia Accoutns Accounts
 ia accoutns accounts
 ia acccurate accurate
@@ -1648,6 +1649,7 @@ ia efault default
 ia deauflts defaults
 ia defatuls defaults
 ia Defereed Deferred
+ia defereed deferred
 ia deficiences deficiencies
 ia fdefine define
 ia defiend defined
@@ -3108,6 +3110,7 @@ ia HIstorically Historically
 ia Histoires Histories
 ia histoyr history
 ia hti hit
+ia HObby Hobby
 ia HOlder Holder
 ia hodls holds
 ia HOldiay Holiday
@@ -3151,6 +3154,7 @@ ia humidty humidity
 ia humitiy humidity
 ia Huniting Hunting
 ia hunignt hunting
+ia hurdels hurdles
 ia Hyperparametres Hyperparameters
 ia hypen hyphen
 ia hypens hyphens
@@ -3187,6 +3191,7 @@ ia Implmeentation Implementation
 ia impelmentaiotn implementation
 ia impelmentation implementation
 ia implemeantion implementation
+ia implemeentaiton implementation
 ia implemenation implementation
 ia implementaiton implementation
 ia implmentation implementation
@@ -3641,6 +3646,7 @@ ia langague language
 ia langauage language
 ia langauge language
 ia languagte language
+ia languate language
 ia langurage language
 ia lnaguage language
 ia langauges languages
@@ -3854,6 +3860,7 @@ ia maintence maintenance
 ia maintenencae maintenance
 ia maintenence maintenance
 ia maintenenece maintenance
+ia manintence maintenance
 ia Majro Major
 ia moajority majority
 ia Mkae Make
@@ -4136,6 +4143,7 @@ ia montlyh monthly
 ia montyhly monthly
 ia monthds months
 ia monthfs months
+ia montths months
 ia MOre More
 ia mroe more
 ia Mornigin Morning
@@ -4316,6 +4324,7 @@ ia obejcts objects
 ia objets objects
 ia ojbects objects
 ia obselete obsolete
+ia Obviusly Obviously
 ia obviusly obviously
 ia occpuancy occupancy
 ia occpunacy occupancy
@@ -4795,6 +4804,7 @@ ia possilblities possibilities
 ia possiblity possibility
 ia possbile possible
 ia possiblle possible
+ia possiible possible
 ia possilbe possible
 ia posssible possible
 ia Possilby Possibly
@@ -5339,6 +5349,7 @@ ia remainging remaining
 ia remainign remaining
 ia remiaing remaining
 ia remianing remaining
+ia reamins remains
 ia Remmeber Remember
 ia Rmeind Remind
 ia remienders reminders
@@ -5513,6 +5524,7 @@ ia resset reset
 ia reste reset
 ia residentiali residential
 ia residitnetal residential
+ia relisiancy resiliency
 ia resiliant resilient
 ia resistnace resistance
 ia resistnatce resistance
