@@ -2269,6 +2269,7 @@ ia environemnt environment
 ia environemtn environment
 ia environemtnet environment
 ia envriorment environment
+ia Enviormentla Environmental
 ia enviromental environmental
 ia enviorments environments
 ia enviroments environments
@@ -3035,6 +3036,7 @@ ia hari hair
 ia ahlls halls
 ia hadn hand
 ia hande handle
+ia handeld handled
 ia ahndling handling
 ia hadnlign handling
 ia handaling handling
@@ -6827,6 +6829,7 @@ ia TOll Toll
 ia Tooll Toll
 ia tomoorrow tomorrow
 ia tomroorw tomorrow
+ia otnnage tonnage
 ia TOok Took
 ia otol tool
 ia Toolabr Toolbar
