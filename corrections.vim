@@ -60,6 +60,7 @@ ia acquisitons acquisitions
 ia acroyms acronyms
 ia accross across
 ia acorss across
+ia acrsos across
 ia acrsoss across
 ia ACtion Action
 ia Aciton Action
@@ -1144,6 +1145,7 @@ ia Comare Compare
 ia comapre compare
 ia comapred compared
 ia Comparingin Comparing
+ia Compraison Comparison
 ia compariosn comparison
 ia comparision comparison
 ia comparisoin comparison
@@ -1218,6 +1220,7 @@ ia compuation computation
 ia Computationla Computational
 ia computatiaonla computational
 ia comptuer compute
+ia Comptuer Computer
 ia cmoptuer computer
 ia comptuer computer
 ia comptuers computers
@@ -1945,6 +1948,7 @@ ia Dcouematation Documentation
 ia Docuemntaino Documentation
 ia Docuemntaiont Documentation
 ia Docuemntaiton Documentation
+ia Docuemntation Documentation
 ia Documenation Documentation
 ia Documentaiont Documentation
 ia Documentaiton Documentation
@@ -2470,6 +2474,7 @@ ia exisitng existing
 ia existng existing
 ia exitss exists
 ia eapnd expand
+ia exapnd expand
 ia exapandde expanded
 ia exapnded expanded
 ia expannding expanding
@@ -2503,10 +2508,12 @@ ia explaingin explaining
 ia explainign explaining
 ia explanatino explanation
 ia Explations Explanations
+ia epxlicit explicit
 ia expliclit explicit
 ia explicti explicit
 ia explicity explicitly
 ia explicly explicitly
+ia expliticly explicitly
 ia exporartion exploration
 ia Exploerer Explorer
 ia explroeing exploring
@@ -3053,6 +3060,7 @@ ia thave have
 ia hainvg having
 ia haiving having
 ia hvaing having
+ia hving having
 ia Haystakc Haystack
 ia sheaders headers
 ia Heaidng Heading
@@ -4478,6 +4486,7 @@ ia Ohter Other
 ia ohter other
 ia toher other
 ia otherse others
+ia OTherwise Otherwise
 ia oiur our
 ia oru our
 ia otu out
@@ -4680,6 +4689,7 @@ ia Phtoos Photos
 ia phycisal physical
 ia physcally physically
 ia pinao piano
+ia pickpu pickup
 ia Pictyure Picture
 ia pcitures pictures
 ia picturse pictures
@@ -5128,6 +5138,7 @@ ia Pyton Python
 ia pyhton python
 ia pythno python
 ia pythnon python
+ia quadartic quadratic
 ia qauilfies qualifies
 ia Qaulitative Qualitative
 ia Qaulity Quality
@@ -6017,6 +6028,7 @@ ia SkySPark SkySpark
 ia SkySpakr SkySpark
 ia slahs slash
 ia lslides slides
+ia slidinmg sliding
 ia slithgly slightly
 ia sloep slope
 ia slwodown slowdown
@@ -6044,6 +6056,7 @@ ia SOlar Solar
 ia Soldi Solid
 ia soluation solution
 ia solutio solution
+ia solutiomn solution
 ia soultin solution
 ia solutiosn solutions
 ia sollve solve
@@ -6123,6 +6136,7 @@ ia spiunner spinner
 ia spliice splice
 ia SPlit Split
 ia sptli split
+ia pslitting splitting
 ia sponosr sponsor
 ia sporsorign sponsoring
 ia sppol spool
@@ -6314,6 +6328,7 @@ ia suppy supply
 ia uspply supply
 ia suppling supplying
 ia supprot support
+ia supress suppress
 ia srue sure
 ia usre sure
 ia Surpirse Surprise
@@ -6825,6 +6840,7 @@ ia TOtal Total
 ia Totoal Total
 ia Ttoal Total
 ia thotal total
+ia toalt total
 ia toatal total
 ia toatl total
 ia toatla total
@@ -7205,6 +7221,7 @@ ia vefriyf verify
 ia verfiy verify
 ia verifiy verify
 ia Veresion Version
+ia Verseion Version
 ia veresion version
 ia verion version
 ia veriosn version
