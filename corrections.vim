@@ -205,6 +205,7 @@ ia al all
 ia lal all
 ia alow allow
 ia allwos allows
+ia almsot almost
 ia alogn along
 ia Alphabatize Alphabetize
 ia alreaedy already
@@ -648,6 +649,7 @@ ia boudnaries boundaries
 ia boudnary boundary
 ia boudns bounds
 ia Bouqet Bouquet
+ia obx box
 ia bxoes boxes
 ia oby boy
 ia barinstorming brainstorming
@@ -987,6 +989,7 @@ ia clickign clicking
 ia lickcing clicking
 ia lcinet client
 ia clint Clint
+ia clipboaard clipboard
 ia clipbvoard clipboard
 ia cloen clone
 ia clsoed closed
@@ -2536,6 +2539,7 @@ ia extrension extension
 ia extensiosn extensions
 ia exetiror exterior
 ia exterioro exterior
+ia extermal external
 ia extermanl external
 ia extranous extraneous
 ia extrpaolation extrapolation
@@ -2846,6 +2850,7 @@ ia functino function
 ia fundction function
 ia funtion function
 ia ufnction function
+ia FUnctinal Functional
 ia FUnctional Functional
 ia Fucnttional Functional
 ia Funcatioanl Functional
@@ -4397,6 +4402,7 @@ ia operaties operates
 ia operaitgn operating
 ia operatieng operating
 ia Operat56i5on Operation
+ia operaiotn operation
 ia operaiton operation
 ia Operaational Operational
 ia Operataitonal Operational
@@ -4863,6 +4869,7 @@ ia prediected predicted
 ia predicitng predicting
 ia prediciton prediction
 ia rpredicitons predictions
+ia prefence preference
 ia Prefucntional Prefunctional
 ia Prefuncitonal Prefunctional
 ia Prefunctioanl Prefunctional
@@ -4889,6 +4896,7 @@ ia Prerequisitevs Prerequisites
 ia Prerequisitves Prerequisites
 ia Prerequisties Prerequisites
 ia Prescence Presence
+ia prescene presence
 ia presecne presence
 ia presetn present
 ia presnet present
@@ -5546,6 +5554,7 @@ ia resistnatce resistance
 ia resoluution resolution
 ia resovle resolve
 ia resoelves resolves
+ia Resoucres Resources
 ia Resourees Resources
 ia resouces resources
 ia resourcers resources
@@ -5602,6 +5611,7 @@ ia reutrn return
 ia returend returned
 ia Retunrs Returns
 ia Retuns Returns
+ia returtns returns
 ia reutrns returns
 ia REvenue Revenue
 ia Referencewr Reverence
@@ -5733,6 +5743,7 @@ ia scirpt script
 ia scrdipt script
 ia scripot script
 ia scritp script
+ia scriupt script
 ia scsript script
 ia scxript script
 ia sript script
@@ -5753,6 +5764,7 @@ ia serach search
 ia searchable searchable
 ia serached searched
 ia seraches searches
+ia Searchign Searching
 ia Seraching Searching
 ia seraching searching
 ia Seaosn Season
@@ -7391,6 +7403,7 @@ ia WIndows Windows
 ia WInodws Windows
 ia Widnows Windows
 ia Widnwos Windows
+ia Windoiws Windows
 ia Windwos Windows
 ia Windwows Windows
 ia Winodws Windows
