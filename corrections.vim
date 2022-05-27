@@ -652,6 +652,7 @@ ia Bouqet Bouquet
 ia obx box
 ia bxoes boxes
 ia oby boy
+ia brackest brackets
 ia barinstorming brainstorming
 ia brainstoriming brainstorming
 ia Breka Break
@@ -667,6 +668,7 @@ ia broek broke
 ia borken broken
 ia broekn broken
 ia broutht brought
+ia broswer browser
 ia browswer browser
 ia bubblle bubble
 ia ubg bug
@@ -1404,6 +1406,7 @@ ia controlelr controller
 ia contorlers controllers
 ia contorllers controllers
 ia contreollers controllers
+ia controlleres controllers
 ia Controllign Controlling
 ia Contorls Controls
 ia Contrls Controls
@@ -1565,6 +1568,7 @@ ia currnelty currently
 ia currrenlty currently
 ia Cirruculum Curriculum
 ia ciricullum curriculum
+ia Curosr Cursor
 ia curosr cursor
 ia cursro cursor
 ia curvativure curvature
@@ -1707,6 +1711,7 @@ ia dpendency dependency
 ia dependeiing depending
 ia deply deploy
 ia deployued deployed
+ia dpeloyed deployed
 ia dpeloying deploying
 ia deployement deployment
 ia derivateive derivative
@@ -2342,6 +2347,7 @@ ia euqipment equipment
 ia euqipoment equipment
 ia qeuipment equipment
 ia qeuiqpment equipment
+ia equivalnet equivalent
 ia eerror error
 ia Erros Errors
 ia erros errors
@@ -2698,6 +2704,7 @@ ia Frist First
 ia firstr first
 ia frist first
 ia ifrst first
+ia fihs fish
 ia ifhs fish
 ia ifsh fish
 ia FIx Fix
@@ -4485,6 +4492,7 @@ ia originall original
 ia orignal original
 ia oriigal original
 ia oringial original
+ia orginally originally
 ia origianlly originally
 ia orignianlly originally
 ia origined originated
@@ -4495,6 +4503,7 @@ ia ohter other
 ia toher other
 ia otherse others
 ia OTherwise Otherwise
+ia Otherwsie Otherwise
 ia oiur our
 ia oru our
 ia otu out
