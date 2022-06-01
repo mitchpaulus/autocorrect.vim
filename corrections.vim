@@ -495,6 +495,7 @@ ia autiomatic automatic
 ia automateic automatic
 ia Automaticaly Automatically
 ia autaomatically automatically
+ia automagically automatically
 ia automaitcllay automatically
 ia automatcially automatically
 ia automaticaly automatically
@@ -5345,6 +5346,7 @@ ia rehate reheat
 ia reheta reheat
 ia frelated related
 ia realted related
+ia relaated related
 ia relaeted related
 ia relateed related
 ia releatd related
@@ -5762,6 +5764,7 @@ ia scdripts scripts
 ia sciprts scripts
 ia scirpst Scripts
 ia scirpts scripts
+ia scrdipst scripts
 ia scripst scripts
 ia scritps scripts
 ia scrxipts scripts
