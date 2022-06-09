@@ -830,6 +830,7 @@ ia capacitnace capacitance
 ia capcaities capacities
 ia Capaciyt Capacity
 ia Capaicyt Capacity
+ia Cpacity Capacity
 ia capacitity capacity
 ia capaciyt capacity
 ia capaicty capacity
@@ -837,6 +838,7 @@ ia capcaity capacity
 ia capicaity capacity
 ia capicity capacity
 ia cappactiy capacity
+ia cpacaity capacity
 ia cpacity capacity
 ia Captial Capital
 ia capitla capital
@@ -1693,6 +1695,7 @@ ia develiverables deliverables
 ia Dleta Delta
 ia dleta delta
 ia Deltke Deltek
+ia Deamdn Demand
 ia Deamnd Demand
 ia dmeand demand
 ia dseamdn demand
@@ -3751,6 +3754,7 @@ ia likelty likely
 ia likley likely
 ia Lmit Limit
 ia liimit limit
+ia limti limit
 ia lmit limit
 ia limitaiton limitation
 ia olimitations limitations
