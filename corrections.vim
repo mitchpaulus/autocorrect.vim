@@ -1547,6 +1547,7 @@ ia creiteria criteria
 ia creteria criteria
 ia crediterion criterion
 ia creiterion criterion
+ia Crticial Critical
 ia ciritical critical
 ia cirtical critical
 ia critcial critical
@@ -2324,6 +2325,7 @@ ia Equipemnt Equipment
 ia Equipmetn Equipment
 ia Equpiment Equipment
 ia eequipment equipment
+ia eequipmetn equipment
 ia eqiupemnt equipment
 ia eqiupment equipment
 ia equiepment equipment
@@ -4225,6 +4227,8 @@ ia naems names
 ia neams names
 ia anmign naming
 ia namign naming
+ia natiaonl national
+ia nationsl national
 ia Natual Natural
 ia antrual natural
 ia natuall natural
@@ -4690,6 +4694,7 @@ ia perisonal personal
 ia perosnal personal
 ia personla personal
 ia pwersonal personal
+ia Personaly Personally
 ia persoinally personally
 ia Persenel Personnel
 ia Personel Personnel
@@ -4861,6 +4866,7 @@ ia ptoetnal potential
 ia potentailly potentially
 ia potentiallly potentially
 ia potentilaly potentially
+ia potnetnailly potentially
 ia ptonetially potentially
 ia ptotently potentially
 ia Poweer Power
@@ -5809,6 +5815,7 @@ ia sectino section
 ia sectiosn section
 ia sectyor sector
 ia securtiy security
+ia secutiry security
 ia seee see
 ia Seeign Seeing
 ia segmenetation segmentation
