@@ -989,6 +989,7 @@ ia calne clean
 ia cleanign cleaning
 ia clenaup cleanup
 ia cleraed cleared
+ia clikc click
 ia clcked clicked
 ia clickign clicking
 ia lickcing clicking
@@ -6856,6 +6857,7 @@ ia tmxux tmux
 ia ot to
 ia oto to
 ia Todya Today
+ia TOdd Todd
 ia togehter together
 ia otken token
 ia toekn token
@@ -7112,6 +7114,7 @@ ia UPdate Update
 ia Udpate Update
 ia Upate Update
 ia Uppdate Update
+ia uipdate update
 ia upate update
 ia upodate update
 ia UPdated Updated
