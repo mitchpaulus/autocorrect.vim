@@ -1798,6 +1798,7 @@ ia determing determining
 ia determinign determining
 ia determiniing determining
 ia dtermining determining
+ia Devleop Develop
 ia devleop develop
 ia devleoped developed
 ia Develoment Development
@@ -2045,6 +2046,7 @@ ia drawwigns drawings
 ia drwaings drawings
 ia drwan drawn
 ia dirve drive
+ia dreive drive
 ia drifen driven
 ia drivesr drivers
 ia dorp drop
@@ -2525,6 +2527,7 @@ ia explaingin explaining
 ia explainign explaining
 ia explanatino explanation
 ia Explations Explanations
+ia explanaiotns explanations
 ia epxlicit explicit
 ia expliclit explicit
 ia explicti explicit
@@ -2722,6 +2725,7 @@ ia FIxing Fixing
 ia finxing fixing
 ia fixutre fixture
 ia fixutres fixtures
+ia flexlible flexible
 ia flippped flipped
 ia floatign floating
 ia Fllor Floor
@@ -3078,6 +3082,7 @@ ia havee have
 ia havew have
 ia hvae have
 ia thave have
+ia ahving having
 ia hainvg having
 ia haiving having
 ia hvaing having
@@ -3560,6 +3565,7 @@ ia inversly inversely
 ia inversino inversion
 ia INvestigate Investigate
 ia Investigae Investigate
+ia investiage investigate
 ia investigae investigate
 ia investigaet investigate
 ia Investiaged Investigated
@@ -3720,6 +3726,7 @@ ia flevels levels
 ia liason liaison
 ia LIberty Liberty
 ia libaries libraries
+ia librarires libraries
 ia LIbrary Library
 ia Libarrya Library
 ia Libaryar Library
@@ -4495,6 +4502,7 @@ ia organziaiton organization
 ia rogainations organizations
 ia Orgainzing Organizing
 ia Origialn Original
+ia Origianl Original
 ia Origilan Original
 ia origal original
 ia origial original
