@@ -988,6 +988,7 @@ ia lcass class
 ia calne clean
 ia cleanign cleaning
 ia clenaup cleanup
+ia claer clear
 ia cleraed cleared
 ia clikc click
 ia clcked clicked
@@ -1084,6 +1085,7 @@ ia COmment Comment
 ia commetn comment
 ia COmments Comments
 ia commetns comments
+ia commments comments
 ia Commerical Commercial
 ia Commericial Commercial
 ia commerecial commercial
@@ -1603,6 +1605,7 @@ ia DAmper Damper
 ia damnper damper
 ia dampe4r damper
 ia dmaper damper
+ia DAmpers Dampers
 ia dmpaers dampers
 ia Danelli Daniel
 ia Danile Daniel
@@ -1850,11 +1853,13 @@ ia diffeerent different
 ia diffeernt different
 ia diffentert different
 ia differetn different
+ia differetrn different
 ia differnt different
 ia differtent different
 ia difffernt different
 ia diffierent different
 ia diffrent different
+ia difrent different
 ia idfferent different
 ia Difficutl Difficult
 ia difficutl difficult
@@ -3097,6 +3102,7 @@ ia Headquareters Headquarters
 ia Heatlh Health
 ia heatlh health
 ia HEat Heat
+ia ehat heat
 ia HEating Heating
 ia ehating heating
 ia heagin heating
@@ -3835,6 +3841,7 @@ ia loction location
 ia Locaitons Locations
 ia lcoaitons locations
 ia locaiotns locations
+ia locaitnos locations
 ia locaitons locations
 ia Lockoout Lockout
 ia Lockotu Lockout
@@ -3924,6 +3931,7 @@ ia managment management
 ia mangaement management
 ia mangagment management
 ia mangaer manager
+ia mangager manager
 ia mangatger manager
 ia manageers managers
 ia managerse managers
@@ -4320,6 +4328,7 @@ ia nomrla normal
 ia normall normal
 ia normla normal
 ia normalizaiton normalization
+ia normalziation normalization
 ia Normallly Normally
 ia nomrally normally
 ia normallly normally
@@ -4517,6 +4526,7 @@ ia origianlly originally
 ia orignianlly originally
 ia origined originated
 ia originatign originating
+ia osciallations oscillations
 ia OTher Other
 ia Ohter Other
 ia ohter other
@@ -4673,6 +4683,7 @@ ia Prefomrance Performance
 ia Preformance Performance
 ia perfomance performance
 ia perfomrance performance
+ia perfomrrance performance
 ia perforamcne performance
 ia perforamnce performance
 ia performacne performance
@@ -7210,6 +7221,7 @@ ia vlaues values
 ia vlause values
 ia vlues values
 ia valuve valve
+ia vlalve valve
 ia vlave valve
 ia vlaves valves
 ia Varialbe Variable
