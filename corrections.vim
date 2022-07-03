@@ -24,6 +24,7 @@ ia aoubt about
 ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
+ia abstarct abstract
 ia abstarctions abstractions
 ia Acadmey Academy
 ia accelearted accelerated
@@ -1213,6 +1214,7 @@ ia compeletes completes
 ia compelting completing
 ia cmopletion completion
 ia compeltion completion
+ia compleiton completion
 ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
@@ -4614,6 +4616,7 @@ ia paramter parameter
 ia pparameter parameter
 ia aparmaterize parameterize
 ia Parmaetesr Parameters
+ia aparmaters parameters
 ia aprameters parameters
 ia apratemters parameters
 ia paraemters parameters
@@ -4848,6 +4851,7 @@ ia positon position
 ia postion position
 ia postiong position
 ia psotioon position
+ia positioanl positional
 ia Posistions Positions
 ia positoins positions
 ia posoitions positions
