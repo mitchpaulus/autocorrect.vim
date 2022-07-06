@@ -725,6 +725,7 @@ ia Buyildings Buildings
 ia buidligns buildings
 ia buidlings buildings
 ia buidlligns buildings
+ia buidlngs buildings
 ia buildgins buildings
 ia buildigns buildings
 ia builgins buildings
@@ -2179,6 +2180,7 @@ ia eamil email
 ia emali email
 ia emial email
 ia meail email
+ia eamils emails
 ia emaisl emails
 ia evmails emails
 ia meails emails
@@ -5078,6 +5080,7 @@ ia progrmamed programmed
 ia prommed programmed
 ia pgraomming programming
 ia pgromammign programming
+ia porgarmming programming
 ia prgoramming programming
 ia programmign programming
 ia programmihng programming
@@ -5704,6 +5707,7 @@ ia ruel rule
 ia reuls rules
 ia ruels rules
 ia rulse rules
+ia RUn Run
 ia RUnning Running
 ia Runnign Running
 ia runign running
@@ -5896,6 +5900,7 @@ ia speaarte separate
 ia seapated separated
 ia seperated separated
 ia spearaetd separated
+ia spearated separated
 ia seaparter separator
 ia separater separator
 ia Septmeber September
@@ -6052,6 +6057,7 @@ ia signficantly significantly
 ia significatnly significantly
 ia ismilar similar
 ia simialr similar
+ia simiilar similar
 ia smilar similar
 ia similarily similarly
 ia sijmple simple
@@ -7476,6 +7482,7 @@ ia wiht with
 ia wirth with
 ia witha with a
 ia wituh with
+ia wthi with
 ia wtih with
 ia iwthin within
 ia wihthin within
