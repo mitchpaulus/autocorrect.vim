@@ -1298,8 +1298,11 @@ ia configuraqtion configuration
 ia configurtaion configuration
 ia configurtation configuration
 ia configutration configuration
+ia condifurations configurations
 ia COnfirm Confirm
 ia Conrim Confirm
+ia confrim confirm
+ia confrimr confirm
 ia conrimr confirm
 ia confirmaiton confirmation
 ia Confrimed Confirmed
@@ -1325,6 +1328,7 @@ ia consistnecy consistency
 ia ocnsistency consistency
 ia consistnet consistent
 ia consistnetn consistent
+ia consistnt consistent
 ia consistenly consistently
 ia consistnely consistently
 ia consistign consisting
@@ -4442,6 +4446,7 @@ ia operaties operates
 ia operaitgn operating
 ia operatieng operating
 ia Operat56i5on Operation
+ia oepration operation
 ia operaiotn operation
 ia operaiton operation
 ia Operaational Operational
