@@ -528,6 +528,7 @@ ia avialible available
 ia aviallaibe available
 ia anveage average
 ia aweare aware
+ia awaremenss awareness
 ia akw awk
 ia byab baby
 ia Bakc Back
@@ -585,6 +586,7 @@ ia becvause because
 ia bewcome become
 ia beeen been
 ia beene been
+ia Beofer Before
 ia befoer before
 ia beofre before
 ia bewfore before
@@ -3206,6 +3208,7 @@ ia humitiy humidity
 ia Huniting Hunting
 ia hunignt hunting
 ia hurdels hurdles
+ia hygienge hygiene
 ia Hyperparametres Hyperparameters
 ia hypen hyphen
 ia hypens hyphens
@@ -3886,6 +3889,7 @@ ia loower lower
 ia lucnh lunch
 ia machien machine
 ia machesines machines
+ia macors macros
 ia Macrosciptic Macroscopic
 ia mage made
 ia magentic magnetic
@@ -6059,6 +6063,7 @@ ia significati significant
 ia significatn significant
 ia Significatly Significantly
 ia signficantly significantly
+ia significanlty significantly
 ia significatnly significantly
 ia ismilar similar
 ia simialr similar
@@ -6517,6 +6522,7 @@ ia techinuques techniques
 ia techniquers techniques
 ia technoilogies technologies
 ia Techonology Technology
+ia Teeht Teeth
 ia TEmp Temp
 ia TEmpe Temp
 ia Tmep Temp
@@ -7543,6 +7549,7 @@ ia wokring working
 ia wokrking working
 ia woriking working
 ia workign working
+ia wroking working
 ia Worklaod Workload
 ia WOrks Works
 ia workds works
