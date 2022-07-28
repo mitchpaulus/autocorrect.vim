@@ -633,6 +633,7 @@ ia Blcok Block
 ia blokc block
 ia blockss blocks
 ia blgo blog
+ia boareds boards
 ia BOiler Boiler
 ia Boielr Boiler
 ia biler boiler
@@ -665,6 +666,7 @@ ia Breka Break
 ia breka break
 ia brekadown breakdown
 ia breakre breaker
+ia brekaing breaking
 ia Brikc Brick
 ia bridcges bridges
 ia briging bringing
@@ -1357,6 +1359,7 @@ ia coinsumption consumption
 ia constumption consumption
 ia consukmption consumption
 ia consumptiohj consumption
+ia ocntact contact
 ia contianed contained
 ia Conntainer Container
 ia contaienr container
@@ -1408,6 +1411,7 @@ ia Contorl Control
 ia Contyrol Control
 ia Cotnrl Control
 ia Cotnrol Control
+ia contol control
 ia contorl control
 ia contrl control
 ia controol control
@@ -1646,8 +1650,10 @@ ia dadband deadband
 ia daedband deadband
 ia deadbadn deadband
 ia deadbadnads deadbands
+ia dela deal
 ia deailng dealing
 ia debuging debugging
+ia deceleartion deceleration
 ia Decmember December
 ia decidied decided
 ia dediced decided
@@ -1768,6 +1774,7 @@ ia Dessign Design
 ia desgin design
 ia desigh design
 ia desing design
+ia Desiginated Designated
 ia disgnation designation
 ia edesignation designation
 ia desiging designing
@@ -1848,6 +1855,7 @@ ia digarm diagram
 ia dailog dialog
 ia diaglo dialog
 ia diaglog dialog
+ia diametre diameter
 ia Dicitonary Dictionary
 ia Dictiorany Dictionary
 ia dicitonary dictionary
@@ -2140,6 +2148,7 @@ ia Etiher Either
 ia weitther either
 ia Eelctric Electric
 ia Eelectric Electric
+ia electirc electric
 ia electrici electric
 ia Eelctrical Electrical
 ia Eelectical Electrical
@@ -2212,6 +2221,7 @@ ia ENd End
 ia ned end
 ia endevor endeavor
 ia Edngins Endings
+ia Enforcment Endorsement
 ia ENergy Energy
 ia Eneryg Energy
 ia enegy energy
@@ -2619,6 +2629,7 @@ ia failry fairly
 ia faily fairly
 ia farily fairly
 ia fiarly fairly
+ia Fallign Falling
 ia Flase False
 ia flase false
 ia familar familiar
@@ -3717,6 +3728,7 @@ ia alrge large
 ia lartge large
 ia llage large
 ia lrage large
+ia largets largest
 ia alst last
 ia lateset latest
 ia Leadersihp Leadership
@@ -4111,6 +4123,7 @@ ia Mniiimzie Minimize
 ia Minimmum Minimum
 ia mimnimum minimum
 ia minimimum minimum
+ia minimmum minimum
 ia minmium minimum
 ia minmum minimum
 ia Minnestoa Minnesota
@@ -6337,12 +6350,14 @@ ia stragegy strategy
 ia stary stray
 ia straem stream
 ia strema stream
+ia strendght strength
 ia strenght strength
 ia Streches Stretches
 ia striclty strictly
 ia Sring String
 ia stinrg string
 ia STrings Strings
+ia Strukc Struck
 ia strucutre structure
 ia strcutees structures
 ia Studnent Student
@@ -6658,6 +6673,8 @@ ia Temporray Temporary
 ia temperator temporary
 ia Tennant Tenant
 ia tennants tenants
+ia ensile tensile
+ia tneisle tensile
 ia teerm term
 ia temr term
 ia Temrianil Terminal
@@ -7530,6 +7547,7 @@ ia Wokred Worked
 ia owrked worked
 ia worekd worked
 ia workeds worked
+ia workesr workers
 ia Workflwo Workflow
 ia workflwo workflow
 ia WOkrign Working
@@ -7558,6 +7576,7 @@ ia woriking working
 ia workign working
 ia wroking working
 ia Worklaod Workload
+ia workpalce workplace
 ia WOrks Works
 ia workds works
 ia owrksheet worksheet
