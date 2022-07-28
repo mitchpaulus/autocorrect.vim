@@ -220,6 +220,7 @@ ia aslo also
 ia altnerate alternate
 ia altenrates alternates
 ia altenrative alternative
+ia altenratives alternatives
 ia Althouugh Although
 ia Athough Although
 ia althoguh although
@@ -308,6 +309,7 @@ ia Antoher Another
 ia annother another
 ia antoher another
 ia Answeringt Answering
+ia ansswers answers
 ia ANthony Anthony
 ia Anthohny Anthony
 ia Anythony Anthony
@@ -2295,6 +2297,7 @@ ia enviornment environment
 ia enviromenmtn environment
 ia enviroment environment
 ia enviromentm environment
+ia enviromentt environment
 ia enviromoent environment
 ia environement environment
 ia environemnt environment
@@ -3000,6 +3003,7 @@ ia givne given
 ia Globla Global
 ia gllobal global
 ia globla global
+ia Gloabbly Globally
 ia globablly globally
 ia glroious glorious
 ia glpyh glyph
@@ -6285,6 +6289,7 @@ ia statemntes statements
 ia statemnts statements
 ia statemtns statements
 ia statments statements
+ia satates states
 ia staes states
 ia STatic Static
 ia satatic static
@@ -7167,6 +7172,7 @@ ia UPdating Updating
 ia Updaitng Updating
 ia Updatign Updating
 ia Upodaitng Updating
+ia udpating updating
 ia updaing updating
 ia Upgraes Upgrades
 ia Uplaod Upload
@@ -7188,6 +7194,7 @@ ia useage usage
 ia tused used
 ia ued used
 ia uesd used
+ia USeful Useful
 ia Useufl Useful
 ia sueufl useful
 ia usefuli useful
