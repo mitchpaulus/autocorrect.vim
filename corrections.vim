@@ -153,6 +153,7 @@ ia AGain Again
 ia agian again
 ia Agaisnst Against
 ia agaisnt against
+ia nagianst against
 ia AGe Age
 ia aggregatre aggregate
 ia aggreation aggregation
@@ -476,6 +477,7 @@ ia Attmpeting Attempting
 ia attemping attempting
 ia attemting attempting
 ia Attendence Attendance
+ia attenuatiors attenuators
 ia attaic attic
 ia attroueny attorney
 ia attritbue attribute
@@ -608,6 +610,7 @@ ia bewing being
 ia Belive Believe
 ia belive believe
 ia blieve believe
+ia betls belts
 ia besdies besides
 ia bset best
 ia bettter better
@@ -914,6 +917,7 @@ ia chnages changes
 ia hcanges changes
 ia chagning changing
 ia changeing changing
+ia Channelling Channeling
 ia Chatper Chapter
 ia cahpter chapter
 ia chaper chapter
@@ -1844,6 +1848,7 @@ ia developes develops
 ia devleops develops
 ia dervice device
 ia devicee device
+ia devies devices
 ia edevices devices
 ia Deval Devil
 ia Deveil Devil
@@ -2166,6 +2171,7 @@ ia electircal electrical
 ia electrialc electrical
 ia electricial electrical
 ia electricla electrical
+ia erlectrical electrical
 ia ewlectrical electrical
 ia Eelectricity Electricity
 ia Electiricy Electricity
@@ -2636,6 +2642,7 @@ ia familar familiar
 ia FAn Fan
 ia fna fan
 ia fanas fans
+ia fataliites fatalities
 ia fautl fault
 ia FAults Faults
 ia falults faults
@@ -3119,6 +3126,7 @@ ia haiving having
 ia hvaing having
 ia hving having
 ia Haystakc Haystack
+ia hazazards hazards
 ia sheaders headers
 ia Heaidng Heading
 ia ehading heading
@@ -3530,6 +3538,7 @@ ia integrtation integration
 ia integrations integrations
 ia intelligcne intelligence
 ia INtended Intended
+ia Inteded Intended
 ia initended intended
 ia interaect interact
 ia interconnecitons interconnections
@@ -3638,6 +3647,7 @@ ia iteraotr iterator
 ia ist its
 ia iteslf itself
 ia itslf itself
+ia jackign jacking
 ia Janurayr January
 ia Javascdript JavaScript
 ia Javascript JavaScript
@@ -5175,6 +5185,7 @@ ia propsoed proposed
 ia propiritary proprietary
 ia protecdtion protection
 ia protectdion protection
+ia protectio protection
 ia Protocal Protocol
 ia Protocl Protocol
 ia prootcol protocol
@@ -5715,6 +5726,7 @@ ia rightt right
 ia rihgtn right
 ia rigourous rigorous
 ia rigous rigorous
+ia rign ring
 ia riese rise
 ia Roadd Road
 ia robuts robust
@@ -6344,6 +6356,7 @@ ia straighforward straightforward
 ia straightowrad straightforward
 ia striaghtforward straightforward
 ia stragne strange
+ia stragegies strategies
 ia strageties strategies
 ia stratetgies strategies
 ia stragegy strategy
@@ -6966,6 +6979,7 @@ ia trcking tracking
 ia tarddemarking trademarking
 ia tradiation tradition
 ia traditioanl traditional
+ia Traffice Traffic
 ia trialing trailing
 ia Traingin Training
 ia Trainign Training
@@ -7134,6 +7148,7 @@ ia unfailry unfairly
 ia unfamilar unfamiliar
 ia Unfortunatley Unfortunately
 ia unicode Unicode
+ia Unifomr Uniform
 ia uique unique
 ia uniuqe unique
 ia unqiue unique
@@ -7366,6 +7381,7 @@ ia viisti visit
 ia vist visit
 ia visti visit
 ia Vistied Visited
+ia ivists visits
 ia viesits visits
 ia Viusal Visual
 ia VIsualization Visualization
