@@ -76,6 +76,7 @@ ia Actve Active
 ia Acdtivies Activities
 ia activies activities
 ia activites activities
+ia Acutal Actual
 ia actaul actual
 ia acutal actual
 ia Actulaly Actually
@@ -161,6 +162,7 @@ ia aggregatiuon aggregation
 ia aggregatrion aggregation
 ia aggregration aggregation
 ia aggresive aggressive
+ia Argeement Agreement
 ia aggreement agreement
 ia argreement agreement
 ia ahaed ahead
@@ -2545,6 +2547,7 @@ ia expecdted expected
 ia expectedc expected
 ia expewnse expense
 ia expnse expense
+ia expences expenses
 ia expensoieve expensive
 ia Experinece Experience
 ia expereicne experience
@@ -2595,6 +2598,7 @@ ia extermanl external
 ia extranous extraneous
 ia extrpaolation extrapolation
 ia Extermely Extremely
+ia Extremlye Extremely
 ia extemrely extremely
 ia extermelty extremely
 ia extermely extremely
@@ -2756,6 +2760,7 @@ ia ifhs fish
 ia ifsh fish
 ia FIx Fix
 ia ifx fix
+ia FIxed Fixed
 ia fxed fixed
 ia ifxes fixes
 ia FIxing Fixing
@@ -3059,6 +3064,7 @@ ia grpahicla graphical
 ia Grapahcis Graphics
 ia Graphcis Graphics
 ia Graphsics Graphics
+ia Grpahcis Graphics
 ia Grpahics Graphics
 ia gprahics graphics
 ia graphcis graphics
@@ -3088,6 +3094,7 @@ ia Guidleine Guideline
 ia Guidleing Guideline
 ia Guidleline Guideline
 ia Guidleines Guidelines
+ia gudielines guidelines
 ia guideines guidelines
 ia gusy guys
 ia ahd had
@@ -3357,6 +3364,7 @@ ia incorreclty incorrectly
 ia increasees increases
 ia increaseing increasing
 ia incrteasing increasing
+ia indentaiton indentation
 ia indenpendence independence
 ia indepoendence independence
 ia indedependt independent
@@ -3767,6 +3775,7 @@ ia lvel level
 ia lvelv level
 ia lvevl level
 ia flevels levels
+ia levles levels
 ia liason liaison
 ia LIberty Liberty
 ia libaries libraries
@@ -3976,6 +3985,7 @@ ia manageers managers
 ia managerse managers
 ia Machester Manchester
 ia mainiuplate manipulate
+ia mainupalte manipulate
 ia manipulaiton manipulation
 ia Mnaual Manual
 ia Mnaula Manual
@@ -4551,6 +4561,7 @@ ia organizaiton organization
 ia organziaiton organization
 ia rogainations organizations
 ia Orgainzing Organizing
+ia orientied oriented
 ia Origialn Original
 ia Origianl Original
 ia Origilan Original
@@ -5939,6 +5950,7 @@ ia seapated separated
 ia seperated separated
 ia spearaetd separated
 ia spearated separated
+ia separatley separately
 ia seaparter separator
 ia separater separator
 ia Septmeber September
@@ -6285,6 +6297,7 @@ ia Standand Standard
 ia satandrad standard
 ia satndard standard
 ia standared standard
+ia standrads standards
 ia standpoitn standpoint
 ia stadns stands
 ia stareted started
@@ -6382,6 +6395,7 @@ ia sutdy study
 ia stye style
 ia styel style
 ia sytle style
+ia Styels Styles
 ia sytles styles
 ia sytlus stylus
 ia subcalculation sub calculation
@@ -6797,6 +6811,7 @@ ia thme them
 ia tehmselves themselves
 ia THen Then
 ia hten then
+ia htne then
 ia tehn then
 ia theen then
 ia thne then
@@ -6864,6 +6879,7 @@ ia THomas Thomas
 ia Thoams Thomas
 ia THose Those
 ia htose those
+ia Thoguht Thought
 ia thougth thought
 ia Thoguhts Thoughts
 ia thoughs thoughts
@@ -7033,6 +7049,7 @@ ia trendeing trending
 ia trenidng trending
 ia Trneds Trends
 ia rtends trends
+ia ternds trends
 ia trneds trends
 ia trnes trends
 ia tyrends trends
