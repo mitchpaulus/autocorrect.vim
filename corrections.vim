@@ -653,6 +653,7 @@ ia bookamrks bookmarks
 ia bookmarkds bookmarks
 ia Boolena Boolean
 ia boolens booleans
+ia obots boots
 ia obsses bosses
 ia gboth both
 ia boutght bought
@@ -1649,6 +1650,7 @@ ia DAte Date
 ia ddate date
 ia Daughther Daughter
 ia DAve Dave
+ia DAvid David
 ia ady day
 ia dayas days
 ia Deadbaand Deadband
@@ -2092,6 +2094,7 @@ ia dupcliate duplicate
 ia dupklcate duplicate
 ia duploicate duplicate
 ia dupoicate duplicate
+ia udplicate duplicate
 ia dupcliates duplicates
 ia dupolicates duplicates
 ia dupilcating duplicating
@@ -4360,6 +4363,7 @@ ia nexdt next
 ia nexzt next
 ia ncie nice
 ia ngiht night
+ia nosie noise
 ia nomeclature nomenclature
 ia nomencalture nomenclature
 ia nomencalute nomenclature
