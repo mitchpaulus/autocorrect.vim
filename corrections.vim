@@ -472,6 +472,7 @@ ia attachemtns attachments
 ia attachgements attachments
 ia attachmetns attachments
 ia attachmetnst attachments
+ia Attmpeted Attempted
 ia Attemptiung Attempting
 ia Attmept9ing Attempting
 ia Attmepting Attempting
@@ -505,6 +506,7 @@ ia autaomatically automatically
 ia automagically automatically
 ia automaitcllay automatically
 ia automatcially automatically
+ia automaticallty automatically
 ia automaticaly automatically
 ia automoatically automatically
 ia auotmation automation
@@ -1015,6 +1017,7 @@ ia clint Clint
 ia clipboaard clipboard
 ia clipbvoard clipboard
 ia cloen clone
+ia Clsoe Close
 ia clsoed closed
 ia lcosed closed
 ia xlosed closed
@@ -1775,6 +1778,7 @@ ia Descriptiosn Descriptions
 ia descriptoins descriptions
 ia descirptive descriptive
 ia descritive descriptive
+ia desreve deserve
 ia Deisng Design
 ia Desgin Design
 ia Desing Design
@@ -4575,6 +4579,7 @@ ia origianl original
 ia origiinal original
 ia originall original
 ia orignal original
+ia orignial original
 ia oriigal original
 ia oringial original
 ia orginally originally
@@ -5424,6 +5429,7 @@ ia regrads regards
 ia Regenearrte Regenerate
 ia Regeneratre Regenerate
 ia Regerneate Regenerate
+ia Regenearting Regenerating
 ia regernation regeneration
 ia regisetered registered
 ia REgression Regression
@@ -5493,6 +5499,7 @@ ia reomve remove
 ia removewd removed
 ia reomved removed
 ia rmeoved removed
+ia remonving removing
 ia rmoeoivng removing
 ia renamign renaming
 ia REno Reno
@@ -7099,6 +7106,7 @@ ia ytpes types
 ia TYpeScript TypeScript
 ia TeypScript TypeScript
 ia TypeScirpt TypeScript
+ia TYpcial Typical
 ia Typcial Typical
 ia tyhpical typical
 ia typcial typical
