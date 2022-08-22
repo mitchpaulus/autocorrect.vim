@@ -188,6 +188,7 @@ ia Albequeque Albuquerque
 ia Albequerqe Albuquerque
 ia Albequerque Albuquerque
 ia Albrquerque Albuquerque
+ia salchohols alcohols
 ia Algorihgm Algorithm
 ia algorighm algorithm
 ia algorihgm algorithm
@@ -977,6 +978,8 @@ ia Chjillers Chillers
 ia chilelrs chillers
 ia chilers chillers
 ia chilllers chillers
+ia choloride chloride
+ia cholride chloride
 ia chocie choice
 ia cohice choice
 ia chooosing choosing
@@ -1852,6 +1855,7 @@ ia developpment development
 ia devleopemnt development
 ia devleopemtn development
 ia devleopment development
+ia Developes Develops
 ia developes develops
 ia devleops develops
 ia dervice device
@@ -1860,6 +1864,7 @@ ia devies devices
 ia edevices devices
 ia Deval Devil
 ia Deveil Devil
+ia dexteriry dexterity
 ia Diagnosiing Diagnosing
 ia diagnositc diagnostic
 ia Daigram Diagram
@@ -3036,6 +3041,7 @@ ia globla global
 ia Gloabbly Globally
 ia globablly globally
 ia glroious glorious
+ia glvoe glove
 ia glpyh glyph
 ia gola goal
 ia gaols goals
@@ -3597,6 +3603,7 @@ ia Interoperability Interoperability
 ia interpoleated interpolated
 ia interpoation interpolation
 ia interregating interrogating
+ia Interupptions Interruptions
 ia interupptions interruptions
 ia interuptions interruptions
 ia INtersection Intersection
@@ -4303,6 +4310,7 @@ ia namign naming
 ia natiaonl national
 ia nationsl national
 ia Natual Natural
+ia anatural natural
 ia antrual natural
 ia natuall natural
 ia naturl natural
@@ -4797,6 +4805,7 @@ ia phoen phone
 ia Phto Photo
 ia phtoo photo
 ia Phtoos Photos
+ia PHyscial Physical
 ia phycisal physical
 ia physcally physically
 ia pinao piano
