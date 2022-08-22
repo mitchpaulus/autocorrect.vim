@@ -21,6 +21,7 @@ ia aboutr about
 ia abvout about
 ia aobut about
 ia aoubt about
+ia Abraisve Abrasive
 ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
@@ -685,6 +686,7 @@ ia broek broke
 ia borken broken
 ia broekn broken
 ia broutht brought
+ia brwon brown
 ia broswer browser
 ia browswer browser
 ia bubblle bubble
@@ -1609,6 +1611,7 @@ ia curosr cursor
 ia cursro cursor
 ia curvativure curvature
 ia cureves curves
+ia custoidal custodial
 ia cusomt custom
 ia cusotm custom
 ia custiom custom
@@ -3146,6 +3149,7 @@ ia haiving having
 ia hvaing having
 ia hving having
 ia Haystakc Haystack
+ia ahzardous hazardous
 ia hazazards hazards
 ia sheaders headers
 ia Heaidng Heading
@@ -5390,6 +5394,7 @@ ia reocrd record
 ia recoreded recorded
 ia reocrded recorded
 ia Recordder Recorder
+ia Reocrds Records
 ia recoreds records
 ia reocreds records
 ia recurison recursion
@@ -5610,6 +5615,7 @@ ia represesnts represents
 ia reproducability reproducibility
 ia Reproducable Reproducible
 ia reproducable reproducible
+ia reporductive reproductive
 ia Requst Request
 ia erquest request
 ia requrest request
@@ -7004,6 +7010,7 @@ ia toltals totals
 ia totlas totals
 ia otwer tower
 ia toweres towers
+ia Toixc Toxic
 ia Toytoa Toyota
 ia Tyotoa Toyota
 ia Trackign Tracking
