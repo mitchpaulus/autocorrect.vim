@@ -839,6 +839,7 @@ ia canbe can be
 ia cna can
 ia czn can
 ia cancelled canceled
+ia cnacer cancer
 ia canonicalize canonicalize
 ia capabaiblites capabilities
 ia capabillites capabilities
@@ -1902,6 +1903,7 @@ ia diffierent different
 ia diffrent different
 ia difrent different
 ia idfferent different
+ia differentitate differentiate
 ia Difficutl Difficult
 ia difficutl difficult
 ia difficulity difficulty
@@ -3675,6 +3677,7 @@ ia iteslf itself
 ia itslf itself
 ia jackign jacking
 ia Janurayr January
+ia Juandice Jaundice
 ia Javascdript JavaScript
 ia Javascript JavaScript
 ia javascript JavaScript
@@ -6219,6 +6222,7 @@ ia somehting something
 ia someithign something
 ia somethign something
 ia somsethign something
+ia somthing something
 ia Somethimes Sometimes
 ia Sometmies Sometimes
 ia somethimes sometimes
@@ -7297,6 +7301,7 @@ ia Uiltity Utility
 ia Utiltiy Utility
 ia uitlilty utility
 ia uitlity utility
+ia utillity utility
 ia utiltiy utility
 ia utiltiyt utility
 ia utiltliy utility
