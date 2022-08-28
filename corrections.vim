@@ -372,6 +372,7 @@ ia paproach approach
 ia appropirate appropriate
 ia approriate appropriate
 ia paproval approval
+ia approivved approved
 ia approimated approximated
 ia approximatled approximated
 ia approxiamtely approximately
@@ -463,6 +464,7 @@ ia asyncronousyl asynchronously
 ia anthete athlete
 ia atmosphereic atmospheric
 ia atmosphreric atmospheric
+ia attahc attach
 ia attachemnt attachment
 ia attachemtn attachment
 ia Attachements Attachments
@@ -1003,6 +1005,7 @@ ia citaitons citations
 ia Ciit Citi
 ia CIty City
 ia cliam claim
+ia cliams claims
 ia Clairdge Claridge
 ia Clairdige Claridge
 ia Clardige Claridge
@@ -1130,6 +1133,7 @@ ia Commissioingin Commissioning
 ia Commissiongin Commissioning
 ia Commissionging Commissioning
 ia Commissionign Commissioning
+ia Commissioniing Commissioning
 ia Commissionings Commissioning
 ia Commissionoing Commissioning
 ia Commissiooing Commissioning
@@ -1275,6 +1279,7 @@ ia concertns concerns
 ia concewrns concerns
 ia conercns concerns
 ia consise concise
+ia consisely concisely
 ia consiseness conciseness
 ia Conclustions Conclusions
 ia Conslusions Conclusions
@@ -1796,6 +1801,7 @@ ia desing design
 ia Desiginated Designated
 ia disgnation designation
 ia edesignation designation
+ia desgined designed
 ia desiging designing
 ia desigingni designing
 ia deesriable desirable
@@ -2009,6 +2015,7 @@ ia doecuemnt document
 ia doecument document
 ia Dcouematation Documentation
 ia Docuemntaino Documentation
+ia Docuemntaion Documentation
 ia Docuemntaiont Documentation
 ia Docuemntaiton Documentation
 ia Docuemntation Documentation
@@ -2939,11 +2946,13 @@ ia Functioanl Functional
 ia funcationl functional
 ia funcitional functional
 ia funcitonal functional
+ia functianl functional
 ia functilnal functional
 ia functinlal functional
 ia functioanl functional
 ia funtional functional
 ia FUnctionality Functionality
+ia Functioanlity Functionality
 ia fucntionality functionality
 ia funcationality functionality
 ia funcdtioanliy functionality
@@ -3298,6 +3307,7 @@ ia implemeentaiton implementation
 ia implemenation implementation
 ia implementaiton implementation
 ia implmentation implementation
+ia immplementations implementations
 ia impelmented implemented
 ia implemetned implemented
 ia implmeented implemented
@@ -3528,6 +3538,7 @@ ia inslatioation installation
 ia installaiton installation
 ia instlalation installation
 ia instlaliont installation
+ia instllation installation
 ia isntallation installation
 ia inistalled installed
 ia insalled installed
@@ -5215,6 +5226,7 @@ ia Proposla Proposal
 ia proposla proposal
 ia Proposlas Proposals
 ia propsoals proposals
+ia propse propose
 ia Porposed Proposed
 ia propsed proposed
 ia propsoed proposed
@@ -5479,6 +5491,7 @@ ia realitive relative
 ia realtive relative
 ia relateive relative
 ia rellative relative
+ia realse release
 ia relase release
 ia releasae release
 ia relavant relevant
@@ -5858,6 +5871,7 @@ ia schmatic schematic
 ia schmeatic schematic
 ia Schenider Schneider
 ia Schnedier Schneider
+ia scholoaryly scholarly
 ia socope scope
 ia socpe scope
 ia sope scope
@@ -6184,6 +6198,7 @@ ia slithgly slightly
 ia sloep slope
 ia slwodown slowdown
 ia slowign slowing
+ia Samll Small
 ia samll small
 ia Samrt Smart
 ia samrt smart
@@ -6232,6 +6247,7 @@ ia Soruce Source
 ia Sourcee Source
 ia soruce source
 ia souce source
+ia soucre source
 ia soources sources
 ia soruces sources
 ia SPace Space
@@ -6444,6 +6460,7 @@ ia submiting submitting
 ia Subroutinges Subroutines
 ia subsance substance
 ia substantce substance
+ia Substantail Substantial
 ia substiture substitute
 ia substituing substituting
 ia substituion substitution
@@ -6488,6 +6505,7 @@ ia suppling supplying
 ia supprot support
 ia supress suppress
 ia srue sure
+ia ssure sure
 ia usre sure
 ia Surpirse Surprise
 ia surroundign surrounding
