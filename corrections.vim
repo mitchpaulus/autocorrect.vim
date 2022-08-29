@@ -1573,6 +1573,7 @@ ia covver cover
 ia covewred covered
 ia COIVD COVID
 ia cracs CRACs
+ia crnaes cranes
 ia crnaked cranked
 ia creatd created
 ia Creatting Creating
@@ -1700,6 +1701,7 @@ ia deafutl default
 ia deauflt default
 ia deautl default
 ia deautlt default
+ia defaut default
 ia defautl default
 ia defauylt default
 ia defualt default
@@ -2150,6 +2152,7 @@ ia Ediosn Edison
 ia Edision Edison
 ia Ediston Edison
 ia Eidson Edison
+ia eidt edit
 ia edigint editing
 ia editning editing
 ia eidtor editor
@@ -2670,6 +2673,7 @@ ia familar familiar
 ia FAn Fan
 ia fna fan
 ia fanas fans
+ia fatalieis fatalities
 ia fataliites fatalities
 ia fautl fault
 ia FAults Faults
@@ -3365,6 +3369,7 @@ ia inb in
 ia inthe in the
 ia ni in
 ia unaccessiable inaccessible
+ia Inadquate Inadequate
 ia inadvertantly inadvertently
 ia Inappropraite Inappropriate
 ia INclude Include
@@ -4311,6 +4316,7 @@ ia multiplicaiton multiplication
 ia multiopleyer multiplier
 ia multipoliers multipliers
 ia Multipy Multiply
+ia mulitply multiply
 ia multipling multiplying
 ia msut must
 ia Mutaul Mutual
@@ -5320,6 +5326,7 @@ ia quations questions
 ia queitson questions
 ia quesitons questions
 ia Qucdk Quick
+ia Quikc Quick
 ia qiuik quick
 ia Quiclkly Quickly
 ia qauicly quickly
