@@ -3134,6 +3134,7 @@ ia haad had
 ia hbad had
 ia hari hair
 ia ahlls halls
+ia ahnd hand
 ia hadn hand
 ia hande handle
 ia handeld handled
@@ -4059,6 +4060,7 @@ ia makred marked
 ia marekd marked
 ia markders markers
 ia Mayr Mary
+ia amst mast
 ia amster master
 ia amtch match
 ia mataches matches
@@ -6101,6 +6103,7 @@ ia Sharepoitn Sharepoint
 ia Sharpeoitn SharePoint
 ia sharepoint Sharepoint
 ia sheathign sheathing
+ia SHeaves Sheaves
 ia sheeet sheet
 ia sehell shell
 ia sehll shell
@@ -6424,6 +6427,7 @@ ia storign storing
 ia straighforward straightforward
 ia straightowrad straightforward
 ia striaghtforward straightforward
+ia strandd strand
 ia stragne strange
 ia stragegies strategies
 ia strageties strategies
@@ -6440,6 +6444,7 @@ ia Sring String
 ia stinrg string
 ia STrings Strings
 ia Strukc Struck
+ia Structurla Structural
 ia strucutre structure
 ia strcutees structures
 ia Studnent Student
@@ -7501,6 +7506,7 @@ ia Wwater Water
 ia wtaer water
 ia wtera water
 ia wya way
+ia Waer Wear
 ia Weahter Weather
 ia Weeather Weather
 ia wather weather
