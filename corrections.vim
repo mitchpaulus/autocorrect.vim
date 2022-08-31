@@ -1014,6 +1014,7 @@ ia calss class
 ia lcass class
 ia calne clean
 ia cleanign cleaning
+ia Cleanpu Cleanup
 ia clenaup cleanup
 ia claer clear
 ia cleraed cleared
@@ -5000,6 +5001,7 @@ ia Prantl Prandtl
 ia precendence precedence
 ia precedding preceding
 ia precisly precisely
+ia preceision precision
 ia predition prediciton
 ia pedicted predicted
 ia prediced predicted
@@ -5736,6 +5738,7 @@ ia restul result
 ia resutl result
 ia reuslt result
 ia resutled resulted
+ia rseulting resulting
 ia Reuslts Results
 ia resutls results
 ia reulsts results
@@ -6497,6 +6500,7 @@ ia sunslight sunlight
 ia supercede supersede
 ia Superceded Superseded
 ia superviosr supervisor
+ia superivisory supervisory
 ia superviosry supervisory
 ia supervisoray supervisory
 ia Suuply Supply
