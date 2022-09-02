@@ -151,6 +151,7 @@ ia AFter After
 ia Afternnon Afternoon
 ia aftenronon afternoon
 ia afternon afternoon
+ia afternooons afternoons
 ia AGain Again
 ia agian again
 ia Agaisnst Against
@@ -835,6 +836,7 @@ ia cmae came
 ia Camear Camera
 ia camerag camera
 ia comapaigns campaigns
+ia capmus campus
 ia CAn Can
 ia acn can
 ia canbe can be
@@ -1492,6 +1494,7 @@ ia ocoled cooled
 ia COoling Cooling
 ia COoolint Cooling
 ia Cooilng Cooling
+ia Coolgin Cooling
 ia Coolign Cooling
 ia Cooliing Cooling
 ia Coolitng Cooling
@@ -1728,6 +1731,7 @@ ia defintinoo definition
 ia defintion definition
 ia definiations definitions
 ia defintions definitions
+ia degreees degrees
 ia degress degrees
 ia Dehumidificaiton Dehumidification
 ia dehumidifaciton dehumidification
@@ -1737,6 +1741,7 @@ ia delte delete
 ia dleeted deleted
 ia dleting deleting
 ia Deleiton Deletion
+ia Deliimiters Delimiters
 ia deliverabel deliverable
 ia deliveragble deliverable
 ia deliverables deliverables
@@ -2488,6 +2493,7 @@ ia eventaul eventual
 ia eveyr every
 ia evry every
 ia ewvery every
+ia everyboyd everybody
 ia everytone everyone
 ia Everthing Everything
 ia Evertyhgin Everything
@@ -2668,6 +2674,7 @@ ia faily fairly
 ia farily fairly
 ia fiarly fairly
 ia Fallign Falling
+ia fallas falls
 ia Flase False
 ia flase false
 ia familar familiar
@@ -3184,6 +3191,7 @@ ia heagin heating
 ia heaing heating
 ia heaint heating
 ia heaitng heating
+ia Helicoper Helicopter
 ia Hlep Help
 ia ehlp help
 ia hlep help
@@ -3238,6 +3246,7 @@ ia hoem home
 ia Horizontla Horizontal
 ia Horiztonal Horizontal
 ia horizonatal horizontal
+ia horizontoal horizontal
 ia Hoorry Horry
 ia horespower horsepower
 ia Hosptial Hospital
@@ -4188,6 +4197,7 @@ ia minmium minimum
 ia minmum minimum
 ia Minnestoa Minnesota
 ia Minro Minor
+ia Mionr Minor
 ia Mintue Minute
 ia minnute minute
 ia mintue minute
@@ -4877,6 +4887,7 @@ ia polant plant
 ia plnats plants
 ia plasitc plastic
 ia platfrom platform
+ia ploatfrom platform
 ia palusible plausible
 ia paly play
 ia plya play
@@ -4910,6 +4921,7 @@ ia piont point
 ia poitn point
 ia popitn point
 ia poitners pointers
+ia POints Points
 ia pionts points
 ia pointss points
 ia poisnt points
@@ -5703,6 +5715,7 @@ ia relisiancy resiliency
 ia resiliant resilient
 ia resistnace resistance
 ia resistnatce resistance
+ia resistent resistant
 ia resoluution resolution
 ia resovle resolve
 ia resovled resolved
@@ -6094,6 +6107,7 @@ ia serveral several
 ia sevearl several
 ia Sexcual Sexual
 ia SAFT SFAT
+ia shackels shackles
 ia sahll shall
 ia shlal shall
 ia hsare share
@@ -6251,6 +6265,7 @@ ia someithign something
 ia somethign something
 ia somsethign something
 ia somthing something
+ia somtihng something
 ia Somethimes Sometimes
 ia Sometmies Sometimes
 ia somethimes sometimes
@@ -6351,6 +6366,8 @@ ia stabel stable
 ia stakced stacked
 ia staffign staffing
 ia stari stair
+ia staris stairs
+ia Stiarway Stairway
 ia stampsl stamps
 ia Standand Standard
 ia satandrad standard
@@ -6381,6 +6398,7 @@ ia statment statement
 ia statmetn statement
 ia Statemments Statements
 ia stametns statements
+ia statemenst statements
 ia statemetns statements
 ia statemntes statements
 ia statemnts statements
@@ -6620,6 +6638,7 @@ ia TEam Team
 ia Tema Team
 ia tema team
 ia TEams Teams
+ia Teasm Teams
 ia Techinical Technical
 ia techinal technical
 ia techincal technical
@@ -6950,6 +6969,7 @@ ia thoughs thoughts
 ia threda thread
 ia trhead thread
 ia THree Three
+ia htree three
 ia trhee three
 ia thershold threshold
 ia threhsodl threshold
@@ -7565,6 +7585,7 @@ ia whhen when
 ia whne when
 ia whten when
 ia wihen when
+ia Wehre Where
 ia Wheer Where
 ia whearas whereas
 ia whereever wherever
@@ -7586,6 +7607,7 @@ ia hwite white
 ia WHo Who
 ia Whiole Whole
 ia wholeheardely wholeheartedly
+ia widht width
 ia Wikipeida Wikipedia
 ia wikipedia wikipedia
 ia WIll Will
