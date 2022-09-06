@@ -2517,6 +2517,7 @@ ia exmaple example
 ia exmpale example
 ia expmaple example
 ia exmapllse examples
+ia rexceeding exceeding
 ia Ecxel Excel
 ia Excewl Excel
 ia Excle Excel
@@ -2623,6 +2624,7 @@ ia expresion expression
 ia expresssions expressions
 ia Exnted Extend
 ia extensibile extensible
+ia extention extension
 ia extrension extension
 ia extensiosn extensions
 ia exetiror exterior
@@ -2639,6 +2641,7 @@ ia extermely extremely
 ia extermley extremely
 ia extremly extremely
 ia extrremely extremely
+ia fadce face
 ia facebook Facebook
 ia faciliteis facilities
 ia facilites facilities
@@ -2831,6 +2834,7 @@ ia floow follow
 ia folloow follow
 ia follolwed followed
 ia floowing following
+ia folllowing following
 ia folloiwing following
 ia followign following
 ia follwing following
@@ -3152,6 +3156,7 @@ ia handlaing handling
 ia handliang handling
 ia handlign handling
 ia hndling handling
+ia andrail handrail
 ia ahppended happened
 ia hapenning happening
 ia happending happening
@@ -3771,6 +3776,7 @@ ia Laboratoyr Laboratory
 ia Laboratoyrt Laboratory
 ia Laborayr Laboratory
 ia liack lack
+ia aldders ladders
 ia lamdba lambda
 ia alnding landing
 ia Langauge Language
@@ -5263,6 +5269,7 @@ ia protocll protocol
 ia protocls protocols
 ia protocosl protocols
 ia rpove prove
+ia proveded provided
 ia proviced provided
 ia PRovider Provider
 ia proividing providing
@@ -5357,6 +5364,7 @@ ia quilcky quickly
 ia quitely quietly
 ia quilte quite
 ia qutie quite
+ia quiting quitting
 ia quoatiaon quotation
 ia qutoed quoted
 ia qoutes quotes
@@ -5959,6 +5967,7 @@ ia secitioon section
 ia seciton section
 ia sectino section
 ia sectiosn section
+ia secxtion section
 ia sectyor sector
 ia securtiy security
 ia secutiry security
@@ -6138,6 +6147,7 @@ ia SHuold Should
 ia Shiould Should
 ia Shoudl Should
 ia Shuld Should
+ia hould should
 ia hsould should
 ia shold should
 ia sholud should
@@ -6541,6 +6551,8 @@ ia supress suppress
 ia srue sure
 ia ssure sure
 ia usre sure
+ia suraface surface
+ia surafce surface
 ia Surpirse Surprise
 ia surroundign surrounding
 ia surroundsing surrounding
@@ -7120,6 +7132,7 @@ ia transpiller transpiler
 ia transporation transportation
 ia transportionat transportation
 ia travelled traveled
+ia tredad tread
 ia traeated treated
 ia Treehosue Treehouse
 ia rtrend trend
