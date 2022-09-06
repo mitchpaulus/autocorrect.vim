@@ -638,6 +638,7 @@ ia birthdya birthday
 ia bwiweekly biweekly
 ia Blakcout Blackout
 ia balnk blank
+ia blastign blasting
 ia blendde blended
 ia bleneded blended
 ia lbined blind
@@ -776,6 +777,7 @@ ia buit but
 ia ubt but
 ia butoton button
 ia yb by
+ia Byapss Bypass
 ia byapss bypass
 ia cabliing cabling
 ia chacehd cached
@@ -1345,6 +1347,7 @@ ia conencted connected
 ia conenected connected
 ia conenction connection
 ia conneciton connection
+ia consecrtuvie consecutive
 ia consectuive consecutive
 ia consectuvive consecutive
 ia Condsider Consider
@@ -1378,6 +1381,7 @@ ia construciton construction
 ia constructoin construction
 ia consturction construction
 ia constrcuts constructs
+ia consuem consume
 ia COnsujpmtion Consumption
 ia coinsumption consumption
 ia constumption consumption
@@ -1690,6 +1694,7 @@ ia declaraiotn declaration
 ia decalre declare
 ia Declien Decline
 ia decommissoin decommission
+ia Decreaesd Decreased
 ia decreaesed decreased
 ia decreasees decreases
 ia decreass decreases
@@ -1730,6 +1735,7 @@ ia definiton definition
 ia defintinoo definition
 ia defintion definition
 ia definiations definitions
+ia defintiions definitions
 ia defintions definitions
 ia degreees degrees
 ia degress degrees
@@ -2806,6 +2812,7 @@ ia FIxing Fixing
 ia finxing fixing
 ia fixutre fixture
 ia fixutres fixtures
+ia falgs flags
 ia flexlible flexible
 ia flippped flipped
 ia floatign floating
@@ -2829,6 +2836,7 @@ ia fodler folder
 ia foler folder
 ia oflder folder
 ia fodlers folders
+ia fodls folds
 ia Folow Follow
 ia floow follow
 ia folloow follow
@@ -3747,6 +3755,7 @@ ia keystorke keystroke
 ia keystorkes keystrokes
 ia ekywords keywords
 ia kcik kick
+ia kidnesy kidneys
 ia Kimal Kimla
 ia Kitchne Kitchen
 ia Ktichen Kitchen
@@ -3811,6 +3820,7 @@ ia leanr learn
 ia leanred learned
 ia Leanring Learning
 ia leanring learning
+ia elast least
 ia leaset least
 ia leats least
 ia LEft Left
@@ -3978,6 +3988,7 @@ ia loower lower
 ia lucnh lunch
 ia machien machine
 ia machesines machines
+ia machinging machining
 ia macors macros
 ia Macrosciptic Macroscopic
 ia mage made
@@ -4085,6 +4096,7 @@ ia Materila Material
 ia materila material
 ia materla material
 ia Mateirlas Materials
+ia matierals materials
 ia mathematica Mathematica
 ia matehematical mathematical
 ia matehematilca mathematical
@@ -4710,6 +4722,7 @@ ia pakcaged packaged
 ia pakcages packages
 ia Pakcing Packing
 ia apge page
+ia pians pains
 ia pari pair
 ia pamplhet pamphlet
 ia pandco pandoc
@@ -5332,6 +5345,7 @@ ia quantiative quantitative
 ia quantitavie quantitative
 ia quantitavely quantitatively
 ia qunaittites quantities
+ia Quarteryl Quarterly
 ia quartelry quarterly
 ia Quesiton Question
 ia queisont question
@@ -6229,6 +6243,7 @@ ia SksySpark SkySpark
 ia SkySPark SkySpark
 ia SkySpakr SkySpark
 ia slahs slash
+ia sleepoing sleeping
 ia lslides slides
 ia slidinmg sliding
 ia slithgly slightly
@@ -6643,6 +6658,7 @@ ia TAsk Task
 ia Taks Task
 ia taks task
 ia Takss Tasks
+ia tsaste taste
 ia taought taught
 ia teacing teaching
 ia teacvhing teaching
