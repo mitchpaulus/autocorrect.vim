@@ -245,6 +245,7 @@ ia amoung among
 ia amounto amount
 ia amountt amount
 ia amoutn amount
+ia amoutns amounts
 ia na an
 ia Analgoies Analogies
 ia analgous analogous
@@ -1338,6 +1339,7 @@ ia confrimr confirm
 ia conrimr confirm
 ia confirmaiton confirmation
 ia Confrimed Confirmed
+ia confligcts conflicts
 ia Confusted Confused
 ia confustion confusion
 ia congress Congress
@@ -1353,6 +1355,7 @@ ia consectuvive consecutive
 ia Condsider Consider
 ia cosider consider
 ia Considerationd Considerations
+ia consideratinos considerations
 ia condsidered considered
 ia consdiderd considered
 ia consdiered considered
@@ -1535,6 +1538,7 @@ ia correpsnd correspond
 ia correspodn correspond
 ia correspoind correspond
 ia correspnded corresponded
+ia correpsonding corresponding
 ia correpsonmding corresponding
 ia corresonding corresponding
 ia correspoding corresponding
@@ -2051,6 +2055,7 @@ ia docuemenation documentation
 ia docuementation documentation
 ia docuemnation documentation
 ia docuemneation documentation
+ia docuemntaint documentation
 ia docuemntaiton documentation
 ia docuemntation documentation
 ia docuemtnaiton documentation
@@ -3564,6 +3569,7 @@ ia istnall install
 ia INstlalation Installation
 ia Installatiopn Installation
 ia inslatioation installation
+ia installaitno installation
 ia installaiton installation
 ia instlalation installation
 ia instlaliont installation
@@ -5030,6 +5036,7 @@ ia pratical practical
 ia practicew practice
 ia practivce practice
 ia Practidces Practices
+ia practicitioners practitioners
 ia Prantl Prandtl
 ia precendence precedence
 ia precedding preceding
@@ -5828,6 +5835,7 @@ ia rigourous rigorous
 ia rigous rigorous
 ia rign ring
 ia riese rise
+ia rissk risk
 ia Roadd Road
 ia robuts robust
 ia rooom room
@@ -6532,6 +6540,8 @@ ia succesful successful
 ia successufl successful
 ia succsesful successful
 ia successivley successively
+ia succict succinct
+ia succiently succinctly
 ia succincly succinctly
 ia usch such
 ia suoders sudoers
