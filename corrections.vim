@@ -683,6 +683,7 @@ ia breka break
 ia brekadown breakdown
 ia breakre breaker
 ia brekaing breaking
+ia breathign breathing
 ia Brikc Brick
 ia bridcges bridges
 ia briging bringing
@@ -848,6 +849,7 @@ ia cna can
 ia czn can
 ia cancelled canceled
 ia cnacer cancer
+ia cnacers cancers
 ia canonicalize canonicalize
 ia capabaiblites capabilities
 ia capabillites capabilities
@@ -893,6 +895,7 @@ ia Celebraiton Celebration
 ia clell cell
 ia Celing Celling
 ia Celcius Celsius
+ia Celsisus Celsius
 ia Cemeted Cemented
 ia Cetner Center
 ia cetner center
@@ -939,6 +942,7 @@ ia Chatper Chapter
 ia cahpter chapter
 ia chaper chapter
 ia chatper chapter
+ia caharcter character
 ia hcaracter character
 ia caharcteristic characteristic
 ia cahractersictic characteristic
@@ -1018,6 +1022,7 @@ ia Clardige Claridge
 ia clairifactxion clarification
 ia calss class
 ia lcass class
+ia claissication classification
 ia calne clean
 ia cleanign cleaning
 ia Cleanpu Cleanup
@@ -1250,6 +1255,7 @@ ia compelting completing
 ia cmopletion completion
 ia compeltion completion
 ia compleiton completion
+ia complicance compliance
 ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
@@ -1405,6 +1411,7 @@ ia conntainers containers
 ia contaienrs containers
 ia containesr containers
 ia contianers containers
+ia containeing containing
 ia containg containing
 ia Containes Contains
 ia Contaisn Contains
@@ -1612,6 +1619,7 @@ ia crtricial critical
 ia ctirical critical
 ia critisms criticism
 ia cruical crucial
+ia cucib cubic
 ia curerent current
 ia currrent current
 ia currtent current
@@ -2538,6 +2546,7 @@ ia Excle Excel
 ia excewpt except
 ia exceptiopn exception
 ia exceptoin exception
+ia excetpoin exception
 ia excewption exception
 ia excpetion exception
 ia exceptionatlly exceptionally
@@ -3328,6 +3337,8 @@ ia iamgine imagine
 ia initated imitated
 ia immediatley immediately
 ia immediatly immediately
+ia IMplement Implement
+ia Implmeent Implement
 ia impelmetn implement
 ia impement implement
 ia implemnet implement
@@ -3995,6 +4006,8 @@ ia lwo low
 ia Loower Lower
 ia loower lower
 ia lucnh lunch
+ia LUng Lung
+ia Lunc Lung
 ia machien machine
 ia machesines machines
 ia machinging machining
@@ -4105,6 +4118,7 @@ ia Materila Material
 ia materila material
 ia materla material
 ia Mateirlas Materials
+ia materails materials
 ia matierals materials
 ia mathematica Mathematica
 ia matehematical mathematical
@@ -4775,6 +4789,7 @@ ia partail partial
 ia partialy partially
 ia partilaly partially
 ia Particiapnts Participants
+ia aprticales particles
 ia aprticualr particular
 ia aprticular particular
 ia paraticlaur particular
@@ -5463,6 +5478,7 @@ ia recoomendations recommendations
 ia recommendated recommended
 ia REconsile Reconcile
 ia reconneciton reconnection
+ia REcord Record
 ia reocrd record
 ia recoreded recorded
 ia reocrded recorded
@@ -5529,8 +5545,10 @@ ia REgulation Regulation
 ia erheat reheat
 ia rehate reheat
 ia reheta reheat
+ia Releated Related
 ia frelated related
 ia realted related
+ia reatled related
 ia relaated related
 ia relaeted related
 ia relateed related
@@ -5715,6 +5733,7 @@ ia reqwuiref required
 ia reuqied required
 ia reuqired required
 ia rquired required
+ia rqurired required
 ia rueiquireed required
 ia requiremnet requirement
 ia reuqirement requirement
@@ -5845,6 +5864,7 @@ ia riese rise
 ia rissk risk
 ia Roadd Road
 ia robuts robust
+ia roofign roofing
 ia rooom room
 ia roattion rotation
 ia rotaitons rotations
@@ -5978,6 +5998,7 @@ ia seraching searching
 ia Seaosn Season
 ia Sebasitan Sebastian
 ia Sebastioan Sebastian
+ia Secnod Second
 ia Seocnd Second
 ia Seoncd Second
 ia sconed second
@@ -7651,6 +7672,7 @@ ia whilee while
 ia whitle while
 ia Whtie White
 ia hwite white
+ia whitesapce whitespace
 ia WHo Who
 ia Whiole Whole
 ia wholeheardely wholeheartedly
