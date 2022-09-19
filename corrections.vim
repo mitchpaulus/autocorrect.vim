@@ -805,6 +805,7 @@ ia dalculation calculation
 ia Calcuaitons Calculations
 ia caclulations calculations
 ia calcualtions calculations
+ia calcuations calculations
 ia caluclations calculations
 ia claculatations calculations
 ia claculations calculations
@@ -903,6 +904,7 @@ ia cewnter center
 ia cewtner center
 ia cneter center
 ia cewntered centered
+ia cetners centers
 ia Centrla Central
 ia Cnetral Central
 ia Cnetrla Central
@@ -1483,6 +1485,7 @@ ia contreols controls
 ia contrls controls
 ia controsl controls
 ia contrrols controls
+ia cotnrols controls
 ia cotnrosl controls
 ia ocntrosl controls
 ia convienent convenient
@@ -1604,6 +1607,7 @@ ia credentails credentials
 ia credites credits
 ia Creepoing Creeping
 ia creiteris creiteria
+ia Cresecent Crescent
 ia Cresent Crescent
 ia creiteria criteria
 ia creteria criteria
@@ -3156,6 +3160,7 @@ ia grwo grow
 ia guarantte guarantee
 ia guarantted guaranteed
 ia GUardians Guardians
+ia GUidebook Guidebook
 ia Gudieline Guideline
 ia Gudielinte Guideline
 ia Guidleine Guideline
@@ -3247,8 +3252,10 @@ ia Highlighitng Highlighting
 ia Highlihgthing Highlighting
 ia fhighlighting highlighting
 ia hgihlighting highlighting
+ia hgihlihgitng highlighting
 ia highlighing highlighting
 ia highlihgitng highlighting
+ia highlihgthing highlighting
 ia highlihgting highlighting
 ia highlihting highlighting
 ia himsellf himself
@@ -4332,6 +4339,7 @@ ia montlyh monthly
 ia montyhly monthly
 ia monthds months
 ia monthfs months
+ia montsh months
 ia montths months
 ia MOre More
 ia mroe more
@@ -5128,6 +5136,7 @@ ia apressure pressure
 ia perssure pressure
 ia pressrue pressure
 ia presssure pressure
+ia presure pressure
 ia pressurizaiotn pressurization
 ia prentend pretend
 ia preteneding pretending
@@ -5785,6 +5794,7 @@ ia respecdt respect
 ia respirarotyr respiratory
 ia Repsond Respond
 ia REpsonding Responding
+ia repsone response
 ia repsonse response
 ia resposne response
 ia responsibilites responsibilities
@@ -7587,6 +7597,7 @@ ia wnat want
 ia wnt want
 ia wanteed wanted
 ia wnated wanted
+ia warngins warnings
 ia wrranty warranty
 ia aws was
 ia Wter Water
