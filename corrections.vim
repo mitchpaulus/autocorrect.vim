@@ -114,6 +114,7 @@ ia additialn additional
 ia additianl additional
 ia additiaonl additional
 ia additinal additional
+ia additinoal additional
 ia additioanl additional
 ia additionanl additional
 ia additoinal additional
@@ -257,6 +258,7 @@ ia anlogue analogue
 ia Analyiss Analysis
 ia Analyusis Analysis
 ia analsyis analysis
+ia analsysi analysis
 ia analyfsis analysis
 ia analyis analysis
 ia analyiss analysis
@@ -3083,6 +3085,7 @@ ia gneerators generators
 ia geomerty geometry
 ia geometyr geometry
 ia Georger George
+ia Georgetwon Georgetown
 ia gewt get
 ia gest gets
 ia Geting Getting
@@ -3534,6 +3537,7 @@ ia Initiial Initial
 ia Intiial Initial
 ia iinitail initial
 ia iinitial initial
+ia iniital initial
 ia initail initial
 ia inital initial
 ia initali initial
@@ -3907,6 +3911,7 @@ ia liekly likely
 ia liely likely
 ia likelty likely
 ia likley likely
+ia Limt Limit
 ia Lmit Limit
 ia liimit limit
 ia limti limit
@@ -5243,6 +5248,7 @@ ia pgraomming programming
 ia pgromammign programming
 ia porgarmming programming
 ia prgoramming programming
+ia programing programming
 ia programmign programming
 ia programmihng programming
 ia programmming programming
@@ -5974,6 +5980,7 @@ ia scracth scratch
 ia scrreen screen
 ia screenshtos screenshots
 ia Scirpt Script
+ia scfript script
 ia sciprt script
 ia scipt script
 ia scirpt script
@@ -6084,6 +6091,7 @@ ia separatue separate
 ia serpate separate
 ia speaarte separate
 ia seapated separated
+ia sepaarted separated
 ia seperated separated
 ia spearaetd separated
 ia spearated separated
@@ -6426,6 +6434,7 @@ ia sprreaadhseet spreadsheet
 ia Spreasheets Spreadsheets
 ia spreadhseets spreadsheets
 ia sprknkler sprinkler
+ia spurrious spurious
 ia Sql SQL
 ia sql SQL
 ia sqauare square
