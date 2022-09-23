@@ -1005,6 +1005,7 @@ ia chooosing choosing
 ia chosne chosen
 ia cohsen chosen
 ia Chirstmas Christmas
+ia chonrinc chronic
 ia Chuch Church
 ia Cincinatti Cincinnati
 ia Circuti Circuit
@@ -1625,6 +1626,7 @@ ia crtricial critical
 ia ctirical critical
 ia critisms criticism
 ia cruical crucial
+ia crusing cruising
 ia cucib cubic
 ia curerent current
 ia currrent current
@@ -1924,6 +1926,7 @@ ia Dictiorany Dictionary
 ia dicitonary dictionary
 ia dictdionary dictionary
 ia DId Did
+ia idd did
 ia Difff Diff
 ia differnce difference
 ia differnece difference
@@ -2943,6 +2946,7 @@ ia Frdiay Friday
 ia Frdiayf Friday
 ia Fridayf Friday
 ia Fridya Friday
+ia freidns friends
 ia FRom From
 ia frmo from
 ia froam from
@@ -2961,6 +2965,7 @@ ia FUel Fuel
 ia Fule Fuel
 ia fule fuel
 ia fullfill fulfill
+ia FUll Full
 ia fulll full
 ia FUnciton Function
 ia Fucntion Function
@@ -3147,6 +3152,7 @@ ia grpahcis graphics
 ia grpahics graphics
 ia grpahsics graphics
 ia grpahs graphs
+ia Greatful Grateful
 ia graviational gravitational
 ia greek Greek
 ia Grenenwood Greenwood
@@ -4014,6 +4020,7 @@ ia Loopo Loop
 ia looop loop
 ia olop loop
 ia lvoe love
+ia lovdes loves
 ia lwo low
 ia Loower Lower
 ia loower lower
@@ -4351,6 +4358,7 @@ ia mroe more
 ia Mornigin Morning
 ia Mroning Morning
 ia moring morning
+ia morining morning
 ia morngin morning
 ia mornging morning
 ia mornign morning
@@ -7595,6 +7603,7 @@ ia watingin waiting
 ia wiating waiting
 ia wkaing waking
 ia wlak walk
+ia wlaked walked
 ia Walkthorugh Walkthrough
 ia Walkthrouhg Walkthrough
 ia Walthrough Walkthrough
@@ -7693,6 +7702,7 @@ ia whitle while
 ia Whtie White
 ia hwite white
 ia whitesapce whitespace
+ia Whiteny Whitney
 ia WHo Who
 ia Whiole Whole
 ia wholeheardely wholeheartedly
