@@ -424,6 +424,7 @@ ia aroudn around
 ia arround around
 ia aruond around
 ia arrya array
+ia ARrow Arrow
 ia aritcle article
 ia artticle article
 ia ARticles Articles
@@ -664,6 +665,7 @@ ia bookmarkding bookmarking
 ia bookamrks bookmarks
 ia bookmarkds bookmarks
 ia Boolena Boolean
+ia booelan boolean
 ia boolens booleans
 ia obots boots
 ia obsses bosses
@@ -2512,6 +2514,7 @@ ia evaulating evaluating
 ia Evaluaiotn Evaluation
 ia Evalutation Evaluation
 ia Evaulation Evaluation
+ia evaluaiton evaluation
 ia evaluatiion evaluation
 ia evaluatino evaluation
 ia evaluatoin evaluation
@@ -3579,6 +3582,7 @@ ia insensivitve insensitive
 ia insenstive insensitive
 ia insenstivie insensitive
 ia insentive insensitive
+ia isnert insert
 ia inseration insertion
 ia insdie inside
 ia inseide inside
@@ -5511,6 +5515,7 @@ ia recoreds records
 ia reocreds records
 ia recurison recursion
 ia Recurisve Recursive
+ia recursvie recursive
 ia recusive recursive
 ia recursivley recursively
 ia Redefinning Redefining
@@ -6245,6 +6250,7 @@ ia Shutodwon Shutdown
 ia shtudowns shutdowns
 ia sdie side
 ia sidse side
+ia sdies sides
 ia Siemensn Siemens
 ia Siemesn Siemens
 ia Siemnes Siemens
@@ -7431,6 +7437,7 @@ ia useufl useful
 ia usfeul useful
 ia usefullness usefulness
 ia suer user
+ia usse uses
 ia Usuing Using
 ia us9ing using
 ia useing using
