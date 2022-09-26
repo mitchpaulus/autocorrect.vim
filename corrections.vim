@@ -206,6 +206,7 @@ ia algorihtms algorithms
 ia algoritms algorithms
 ia alogrighms algorithms
 ia alogrithms algorithms
+ia alasi alias
 ia Alogn Align
 ia aling align
 ia aligened aligned
@@ -624,6 +625,8 @@ ia bewing being
 ia Belive Believe
 ia belive believe
 ia blieve believe
+ia Betl Belt
+ia betl belt
 ia betls belts
 ia besdies besides
 ia bset best
@@ -1580,6 +1583,7 @@ ia coudl could
 ia coulds could
 ia coulld could
 ia coulod could
+ia cuold could
 ia oucld could
 ia Coutn Count
 ia Coutner Counter
@@ -3810,6 +3814,7 @@ ia knonw known
 ia knwon known
 ia kwon known
 ia kwown known
+ia Kushna Kushan
 ia Keyle Kyle
 ia Kyel Kyle
 ia albvel label
@@ -4023,6 +4028,7 @@ ia looknig looking
 ia Loopo Loop
 ia looop loop
 ia olop loop
+ia llops loops
 ia lvoe love
 ia lovdes loves
 ia lwo low
@@ -4691,6 +4697,7 @@ ia origial original
 ia origianl original
 ia origiinal original
 ia originall original
+ia originla original
 ia orignal original
 ia orignial original
 ia oriigal original
@@ -5121,6 +5128,7 @@ ia prerequitsite prerequisite
 ia Prerequisitevs Prerequisites
 ia Prerequisitves Prerequisites
 ia Prerequisties Prerequisites
+ia prerequisties prerequisites
 ia Prescence Presence
 ia prescene presence
 ia presecne presence
@@ -5341,6 +5349,7 @@ ia proveded provided
 ia proviced provided
 ia PRovider Provider
 ia proividing providing
+ia psycrhometic psychrometric
 ia pyschrometric psychrometric
 ia psychrometiics psychrometrics
 ia psychrometreics psychrometrics
@@ -5873,6 +5882,7 @@ ia Reveiw Review
 ia reivew review
 ia reveiw review
 ia reviwe review
+ia reveiwed reviewed
 ia reviewier reviewer
 ia Reiveiwing Reviewing
 ia Reivewing Reviewing
@@ -6101,6 +6111,7 @@ ia seaparate separate
 ia seaprate separate
 ia sepaate separate
 ia separatue separate
+ia seprate separate
 ia serpate separate
 ia speaarte separate
 ia seapated separated
