@@ -783,6 +783,7 @@ ia Buhs Bush
 ia buisness business
 ia busieness business
 ia BUt But
+ia btu but
 ia buit but
 ia ubt but
 ia butoton button
@@ -2005,6 +2006,7 @@ ia Discharege Discharge
 ia Disclousere Disclosure
 ia disclousre disclosure
 ia dscovery discovery
+ia descrepancies discrepancies
 ia discrepencies discrepancies
 ia descrepency discrepancy
 ia discuesed discussed
@@ -2508,6 +2510,7 @@ ia estimatoin estimation
 ia esimtaions estimations
 ia Ehternet Ethernet
 ia ethecial ethical
+ia Euclidena Euclidean
 ia Eruopean European
 ia Evalualte Evaluate
 ia evaulate evaluate
@@ -3071,6 +3074,7 @@ ia genearlly generally
 ia genearly generally
 ia generaly generally
 ia gnerally generally
+ia genearate generate
 ia geneate generate
 ia genreate generate
 ia gnerate generate
@@ -3190,6 +3194,7 @@ ia ahd had
 ia haad had
 ia hbad had
 ia hari hair
+ia Halftway Halfway
 ia ahlls halls
 ia ahnd hand
 ia hadn hand
@@ -3591,6 +3596,7 @@ ia inseration insertion
 ia insdie inside
 ia inseide inside
 ia insgitht insight
+ia insignifant insignificant
 ia inspiraation inspiration
 ia inspiratiosn inspirations
 ia inspried inspired
@@ -3622,6 +3628,7 @@ ia instlaled installed
 ia isntalled installed
 ia insatnce instance
 ia instane instance
+ia insatnaces instances
 ia instanceds instances
 ia Instantenous Instantaneous
 ia instanteous instantaneous
@@ -3640,6 +3647,7 @@ ia Insluaiton Insulation
 ia inslulation insulation
 ia insureance insurance
 ia intanible intangible
+ia interger integer
 ia intergral integral
 ia integreated integrated
 ia Integratign Integrating
@@ -4062,6 +4070,7 @@ ia Maintenacne Maintenance
 ia Maintenanece Maintenance
 ia Maintence Maintenance
 ia Maintenence Maintenance
+ia maintanance maintenance
 ia maintaneence maintenance
 ia maintenacne maintenance
 ia maintenane maintenance
@@ -6670,6 +6679,7 @@ ia swtich switch
 ia switchees switches
 ia swtiches switches
 ia switchgaar switchgear
+ia SWitching Switching
 ia SYmmetrical Symmetrical
 ia symptpms symptoms
 ia Sycn Sync
@@ -6714,6 +6724,7 @@ ia sysetms systems
 ia sysmtems systems
 ia systemss systems
 ia systesm systems
+ia systesms systems
 ia systmes systems
 ia systms systems
 ia sytesms systems
@@ -7396,6 +7407,7 @@ ia unoccuipieed unoccupied
 ia unoccupierd unoccupied
 ia unoccupiied unoccupied
 ia unreadalbe unreadable
+ia unsinged unsigned
 ia unsuccesful unsuccessful
 ia Unitl Until
 ia uhtil until
@@ -7725,6 +7737,7 @@ ia WHo Who
 ia Whiole Whole
 ia wholeheardely wholeheartedly
 ia widht width
+ia widsth width
 ia Wikipeida Wikipedia
 ia wikipedia wikipedia
 ia WIll Will
