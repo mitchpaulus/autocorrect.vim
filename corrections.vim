@@ -548,6 +548,7 @@ ia aviallaibe available
 ia anveage average
 ia aweare aware
 ia awaremenss awareness
+ia aawk awk
 ia akw awk
 ia byab baby
 ia Bakc Back
@@ -3803,10 +3804,12 @@ ia KEvin Kevin
 ia Kewvin Kevin
 ia Kye Key
 ia dkey key
+ia eky key
 ia kesy keys
 ia keystorke keystroke
 ia keystorkes keystrokes
 ia ekywords keywords
+ia keyowrds keywords
 ia kcik kick
 ia kidnesy kidneys
 ia Kimal Kimla
@@ -4641,6 +4644,7 @@ ia operatoins operations
 ia opeartor operator
 ia operatoir operator
 ia opereator operator
+ia operatiors operators
 ia Opinioned Opinionated
 ia Opportunites Opportunities
 ia opportunies opportunities
@@ -5904,6 +5908,7 @@ ia Reichard Richard
 ia Ricahrd Richard
 ia RIght Right
 ia rightt right
+ia rihgt right
 ia rihgtn right
 ia rigourous rigorous
 ia rigous rigorous
@@ -6269,6 +6274,7 @@ ia shuyt shut
 ia Shutodwon Shutdown
 ia shtudowns shutdowns
 ia sdie side
+ia sidew side
 ia sidse side
 ia sdies sides
 ia Siemensn Siemens
@@ -7738,6 +7744,7 @@ ia Whiole Whole
 ia wholeheardely wholeheartedly
 ia widht width
 ia widsth width
+ia widhts widths
 ia Wikipeida Wikipedia
 ia wikipedia wikipedia
 ia WIll Will
