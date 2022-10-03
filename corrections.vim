@@ -113,6 +113,7 @@ ia addiotnal additional
 ia additialn additional
 ia additianl additional
 ia additiaonl additional
+ia additilanl additional
 ia additinal additional
 ia additinoal additional
 ia additioanl additional
@@ -1348,6 +1349,7 @@ ia configuraiotn configuration
 ia configuraiton configuration
 ia configuraqtion configuration
 ia configurtaion configuration
+ia configurtaiotn configuration
 ia configurtation configuration
 ia configutration configuration
 ia condifurations configurations
@@ -1517,6 +1519,7 @@ ia convertability convertibility
 ia coverting converting
 ia converst converts
 ia convictoin conviction
+ia COok Cook
 ia cocok cook
 ia cooeld cooled
 ia ocoled cooled
@@ -3662,6 +3665,7 @@ ia INtended Intended
 ia Inteded Intended
 ia initended intended
 ia interaect interact
+ia interhcnage interchange
 ia interconnecitons interconnections
 ia itnerest interest
 ia interesetd interested
@@ -4123,6 +4127,7 @@ ia manuaal manual
 ia manula manual
 ia mnaula manual
 ia manulaly manually
+ia manuasl manuals
 ia manulas manuals
 ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
@@ -4933,6 +4938,7 @@ ia phoen phone
 ia Phto Photo
 ia phtoo photo
 ia Phtoos Photos
+ia phtoos photos
 ia PHyscial Physical
 ia phycisal physical
 ia physcally physically
@@ -6504,6 +6510,7 @@ ia Strating Starting
 ia starign starting
 ia starst starts
 ia staturup startup
+ia stahs stash
 ia Statemnet Statement
 ia Statemtn Statement
 ia Statment Statement
@@ -7795,6 +7802,7 @@ ia womne women
 ia WOrd Word
 ia Wrod Word
 ia worindg wording
+ia owrds words
 ia WOrk Work
 ia Wrok Work
 ia owkr work
