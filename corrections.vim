@@ -1290,6 +1290,7 @@ ia comptuer compute
 ia Comptuer Computer
 ia cmoptuer computer
 ia comptuer computer
+ia compupter computer
 ia comptuers computers
 ia compmuting computing
 ia concatinating concatenating
@@ -1330,6 +1331,7 @@ ia conditoins conditions
 ia condtions conditions
 ia condtiosn conditions
 ia condusive conducive
+ia conducatnace conductance
 ia conductinve conductive
 ia conferenece conference
 ia cvonference conference
@@ -1716,6 +1718,7 @@ ia daedband deadband
 ia deadbadn deadband
 ia deadbadnads deadbands
 ia dela deal
+ia daeling dealing
 ia deailng dealing
 ia debuging debugging
 ia deceleartion deceleration
@@ -1953,6 +1956,7 @@ ia differetn different
 ia differetrn different
 ia differnt different
 ia differtent different
+ia differtnt different
 ia difffernt different
 ia diffierent different
 ia diffrent different
@@ -1983,6 +1987,7 @@ ia drieclty directly
 ia drieclyt directly
 ia driectly directly
 ia direcories directories
+ia directoires directories
 ia directoriues directories
 ia directorys directories
 ia driectories directories
@@ -2422,6 +2427,7 @@ ia EQuatino Equation
 ia EQuation Equation
 ia Equaitno Equation
 ia Equaiton Equation
+ia equaiotn equation
 ia equaiton equation
 ia equatoin equation
 ia equiaotn equation
@@ -2436,6 +2442,7 @@ ia equiaonts equations
 ia equilbrium equilibrium
 ia EQuipment Equipment
 ia Equiapment Equipment
+ia Equipament Equipment
 ia Equipement Equipment
 ia Equipemnt Equipment
 ia Equipmetn Equipment
@@ -3353,6 +3360,7 @@ ia diea idea
 ia idael ideal
 ia identificaitno identification
 ia identiifed identified
+ia identifer identifier
 ia indentifier identifier
 ia identifieres identifiers
 ia identiifers identifiers
@@ -3630,6 +3638,7 @@ ia insatalled installed
 ia insatlled installed
 ia instlaled installed
 ia isntalled installed
+ia INstaller Installer
 ia insatnce instance
 ia instane instance
 ia insatnaces instances
@@ -4560,6 +4569,7 @@ ia numering numbering
 ia nubmers numbers
 ia nubmerse numbers
 ia Numverical Numerical
+ia numberical numerical
 ia numercial numerical
 ia Ojbect Object
 ia obejct object
@@ -5341,6 +5351,7 @@ ia porperty property
 ia proeprty property
 ia propety property
 ia porportion proportion
+ia proporitional proportional
 ia proportialn proportional
 ia proportinal proportional
 ia proportioanl proportional
@@ -5648,6 +5659,7 @@ ia Rmeind Remind
 ia remienders reminders
 ia REmote Remote
 ia Remtoe Remote
+ia Reomte Remote
 ia remtoe remote
 ia REmove Remove
 ia REmvoe Remove
@@ -5948,6 +5960,7 @@ ia runnign running
 ia rusn runs
 ia sa SA
 ia sacrificied sacrificed
+ia safetly safely
 ia SAlly Sally
 ia smae same
 ia Smaple Sample
@@ -7213,6 +7226,7 @@ ia trakcing tracking
 ia trcking tracking
 ia tarddemarking trademarking
 ia tradiation tradition
+ia traditinal traditional
 ia traditioanl traditional
 ia Traffice Traffic
 ia trialing trailing
@@ -7587,6 +7601,7 @@ ia vefriyf verify
 ia verfiy verify
 ia verifiy verify
 ia Veresion Version
+ia Verison Version
 ia Verseion Version
 ia veresion version
 ia verion version
