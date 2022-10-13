@@ -184,6 +184,7 @@ ia airprot airport
 ia airposrts airports
 ia Almao Alamo
 ia Alamr Alarm
+ia Alram Alarm
 ia alamr alarm
 ia alram alarm
 ia Alamring Alarming
@@ -986,6 +987,7 @@ ia chekclists checklists
 ia chekcout checkout
 ia checkes checks
 ia chekcs checks
+ia chemicla chemical
 ia Cheerry Cherry
 ia Cherrpy Cherry
 ia Chery Cherry
@@ -2666,6 +2668,7 @@ ia Exploerer Explorer
 ia explroeing exploring
 ia expoennetial exponential
 ia expononetials exponentials
+ia exponentaitonan exponentiation
 ia exponnets exponents
 ia Exprt Export
 ia exprot export
@@ -4562,6 +4565,7 @@ ia Novemeber November
 ia Novemenber November
 ia Novementer November
 ia Novermber November
+ia Novmember November
 ia NOw Now
 ia nozle nozzle
 ia nubmer number
@@ -5231,6 +5235,7 @@ ia Prioriteis Priorities
 ia Pritorities Priorities
 ia priortization prioritization
 ia pritiorizing prioritizing
+ia priorty priority
 ia rpivate private
 ia Privelage Privilege
 ia privelages privileges
@@ -5460,6 +5465,7 @@ ia quesitons questions
 ia Qucdk Quick
 ia Quikc Quick
 ia qiuik quick
+ia quikc quick
 ia Quiclkly Quickly
 ia qauicly quickly
 ia quckly quickly
@@ -5513,6 +5519,7 @@ ia relaly really
 ia reanalyiss reanalysis
 ia reanalysiss reanalysis
 ia rearrage rearrange
+ia rearragned rearranged
 ia reasonalbe reasonable
 ia reasonbable reasonable
 ia reasonbalbe reasonable
@@ -5582,6 +5589,7 @@ ia refernece reference
 ia Referecnes References
 ia Refernces References
 ia Referneces References
+ia refercnes references
 ia refernecing referencing
 ia refering referring
 ia refleccted reflected
@@ -6371,6 +6379,7 @@ ia samrt smart
 ia Simth Smith
 ia somke smoke
 ia smtp SMTP
+ia snipeet snippet
 ia spo so
 ia sopa soap
 ia Socail Social
@@ -7666,6 +7675,7 @@ ia wlaked walked
 ia Walkthorugh Walkthrough
 ia Walkthrouhg Walkthrough
 ia Walthrough Walkthrough
+ia walkthorugh walkthrough
 ia walthrough walkthrough
 ia wlal wall
 ia wanwt want
