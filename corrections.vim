@@ -5590,6 +5590,7 @@ ia Referecnes References
 ia Refernces References
 ia Referneces References
 ia refercnes references
+ia referneces references
 ia refernecing referencing
 ia refering referring
 ia refleccted reflected
@@ -5934,6 +5935,7 @@ ia reisit revisit
 ia Reichard Richard
 ia Ricahrd Richard
 ia RIght Right
+ia Rigth Right
 ia rightt right
 ia rihgt right
 ia rihgtn right
