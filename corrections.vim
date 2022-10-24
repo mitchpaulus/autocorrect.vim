@@ -3500,6 +3500,7 @@ ia indciate indicate
 ia INdicates Indicates
 ia indiciatiton indication
 ia Indicies Indices
+ia Indiviual Individual
 ia Indiviudal Individual
 ia Indiviudaul Individual
 ia idndividual individual
@@ -4616,6 +4617,7 @@ ia officail official
 ia officinal official
 ia offiical official
 ia ofifical official
+ia Offilne Offline
 ia offssets offsets
 ia Oftne Often
 ia fotne often
@@ -4792,8 +4794,10 @@ ia outptus outputs
 ia outrageoulsy outrageously
 ia OUtside Outside
 ia Otuside Outside
+ia Ousdie Outside
 ia Outsdie Outside
 ia Outsdsie Outside
+ia Outsie Outside
 ia oautside outside
 ia otuside outside
 ia outdsie outside
@@ -6301,6 +6305,8 @@ ia sould should
 ia whould should
 ia Shoudler Shoulder
 ia SHowing Showing
+ia shoiwng showing
+ia showoing showing
 ia shonw shown
 ia shwon shown
 ia shwoon shown
