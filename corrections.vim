@@ -1336,6 +1336,7 @@ ia condtiosn conditions
 ia condusive conducive
 ia conducatnace conductance
 ia conductinve conductive
+ia conducitivity conductivity
 ia conferenece conference
 ia cvonference conference
 ia conferneces conferences
@@ -1806,6 +1807,7 @@ ia deorderant deodorant
 ia Deparment Department
 ia departmetn department
 ia depdnd depend
+ia Idependence Dependence
 ia dependance dependence
 ia dependecies dependencies
 ia dependecny dependency
@@ -2038,6 +2040,7 @@ ia disply display
 ia disseratioatn dissertation
 ia disseration dissertation
 ia dissertaiton dissertation
+ia disolved dissolved
 ia distirncxt distinct
 ia distrincxt distinct
 ia distingusih distinguish
@@ -3787,6 +3790,7 @@ ia ist its
 ia iteslf itself
 ia itslf itself
 ia jackign jacking
+ia Janurary January
 ia Janurayr January
 ia Juandice Jaundice
 ia Javascdript JavaScript
@@ -4286,6 +4290,7 @@ ia milltion million
 ia milluion million
 ia Milwaukke Milwaukee
 ia midn mind
+ia minerla mineral
 ia minimial minimal
 ia minimual minimal
 ia Mniiimzie Minimize
@@ -4415,6 +4420,7 @@ ia Mountina Mountain
 ia Moutnain Mountain
 ia mountted mounted
 ia movew move
+ia mvoed moved
 ia muychg much
 ia myuch much
 ia multicollinearlity multicollinearity
@@ -6956,6 +6962,7 @@ ia Termianl Terminal
 ia Termibla Terminal
 ia Termilan Terminal
 ia Terminail Terminal
+ia Terminla Terminal
 ia Termninail Terminal
 ia etrmianl terminal
 ia teminal terminal
