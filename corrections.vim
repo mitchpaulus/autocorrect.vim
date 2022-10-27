@@ -25,6 +25,7 @@ ia Abraisve Abrasive
 ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
+ia absopriotn absorption
 ia abstarct abstract
 ia abstarctions abstractions
 ia Acadmey Academy
@@ -124,6 +125,7 @@ ia additonitnal additional
 ia addtioanl additional
 ia addtional additional
 ia dadditional additional
+ia Addisions Additions
 ia addresssed addressed
 ia addsd adds
 ia adeqauyate adequate
@@ -1298,6 +1300,7 @@ ia comptuers computers
 ia compmuting computing
 ia concatinating concatenating
 ia concelaing concealing
+ia concentraiton concentration
 ia concewpt concept
 ia ocncept concept
 ia concetps concepts
@@ -1644,6 +1647,7 @@ ia ctirical critical
 ia critisms criticism
 ia cruical crucial
 ia crusing cruising
+ia Crystallation Crystallization
 ia cucib cubic
 ia curerent current
 ia currrent current
@@ -1993,6 +1997,7 @@ ia drieclyt directly
 ia driectly directly
 ia direcories directories
 ia directoires directories
+ia directoreis directories
 ia directoriues directories
 ia directorys directories
 ia driectories directories
@@ -2612,6 +2617,7 @@ ia exercieses exercises
 ia Exhasust Exhaust
 ia Exhauset Exhaust
 ia exhasut exhaust
+ia exhuast exhaust
 ia eixist exist
 ia exisited existed
 ia Exisiting Existing
@@ -2693,6 +2699,7 @@ ia extermal external
 ia extermanl external
 ia extranous extraneous
 ia extrpaolation extrapolation
+ia extremem extreme
 ia Extermely Extremely
 ia Extremlye Extremely
 ia extemrely extremely
@@ -4096,6 +4103,7 @@ ia Maintenanece Maintenance
 ia Maintence Maintenance
 ia Maintenence Maintenance
 ia maintanance maintenance
+ia maintance maintenance
 ia maintaneence maintenance
 ia maintenacne maintenance
 ia maintenane maintenance
@@ -5330,6 +5338,7 @@ ia Proejct Project
 ia pjorect project
 ia porjecst project
 ia porject project
+ia prjoect project
 ia proejct project
 ia proeject project
 ia profject project
@@ -7601,6 +7610,7 @@ ia variosu various
 ia varoius various
 ia Valut Vault
 ia vehivcle vehicle
+ia velcotiy velocity
 ia vleocity velocity
 ia vendros vendors
 ia Ventilatin Ventilation
