@@ -714,6 +714,7 @@ ia BUild Build
 ia Buidl Build
 ia Buildt Build
 ia Buyild Build
+ia biuld build
 ia buidl build
 ia BUildeing Building
 ia BUilding Building
@@ -1300,6 +1301,8 @@ ia comptuers computers
 ia compmuting computing
 ia concatinating concatenating
 ia concelaing concealing
+ia concentaiton concentration
+ia concentation concentration
 ia concentraiton concentration
 ia concewpt concept
 ia ocncept concept
@@ -1818,6 +1821,7 @@ ia dependecny dependency
 ia depnedency dependency
 ia dpeencedcy dependency
 ia dpendency dependency
+ia depndent dependent
 ia dependeiing depending
 ia deply deploy
 ia deployued deployed
@@ -1951,6 +1955,7 @@ ia dictdionary dictionary
 ia DId Did
 ia idd did
 ia Difff Diff
+ia diffence difference
 ia differnce difference
 ia differnece difference
 ia diffrence difference
@@ -2224,6 +2229,7 @@ ia eidtor editor
 ia deidtors editors
 ia educaiton education
 ia educatinosl educational
+ia effeect effect
 ia effectiley effectively
 ia effectivientss effectiveness
 ia effectes effects
@@ -3336,6 +3342,7 @@ ia Hosptial Hospital
 ia hositpal hospital
 ia hto hot
 ia Hotle Hotel
+ia htoter hotter
 ia horu hour
 ia horuly hourly
 ia horus hours
@@ -3643,6 +3650,7 @@ ia Installatiopn Installation
 ia inslatioation installation
 ia installaitno installation
 ia installaiton installation
+ia instlalaiton installation
 ia instlalation installation
 ia instlaliont installation
 ia instllation installation
@@ -6283,6 +6291,7 @@ ia sharepoint Sharepoint
 ia sheathign sheathing
 ia SHeaves Sheaves
 ia sheeet sheet
+ia shefl shelf
 ia sehell shell
 ia sehll shell
 ia sheell shell
@@ -6368,6 +6377,7 @@ ia simulaitons simulations
 ia Simulataneous Simultaneous
 ia siunce since
 ia snice since
+ia Signle Single
 ia Sinlge Single
 ia signel single
 ia signle single
