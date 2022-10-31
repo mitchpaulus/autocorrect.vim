@@ -945,6 +945,7 @@ ia Chagne Change
 ia Chnage Change
 ia chagne change
 ia chnage change
+ia Chagned Changed
 ia chagned changed
 ia chagnes changes
 ia changds changes
@@ -1096,6 +1097,7 @@ ia collegaue colleague
 ia coollected collected
 ia colleciotns collection
 ia colleciton collection
+ia Colege College
 ia Coollege College
 ia Collsion Collision
 ia oclor color
@@ -1542,6 +1544,7 @@ ia Coolgin Cooling
 ia Coolign Cooling
 ia Cooliing Cooling
 ia Coolitng Cooling
+ia Coooling Cooling
 ia cooilng cooling
 ia coolgin cooling
 ia coolign cooling
@@ -4369,6 +4372,7 @@ ia modificaitons modifications
 ia modificatiuons modifications
 ia modificiations modifications
 ia MOdified Modified
+ia modidfied modified
 ia modifeid modified
 ia modifyied modified
 ia modfiy modify
@@ -4690,6 +4694,7 @@ ia operatoir operator
 ia opereator operator
 ia operatiors operators
 ia Opinioned Opinionated
+ia opininos opinions
 ia Opportunites Opportunities
 ia opportunies opportunities
 ia opportuniteis opportunities
@@ -4847,6 +4852,7 @@ ia apper paper
 ia paragrah paragraph
 ia paragrpah paragraph
 ia parargraph paragraph
+ia paralllel parallel
 ia Parmaeter Parameter
 ia apramater parameter
 ia aprameter parameter
@@ -5705,6 +5711,7 @@ ia Remvoe Remove
 ia Reomve Remove
 ia Reomvew Remove
 ia Revmoe Remove
+ia mreove remove
 ia remvoe remove
 ia reomve remove
 ia removewd removed
@@ -5872,6 +5879,7 @@ ia reste reset
 ia residentiali residential
 ia residitnetal residential
 ia relisiancy resiliency
+ia resliiency resiliency
 ia resiliant resilient
 ia resistnace resistance
 ia resistnatce resistance
@@ -7720,6 +7728,7 @@ ia wnt want
 ia wanteed wanted
 ia wnated wanted
 ia warngins warnings
+ia warnigns warnings
 ia wrranty warranty
 ia aws was
 ia Wter Water
