@@ -2736,6 +2736,7 @@ ia facillity facility
 ia FacillityGrid FacilityGrid
 ia facotr factor
 ia fractor factor
+ia Factoriziation Factorization
 ia Facotry Factory
 ia FAculty Faculty
 ia Fahrenheti Fahrenheit
@@ -4333,6 +4334,7 @@ ia missign missing
 ia missinng missing
 ia msising missing
 ia mispelled misspelled
+ia Misktake Mistake
 ia msitakes mistakes
 ia Mithc Mitch
 ia Mtich Mitch
