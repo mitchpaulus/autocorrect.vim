@@ -2610,6 +2610,7 @@ ia exchangesr exchangers
 ia exectuable executable
 ia execuaable executable
 ia execuable executable
+ia execuatlab executable
 ia exeucutalble executable
 ia exectue execute
 ia execture execute
@@ -4328,6 +4329,7 @@ ia Mintue Minute
 ia minnute minute
 ia mintue minute
 ia mintues minutes
+ia minutse minutes
 ia miscellanous miscellaneous
 ia Missign Missing
 ia missign missing
@@ -4913,6 +4915,7 @@ ia passted pasted
 ia Paht Path
 ia patritoic patriotic
 ia patten pattern
+ia pya pay
 ia paymetns payments
 ia PFD PDF
 ia Penalthy Penalty
@@ -5296,6 +5299,7 @@ ia Processs Process
 ia prcoess process
 ia proces process
 ia proecess process
+ia proecss process
 ia PRocessing Processing
 ia processign processing
 ia Prodcue Produce
@@ -5570,6 +5574,7 @@ ia rubuttal rebuttal
 ia reclaibrated recalibrated
 ia recieve receive
 ia Recieved Received
+ia receieved received
 ia recevied received
 ia recevived received
 ia recieved received
@@ -5822,6 +5827,7 @@ ia reproducability reproducibility
 ia Reproducable Reproducible
 ia reproducable reproducible
 ia reporductive reproductive
+ia REpublic Republic
 ia Requst Request
 ia erquest request
 ia requrest request
@@ -5947,6 +5953,7 @@ ia reutn return
 ia reutnr return
 ia reutrn return
 ia returend returned
+ia returnign returning
 ia Retunrs Returns
 ia Retuns Returns
 ia returtns returns
@@ -6964,6 +6971,7 @@ ia tmeperatures temperatures
 ia TEmplate Template
 ia Tempalte Template
 ia tameplate template
+ia tamplate template
 ia temlate template
 ia tempalate template
 ia tempalge template
