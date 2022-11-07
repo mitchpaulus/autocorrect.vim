@@ -78,6 +78,7 @@ ia Actve Active
 ia Acdtivies Activities
 ia activies activities
 ia activites activities
+ia Actyual Actual
 ia Acutal Actual
 ia actaul actual
 ia acutal actual
@@ -1062,6 +1063,7 @@ ia clsoed closed
 ia lcosed closed
 ia xlosed closed
 ia CLoseout Closeout
+ia lcoser closer
 ia Closeds Closes
 ia Clsoing Closing
 ia clsoing closing
@@ -1785,6 +1787,7 @@ ia definiton definition
 ia defintinoo definition
 ia defintion definition
 ia definiations definitions
+ia definitoins definitions
 ia defintiions definitions
 ia defintions definitions
 ia degreees degrees
@@ -1944,6 +1947,7 @@ ia Deveil Devil
 ia dexteriry dexterity
 ia Diagnosiing Diagnosing
 ia diagnositc diagnostic
+ia diagnositcs diagnostics
 ia Daigram Diagram
 ia diagrma diagram
 ia digarm diagram
@@ -7373,6 +7377,7 @@ ia Tuyesdayf Tuesday
 ia TUiition Tuition
 ia tunign tuning
 ia trubines turbines
+ia Turhn Turn
 ia trunaround turnaround
 ia turing turning
 ia TUrns Turns
