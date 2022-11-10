@@ -91,6 +91,7 @@ ia actucally actually
 ia actulaly actually
 ia acutally actually
 ia Actuatoar Actuator
+ia Actuatoor Actuator
 ia acutatoars actuators
 ia acutators actuators
 ia Adaptaiton Adaptation
@@ -249,6 +250,7 @@ ia ambigous ambiguous
 ia Ameendments Amendments
 ia Amecia America
 ia Amerecia America
+ia Amereican American
 ia amoung among
 ia amounto amount
 ia amountt amount
@@ -623,6 +625,7 @@ ia beginnnign beginning
 ia begignnings beginnings
 ia beginnigs beginnings
 ia behaviior behavior
+ia behavoir behavior
 ia behvaior behavior
 ia behing behind
 ia beeing being
@@ -683,6 +686,7 @@ ia boutght bought
 ia boudn bound
 ia boudnaries boundaries
 ia boudnary boundary
+ia boudning bounding
 ia boudns bounds
 ia Bouqet Bouquet
 ia obx box
@@ -832,6 +836,7 @@ ia caluclator calculator
 ia claculator calculator
 ia Calander Calendar
 ia calander calendar
+ia claendar calendar
 ia Calcibrated Calibrated
 ia calicbrated calibrated
 ia clabirated calibrated
@@ -1486,6 +1491,7 @@ ia contrl control
 ia controol control
 ia contyrol control
 ia cotnrol control
+ia ctonrol control
 ia contorlled controlled
 ia contrlled controlled
 ia controled controlled
@@ -1823,6 +1829,7 @@ ia depdnd depend
 ia Idependence Dependence
 ia dependance dependence
 ia dependecies dependencies
+ia dependenceis dependencies
 ia dependecny dependency
 ia depnedency dependency
 ia dpeencedcy dependency
@@ -1877,6 +1884,7 @@ ia desigingni designing
 ia deesriable desirable
 ia desrisable desirable
 ia desried desired
+ia Desitnation Destination
 ia Desitny Destiny
 ia destory destroy
 ia Detial Detail
@@ -4387,6 +4395,7 @@ ia modfiy modify
 ia moidify modify
 ia MOdule Module
 ia Modeule Module
+ia modlue module
 ia moduel module
 ia modulel module
 ia moduels modules
@@ -4575,6 +4584,7 @@ ia nomrally normally
 ia normallly normally
 ia normmaly normally
 ia normnally normally
+ia nromally normally
 ia Norht North
 ia norht North
 ia NOt Not
@@ -5457,6 +5467,7 @@ ia purhcased purchased
 ia purchasese purchases
 ia PUrple Purple
 ia prupurose purpose
+ia puprose purpose
 ia pruposes purposes
 ia purpoess purposes
 ia Puhs Push
@@ -5733,6 +5744,7 @@ ia rmoeoivng removing
 ia renamign renaming
 ia REno Reno
 ia Revovations Renovations
+ia reoccuring reoccurring
 ia reorganizatiojn reorganization
 ia Reorgainze Reorganize
 ia reparierd repaired
@@ -6516,6 +6528,7 @@ ia psecified specified
 ia sepcified specified
 ia sepecified specified
 ia specfieid specified
+ia specifiefd specified
 ia specififed specified
 ia sepcifify specify
 ia specifiy specify
