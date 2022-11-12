@@ -3063,6 +3063,7 @@ ia functioanl functional
 ia funtional functional
 ia FUnctionality Functionality
 ia Functioanlity Functionality
+ia fucntinality functionality
 ia fucntionality functionality
 ia funcationality functionality
 ia funcdtioanliy functionality
@@ -3366,6 +3367,7 @@ ia horus hours
 ia hoursin hours in
 ia hrous hours
 ia Hosuton Houston
+ia hovewr hover
 ia HOw How
 ia hwo how
 ia HOwever However
@@ -5316,6 +5318,7 @@ ia proecess process
 ia proecss process
 ia PRocessing Processing
 ia processign processing
+ia proicessing processing
 ia Prodcue Produce
 ia prodcue produce
 ia prodcued produced
