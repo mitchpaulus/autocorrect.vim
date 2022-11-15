@@ -781,6 +781,7 @@ ia bulidings buildings
 ia bvuidlgnis buildings
 ia ubildings buildings
 ia buidls builds
+ia BUitl Built
 ia buitl built
 ia bulit built
 ia bubl bulb
@@ -1263,6 +1264,7 @@ ia compltet complete
 ia compmlete complete
 ia compolete complete
 ia comptlet complete
+ia Complted Completed
 ia compeleted completed
 ia compelted completed
 ia compleated completed
@@ -2339,6 +2341,7 @@ ia enclousre enclosure
 ia encodding encoding
 ia enocding encoding
 ia ENd End
+ia edn end
 ia ned end
 ia endevor endeavor
 ia Edngins Endings
@@ -2562,6 +2565,7 @@ ia evalutaed evaluated
 ia Evaulating Evaluating
 ia evaulating evaluating
 ia Evaluaiotn Evaluation
+ia Evaluaiton Evaluation
 ia Evalutation Evaluation
 ia Evaulation Evaluation
 ia evaluaiton evaluation
@@ -2928,6 +2932,7 @@ ia follolwed followed
 ia floowing following
 ia folllowing following
 ia folloiwing following
+ia folloiwng following
 ia followign following
 ia follwing following
 ia follwoign following
@@ -5299,6 +5304,7 @@ ia porbablyb probably
 ia proablyb probably
 ia probaby probably
 ia probalby probably
+ia probbayl probably
 ia PRoblem Problem
 ia prlblem problem
 ia probelm problem
@@ -6653,6 +6659,7 @@ ia STill Still
 ia Stilll Still
 ia sitll still
 ia stil still
+ia stokc stock
 ia stomatch stomach
 ia stoped stopped
 ia stoppiong stopping
@@ -6719,6 +6726,7 @@ ia substituing substituting
 ia substituion substitution
 ia substituations substitutions
 ia substiutions substitutions
+ia subtakss subtasks
 ia subtraciton subtraction
 ia succedded succeeded
 ia succes success
