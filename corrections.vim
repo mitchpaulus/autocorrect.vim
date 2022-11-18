@@ -782,6 +782,7 @@ ia bvuidlgnis buildings
 ia ubildings buildings
 ia buidls builds
 ia BUitl Built
+ia biult built
 ia buitl built
 ia bulit built
 ia bubl bulb
@@ -1978,6 +1979,7 @@ ia differnece difference
 ia diffrence difference
 ia diffeerences differences
 ia differenrces differences
+ia differneces differences
 ia dfiferent different
 ia diferent different
 ia diffeerent different
@@ -4350,6 +4352,7 @@ ia mintue minute
 ia mintues minutes
 ia minutse minutes
 ia miscellanous miscellaneous
+ia mismatchse mismatches
 ia Missign Missing
 ia missign missing
 ia missinng missing
@@ -4649,6 +4652,7 @@ ia occured occurred
 ia Occurance Occurrence
 ia occuarance occurrence
 ia occurance occurrence
+ia occurances occurrences
 ia occuring occurring
 ia Octboer October
 ia Octover October
@@ -5411,6 +5415,7 @@ ia preoperly properly
 ia proepely properly
 ia properbly properly
 ia propertly properly
+ia proeprties properties
 ia properies properties
 ia properites properties
 ia properityes properties
@@ -5871,6 +5876,7 @@ ia requeirede required
 ia requerid required
 ia requied required
 ia requiredy required
+ia requred required
 ia requreid required
 ia requrid required
 ia requried required
