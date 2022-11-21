@@ -2052,6 +2052,7 @@ ia dscovery discovery
 ia descrepancies discrepancies
 ia discrepencies discrepancies
 ia descrepency discrepancy
+ia discrepency discrepancy
 ia discuesed discussed
 ia discussiung discussing
 ia DIscussion Discussion
@@ -2338,6 +2339,7 @@ ia emulaotrs emulators
 ia eanble enable
 ia enabeld enabled
 ia enalbed enabled
+ia Enclosuee Enclosure
 ia enclouse enclosure
 ia enclousre enclosure
 ia encodding encoding
@@ -2612,6 +2614,7 @@ ia Ecxel Excel
 ia Excewl Excel
 ia Excle Excel
 ia excewpt except
+ia ecxeption exception
 ia exceptiopn exception
 ia exceptoin exception
 ia excetpoin exception
@@ -3262,6 +3265,7 @@ ia handaling handling
 ia handlaing handling
 ia handliang handling
 ia handlign handling
+ia handoling handling
 ia hndling handling
 ia andrail handrail
 ia ahppended happened
@@ -3335,6 +3339,7 @@ ia highlihgitng highlighting
 ia highlihgthing highlighting
 ia highlihgting highlighting
 ia highlihting highlighting
+ia hightlihgting highlighting
 ia himsellf himself
 ia himslef himself
 ia hsi his
@@ -3871,6 +3876,7 @@ ia eky key
 ia kesy keys
 ia keystorke keystroke
 ia keystorkes keystrokes
+ia keyowrd keyword
 ia ekywords keywords
 ia keyowrds keywords
 ia kcik kick
@@ -4008,6 +4014,7 @@ ia lmit limit
 ia limitaiton limitation
 ia olimitations limitations
 ia Limitied Limited
+ia Limtis Limits
 ia limtis limits
 ia lnei line
 ia lnie line
@@ -5043,6 +5050,7 @@ ia placenholdre placeholder
 ia placehodlers placeholders
 ia palcement placement
 ia palces places
+ia plces places
 ia plian plain
 ia Paln Plan
 ia paln plan
@@ -5281,11 +5289,13 @@ ia Prviouslyu Previously
 ia precviously previously
 ia preiovusly previously
 ia previlsy previously
+ia previosuly previously
 ia previousy previously
 ia previoysl previously
 ia previulsy previously
 ia priece price
 ia PRicing Pricing
+ia pirmary primary
 ia primeary primary
 ia princeple principle
 ia PRint Print
@@ -5924,6 +5934,7 @@ ia resistnace resistance
 ia resistnatce resistance
 ia resistent resistant
 ia resoluution resolution
+ia REsolve Resolve
 ia resovle resolve
 ia resovled resolved
 ia resoelves resolves
@@ -6842,6 +6853,7 @@ ia ssytems systems
 ia syhstems systems
 ia sysetms systems
 ia sysmtems systems
+ia systemas systems
 ia systemss systems
 ia systesm systems
 ia systesms systems
@@ -7152,6 +7164,7 @@ ia htere there
 ia theer there
 ia theere there
 ia theerre there
+ia therr there
 ia threr there
 ia Teherfore Therefore
 ia Thefrefore Therefore
