@@ -58,6 +58,8 @@ ia acccurate accurate
 ia accuracte accurate
 ia achive achieve
 ia acheived achieved
+ia ackknowledged acknowledged
+ia ackknowledgement acknowledgment
 ia acknowledgement acknowledgment
 ia acquisitons acquisitions
 ia acroyms acronyms
@@ -189,6 +191,7 @@ ia airposrts airports
 ia Almao Alamo
 ia Alamr Alarm
 ia Alram Alarm
+ia alam alarm
 ia alamr alarm
 ia alram alarm
 ia Alamring Alarming
@@ -3616,6 +3619,7 @@ ia Inherrently Inherently
 ia inherrently inherently
 ia inheritence inheritance
 ia INitial Initial
+ia Iniitla Initial
 ia Initiial Initial
 ia Intiial Initial
 ia iinitail initial
@@ -4215,6 +4219,7 @@ ia Marhd March
 ia Makr Mark
 ia amrk mark
 ia makr mark
+ia Markdonw Markdown
 ia Markdwon Markdown
 ia markdonw markdown
 ia makred marked
@@ -6206,6 +6211,7 @@ ia sleecting selecting
 ia seleciton selection
 ia selectdion selection
 ia slection selection
+ia Selecitons Selections
 ia selectvie selective
 ia Semeseter Semester
 ia Semseter Semester
