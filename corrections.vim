@@ -4198,6 +4198,7 @@ ia manuaal manual
 ia manula manual
 ia mnaula manual
 ia manulaly manually
+ia Mnaulas Manuals
 ia manuasl manuals
 ia manulas manuals
 ia Manufacgure Manufacturer
@@ -6169,6 +6170,7 @@ ia serached searched
 ia seraches searches
 ia Searchign Searching
 ia Seraching Searching
+ia serachign searching
 ia seraching searching
 ia Seaosn Season
 ia Sebasitan Sebastian
@@ -7019,6 +7021,7 @@ ia temperautres temperatures
 ia temperautrtes temperatures
 ia temprautes temperatures
 ia tempreatures temperatures
+ia temrpeatures temperatures
 ia tmeperatures temperatures
 ia TEmplate Template
 ia Tempalte Template
