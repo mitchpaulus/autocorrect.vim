@@ -119,6 +119,7 @@ ia additialn additional
 ia additianl additional
 ia additiaonl additional
 ia additilanl additional
+ia additinaal additional
 ia additinal additional
 ia additinoal additional
 ia additioanl additional
@@ -992,9 +993,11 @@ ia CHecking Checking
 ia Chekcing Checking
 ia checkign checking
 ia checkikng checking
+ia checkinng checking
 ia checkiung checking
 ia chekcing checking
 ia chewcking checking
+ia cvhecking checking
 ia Chekclist Checklist
 ia chekclist checklist
 ia checkdlists checklists
@@ -5290,6 +5293,7 @@ ia Preiovusly Previously
 ia Preivulsly Previously
 ia Previoulsy Previously
 ia Previousluy Previously
+ia Previusyl Previously
 ia Priovusly Previously
 ia Prviouslyu Previously
 ia precviously previously
@@ -5401,6 +5405,7 @@ ia Proejct Project
 ia pjorect project
 ia porjecst project
 ia porject project
+ia preojct project
 ia prjoect project
 ia proejct project
 ia proeject project
