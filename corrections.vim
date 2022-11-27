@@ -34,6 +34,7 @@ ia accewptable acceptable
 ia aceptable acceptable
 ia aceess access
 ia adcces access
+ia aqcccess access
 ia accessiblity accessibility
 ia accesible accessible
 ia accidnet accident
@@ -111,6 +112,7 @@ ia Addiitonal Additional
 ia Additioanl Additional
 ia Additoanl Additional
 ia Additonaol Additional
+ia addiitnla additional
 ia addiitonal additional
 ia addintoial additional
 ia addiontal additional
@@ -1112,6 +1114,7 @@ ia collegaue colleague
 ia coollected collected
 ia colleciotns collection
 ia colleciton collection
+ia Coletor Collector
 ia Colege College
 ia Coollege College
 ia Collsion Collision
@@ -1837,6 +1840,7 @@ ia departmetn department
 ia depdnd depend
 ia Idependence Dependence
 ia dependance dependence
+ia depencies dependencies
 ia dependecies dependencies
 ia dependenceis dependencies
 ia dependecny dependency
@@ -2229,6 +2233,7 @@ ia dynamcially dynamically
 ia dynamcilaly dynamically
 ia dynamicaly dynamically
 ia dynamcis dynamics
+ia aech each
 ia easeir easier
 ia easilyi easily
 ia easliy easily
@@ -3263,6 +3268,7 @@ ia Halftway Halfway
 ia ahlls halls
 ia ahnd hand
 ia hadn hand
+ia Hanlde Handle
 ia hande handle
 ia handeld handled
 ia ahndling handling
@@ -3525,6 +3531,7 @@ ia Inlcues Includes
 ia includddes includes
 ia includeds includes
 ia inlcudes includes
+ia inclduing including
 ia includieng including
 ia INclusion Inclusion
 ia incoem income
@@ -4063,6 +4070,7 @@ ia lboby lobby
 ia lboiby lobby
 ia lobbby lobby
 ia Lcoal Local
+ia laocal local
 ia lcoal local
 ia locla local
 ia localshot localhost
@@ -4682,6 +4690,7 @@ ia officail official
 ia officinal official
 ia offiical official
 ia ofifical official
+ia offcials officials
 ia Offilne Offline
 ia offssets offsets
 ia Oftne Often
@@ -4956,6 +4965,7 @@ ia passted pasted
 ia Paht Path
 ia patritoic patriotic
 ia patten pattern
+ia apy pay
 ia pya pay
 ia paymetns payments
 ia PFD PDF
@@ -5444,6 +5454,7 @@ ia properteis properties
 ia porperty property
 ia proeprty property
 ia propety property
+ia proprty property
 ia porportion proportion
 ia proporitional proportional
 ia proportialn proportional
@@ -5708,6 +5719,7 @@ ia REgular Regular
 ia regualr regular
 ia regural regular
 ia regualry regularly
+ia regularyly regularly
 ia REgulation Regulation
 ia erheat reheat
 ia rehate reheat
@@ -6266,6 +6278,7 @@ ia separatley separately
 ia seaparter separator
 ia separater separator
 ia Septmeber September
+ia Septmebert September
 ia Sequcnece Sequence
 ia Sequience Sequence
 ia seequence sequence
@@ -6898,6 +6911,7 @@ ia taks task
 ia Takss Tasks
 ia tsaste taste
 ia taought taught
+ia atx tax
 ia teacing teaching
 ia teacvhing teaching
 ia TEam Team
@@ -8021,6 +8035,7 @@ ia yewt yet
 ia Yokr York
 ia YOu You
 ia yhou you
+ia yoj you
 ia youy you
 ia yuou you
 ia zerio zero
