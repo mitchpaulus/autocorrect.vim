@@ -713,6 +713,7 @@ ia briging bringing
 ia brining bringing
 ia braod broad
 ia broek broke
+ia brroke broke
 ia borken broken
 ia broekn broken
 ia broutht brought
@@ -2786,6 +2787,7 @@ ia failry fairly
 ia faily fairly
 ia farily fairly
 ia fiarly fairly
+ia Falacies Fallacies
 ia Fallign Falling
 ia fallas falls
 ia Flase False
@@ -5010,8 +5012,10 @@ ia premenently permanently
 ia Premissions Permissions
 ia perimissions permissions
 ia perimssisisons permissions
+ia permissinos permissions
 ia permissioniongs permissions
 ia permissioniosn permissions
+ia permissionis permissions
 ia permissionnis permissions
 ia prequisitve perquisite
 ia perons person
@@ -6847,6 +6851,7 @@ ia sysncing syncing
 ia syntacially syntactically
 ia SYntax Syntax
 ia Synatx Syntax
+ia syantx syntax
 ia synatx syntax
 ia sysntax syntax
 ia ysntax syntax
