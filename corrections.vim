@@ -85,6 +85,7 @@ ia Actyual Actual
 ia Acutal Actual
 ia actaul actual
 ia acutal actual
+ia actuallity actuality
 ia Actulaly Actually
 ia Acutally Actually
 ia actaully actually
@@ -677,6 +678,7 @@ ia boielr boiler
 ia obiler boiler
 ia BOilers Boilers
 ia bilers boilers
+ia boielrs boilers
 ia obok book
 ia bookelt booklet
 ia bookmarkding bookmarking
@@ -1141,6 +1143,7 @@ ia combonations combinations
 ia cominations combinations
 ia combiend combined
 ia comibned combined
+ia combusition combustion
 ia comew come
 ia Comfotr Comfort
 ia comfrot comfort
@@ -1805,6 +1808,7 @@ ia definitino definition
 ia definiton definition
 ia defintinoo definition
 ia defintion definition
+ia deifnition definition
 ia definiations definitions
 ia definitoins definitions
 ia defintiions definitions
@@ -2620,6 +2624,7 @@ ia exampel example
 ia exmaple example
 ia exmpale example
 ia expmaple example
+ia exapmles examples
 ia exmapllse examples
 ia rexceeding exceeding
 ia Ecxel Excel
@@ -3029,6 +3034,7 @@ ia Fridayf Friday
 ia Fridya Friday
 ia freidns friends
 ia FRom From
+ia freom from
 ia frmo from
 ia froam from
 ia fromm from
@@ -3113,6 +3119,7 @@ ia functdions functions
 ia functins functions
 ia functiosn functions
 ia functiuons functions
+ia ufnctions functions
 ia fudnamental fundamental
 ia FUndamentals Fundamentals
 ia ufnding funding
@@ -3726,6 +3733,7 @@ ia institutaion institution
 ia insturction instruction
 ia Instrucitnos Instructions
 ia Insturcitons Instructions
+ia INsulation Insulation
 ia Insluaiton Insulation
 ia inslulation insulation
 ia insureance insurance
@@ -3759,6 +3767,7 @@ ia interesets interests
 ia INterface Interface
 ia Interace Interface
 ia Interafce Interface
+ia iterface interface
 ia tnerface interface
 ia iterferes interferes
 ia interioro interior
@@ -3826,6 +3835,7 @@ ia Invenstemnt Investment
 ia investement investment
 ia inviation invitation
 ia invitue invite
+ia Inovices Invoices
 ia involed involved
 ia invovled involved
 ia inrrelevt irrelevant
@@ -4216,6 +4226,7 @@ ia manuasl manuals
 ia manulas manuals
 ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
+ia manufaucturer manufacturer
 ia manufuacture manufacturer
 ia manufactureres manufacturers
 ia Mnay Many
@@ -4928,6 +4939,7 @@ ia parmeetsrf parameters
 ia paretn parent
 ia partent parent
 ia Parentheiss Parenthesis
+ia aprentheiss parenthesis
 ia parentheiss parenthesis
 ia parenthsize parenthesize
 ia paretns parents
@@ -5323,6 +5335,7 @@ ia pirmary primary
 ia primeary primary
 ia princeple principle
 ia PRint Print
+ia Pritn Print
 ia pirnt print
 ia pritn print
 ia prtin print
@@ -5634,6 +5647,7 @@ ia resaonable reasonable
 ia REasonably Reasonably
 ia reasonablely reasonably
 ia reasonalbly reasonably
+ia REasons Reasons
 ia REauthorization Reauthorization
 ia rubuttal rebuttal
 ia reclaibrated recalibrated
@@ -6788,6 +6802,7 @@ ia succincly succinctly
 ia usch such
 ia suoders sudoers
 ia suffifce suffice
+ia suggset suggest
 ia suggesitons suggestions
 ia sumarized summarized
 ia Sumary Summary
@@ -7230,6 +7245,7 @@ ia tehy they
 ia thye they
 ia tyhy they
 ia thihck thick
+ia tchickness thickness
 ia thckness thickness
 ia thnig thing
 ia THings Things
@@ -7432,6 +7448,7 @@ ia tyrends trends
 ia Tervor Trevor
 ia Tridium Tridium
 ia Treid Tried
+ia trigometric trigonometric
 ia trival trivial
 ia troubleshootting troubleshooting
 ia troubleshotoign troubleshooting
@@ -7536,6 +7553,7 @@ ia Understainding Understanding
 ia udnerstanding understanding
 ia understandidng understanding
 ia understandiung understanding
+ia Understading Understating
 ia udnertaken undertaken
 ia Underwod Underwood
 ia unexpanded unexpanded
@@ -8026,6 +8044,7 @@ ia wuoudl would
 ia wraper wrapper
 ia writeaable writable
 ia Writie Write
+ia Wrtie Write
 ia wirte write
 ia wirting writing
 ia writtne written
