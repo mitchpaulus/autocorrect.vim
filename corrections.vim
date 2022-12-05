@@ -25,7 +25,9 @@ ia Abraisve Abrasive
 ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
+ia Absoprtion Absorption
 ia absopriotn absorption
+ia absortption absorption
 ia abstarct abstract
 ia abstarctions abstractions
 ia Acadmey Academy
@@ -70,6 +72,7 @@ ia acrsos across
 ia acrsoss across
 ia ACtion Action
 ia Aciton Action
+ia actiosn action
 ia acitons actions
 ia activiate activate
 ia activatino activation
@@ -677,6 +680,7 @@ ia biler boiler
 ia boielr boiler
 ia obiler boiler
 ia BOilers Boilers
+ia Boilesr Boilers
 ia bilers boilers
 ia boielrs boilers
 ia obok book
@@ -3125,6 +3129,7 @@ ia FUndamentals Fundamentals
 ia ufnding funding
 ia ufnds funds
 ia Furneral Funeral
+ia Furnance Furnace
 ia furhter further
 ia rurther further
 ia Futuer Future
@@ -3265,6 +3270,7 @@ ia Gudielinte Guideline
 ia Guidleine Guideline
 ia Guidleing Guideline
 ia Guidleline Guideline
+ia Gudilelines Guidelines
 ia Guidleines Guidelines
 ia gudielines guidelines
 ia guideines guidelines
@@ -3520,6 +3526,7 @@ ia imporve improve
 ia impored improved
 ia imporved improved
 ia improeved improved
+ia Imporvement Improvement
 ia ina in a
 ia inb in
 ia inthe in the
@@ -3615,6 +3622,7 @@ ia informaiotn information
 ia informaitno information
 ia informaitohn information
 ia informaiton information
+ia informaoitn information
 ia informaotin information
 ia informatin information
 ia informatino information
@@ -3707,6 +3715,7 @@ ia installaiton installation
 ia instlalaiton installation
 ia instlalation installation
 ia instlaliont installation
+ia instllaiotn installation
 ia instllation installation
 ia isntallation installation
 ia inistalled installed
@@ -4292,6 +4301,7 @@ ia measuared measured
 ia measureed measured
 ia measuresed measured
 ia meausred measured
+ia measueremtn measurement
 ia measuremenht measurement
 ia measuremnet measurement
 ia measuremnt measurement
@@ -4979,6 +4989,7 @@ ia passted pasted
 ia Paht Path
 ia patritoic patriotic
 ia patten pattern
+ia appterns patterns
 ia apy pay
 ia pya pay
 ia paymetns payments
@@ -5356,6 +5367,7 @@ ia proablyb probably
 ia probaby probably
 ia probalby probably
 ia probbayl probably
+ia propably probably
 ia PRoblem Problem
 ia prlblem problem
 ia probelm problem
@@ -5943,6 +5955,7 @@ ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
 ia requiremnets requirements
+ia requiremnts requirements
 ia requirmentrs requirements
 ia requirments requirements
 ia requriemdents requirements
