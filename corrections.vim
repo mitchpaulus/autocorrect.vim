@@ -364,6 +364,7 @@ ia apepndix appendix
 ia applicaable applicable
 ia Applicaiotn Application
 ia Applicaiton Application
+ia appaliciotn application
 ia appcoliacation application
 ia applciaiton application
 ia applciation application
@@ -1855,6 +1856,7 @@ ia dependenceis dependencies
 ia dependecny dependency
 ia depnedency dependency
 ia dpeencedcy dependency
+ia dpeendecy dependency
 ia dpendency dependency
 ia depndent dependent
 ia dependeiing depending
@@ -4060,6 +4062,7 @@ ia LInes Lines
 ia Llines Lines
 ia LInk Link
 ia LInks Links
+ia LInux Linux
 ia linuux Linux
 ia llinux Linux
 ia liqudi liquid
@@ -4537,6 +4540,7 @@ ia multipling multiplying
 ia msut must
 ia Mutaul Mutual
 ia myslef myself
+ia natively naively
 ia anem name
 ia anme name
 ia naem name
@@ -6817,6 +6821,7 @@ ia suoders sudoers
 ia suffifce suffice
 ia suggset suggest
 ia suggesitons suggestions
+ia Sutie Suite
 ia sumarized summarized
 ia Sumary Summary
 ia Summayr Summary
