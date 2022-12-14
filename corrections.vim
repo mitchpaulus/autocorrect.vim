@@ -3596,6 +3596,7 @@ ia inddor indoor
 ia INdustrial Industrial
 ia indusrial industrial
 ia industyr industry
+ia inequaliyt inequality
 ia inflitration infiltration
 ia iinform inform
 ia INformaiton Information
@@ -6080,6 +6081,7 @@ ia Reviseed Revised
 ia Revisoin Revision
 ia Revsion Revision
 ia reisit revisit
+ia rewirte rewrite
 ia Reichard Richard
 ia Ricahrd Richard
 ia RIght Right
