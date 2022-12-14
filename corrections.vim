@@ -982,6 +982,7 @@ ia cahpter chapter
 ia chaper chapter
 ia chatper chapter
 ia caharcter character
+ia cahracter character
 ia hcaracter character
 ia caharcteristic characteristic
 ia cahractersictic characteristic
@@ -3180,6 +3181,7 @@ ia generagor generator
 ia gneerator generator
 ia gneraator generator
 ia gnerator generator
+ia genaertosr generators
 ia geneators generators
 ia generaotrs generators
 ia generaters generators
@@ -4130,6 +4132,7 @@ ia logarighm logarithm
 ia logartihm logarithm
 ia logatirhm logarithm
 ia logatrihm logarithm
+ia logarighms logarithms
 ia loggged logged
 ia Loigc Logic
 ia lgic logic
@@ -5161,6 +5164,7 @@ ia poitns points
 ia ponits points
 ia pooints points
 ia polynomical polynomial
+ia polynomails polynomials
 ia ploytropic polytropic
 ia polytorpic polytropic
 ia poplualar popular
@@ -6874,6 +6878,7 @@ ia switchees switches
 ia swtiches switches
 ia switchgaar switchgear
 ia SWitching Switching
+ia symbolci symbolic
 ia SYmmetrical Symmetrical
 ia symptpms symptoms
 ia Sycn Sync
@@ -7939,6 +7944,7 @@ ia hwile while
 ia whikle while
 ia whilee while
 ia whitle while
+ia WHite White
 ia Whtie White
 ia hwite white
 ia whitesapce whitespace
