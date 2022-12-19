@@ -39,6 +39,7 @@ ia adcces access
 ia aqcccess access
 ia accessiblity accessibility
 ia accesible accessible
+ia accissible accessible
 ia accidnet accident
 ia accidently accidentally
 ia accompnay accompany
@@ -1818,6 +1819,7 @@ ia deifnition definition
 ia definiations definitions
 ia definitoins definitions
 ia defintiions definitions
+ia defintionis definitions
 ia defintions definitions
 ia degreees degrees
 ia degress degrees
@@ -1951,6 +1953,7 @@ ia dtermining determining
 ia Devleop Develop
 ia devleop develop
 ia devleoped developed
+ia devloping developing
 ia Develoment Development
 ia Developement Development
 ia Developemnt Development
@@ -1965,6 +1968,7 @@ ia developemnt development
 ia developemtn development
 ia developmetn development
 ia developpment development
+ia devleopement development
 ia devleopemnt development
 ia devleopemtn development
 ia devleopment development
@@ -2724,6 +2728,7 @@ ia explanaiotns explanations
 ia epxlicit explicit
 ia expliclit explicit
 ia explicti explicit
+ia Explictly Explicitly
 ia explicity explicitly
 ia explicly explicitly
 ia expliticly explicitly
@@ -2750,6 +2755,7 @@ ia extrension extension
 ia extensiosn extensions
 ia exetiror exterior
 ia exterioro exterior
+ia extenal external
 ia extermal external
 ia extermanl external
 ia extranous extraneous
@@ -3366,6 +3372,7 @@ ia fhighlighting highlighting
 ia hgihlighting highlighting
 ia hgihlihgitng highlighting
 ia highlighing highlighting
+ia highlighitng highlighting
 ia highlihgitng highlighting
 ia highlihgthing highlighting
 ia highlihgting highlighting
@@ -3899,6 +3906,7 @@ ia Jospeh Joseph
 ia Jsoh Josh
 ia SJON JSON
 ia json JSON
+ia judgement judgment
 ia Juilian Julian
 ia Julain Julian
 ia Juen June
@@ -3964,6 +3972,7 @@ ia langauage language
 ia langauge language
 ia languagte language
 ia languate language
+ia langugae language
 ia langurage language
 ia lnaguage language
 ia langauges languages
@@ -3998,6 +4007,7 @@ ia lneght length
 ia lenghts lengths
 ia Lession Lesson
 ia elt let
+ia LEvel Level
 ia elvel level
 ia leverl level
 ia levle level
@@ -4174,6 +4184,7 @@ ia magniftude magnitude
 ia mial mail
 ia Mian Main
 ia mian main
+ia Mainsream Mainstream
 ia mainstram mainstream
 ia maintian maintain
 ia maintin maintain
@@ -4833,6 +4844,7 @@ ia orgainzation organization
 ia organiation organization
 ia organizaiton organization
 ia organziaiton organization
+ia organizaitons organizations
 ia rogainations organizations
 ia Orgainzing Organizing
 ia orientied oriented
@@ -4958,6 +4970,7 @@ ia paretn parent
 ia partent parent
 ia Parentheiss Parenthesis
 ia aprentheiss parenthesis
+ia parentheis parenthesis
 ia parentheiss parenthesis
 ia parenthsize parenthesize
 ia paretns parents
@@ -5124,6 +5137,7 @@ ia plnats plants
 ia plasitc plastic
 ia platfrom platform
 ia ploatfrom platform
+ia platfroms platforms
 ia palusible plausible
 ia paly play
 ia plya play
@@ -5530,6 +5544,7 @@ ia Plubic Public
 ia publicaiton publication
 ia publlications publications
 ia publicsher publisher
+ia Publihsing Publishing
 ia PUll Pull
 ia upll pull
 ia Puleld Pulled
@@ -5763,6 +5778,7 @@ ia REgulation Regulation
 ia erheat reheat
 ia rehate reheat
 ia reheta reheat
+ia RElated Related
 ia Releated Related
 ia frelated related
 ia realted related
@@ -5913,6 +5929,7 @@ ia rports reports
 ia repostiroes repositories
 ia reporsitoyr repository
 ia reposiotiyr repository
+ia reposiotry repository
 ia reposioty repository
 ia reposiotyr repository
 ia repositary repository
@@ -7427,6 +7444,7 @@ ia trianing training
 ia trinaing training
 ia TRane Trane
 ia Trnae Trane
+ia transcendal transcendental
 ia trnasducers transducers
 ia tansfer transfer
 ia transefer transfer
@@ -7760,6 +7778,7 @@ ia vaioruds various
 ia vairous Various
 ia variosu various
 ia varoius various
+ia valsty vastly
 ia Valut Vault
 ia vehivcle vehicle
 ia velcotiy velocity
