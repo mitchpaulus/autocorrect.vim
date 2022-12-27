@@ -1174,6 +1174,7 @@ ia commmands commands
 ia COmment Comment
 ia commetn comment
 ia COmments Comments
+ia Commetns Comments
 ia commetns comments
 ia commments comments
 ia Commerical Commercial
@@ -2347,6 +2348,7 @@ ia eliminatiung eliminating
 ia elswe else
 ia Eamil Email
 ia eamil email
+ia eamiol email
 ia emali email
 ia emial email
 ia meail email
@@ -2543,6 +2545,7 @@ ia euqipoment equipment
 ia qeuipment equipment
 ia qeuiqpment equipment
 ia equivalnet equivalent
+ia equivlanet equivalent
 ia eerror error
 ia Erros Errors
 ia erros errors
@@ -2653,6 +2656,7 @@ ia Excpetions Exceptions
 ia excpetions exceptions
 ia exhanger exchange
 ia exhcange exchange
+ia excahnger exchanger
 ia exchagner exchanger
 ia Exhcangerse Exchangers
 ia exchangesr exchangers
@@ -3075,6 +3079,7 @@ ia fucniotn function
 ia fucniton function
 ia fucntion function
 ia funcditon function
+ia funcidtoh function
 ia funciotn function
 ia funcitdon function
 ia funcitno function
@@ -3232,6 +3237,7 @@ ia GOod Good
 ia Goodgle Google
 ia Googoel Google
 ia GOt Got
+ia Governmetn Government
 ia govenrment government
 ia governemnt government
 ia gvovernmental governmental
@@ -4365,6 +4371,7 @@ ia meetingfsf meetings
 ia meleting melting
 ia emmber member
 ia memeory memory
+ia memeroy memory
 ia Menotr Mentor
 ia messgae message
 ia meterological meteorological
@@ -5015,6 +5022,7 @@ ia apy pay
 ia pya pay
 ia paymetns payments
 ia PFD PDF
+ia Pdela Pedal
 ia Penalthy Penalty
 ia penatlty penalty
 ia penatly penalty
@@ -5647,6 +5655,7 @@ ia rasing raising
 ia ranodm random
 ia RandY Randy
 ia reange range
+ia rearely rarely
 ia RAte Rate
 ia arte rate
 ia frate rate
@@ -5731,6 +5740,7 @@ ia reducitno reduction
 ia reduciton reduction
 ia reductino reduction
 ia redudancy redundancy
+ia Redundnat Redundant
 ia Refacotr Refactor
 ia refacotr refactor
 ia refactyor refactor
@@ -5980,6 +5990,7 @@ ia reuqirement requirement
 ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
+ia requiremetns requirements
 ia requiremnets requirements
 ia requiremnts requirements
 ia requirmentrs requirements
@@ -6237,6 +6248,7 @@ ia scritps scripts
 ia scrxipts scripts
 ia scxripts scripts
 ia sripts scripts
+ia Sena Sean
 ia Serach Search
 ia searhc search
 ia serach search
