@@ -913,6 +913,7 @@ ia capitla capital
 ia capations captions
 ia cpations captions
 ia caputre capture
+ia cardinatl cardinal
 ia careds cards
 ia carsd cards
 ia carerr career
@@ -1045,6 +1046,8 @@ ia chooosing choosing
 ia chosne chosen
 ia cohsen chosen
 ia Chirstmas Christmas
+ia Chrismtas Christmas
+ia Christams Christmas
 ia chonrinc chronic
 ia Chuch Church
 ia Cincinatti Cincinnati
@@ -1311,6 +1314,7 @@ ia complicance compliance
 ia compliatn compliant
 ia comiplicated complicated
 ia complyhing complying
+ia compoentn component
 ia componenet component
 ia componennt component
 ia compoennts components
@@ -1815,6 +1819,7 @@ ia definiteyl definitely
 ia Defintion Definition
 ia defiition definition
 ia definitino definition
+ia definitoin definition
 ia definiton definition
 ia defintinoo definition
 ia defintion definition
@@ -3612,6 +3617,7 @@ ia INdustrial Industrial
 ia indusrial industrial
 ia industyr industry
 ia inequaliyt inequality
+ia infilteraation infiltration
 ia inflitration infiltration
 ia iinform inform
 ia INformaiton Information
@@ -6478,6 +6484,7 @@ ia shold should
 ia sholud should
 ia shoud should
 ia shoudl should
+ia shoulc should
 ia shouuuld should
 ia shyould should
 ia sould should
@@ -7308,6 +7315,7 @@ ia tyhy they
 ia thihck thick
 ia tchickness thickness
 ia thckness thickness
+ia thickenss thickness
 ia thnig thing
 ia THings Things
 ia thigns things
@@ -7736,6 +7744,7 @@ ia utiltliy utility
 ia utilazation utilization
 ia Utilzie Utilize
 ia utilitze utilize
+ia utilzed utilized
 ia utilzied utilized
 ia utilting utilizing
 ia vaccum vacuum
