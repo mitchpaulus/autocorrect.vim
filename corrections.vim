@@ -117,6 +117,7 @@ ia Addiitonal Additional
 ia Additioanl Additional
 ia Additoanl Additional
 ia Additonaol Additional
+ia addiitional additional
 ia addiitnla additional
 ia addiitonal additional
 ia addintoial additional
@@ -4979,6 +4980,7 @@ ia apratemters parameters
 ia paraemters parameters
 ia parametesr parameters
 ia pareameters parameters
+ia pareamters parameters
 ia parmaetesr parameters
 ia parmeetsrf parameters
 ia paretn parent
@@ -5946,6 +5948,7 @@ ia reprots reports
 ia rpeorts reports
 ia rperots reports
 ia rports reports
+ia repositoires repositories
 ia repostiroes repositories
 ia reporsitoyr repository
 ia reposiotiyr repository
@@ -6256,6 +6259,7 @@ ia scirpts scripts
 ia scrdipst scripts
 ia scripst scripts
 ia scritps scripts
+ia scrpits scripts
 ia scrxipts scripts
 ia scxripts scripts
 ia sripts scripts
@@ -6689,6 +6693,7 @@ ia sppol spool
 ia sporatic sporadic
 ia sporatically sporadically
 ia spto spot
+ia Speadsheet Spreadsheet
 ia Spreadsehet Spreadsheet
 ia speradhset spreadsheet
 ia speradsheet spreadsheet
