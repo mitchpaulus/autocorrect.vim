@@ -552,6 +552,7 @@ ia availaable available
 ia availabe available
 ia availabee available
 ia availalbe available
+ia availalbve available
 ia availbabele available
 ia availbable available
 ia availbale available
@@ -804,6 +805,7 @@ ia bulit built
 ia bubl bulb
 ia builb bulb
 ia bulib bulb
+ia bulet bullet
 ia BUmp Bump
 ia budnled bundled
 ia ubrned burned
@@ -866,6 +868,7 @@ ia calibatrion calibration
 ia calibiation calibration
 ia calibraiotn calibration
 ia calibraiton calibration
+ia calibrration calibration
 ia calicbration calibration
 ia calicration calibration
 ia claibraiton calibration
@@ -1109,6 +1112,7 @@ ia codee code
 ia ocde code
 ia codiing coding
 ia coefficent coefficient
+ia coefficnet coefficient
 ia coeffient coefficient
 ia coefificent coefficient
 ia coefiicent coefficient
@@ -3382,6 +3386,7 @@ ia dhigher higher
 ia hgiher higher
 ia highert higher
 ia hihger higher
+ia hightest highest
 ia highlihgt highlight
 ia Highlighitng Highlighting
 ia Highlihgthing Highlighting
@@ -3594,12 +3599,14 @@ ia indentaiton indentation
 ia indenpendence independence
 ia indepoendence independence
 ia indedependt independent
+ia indendpendt independent
 ia indentpent independent
 ia independnt independent
 ia indepenedent independent
 ia indepndent independent
 ia indciate indicate
 ia INdicates Indicates
+ia indicatign indicating
 ia indiciatiton indication
 ia Indicies Indices
 ia Indiviual Individual
@@ -3623,6 +3630,7 @@ ia indusrial industrial
 ia industyr industry
 ia inequaliyt inequality
 ia infilteraation infiltration
+ia infiltraiton infiltration
 ia inflitration infiltration
 ia iinform inform
 ia INformaiton Information
@@ -4330,6 +4338,7 @@ ia measeur measure
 ia measrue measure
 ia meausre measure
 ia Measrued Measured
+ia emasured measured
 ia maesured measured
 ia mearued measured
 ia measrued measured
@@ -5051,6 +5060,7 @@ ia pioeple people
 ia poeple people
 ia popele people
 ia Pecent Percent
+ia pecentage percentage
 ia Perfomrance Performance
 ia Performacne Performance
 ia Prefomrance Performance
@@ -5092,6 +5102,7 @@ ia personla personal
 ia pwersonal personal
 ia Personaly Personally
 ia persoinally personally
+ia personsally personally
 ia Persenel Personnel
 ia Personel Personnel
 ia personell personnel
@@ -6631,6 +6642,7 @@ ia soemwhere somewhere
 ia saught sought
 ia Soruce Source
 ia Sourcee Source
+ia osurce source
 ia soruce source
 ia souce source
 ia soucre source
@@ -6865,6 +6877,7 @@ ia substiutions substitutions
 ia subtakss subtasks
 ia subtraciton subtraction
 ia succedded succeeded
+ia succeded succeeded
 ia succes success
 ia succesfful successful
 ia succesful successful
@@ -7301,6 +7314,7 @@ ia THermal Thermal
 ia Thermla Thermal
 ia themal thermal
 ia themral thermal
+ia themrla thermal
 ia thermla thermal
 ia tehemodynamic thermodynamic
 ia tehrmodyanmic thermodynamic
@@ -7639,6 +7653,7 @@ ia Underwod Underwood
 ia unexpanded unexpanded
 ia unfailry unfairly
 ia unfamilar unfamiliar
+ia Unflitered Unfiltered
 ia Unfortunatley Unfortunately
 ia unicode Unicode
 ia Unifomr Uniform
@@ -7796,6 +7811,7 @@ ia vairables variables
 ia vairalbes variables
 ia vairlabes variables
 ia variablwes variables
+ia variabvles variables
 ia variaibles variables
 ia varialbeles variables
 ia varialbes variables
