@@ -105,6 +105,7 @@ ia acutators actuators
 ia Adaptaiton Adaptation
 ia ADd Add
 ia daded added
+ia addding adding
 ia Adidtion Addition
 ia addiition addition
 ia addiiton addition
@@ -7180,6 +7181,7 @@ ia ensile tensile
 ia tneisle tensile
 ia teerm term
 ia temr term
+ia Temrialn Terminal
 ia Temrianil Terminal
 ia Temrianl Terminal
 ia Temrinal Terminal
@@ -7189,6 +7191,7 @@ ia Termialn Terminal
 ia Termianl Terminal
 ia Termibla Terminal
 ia Termilan Terminal
+ia Termilna Terminal
 ia Terminail Terminal
 ia Terminla Terminal
 ia Termninail Terminal
