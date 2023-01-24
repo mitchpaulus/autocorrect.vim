@@ -2636,6 +2636,7 @@ ia Everthing Everything
 ia Evertyhgin Everything
 ia Evertying Everything
 ia Everythign Everything
+ia Everyting Everything
 ia evertyhgin everything
 ia evertying everything
 ia everythign everything
@@ -3212,6 +3213,7 @@ ia genaertosr generators
 ia geneators generators
 ia generaotrs generators
 ia generaters generators
+ia generatos generators
 ia gneerators generators
 ia geomerty geometry
 ia geometyr geometry
@@ -3439,6 +3441,7 @@ ia horuly hourly
 ia horus hours
 ia hoursin hours in
 ia hrous hours
+ia HOuston Houston
 ia Hosuton Houston
 ia hovewr hover
 ia HOw How
@@ -4405,6 +4408,7 @@ ia Meterogic Meterlogic
 ia Mehtod Method
 ia mehtod method
 ia meothd method
+ia methdo method
 ia methjod method
 ia metohd method
 ia Methodoology Methodology
@@ -6870,6 +6874,7 @@ ia Subroutinges Subroutines
 ia subsance substance
 ia substantce substance
 ia Substantail Substantial
+ia substaionts substations
 ia substiture substitute
 ia substituing substituting
 ia substituion substitution
@@ -7181,6 +7186,7 @@ ia ensile tensile
 ia tneisle tensile
 ia teerm term
 ia temr term
+ia Temrialjn Terminal
 ia Temrialn Terminal
 ia Temrianil Terminal
 ia Temrianl Terminal
