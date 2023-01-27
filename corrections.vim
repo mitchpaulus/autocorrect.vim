@@ -1142,6 +1142,7 @@ ia COlorado Colorado
 ia Colros Colors
 ia oclors colors
 ia COlumn Column
+ia columne column
 ia columnm column
 ia comlum column
 ia coolumn column
@@ -1272,6 +1273,7 @@ ia Compoatibility Compatibility
 ia capatible compatible
 ia competiting competing
 ia compilaiton compilation
+ia compilatino compilation
 ia compiliaiton compilation
 ia compliaiton compilation
 ia compliation compilation
@@ -2883,6 +2885,7 @@ ia figuure figure
 ia FIgured Figured
 ia FIgures Figures
 ia Figrues Figures
+ia fgiures figures
 ia fiel file
 ia figle file
 ia filre file
@@ -3276,6 +3279,7 @@ ia Graphsics Graphics
 ia Grpahcis Graphics
 ia Grpahics Graphics
 ia gprahics graphics
+ia gprahixcs graphics
 ia graphcis graphics
 ia grpahcis graphics
 ia grpahics graphics
@@ -3994,6 +3998,7 @@ ia aldders ladders
 ia lamdba lambda
 ia alnding landing
 ia Langauge Language
+ia Langugae Language
 ia Lanugauge Language
 ia alanguage language
 ia lagnuage language
@@ -4304,6 +4309,7 @@ ia amrk mark
 ia makr mark
 ia Markdonw Markdown
 ia Markdwon Markdown
+ia mardkown Markdown
 ia markdonw markdown
 ia makred marked
 ia marekd marked
@@ -6540,6 +6546,7 @@ ia singla signal
 ia signficant significant
 ia signifiant significant
 ia signifiatn significant
+ia significaiton significant
 ia significat significant
 ia significati significant
 ia significatn significant
