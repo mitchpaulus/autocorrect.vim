@@ -73,6 +73,7 @@ ia acrsos across
 ia acrsoss across
 ia ACtion Action
 ia Aciton Action
+ia aciton action
 ia actiosn action
 ia acitons actions
 ia activiate activate
@@ -212,6 +213,7 @@ ia Albequerqe Albuquerque
 ia Albequerque Albuquerque
 ia Albrquerque Albuquerque
 ia salchohols alcohols
+ia alegra algebra
 ia Algorihgm Algorithm
 ia algorighm algorithm
 ia algorihgm algorithm
@@ -504,6 +506,7 @@ ia attachemtns attachments
 ia attachgements attachments
 ia attachmetns attachments
 ia attachmetnst attachments
+ia Attmpet Attempt
 ia Attmpeted Attempted
 ia Attemptiung Attempting
 ia Attmept9ing Attempting
@@ -770,6 +773,7 @@ ia buildnig building
 ia builgin building
 ia builgind building
 ia builidng building
+ia builing building
 ia bulding building
 ia bulidign building
 ia buliding building
@@ -966,6 +970,7 @@ ia certina certain
 ia Certinaly Certainly
 ia certaintly certainly
 ia certianly certainly
+ia cewrtinaly certainly
 ia certificaiton certification
 ia chanin chain
 ia chiar chair
@@ -1685,6 +1690,7 @@ ia creiteris creiteria
 ia Cresecent Crescent
 ia Cresent Crescent
 ia creiteria criteria
+ia creitiera criteria
 ia creteria criteria
 ia crediterion criterion
 ia creiterion criterion
@@ -2038,6 +2044,7 @@ ia diffrent different
 ia difrent different
 ia idfferent different
 ia differentitate differentiate
+ia differtly differently
 ia Difficutl Difficult
 ia difficutl difficult
 ia difficulity difficulty
@@ -2678,9 +2685,11 @@ ia excahnger exchanger
 ia exchagner exchanger
 ia Exhcangerse Exchangers
 ia exchangesr exchangers
+ia exlcue exclude
 ia exectuable executable
 ia execuaable executable
 ia execuable executable
+ia execuatble executable
 ia execuatlab executable
 ia exeucutalble executable
 ia exectue execute
@@ -2780,6 +2789,7 @@ ia exterioro exterior
 ia extenal external
 ia extermal external
 ia extermanl external
+ia extracion extraction
 ia extranous extraneous
 ia extrpaolation extrapolation
 ia extremem extreme
@@ -3707,6 +3717,7 @@ ia intiail initial
 ia intial initial
 ia intiial initial
 ia nitial initial
+ia Initializaiton Initialization
 ia initializaiton initialization
 ia intialization initialization
 ia initailized initialized
@@ -7376,6 +7387,7 @@ ia THomas Thomas
 ia Thoams Thomas
 ia THose Those
 ia htose those
+ia thoguh though
 ia Thoguht Thought
 ia thougth thought
 ia Thoguhts Thoughts
@@ -7766,6 +7778,7 @@ ia useing using
 ia usging using
 ia usign using
 ia usingn using
+ia usinng using
 ia usula usual
 ia usallly usually
 ia usally usually
