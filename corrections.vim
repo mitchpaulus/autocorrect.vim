@@ -3034,6 +3034,7 @@ ia forrmat format
 ia fomrats formats
 ia FOrmatters Formatters
 ia fomratting formatting
+ia formattign formatting
 ia Fomrs Forms
 ia fomrs forms
 ia forsm forms
@@ -3186,6 +3187,7 @@ ia Garge Garage
 ia garaage garage
 ia GAs Gas
 ia GEnearl General
+ia GEneral General
 ia Genealr General
 ia Genearrl General
 ia Generla General
@@ -3820,6 +3822,7 @@ ia intelligcne intelligence
 ia INtended Intended
 ia Inteded Intended
 ia initended intended
+ia inteded intended
 ia interaect interact
 ia interhcnage interchange
 ia interconnecitons interconnections
@@ -4105,6 +4108,7 @@ ia liekly likely
 ia liely likely
 ia likelty likely
 ia likley likely
+ia liukely likely
 ia Limt Limit
 ia Lmit Limit
 ia liimit limit
@@ -7731,6 +7735,7 @@ ia UPdate Update
 ia Udpate Update
 ia Upate Update
 ia Uppdate Update
+ia udpate update
 ia uipdate update
 ia upate update
 ia upodate update
