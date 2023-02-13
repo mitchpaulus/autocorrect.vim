@@ -1312,6 +1312,7 @@ ia compltetd completed
 ia complteted completed
 ia compolllted completed
 ia comptleted completed
+ia copmelted completed
 ia Comopletely Completely
 ia compeletlye completely
 ia compleetly completely
@@ -1323,6 +1324,7 @@ ia compeletes completes
 ia compelting completing
 ia cmopletion completion
 ia compeltion completion
+ia compleition completion
 ia compleiton completion
 ia complicance compliance
 ia compliatn compliant
@@ -1455,6 +1457,7 @@ ia consistnely consistently
 ia consistign consisting
 ia consistns consists
 ia Constatn Constant
+ia Contant Constant
 ia Contstant Constant
 ia Cosntant Constant
 ia constand constant
@@ -1879,6 +1882,7 @@ ia dependance dependence
 ia depencies dependencies
 ia dependecies dependencies
 ia dependenceis dependencies
+ia depenedencies dependencies
 ia dependecny dependency
 ia depnedency dependency
 ia dpeencedcy dependency
@@ -3060,6 +3064,7 @@ ia FOund Found
 ia Foudn Found
 ia foudn found
 ia ofund found
+ia foudnation foundation
 ia FOuntain Fountain
 ia foru four
 ia Foiruier Fourier
@@ -4355,6 +4360,7 @@ ia Matlba Matlab
 ia matirx matrix
 ia maximimum maximum
 ia Maybew Maybe
+ia meaing meaning
 ia meaining meaning
 ia menaing meaning
 ia measn means
@@ -5026,6 +5032,7 @@ ia parmaetesr parameters
 ia parmeetsrf parameters
 ia paretn parent
 ia partent parent
+ia parenthesies parentheses
 ia Parentheiss Parenthesis
 ia aprentheiss parenthesis
 ia parentheis parenthesis
@@ -5082,6 +5089,7 @@ ia Pernsions Pensions
 ia Pnethouse Penthouse
 ia Peiople People
 ia peiople people
+ia peorple people
 ia pepople people
 ia pieople people
 ia pioeple people
@@ -7617,6 +7625,7 @@ ia ytpes types
 ia TYpeScript TypeScript
 ia TeypScript TypeScript
 ia TypeScirpt TypeScript
+ia Typescirpt Typescript
 ia TYpcial Typical
 ia Typcial Typical
 ia tyhpical typical
