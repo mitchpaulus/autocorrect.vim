@@ -2052,6 +2052,7 @@ ia differentitate differentiate
 ia differtly differently
 ia Difficutl Difficult
 ia difficutl difficult
+ia diffulct difficult
 ia difficulity difficulty
 ia Diffuer Diffuser
 ia DIgit Digit
@@ -3844,6 +3845,7 @@ ia interesets interests
 ia INterface Interface
 ia Interace Interface
 ia Interafce Interface
+ia intervace interface
 ia iterface interface
 ia tnerface interface
 ia iterferes interferes
@@ -8061,6 +8063,7 @@ ia whcih which
 ia whihc which
 ia Whiel While
 ia hwile while
+ia wehile while
 ia whikle while
 ia whilee while
 ia whitle while
