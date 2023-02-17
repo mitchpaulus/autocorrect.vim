@@ -975,6 +975,7 @@ ia cewrtinaly certainly
 ia certificaiton certification
 ia chanin chain
 ia chiar chair
+ia Challegen Challenge
 ia CHange Change
 ia Chagne Change
 ia Chnage Change
@@ -1875,6 +1876,7 @@ ia denomiator denominator
 ia dnesity density
 ia deorderant deodorant
 ia Deparment Department
+ia deparatemtn department
 ia departmetn department
 ia depdnd depend
 ia Idependence Dependence
@@ -2248,6 +2250,7 @@ ia drawigns drawings
 ia drawwigns drawings
 ia drwaings drawings
 ia drwan drawn
+ia direv drive
 ia dirve drive
 ia dreive drive
 ia drifen driven
@@ -2339,6 +2342,7 @@ ia Electical Electrical
 ia Electicial Electrical
 ia Electircial Electrical
 ia Electirckal Electrical
+ia Electraicl Electrical
 ia Electricial Electrical
 ia Electricla Electrical
 ia eelectyrical electrical
@@ -2410,6 +2414,7 @@ ia endevor endeavor
 ia Edngins Endings
 ia Enforcment Endorsement
 ia ENergy Energy
+ia Eenergy Energy
 ia Eneryg Energy
 ia enegy energy
 ia enenrgy energy
@@ -3612,6 +3617,7 @@ ia inclduing including
 ia includieng including
 ia INclusion Inclusion
 ia incoem income
+ia imcomplete incomplete
 ia incompressibiility incompressibility
 ia Inconsistgen Inconsistent
 ia inconvient inconvenient
@@ -4020,6 +4026,7 @@ ia liack lack
 ia aldders ladders
 ia lamdba lambda
 ia alnding landing
+ia lnae lane
 ia Langauge Language
 ia Langugae Language
 ia Lanugauge Language
@@ -4618,6 +4625,7 @@ ia Multipy Multiply
 ia mulitply multiply
 ia multipling multiplying
 ia msut must
+ia Msutang Mustang
 ia Mutaul Mutual
 ia myslef myself
 ia natively naively
@@ -5790,6 +5798,7 @@ ia Recordder Recorder
 ia Reocrds Records
 ia recoreds records
 ia reocreds records
+ia recurse recurse
 ia recurison recursion
 ia Recurisve Recursive
 ia recursvie recursive
@@ -6092,6 +6101,7 @@ ia resistnace resistance
 ia resistnatce resistance
 ia resistent resistant
 ia resoluution resolution
+ia resultion resolution
 ia REsolve Resolve
 ia resovle resolve
 ia resovled resolved
@@ -6136,6 +6146,7 @@ ia Reuslts Results
 ia resutls results
 ia reulsts results
 ia reuslts results
+ia reustls results
 ia rseutls results
 ia Reatil Retail
 ia REtaliation Retaliation
@@ -6406,6 +6417,7 @@ ia seaparate separate
 ia seaprate separate
 ia sepaate separate
 ia separatue separate
+ia separte separate
 ia seprate separate
 ia serpate separate
 ia speaarte separate
@@ -6984,6 +6996,7 @@ ia swtich switch
 ia switchees switches
 ia swtiches switches
 ia switchgaar switchgear
+ia switchgaer switchgear
 ia SWitching Switching
 ia symbolci symbolic
 ia SYmmetrical Symmetrical
@@ -7718,6 +7731,7 @@ ia unjits units
 ia unnits units
 ia untis units
 ia unix Unix
+ia unknwons unknowns
 ia uneccessary unnecessary
 ia unecesary unnecessary
 ia unecessary unnecessary
@@ -8169,6 +8183,7 @@ ia wokring working
 ia wokrking working
 ia woriking working
 ia workign working
+ia workiung working
 ia wroking working
 ia Worklaod Workload
 ia workpalce workplace
