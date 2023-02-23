@@ -2312,6 +2312,7 @@ ia educatinosl educational
 ia effeect effect
 ia effectiley effectively
 ia effectivientss effectiveness
+ia effectivness effectiveness
 ia effectes effects
 ia efficienceis efficiencies
 ia efficiencies efficiencies
@@ -2353,6 +2354,7 @@ ia electircla electrical
 ia electrialc electrical
 ia electricial electrical
 ia electricla electrical
+ia electrital electrical
 ia erlectrical electrical
 ia ewlectrical electrical
 ia Eelectricity Electricity
@@ -2675,6 +2677,7 @@ ia exmaple example
 ia exmpale example
 ia expmaple example
 ia exapmles examples
+ia exmaples examples
 ia exmapllse examples
 ia rexceeding exceeding
 ia Ecxel Excel
@@ -2789,6 +2792,7 @@ ia expowse expose
 ia exposign exposing
 ia Expressoin Expression
 ia expresion expression
+ia expresisons expressions
 ia expresssions expressions
 ia Exnted Extend
 ia extensibile extensible
@@ -3948,6 +3952,7 @@ ia ist its
 ia iteslf itself
 ia itslf itself
 ia jackign jacking
+ia Jacobina Jacobian
 ia Janurary January
 ia Janurayr January
 ia Juandice Jaundice
@@ -5283,6 +5288,7 @@ ia Postion Position
 ia posiiotn position
 ia posistion position
 ia positiong position
+ia posito0in position
 ia positoin position
 ia positon position
 ia postion position
@@ -5779,6 +5785,7 @@ ia recieves receives
 ia REcently Recently
 ia Recertification Recertification
 ia recipricate reciprocate
+ia Recliam Reclaim
 ia recoginition recognition
 ia recongition recognition
 ia recogoized recognized
@@ -5884,6 +5891,7 @@ ia relationsyhiop relationship
 ia Relationjships Relationships
 ia realitive relative
 ia realtive relative
+ia relaitve relative
 ia relateive relative
 ia rellative relative
 ia realse release
@@ -6158,9 +6166,11 @@ ia retorfit retrofit
 ia retorift retrofit
 ia retroift retrofit
 ia REturn Return
+ia Rreturn Return
 ia reaturn return
 ia retun return
 ia retunr return
+ia returna return
 ia reutn return
 ia reutnr return
 ia reutrn return
@@ -7204,6 +7214,7 @@ ia temperautres temperatures
 ia temperautrtes temperatures
 ia temprautes temperatures
 ia tempreatures temperatures
+ia temrpatrures temperatures
 ia temrpeatures temperatures
 ia tmeperatures temperatures
 ia TEmplate Template
@@ -7999,6 +8010,7 @@ ia warngins warnings
 ia warnigns warnings
 ia wrranty warranty
 ia aws was
+ia wsas was
 ia Wter Water
 ia Wwater Water
 ia wtaer water
@@ -8052,6 +8064,7 @@ ia hwat what
 ia waht what
 ia whqat what
 ia whta what
+ia whell wheel
 ia wheells wheels
 ia wheles wheels
 ia WHen When
