@@ -486,6 +486,7 @@ ia Assumign Assuming
 ia assumign assuming
 ia Assumtion Assumption
 ia assumjption assumption
+ia assumptino assumption
 ia asusmption assumption
 ia assukmptions assumptions
 ia assumptiosn assumptions
@@ -863,6 +864,7 @@ ia claculator calculator
 ia Calander Calendar
 ia calander calendar
 ia claendar calendar
+ia calibrarte calibrate
 ia Calcibrated Calibrated
 ia calicbrated calibrated
 ia clabirated calibrated
@@ -1461,6 +1463,7 @@ ia Constatn Constant
 ia Contant Constant
 ia Contstant Constant
 ia Cosntant Constant
+ia Cosntatn Constant
 ia constand constant
 ia constatn constant
 ia constnat constant
@@ -2294,6 +2297,7 @@ ia Econmoizer Economizer
 ia Economzier Economizer
 ia Enonomzier Economizer
 ia econcomier economizer
+ia econimzier economizer
 ia econmizer economizer
 ia economozeir economizer
 ia economzier economizer
@@ -3608,6 +3612,7 @@ ia Inappropraite Inappropriate
 ia INclude Include
 ia Inlcude Include
 ia inlcude include
+ia inlucde include
 ia Inclucded Included
 ia inclucded included
 ia includede included
@@ -4880,6 +4885,7 @@ ia Oppositie Opposite
 ia oppostie opposite
 ia opitmal optimal
 ia optimzial optimal
+ia optimzila optimal
 ia optiomal optimal
 ia OPptimziation Optimization
 ia Optimizaiton Optimization
@@ -5421,6 +5427,7 @@ ia perssure pressure
 ia pressrue pressure
 ia presssure pressure
 ia presure pressure
+ia pruessrue pressure
 ia pressurizaiotn pressurization
 ia prentend pretend
 ia preteneding pretending
@@ -5805,6 +5812,8 @@ ia Recordder Recorder
 ia Reocrds Records
 ia recoreds records
 ia reocreds records
+ia reocvery recovery
+ia reovery recovery
 ia recurse recurse
 ia recurison recursion
 ia Recurisve Recursive
