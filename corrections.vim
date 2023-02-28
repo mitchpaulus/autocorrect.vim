@@ -4875,6 +4875,7 @@ ia operatiors operators
 ia Opinioned Opinionated
 ia opininos opinions
 ia Opportunites Opportunities
+ia Opprotuniteis Opportunities
 ia opportunies opportunities
 ia opportuniteis opportunities
 ia opportunites opportunities
@@ -6080,6 +6081,7 @@ ia rqurired required
 ia rueiquireed required
 ia requiremnet requirement
 ia reuqirement requirement
+ia Requiremetns Requirements
 ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
