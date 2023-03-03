@@ -196,6 +196,7 @@ ia iar air
 ia Airflwo Airflow
 ia airlfow airflow
 ia ariflow airflow
+ia Airliens Airlines
 ia Airprot Airport
 ia airprot airport
 ia airposrts airports
@@ -1243,6 +1244,7 @@ ia commmit commit
 ia commti commit
 ia ocmmit commit
 ia committment commitment
+ia commtis commits
 ia commiteed committed
 ia Comon Common
 ia commmon common
@@ -1581,6 +1583,7 @@ ia convetion convention
 ia ocnvention convention
 ia conventilan conventional
 ia conventioanl conventional
+ia converstaion conversation
 ia convewrsation conversation
 ia converison conversion
 ia converseion conversion
@@ -1682,6 +1685,7 @@ ia ocunty county
 ia copule couple
 ia coures course
 ia covver cover
+ia ocver cover
 ia covewred covered
 ia COIVD COVID
 ia cracs CRACs
@@ -1792,6 +1796,7 @@ ia daedband deadband
 ia deadbadn deadband
 ia deadbadnads deadbands
 ia dela deal
+ia Dealigin Dealing
 ia daeling dealing
 ia deailng dealing
 ia debuging debugging
@@ -2778,6 +2783,7 @@ ia epxlicit explicit
 ia expliclit explicit
 ia explicti explicit
 ia Explictly Explicitly
+ia Explitly Explicitly
 ia explicity explicitly
 ia explicly explicitly
 ia expliticly explicitly
@@ -2806,6 +2812,7 @@ ia extensiosn extensions
 ia exetiror exterior
 ia exterioro exterior
 ia extenal external
+ia extenral external
 ia extermal external
 ia extermanl external
 ia extracion extraction
@@ -2884,6 +2891,7 @@ ia featqures features
 ia featurtes features
 ia ffeatures features
 ia Februray February
+ia Federnal Federal
 ia Feedbakc Feedback
 ia feeback feedback
 ia feedres feeders
@@ -4513,6 +4521,7 @@ ia maixing mixing
 ia minxing mixing
 ia MMBUT MMBTU
 ia mobilityi mobility
+ia MOde Mode
 ia Mdoe Mode
 ia mdoe mode
 ia Modle Model
