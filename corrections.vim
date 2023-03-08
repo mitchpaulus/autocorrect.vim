@@ -455,6 +455,7 @@ ia artticle article
 ia ARticles Articles
 ia Artifical Artificial
 ia aas as
+ia acscpetss ascepts
 ia AHSRAE ASHRAE
 ia AHSREA ASHRAE
 ia ASHARE ASHRAE
