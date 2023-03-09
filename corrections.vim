@@ -3226,6 +3226,7 @@ ia genral general
 ia gernal general
 ia gneeral general
 ia gneral general
+ia Generatlized Generalized
 ia Generlaly Generally
 ia Genrally Generally
 ia Genrlally Generally
@@ -6837,6 +6838,7 @@ ia Stargin Starting
 ia Starign Starting
 ia Strating Starting
 ia starign starting
+ia startgin starting
 ia starst starts
 ia staturup startup
 ia stahs stash
@@ -7380,6 +7382,7 @@ ia htne then
 ia tehn then
 ia theen then
 ia thne then
+ia Therem Theorem
 ia Theoretcial Theoretical
 ia theorectical theoretical
 ia theoretcial theoretical
