@@ -538,6 +538,7 @@ ia auotmate automate
 ia atuomatd automated
 ia automaated automated
 ia automateds automated
+ia Autmoatic Automatic
 ia autiomatic automatic
 ia automateic automatic
 ia Automaticaly Automatically
@@ -2803,6 +2804,7 @@ ia expowse expose
 ia exposign exposing
 ia Expressoin Expression
 ia expresion expression
+ia expresiosn expressions
 ia expresisons expressions
 ia expresssions expressions
 ia Exnted Extend
@@ -4388,6 +4390,7 @@ ia Matalb Matlab
 ia Matlba Matlab
 ia matirx matrix
 ia maximimum maximum
+ia maxium maximum
 ia Maybew Maybe
 ia meaing meaning
 ia meaining meaning
@@ -4508,6 +4511,7 @@ ia minnute minute
 ia mintue minute
 ia mintues minutes
 ia minutse minutes
+ia Miscellneous Miscellaneous
 ia miscellanous miscellaneous
 ia mismatchse mismatches
 ia Missign Missing
@@ -4561,6 +4565,7 @@ ia modifeid modified
 ia modifyied modified
 ia modfiy modify
 ia moidify modify
+ia modualted modulated
 ia MOdule Module
 ia Modeule Module
 ia modlue module
@@ -5091,6 +5096,7 @@ ia paraticualr particular
 ia parcular particular
 ia paricualr particular
 ia paritcular particular
+ia particalur particular
 ia particaular particular
 ia particaulr particular
 ia particualr particular
@@ -5435,6 +5441,7 @@ ia presentaitons presentations
 ia presneted presented
 ia Preussue Pressure
 ia apressure pressure
+ia peressure pressure
 ia perssure pressure
 ia pressrue pressure
 ia presssure pressure
@@ -6633,6 +6640,7 @@ ia similarily similarly
 ia sijmple simple
 ia simle simple
 ia simpel simple
+ia sipmle simple
 ia smpile simple
 ia simplificity simplicity
 ia simplication simplification
@@ -6887,6 +6895,7 @@ ia Stpes Steps
 ia setps steps
 ia stesp steps
 ia stpes steps
+ia sterializaiton sterilization
 ia STill Still
 ia Stilll Still
 ia sitll still
@@ -7224,6 +7233,7 @@ ia tmpeerature temperature
 ia tmperature temperature
 ia tmperautre temperature
 ia tpemperature temperature
+ia Temperautres Temperatures
 ia tempeartures temperatures
 ia tempearutes temperatures
 ia tempeatueras temperatures
