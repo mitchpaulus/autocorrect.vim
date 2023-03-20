@@ -1296,6 +1296,7 @@ ia compilatino compilation
 ia compiliaiton compilation
 ia compliaiton compilation
 ia compliation compilation
+ia Comipile Compile
 ia compiel compile
 ia complile compile
 ia ccompiled compiled
@@ -1408,6 +1409,7 @@ ia condtions conditions
 ia condtiosn conditions
 ia condusive conducive
 ia conducatnace conductance
+ia ocnduction conduction
 ia conductinve conductive
 ia conducitivity conductivity
 ia conferenece conference
@@ -1529,6 +1531,7 @@ ia Continous Continuous
 ia Continousous Continuous
 ia Continuouss Continuous
 ia Contionous Continuous
+ia continuosu continuous
 ia continuoulsy continuously
 ia contrcting contracting
 ia Contracotr Contractor
@@ -1585,6 +1588,7 @@ ia contrrols controls
 ia cotnrols controls
 ia cotnrosl controls
 ia ocntrosl controls
+ia convenctive convective
 ia convienent convenient
 ia convient convenient
 ia convensition convention
@@ -2229,6 +2233,7 @@ ia docuementign documenting
 ia documentionat documenting
 ia doucmenting documenting
 ia Dcouments Documents
+ia Docuemnts Documents
 ia Doucments Documents
 ia docuemnts documents
 ia doucments documents
@@ -2975,6 +2980,7 @@ ia fuinally finally
 ia Fidn Find
 ia fidn find
 ia ifnd find
+ia Findigns Findings
 ia FInish Finish
 ia Finsih Finish
 ia Finsihs Finish
@@ -3219,6 +3225,7 @@ ia ufnding funding
 ia ufnds funds
 ia Furneral Funeral
 ia Furnance Furnace
+ia furnance furnace
 ia furhter further
 ia rurther further
 ia Fugure Future
@@ -3376,6 +3383,7 @@ ia ahd had
 ia haad had
 ia hbad had
 ia hari hair
+ia hiar hair
 ia Halftway Halfway
 ia ahlls halls
 ia ahnd hand
@@ -3657,6 +3665,7 @@ ia imcomplete incomplete
 ia incompressibiility incompressibility
 ia Inconsistgen Inconsistent
 ia inconvient inconvenient
+ia Incorportate Incorporate
 ia incorrecdt incorrect
 ia incrorect incorrect
 ia incorectly incorrectly
@@ -3805,6 +3814,7 @@ ia inseide inside
 ia insie inside
 ia insgitht insight
 ia insignifant insignificant
+ia Insepctions Inspections
 ia inspiraation inspiration
 ia inspiratiosn inspirations
 ia inspried inspired
@@ -4298,6 +4308,7 @@ ia maintin maintain
 ia maintainablity maintainability
 ia maintinained maintained
 ia maintainging maintaining
+ia Maintainence Maintenance
 ia Maintanence Maintenance
 ia Maintenacen Maintenance
 ia Maintenacne Maintenance
@@ -4515,6 +4526,7 @@ ia minerla mineral
 ia minimial minimal
 ia minimual minimal
 ia Mniiimzie Minimize
+ia mininmized minimized
 ia Minimmum Minimum
 ia mimnimum minimum
 ia minimimum minimum
@@ -4901,6 +4913,7 @@ ia operatialn operational
 ia operpational operational
 ia Operaitons Operations
 ia Operationrs Operations
+ia Opereations Operations
 ia operaitons operations
 ia operationrs operations
 ia operatoins operations
@@ -5042,6 +5055,8 @@ ia otuside outside
 ia outdsie outside
 ia outsdide outside
 ia outsdie outside
+ia touside outside
+ia overn oven
 ia ovewr over
 ia voer over
 ia OVerall Overall
@@ -5407,6 +5422,7 @@ ia prediciton prediction
 ia rpredicitons predictions
 ia Prefrfence Preference
 ia prefence preference
+ia Prefucntiaonal Prefunctional
 ia Prefucntional Prefunctional
 ia Prefuncitonal Prefunctional
 ia Prefunctioanl Prefunctional
@@ -5776,6 +5792,7 @@ ia Radaiance Radiance
 ia radiof radio
 ia RAdios Radios
 ia reaise raise
+ia traise raise
 ia rasied raised
 ia reaised raised
 ia rasing raising
@@ -6391,6 +6408,7 @@ ia scrpits scripts
 ia scrxipts scripts
 ia scxripts scripts
 ia sripts scripts
+ia seald sealed
 ia Sena Sean
 ia Serach Search
 ia searhc search
@@ -7735,6 +7753,8 @@ ia tyupically typically
 ia ubiqutous ubiquitous
 ia Ubutntu Ubuntu
 ia Ubutnu Ubuntu
+ia ultamtaliey ultimately
+ia ultimitaly ultimately
 ia utlimately ultimately
 ia Ultrasonci Ultrasonic
 ia ultrasonci ultrasonic
@@ -8155,6 +8175,7 @@ ia wehile while
 ia whikle while
 ia whilee while
 ia whitle while
+ia whistlin whistling
 ia WHite White
 ia Whtie White
 ia hwite white
