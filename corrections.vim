@@ -1533,6 +1533,7 @@ ia Continuouss Continuous
 ia Contionous Continuous
 ia continuosu continuous
 ia continuoulsy continuously
+ia continusously continuously
 ia contrcting contracting
 ia Contracotr Contractor
 ia contracdtor contractor
@@ -1895,6 +1896,7 @@ ia Deamnd Demand
 ia dmeand demand
 ia dseamdn demand
 ia emdand demand
+ia demonstratior demonstrator
 ia denomiator denominator
 ia dnesity density
 ia deorderant deodorant
@@ -2626,6 +2628,7 @@ ia escially especially
 ia espciallly especially
 ia espcially especially
 ia especailly especially
+ia especaily especially
 ia especitaly especially
 ia espically especially
 ia essense essence
@@ -2947,6 +2950,7 @@ ia Figrues Figures
 ia fgiures figures
 ia fiel file
 ia figle file
+ia fille file
 ia filre file
 ia gile file
 ia ifle file
@@ -3540,6 +3544,7 @@ ia hunignt hunting
 ia hurdels hurdles
 ia hygienge hygiene
 ia Hyperparametres Hyperparameters
+ia hypehn hyphen
 ia hypen hyphen
 ia hypens hyphens
 ia hystersis hysteresis
@@ -3610,6 +3615,7 @@ ia Importantce Importance
 ia importantance importance
 ia importantce importance
 ia IMprotnatn Important
+ia Imporatant Important
 ia Importatn Important
 ia Importatnt Important
 ia Improatant Important
@@ -3994,6 +4000,7 @@ ia itesm items
 ia itmes items
 ia iteraotr iterator
 ia ist its
+ia iteself itself
 ia iteslf itself
 ia itslf itself
 ia jackign jacking
@@ -5337,6 +5344,7 @@ ia protable portable
 ia Portfoilfo Portfolio
 ia Protfoilo Portfolio
 ia Protfolio Portfolio
+ia portfoilo portfolio
 ia protfolio portfolio
 ia porition portion
 ia poriton portion
@@ -5369,6 +5377,7 @@ ia possibilties possibilities
 ia possilbities possibilities
 ia possilblities possibilities
 ia possiblity possibility
+ia Posible Possible
 ia possbile possible
 ia possiblle possible
 ia possiible possible
@@ -6354,6 +6363,7 @@ ia schdule schedule
 ia scheudle schedule
 ia scheulde schedule
 ia shceudle schedule
+ia shcuele schedule
 ia scheduleted scheduled
 ia scheudled scheduled
 ia scueheudled scheduled
@@ -7294,6 +7304,7 @@ ia temrpatrures temperatures
 ia temrpeatures temperatures
 ia tmeperatures temperatures
 ia TEmplate Template
+ia Temalte Template
 ia Tempalte Template
 ia tameplate template
 ia tamplate template
@@ -7316,6 +7327,7 @@ ia Temporray Temporary
 ia temperator temporary
 ia Tennant Tenant
 ia tennants tenants
+ia Ternd Tend
 ia ensile tensile
 ia tneisle tensile
 ia teerm term
@@ -7908,6 +7920,7 @@ ia usallly usually
 ia usally usually
 ia usaully usually
 ia usualy usually
+ia utiliteis utilities
 ia utilites utilities
 ia utilties utilities
 ia utiltiies utilities
