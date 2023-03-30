@@ -142,6 +142,7 @@ ia addtional additional
 ia dadditional additional
 ia Addisions Additions
 ia addresssed addressed
+ia addressses addresses
 ia addsd adds
 ia adeqauyate adequate
 ia Adjsut Adjust
@@ -1519,6 +1520,7 @@ ia conatins contains
 ia contians contains
 ia conent content
 ia contnent content
+ia contnet content
 ia Contens Contents
 ia contetx context
 ia contexct context
@@ -1674,6 +1676,7 @@ ia correpsonds corresponds
 ia correspoinds corresponds
 ia corrput corrupt
 ia corrputed corrupted
+ia COuld Could
 ia Coiuld Could
 ia coiuld could
 ia coudl could
@@ -2096,6 +2099,7 @@ ia dirctions directions
 ia directins directions
 ia drictions directions
 ia driective directive
+ia Direclty Directly
 ia direclty directly
 ia direcly directly
 ia directdly directly
@@ -2238,6 +2242,7 @@ ia Dcouments Documents
 ia Docuemnts Documents
 ia Doucments Documents
 ia docuemnts documents
+ia docuemtns documents
 ia doucments documents
 ia deso does
 ia DOg Dog
@@ -3242,6 +3247,7 @@ ia ufture future
 ia Garge Garage
 ia garaage garage
 ia GAs Gas
+ia gauage gauge
 ia GEnearl General
 ia GEneral General
 ia Genealr General
@@ -3378,6 +3384,7 @@ ia Gudielinte Guideline
 ia Guidleine Guideline
 ia Guidleing Guideline
 ia Guidleline Guideline
+ia Guidllien Guideline
 ia Gudilelines Guidelines
 ia Guidleines Guidelines
 ia gudielines guidelines
@@ -5548,6 +5555,7 @@ ia porbablyb probably
 ia proablyb probably
 ia probaby probably
 ia probalby probably
+ia probaly probably
 ia probbayl probably
 ia propably probably
 ia PRoblem Problem
@@ -5691,6 +5699,7 @@ ia protocll protocol
 ia protocls protocols
 ia protocosl protocols
 ia rpove prove
+ia prvoide provide
 ia proveded provided
 ia proviced provided
 ia PRovider Provider
@@ -6445,6 +6454,7 @@ ia Secondayr Secondary
 ia Seconddadry Secondary
 ia secondayr secondary
 ia seconeary secondary
+ia Seciotn Section
 ia Sectdion Section
 ia secdtion section
 ia seciotn section
@@ -7129,6 +7139,7 @@ ia sysytem system
 ia sytem system
 ia sytesm system
 ia syustem system
+ia SYstems Systems
 ia Ssytems Systems
 ia Systesm Systems
 ia Systesms Systems
@@ -7323,6 +7334,7 @@ ia tempatles templates
 ia templasets templates
 ia tempslates templates
 ia tmeplates templates
+ia tmpelates templates
 ia Temporray Temporary
 ia temperator temporary
 ia Tennant Tenant
