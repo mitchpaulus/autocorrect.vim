@@ -1904,6 +1904,7 @@ ia denomiator denominator
 ia dnesity density
 ia deorderant deodorant
 ia Deparment Department
+ia deparatemetn department
 ia deparatemtn department
 ia departmetn department
 ia depdnd depend
@@ -2815,6 +2816,7 @@ ia Explictly Explicitly
 ia Explitly Explicitly
 ia explicity explicitly
 ia explicly explicitly
+ia explictily explicitly
 ia expliticly explicitly
 ia exporartion exploration
 ia Exploerer Explorer
@@ -6211,6 +6213,7 @@ ia respecdt respect
 ia respirarotyr respiratory
 ia Repsond Respond
 ia REpsonding Responding
+ia reponse response
 ia repsone response
 ia repsonse response
 ia resposne response
