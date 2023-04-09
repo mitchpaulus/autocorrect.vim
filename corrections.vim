@@ -328,6 +328,7 @@ ia nadn and
 ia nand and
 ia tand and
 ia Andoever Andover
+ia anemomenter anemometer
 ia Angleles Angeles
 ia anlge Angle
 ia anniiversary anniversary
@@ -357,6 +358,7 @@ ia Anytihng Anything
 ia anythign anything
 ia anytihng anything
 ia anywereh anywhere
+ia apaprt apart
 ia apartr apart
 ia appartent apparent
 ia apparantly apparently
@@ -579,6 +581,7 @@ ia avialble available
 ia avialible available
 ia aviallaibe available
 ia anveage average
+ia averaguing averaging
 ia aweare aware
 ia awaremenss awareness
 ia aawk awk
@@ -602,6 +605,8 @@ ia bading badging
 ia balanace balance
 ia balancde balance
 ia balnace balance
+ia balnance balance
+ia blanace balance
 ia balnaces balances
 ia balancign balancing
 ia balll ball
@@ -2096,6 +2101,7 @@ ia Dingin Dining
 ia dingin dining
 ia dinign dining
 ia dinsoaur dinosaur
+ia direciton direction
 ia dirctions directions
 ia directins directions
 ia drictions directions
@@ -2743,6 +2749,7 @@ ia execuaable executable
 ia execuable executable
 ia execuatble executable
 ia execuatlab executable
+ia executasble executable
 ia exeucutalble executable
 ia exectue execute
 ia execture execute
@@ -3031,6 +3038,7 @@ ia finxing fixing
 ia fixutre fixture
 ia fixutres fixtures
 ia falgs flags
+ia flexibillity flexibility
 ia flexlible flexible
 ia flippped flipped
 ia floatign floating
@@ -3424,6 +3432,7 @@ ia Harrsion Harrison
 ia ahas has
 ia ahs has
 ia ahve have
+ia ahvew have
 ia havee have
 ia havew have
 ia hvae have
@@ -3473,6 +3482,7 @@ ia dhigher higher
 ia hgiher higher
 ia highert higher
 ia hihger higher
+ia higheset highest
 ia hightest highest
 ia highlihgt highlight
 ia Highlighitng Highlighting
@@ -3482,6 +3492,7 @@ ia hgihlighting highlighting
 ia hgihlihgitng highlighting
 ia highlighing highlighting
 ia highlighitng highlighting
+ia highlihging highlighting
 ia highlihgitng highlighting
 ia highlihgthing highlighting
 ia highlihgting highlighting
@@ -4227,6 +4238,7 @@ ia lttile little
 ia Lyold Lloyd
 ia Laod Load
 ia laod load
+ia loda load
 ia loaqded loaded
 ia lodaed loaded
 ia laoding loading
@@ -4387,6 +4399,7 @@ ia manuasl manuals
 ia manulas manuals
 ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
+ia manufactureer manufacturer
 ia manufaucturer manufacturer
 ia manufuacture manufacturer
 ia manufactureres manufacturers
@@ -4861,6 +4874,7 @@ ia occupnacy occupancy
 ia occupancts occupants
 ia Ocucpied Occupied
 ia Ocupied Occupied
+ia ocucur occur
 ia occured occurred
 ia Occurance Occurrence
 ia occuarance occurrence
@@ -4886,6 +4900,7 @@ ia Oftne Often
 ia fotne often
 ia ofthen often
 ia oftne often
+ia oftenteimes oftentimes
 ia oftentiems oftentimes
 ia odl old
 ia odler older
@@ -5179,6 +5194,7 @@ ia Pernsions Pensions
 ia Pnethouse Penthouse
 ia Peiople People
 ia peiople people
+ia peopel people
 ia peorple people
 ia pepople people
 ia pieople people
@@ -5470,6 +5486,7 @@ ia Prerequities Prerequisites
 ia prerequisties prerequisites
 ia Prescence Presence
 ia prescene presence
+ia prescense presence
 ia presecne presence
 ia presetn present
 ia presnet present
@@ -6001,6 +6018,7 @@ ia remainign remaining
 ia remiaing remaining
 ia remianing remaining
 ia reamins remains
+ia Remmber Remember
 ia Remmeber Remember
 ia Rmeind Remind
 ia remienders reminders
@@ -6641,6 +6659,7 @@ ia shfits shifts
 ia shiping shipping
 ia Shrit Shirt
 ia shrit shirt
+ia shrits shirts
 ia shootouyt shootout
 ia Shrot Short
 ia shrot short
@@ -7278,6 +7297,7 @@ ia tempoerature temperature
 ia tempraatue temperature
 ia temprature temperature
 ia temprautrre temperature
+ia tempreatrure temperature
 ia tempreature temperature
 ia tempreautre temperature
 ia tepmeartere temperature
@@ -7312,6 +7332,7 @@ ia temperaturres temperatures
 ia temperatutres temperatures
 ia temperautres temperatures
 ia temperautrtes temperatures
+ia tempmeratures temperatures
 ia temprautes temperatures
 ia tempreatures temperatures
 ia temrpatrures temperatures
@@ -7409,6 +7430,7 @@ ia terminatedf terminated
 ia temrniator terminator
 ia terminatior terminator
 ia termingology terminology
+ia terrian terrain
 ia Tets Test
 ia Tesingt Testing
 ia testgin testing
@@ -7431,6 +7453,7 @@ ia taht that
 ia tath that
 ia thatt that
 ia thta that
+ia tyht that
 ia THe The
 ia Teh The
 ia Tthe The
@@ -7451,6 +7474,7 @@ ia tthe the
 ia tye the
 ia tyhe the
 ia hteir their
+ia tehir their
 ia thier their
 ia htem them
 ia htme them
@@ -7483,6 +7507,7 @@ ia Threrfore Therefore
 ia therfore therefore
 ia THermal Thermal
 ia Thermla Thermal
+ia tehemral thermal
 ia themal thermal
 ia themral thermal
 ia themrla thermal
@@ -7523,6 +7548,7 @@ ia THrid Third
 ia Thrid Third
 ia thrid third
 ia THis This
+ia THisi This
 ia Thjis This
 ia Thsi This
 ia htis this
@@ -7721,6 +7747,7 @@ ia troubleshootting troubleshooting
 ia troubleshotoign troubleshooting
 ia truuck truck
 ia ture true
+ia Tyr Try
 ia tyr try
 ia tryign trying
 ia tyring trying
@@ -7737,6 +7764,7 @@ ia Tuyesdayf Tuesday
 ia TUiition Tuition
 ia tunign tuning
 ia trubines turbines
+ia turblent turbulent
 ia Turhn Turn
 ia trunaround turnaround
 ia turing turning
@@ -7769,7 +7797,9 @@ ia TYpiucally Typically
 ia Typcially Typically
 ia Typciually Typically
 ia Typicaly Typically
+ia teypicaly typically
 ia typcially typically
+ia typcilaly typically
 ia typeiclaly typically
 ia typicallly typically
 ia typicaly typically
@@ -7866,6 +7896,7 @@ ia unoccuipied unoccupied
 ia unoccuipieed unoccupied
 ia unoccupierd unoccupied
 ia unoccupiied unoccupied
+ia unpredicbale unpredictable
 ia unreadalbe unreadable
 ia unsinged unsigned
 ia ubstable unstable
@@ -7922,6 +7953,7 @@ ia useufl useful
 ia usfeul useful
 ia usefullness usefulness
 ia suer user
+ia userse users
 ia usse uses
 ia Usuing Using
 ia us9ing using
@@ -8220,6 +8252,8 @@ ia wikipedia wikipedia
 ia WIll Will
 ia wil will
 ia Willaiams Williams
+ia iwnd wind
+ia windc wind
 ia iwndow window
 ia widnow window
 ia windwow window
