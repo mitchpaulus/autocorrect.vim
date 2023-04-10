@@ -867,6 +867,7 @@ ia caclulations calculations
 ia calcualtions calculations
 ia calcuations calculations
 ia caluclations calculations
+ia ccalculatiosn calculations
 ia claculatations calculations
 ia claculations calculations
 ia Calcuoator Calculator
@@ -1398,6 +1399,7 @@ ia conlcusions conclusions
 ia ocnclusions conclusions
 ia ocncourse concourse
 ia concreate concrete
+ia Condensor Condenser
 ia Condensser Condenser
 ia Condsenser Condenser
 ia codnenser condenser
@@ -1807,6 +1809,7 @@ ia databasew database
 ia databse database
 ia datbase database
 ia dtaabase database
+ia DAtatype Datatype
 ia DAte Date
 ia ddate date
 ia Daughther Daughter
@@ -2700,6 +2703,7 @@ ia everytone everyone
 ia Everthing Everything
 ia Evertyhgin Everything
 ia Evertying Everything
+ia Everythgin Everything
 ia Everythign Everything
 ia Everyting Everything
 ia evertyhgin everything
@@ -7373,6 +7377,7 @@ ia Temrialn Terminal
 ia Temrianil Terminal
 ia Temrianl Terminal
 ia Temrinal Terminal
+ia Termailn Terminal
 ia Termain Terminal
 ia Termainl Terminal
 ia Termialn Terminal
