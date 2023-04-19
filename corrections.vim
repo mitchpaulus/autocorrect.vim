@@ -928,6 +928,7 @@ ia Capaciyt Capacity
 ia Capaicyt Capacity
 ia Cpacity Capacity
 ia capacitity capacity
+ia capacitiy capacity
 ia capaciyt capacity
 ia capaicty capacity
 ia capcaity capacity
@@ -1829,6 +1830,7 @@ ia deailng dealing
 ia debuging debugging
 ia deceleartion deceleration
 ia Decmember December
+ia Decentrailzied Decentralized
 ia decidied decided
 ia dediced decided
 ia decidsion decision
@@ -3896,6 +3898,7 @@ ia Instrucitnos Instructions
 ia Insturcitons Instructions
 ia INsulation Insulation
 ia Insluaiton Insulation
+ia insluation insulation
 ia inslulation insulation
 ia insureance insurance
 ia intanible intangible
@@ -6248,6 +6251,7 @@ ia repsonsible responsible
 ia resonsbible responsible
 ia resonsbile responsible
 ia responsbile responsible
+ia responsilbe responsible
 ia Restartign Restarting
 ia restartign restarting
 ia restaturant restaurant
