@@ -1112,6 +1112,7 @@ ia clikc click
 ia clcked clicked
 ia clickign clicking
 ia lickcing clicking
+ia clinet client
 ia lcinet client
 ia clint Clint
 ia clipboaard clipboard
@@ -1787,6 +1788,7 @@ ia Dalls Dallas
 ia Dallsa Dallas
 ia Dalmation Dalmatian
 ia dalmation dalmatian
+ia damagae damage
 ia damanaged damaged
 ia DAmper Damper
 ia damnper damper
@@ -2362,6 +2364,7 @@ ia effectes effects
 ia efficienceis efficiencies
 ia efficiencies efficiencies
 ia efficieneis efficiencies
+ia efficincies efficiencies
 ia eficiceies efficiencies
 ia Efficiewncy Efficiency
 ia efficicency efficiency
@@ -2369,6 +2372,7 @@ ia efficiencty efficiency
 ia efficiencye efficiency
 ia efficienty efficiency
 ia efficincy efficiency
+ia efficinecy efficiency
 ia effoft effort
 ia effortr effort
 ia effotr effort
@@ -3072,6 +3076,7 @@ ia fodls folds
 ia Folow Follow
 ia floow follow
 ia folloow follow
+ia follw follow
 ia follolwed followed
 ia floowing following
 ia folllowing following
@@ -3527,6 +3532,7 @@ ia Holdity Holiday
 ia holdiay holiday
 ia HOliddays Holidays
 ia hoem home
+ia Honeesty Honesty
 ia Horizontla Horizontal
 ia Horiztonal Horizontal
 ia horizonatal horizontal
@@ -4938,6 +4944,7 @@ ia operatre operate
 ia operaties operates
 ia operaitgn operating
 ia operatieng operating
+ia operationg operating
 ia Operat56i5on Operation
 ia oepration operation
 ia operaiotn operation
@@ -5129,6 +5136,7 @@ ia apramater parameter
 ia aprameter parameter
 ia paraameter parameter
 ia paramter parameter
+ia parmaeter parameter
 ia pparameter parameter
 ia aparmaterize parameterize
 ia Parmaetesr Parameters
@@ -5555,6 +5563,7 @@ ia previosuly previously
 ia previousy previously
 ia previoysl previously
 ia previulsy previously
+ia parice price
 ia priece price
 ia PRicing Pricing
 ia pirmary primary
@@ -5774,6 +5783,7 @@ ia pyhton python
 ia pythno python
 ia pythnon python
 ia quadartic quadratic
+ia Qualififications Qualifications
 ia qauilfies qualifies
 ia Qaulitative Qualitative
 ia Qaulity Quality
@@ -6390,6 +6400,7 @@ ia asy say
 ia sya say
 ia syaing saying
 ia syas says
+ia Scenairo Scenario
 ia scenarious scenarios
 ia scence scene
 ia scences scenes
@@ -7002,6 +7013,7 @@ ia stroed stored
 ia sotres stores
 ia storeis stories
 ia storign storing
+ia sotrm storm
 ia straighforward straightforward
 ia straightowrad straightforward
 ia striaghtforward straightforward
