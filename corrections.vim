@@ -2442,6 +2442,7 @@ ia eamils emails
 ia emaisl emails
 ia evmails emails
 ia meails emails
+ia Emeryecny Emergency
 ia emergynecy emergency
 ia emergingn emerging
 ia emplirclaly empirically
@@ -6054,6 +6055,8 @@ ia fremove remove
 ia mreove remove
 ia remvoe remove
 ia reomve remove
+ia REmoved Removed
+ia Reomved Removed
 ia removewd removed
 ia reomved removed
 ia rmeoved removed
@@ -6167,6 +6170,7 @@ ia REpublic Republic
 ia Requst Request
 ia erquest request
 ia requrest request
+ia reuqest request
 ia erquested requested
 ia requrested requested
 ia rquested requested
@@ -7377,6 +7381,7 @@ ia tempaltse templates
 ia tempatles templates
 ia templasets templates
 ia tempslates templates
+ia tmepaltes templates
 ia tmeplates templates
 ia tmpelates templates
 ia Temporray Temporary
@@ -7406,6 +7411,7 @@ ia Terminla Terminal
 ia Termninail Terminal
 ia etrmianl terminal
 ia teminal terminal
+ia temrailn terminal
 ia temrainil terminal
 ia temrainl terminal
 ia temreinal terminal
