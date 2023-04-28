@@ -165,6 +165,7 @@ ia asthetically aesthetically
 ia Asthetics Aesthetics
 ia aestheics aesthetics
 ia asthetics aesthetics
+ia Affaris Affairs
 ia affectign affecting
 ia afftecting affecting
 ia Affliation Affiliation
@@ -404,6 +405,7 @@ ia approahc approach
 ia pappraoch approach
 ia paproach approach
 ia appropirate appropriate
+ia appropraite appropriate
 ia approriate appropriate
 ia paproval approval
 ia approivved approved
@@ -610,6 +612,7 @@ ia blanace balance
 ia balnaces balances
 ia balancign balancing
 ia balll ball
+ia Baltimroe Baltimore
 ia Badn Band
 ia bnak bank
 ia bvanquet banquet
@@ -853,6 +856,7 @@ ia clacualte calculate
 ia claculate calculate
 ia Caluclated Calculated
 ia calcualted calculated
+ia calcuated calculated
 ia caluclated calculated
 ia claculated calculated
 ia Calculationg Calculating
@@ -862,6 +866,7 @@ ia caclulation calculation
 ia caluclation calculation
 ia claculation calculation
 ia dalculation calculation
+ia CAlcualtions Calculations
 ia Calcuaitons Calculations
 ia caclulations calculations
 ia calcualtions calculations
@@ -1010,6 +1015,7 @@ ia hcanges changes
 ia chagning changing
 ia changeing changing
 ia Channelling Channeling
+ia CHpater Chapter
 ia Chatper Chapter
 ia cahpter chapter
 ia chaper chapter
@@ -1410,6 +1416,7 @@ ia ocndenser condenser
 ia COndition Condition
 ia conditoin condition
 ia condtion condition
+ia Conditionign Conditioning
 ia conditiojing conditioning
 ia conditinos conditions
 ia conditionns conditions
@@ -2009,8 +2016,11 @@ ia deterimne determine
 ia determein determine
 ia determien determine
 ia dewtermine determine
+ia dtermine determine
 ia Deterimiend Determined
+ia determed determined
 ia determeined determined
+ia determiend determined
 ia detemrines determines
 ia detemrineg determining
 ia deteriming determining
@@ -2154,6 +2164,8 @@ ia descrepancies discrepancies
 ia discrepencies discrepancies
 ia descrepency discrepancy
 ia discrepency discrepancy
+ia Discusss Discuss
+ia ddiscuss discuss
 ia discuesed discussed
 ia discussiung discussing
 ia DIscussion Discussion
@@ -3467,6 +3479,7 @@ ia Heatlh Health
 ia heatlh health
 ia HEat Heat
 ia ehat heat
+ia heta heat
 ia HEating Heating
 ia ehating heating
 ia heagin heating
@@ -4064,6 +4077,7 @@ ia json JSON
 ia judgement judgment
 ia Juilian Julian
 ia Julain Julian
+ia Jyly July
 ia Juen June
 ia jsut just
 ia ujst just
@@ -5209,10 +5223,12 @@ ia pentalby penalty
 ia Pernsions Pensions
 ia Pnethouse Penthouse
 ia Peiople People
+ia Peopel People
 ia peiople people
 ia peopel people
 ia peorple people
 ia pepople people
+ia periople people
 ia pieople people
 ia pioeple people
 ia poeple people
@@ -5624,6 +5640,7 @@ ia PRoduction Production
 ia Produciton Production
 ia produciton production
 ia prodcuciotns productions
+ia procucts products
 ia prodcuts products
 ia Profesional Professional
 ia profesianl professional
@@ -6286,6 +6303,7 @@ ia reulsts results
 ia reuslts results
 ia reustls results
 ia rseutls results
+ia rsutls results
 ia Reatil Retail
 ia REtaliation Retaliation
 ia retryed retried
