@@ -30,6 +30,7 @@ ia absopriotn absorption
 ia absortption absorption
 ia abstarct abstract
 ia abstarctions abstractions
+ia abstracdtions abstractions
 ia Acadmey Academy
 ia accelearted accelerated
 ia accewptable acceptable
@@ -311,6 +312,7 @@ ia anlaytics analytics
 ia Analzzye Analyze
 ia alnaalyze analyze
 ia analzye analyze
+ia anaylze analyze
 ia Analysed Analyzed
 ia anlayzxed analyzed
 ia analzer analyzer
@@ -429,6 +431,7 @@ ia arbirtray arbitrary
 ia arbitary arbitrary
 ia ARch Arch
 ia ARchitects Architects
+ia Architechural Architectural
 ia Architecturla Architectural
 ia archetictural architectural
 ia architectdure architecture
@@ -680,6 +683,7 @@ ia beteween between
 ia betwen between
 ia betwene between
 ia betwewen between
+ia bibliograhy bibliography
 ia billtion billion
 ia bils bills
 ia bindgin binding
@@ -804,12 +808,14 @@ ia Buildgins Buildings
 ia Buildigns Buildings
 ia Buyidligns Buildings
 ia Buyildings Buildings
+ia buidings buildings
 ia buidligns buildings
 ia buidlings buildings
 ia buidlligns buildings
 ia buidlngs buildings
 ia buildgins buildings
 ia buildigns buildings
+ia buildigs buildings
 ia builgins buildings
 ia builtinds buildings
 ia buioldings buildings
@@ -1087,6 +1093,7 @@ ia Chrismtas Christmas
 ia Christams Christmas
 ia chonrinc chronic
 ia Chuch Church
+ia churjning churning
 ia Cincinatti Cincinnati
 ia Circuti Circuit
 ia circuti circuit
@@ -1162,6 +1169,7 @@ ia cils coils
 ia Collaboraiton Collaboration
 ia collabloariton collaboration
 ia collaboartion collaboration
+ia collaboraiton collaboration
 ia collegaue colleague
 ia coollected collected
 ia colleciotns collection
@@ -1562,6 +1570,7 @@ ia Contriubtued Contributed
 ia contirubted contributed
 ia contriubuting contributing
 ia contributrion contribution
+ia contributer contributor
 ia contirbutors contributors
 ia COntrol Control
 ia Cointrol Control
@@ -1574,6 +1583,7 @@ ia contol control
 ia contorl control
 ia contrl control
 ia controol control
+ia contrrol control
 ia contyrol control
 ia cotnrol control
 ia ctonrol control
@@ -1665,6 +1675,7 @@ ia copyting copying
 ia COre Core
 ia correcdt correct
 ia correctd correct
+ia correciton correction
 ia correcdtly correctly
 ia correclty correctly
 ia ocrrectly correctly
@@ -1979,6 +1990,7 @@ ia Dessign Design
 ia desgin design
 ia desigh design
 ia desing design
+ia dfesign design
 ia Desiginated Designated
 ia disgnation designation
 ia edesignation designation
@@ -2106,6 +2118,7 @@ ia differentitate differentiate
 ia differtly differently
 ia Difficutl Difficult
 ia difficutl difficult
+ia diffucilt difficult
 ia diffulct difficult
 ia difficulity difficulty
 ia Diffuer Diffuser
@@ -2711,6 +2724,7 @@ ia evaluatoin evaluation
 ia evalueaiton evaluation
 ia evaluuation evaluation
 ia evaulation evaluation
+ia evoluation evaluation
 ia Evaportative Evaporative
 ia ewven even
 ia eventaul eventual
@@ -2956,6 +2970,7 @@ ia Februray February
 ia Federnal Federal
 ia Feedbakc Feedback
 ia feeback feedback
+ia feedbakc feedback
 ia feedres feeders
 ia FIdelity Fidelity
 ia FIdielity Fidelity
@@ -3043,6 +3058,7 @@ ia finsihing finishing
 ia FIrefox Firefox
 ia Firmna Firman
 ia Friman Firman
+ia firsm firms
 ia FIrst First
 ia Frist First
 ia firstr first
@@ -3115,6 +3131,7 @@ ia fof for
 ia forf for
 ia fro for
 ia ofr for
+ia forcew force
 ia foriegn foreign
 ia forsee foresee
 ia Froest Forest
@@ -3605,6 +3622,7 @@ ia identifieres identifiers
 ia identiifers identifiers
 ia indentifiers identifiers
 ia identiifes identifies
+ia Idenfity Identify
 ia idel idle
 ia Ingore Ignore
 ia ingore ignore
@@ -3965,6 +3983,7 @@ ia interla internal
 ia internla internal
 ia itnerla internal
 ia itnernal internal
+ia interalize internalize
 ia interanlly internally
 ia Internaitional International
 ia Internaitonal International
@@ -4166,6 +4185,7 @@ ia leanr learn
 ia leanred learned
 ia Leanring Learning
 ia leanring learning
+ia learing learning
 ia elast least
 ia leaset least
 ia leats least
@@ -4173,6 +4193,7 @@ ia LEft Left
 ia LEgacy Legacy
 ia legla legal
 ia Lengend Legend
+ia lengght length
 ia lenght length
 ia lneght length
 ia lenghts lengths
@@ -4201,6 +4222,7 @@ ia libary library
 ia librayr library
 ia Licesnse License
 ia licorise licorice
+ia lienant lienant
 ia Lfie Life
 ia lifes lifes
 ia lfietime lifetime
@@ -5453,6 +5475,7 @@ ia potentila potential
 ia potentla potential
 ia potnetail potential
 ia potnetial potential
+ia potnetinal potential
 ia ptoentail potential
 ia ptoential potential
 ia ptoetnal potential
@@ -5667,6 +5690,7 @@ ia programmaticaly programmatically
 ia progrmamed programmed
 ia prommed programmed
 ia pgraomming programming
+ia pgrogrmaming programming
 ia pgromammign programming
 ia porgarmming programming
 ia prgoramming programming
@@ -5871,6 +5895,7 @@ ia rasing raising
 ia ranodm random
 ia RandY Randy
 ia reange range
+ia rnage range
 ia rearely rarely
 ia RAte Rate
 ia arte rate
@@ -6263,6 +6288,7 @@ ia Resoucres Resources
 ia Resourees Resources
 ia resouces resources
 ia resourcers resources
+ia resoureces resources
 ia erspect respect
 ia respcet respect
 ia respecdt respect
@@ -6765,6 +6791,7 @@ ia similarily similarly
 ia sijmple simple
 ia simle simple
 ia simpel simple
+ia simpmle simple
 ia sipmle simple
 ia smpile simple
 ia simplificity simplicity
@@ -6978,6 +7005,7 @@ ia stahs stash
 ia Statemnet Statement
 ia Statemtn Statement
 ia Statment Statement
+ia Statmetn Statement
 ia astatemtn statement
 ia staatement statement
 ia statemet statement
@@ -7003,6 +7031,7 @@ ia sattic static
 ia staic static
 ia staitc static
 ia stitic static
+ia staticaly statically
 ia Staiton Station
 ia statistications statistications
 ia statsistics statistics
@@ -7563,6 +7592,7 @@ ia tehrmodynamic thermodynamic
 ia thermodynamci thermodynamic
 ia thermodynamcic thermodynamic
 ia Thermodynamcis Thermodynamics
+ia Thermodynamnics Thermodynamics
 ia thermodynaimics thermodynamics
 ia thermodynamcis thermodynamics
 ia thermostst thermostat
@@ -7693,6 +7723,7 @@ ia otol tool
 ia Toolabr Toolbar
 ia toolign tooling
 ia toolos tools
+ia toosl tools
 ia topci topic
 ia topcis topics
 ia toppics topics
@@ -7713,6 +7744,7 @@ ia toweres towers
 ia Toixc Toxic
 ia Toytoa Toyota
 ia Tyotoa Toyota
+ia trakc track
 ia Trackign Tracking
 ia Trakcing Tracking
 ia tarckign tracking
@@ -7722,6 +7754,7 @@ ia trcking tracking
 ia tarddemarking trademarking
 ia tradiation tradition
 ia traditinal traditional
+ia traditinoal traditional
 ia traditioanl traditional
 ia Traffice Traffic
 ia trialing trailing
@@ -8096,6 +8129,7 @@ ia vehivcle vehicle
 ia velcotiy velocity
 ia vleocity velocity
 ia vendros vendors
+ia vnedors vendors
 ia Ventilatin Ventilation
 ia ventialation ventilation
 ia ventialtiaon ventilation
