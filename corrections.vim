@@ -1114,6 +1114,7 @@ ia Clardige Claridge
 ia clairifactxion clarification
 ia calss class
 ia lcass class
+ia calssification classification
 ia claissication classification
 ia calne clean
 ia cleanign cleaning
@@ -1971,6 +1972,7 @@ ia decribing describing
 ia Descriptoin Description
 ia Descripton Description
 ia Descritpion Description
+ia deescriptio description
 ia describtion description
 ia descripti description
 ia descriptio description
@@ -2364,6 +2366,7 @@ ia Ecnomizer Economizer
 ia Econmoizer Economizer
 ia Economzier Economizer
 ia Enonomzier Economizer
+ia ecnomzier economizer
 ia econcomier economizer
 ia econimzier economizer
 ia econmizer economizer
@@ -3308,6 +3311,7 @@ ia Genral General
 ia Gneeral General
 ia generla general
 ia genral general
+ia genreal general
 ia gernal general
 ia gneeral general
 ia gneral general
@@ -6252,6 +6256,7 @@ ia requiremnts requirements
 ia requirmentrs requirements
 ia requirments requirements
 ia requriemdents requirements
+ia requriementes requirements
 ia requriements requirements
 ia requriemestn requirements
 ia requrienments requirements
@@ -6272,6 +6277,7 @@ ia reest reset
 ia resest reset
 ia resset reset
 ia reste reset
+ia Residentail Residential
 ia residentiali residential
 ia residitnetal residential
 ia relisiancy resiliency
@@ -6441,6 +6447,7 @@ ia staturated saturated
 ia staturation saturation
 ia Saturadya Saturday
 ia svae save
+ia Saivngs Savings
 ia saivngs savings
 ia savigns savings
 ia savinsg savings
@@ -6925,6 +6932,7 @@ ia specificaiotns specifications
 ia specificaitons specifications
 ia specificantions specifications
 ia speficics specifics
+ia nspecified specified
 ia psecified specified
 ia sepcified specified
 ia sepecified specified
