@@ -3269,6 +3269,7 @@ ia functioanliyt functionality
 ia functionaliity functionality
 ia functionaliyt functionality
 ia ufnctionality functionality
+ia funcitonaliy functionally
 ia funcitoning functioning
 ia Fucnttions Functions
 ia fucntions functions
@@ -7075,6 +7076,7 @@ ia sotres stores
 ia storeis stories
 ia storign storing
 ia sotrm storm
+ia straighht straight
 ia straighforward straightforward
 ia straightowrad straightforward
 ia striaghtforward straightforward
@@ -8064,6 +8066,7 @@ ia Utiltiy Utility
 ia uitlilty utility
 ia uitlity utility
 ia utillity utility
+ia utiltity utility
 ia utiltiy utility
 ia utiltiyt utility
 ia utiltliy utility
