@@ -834,6 +834,7 @@ ia bulit built
 ia bubl bulb
 ia builb bulb
 ia bulib bulb
+ia bubls bulbs
 ia bulet bullet
 ia BUmp Bump
 ia budnled bundled
@@ -2516,6 +2517,7 @@ ia EnergyPuls EnergyPlus
 ia EnerygPlus EnergyPlus
 ia energypuls EnergyPlus
 ia EnergtyStar EnergyStar
+ia Eninge Engine
 ia Enginere Engineer
 ia enigneer engineer
 ia Egineered Engineered
@@ -3573,6 +3575,7 @@ ia Horizontla Horizontal
 ia Horiztonal Horizontal
 ia horizonatal horizontal
 ia horizontoal horizontal
+ia horiztonal horizontal
 ia Hoorry Horry
 ia horespower horsepower
 ia Hosptial Hospital
@@ -3980,6 +3983,7 @@ ia iterface interface
 ia tnerface interface
 ia iterferes interferes
 ia interioro interior
+ia iterior interior
 ia intermeidate intermediate
 ia intenral internal
 ia interanl internal
@@ -4241,6 +4245,7 @@ ia Lighing Lighting
 ia lghting lighting
 ia lgighting lighting
 ia lgihging lighting
+ia lgihting lighting
 ia lighing lighting
 ia lighitng lighting
 ia lightign lighting
@@ -4729,6 +4734,7 @@ ia mroe more
 ia Mornigin Morning
 ia Mroning Morning
 ia moring morning
+ia moringin morning
 ia morining morning
 ia morngin morning
 ia mornging morning
@@ -5050,6 +5056,7 @@ ia optoin option
 ia Opitons Options
 ia opitions options
 ia opitons options
+ia optinos options
 ia optiosn options
 ia optoins options
 ia otpions options
@@ -5233,6 +5240,7 @@ ia partitiaotn partition
 ia partyy party
 ia apssed passed
 ia passwrod password
+ia apst past
 ia pasate paste
 ia passted pasted
 ia Paht Path
@@ -5252,6 +5260,7 @@ ia Pernsions Pensions
 ia Pnethouse Penthouse
 ia Peiople People
 ia Peopel People
+ia Poeople People
 ia peiople people
 ia peopel people
 ia peorple people
@@ -6564,6 +6573,7 @@ ia secxtion section
 ia sectyor sector
 ia securtiy security
 ia secutiry security
+ia ssecurity security
 ia seee see
 ia Seeign Seeing
 ia segmenetation segmentation
@@ -6654,6 +6664,7 @@ ia sreved served
 ia Servie Service
 ia Sevice Service
 ia servcie service
+ia srevice service
 ia Serviecs Services
 ia Seriving Serving
 ia sessiuon session
@@ -7813,6 +7824,7 @@ ia tredad tread
 ia traeated treated
 ia Treehosue Treehouse
 ia rtrend trend
+ia ternd trend
 ia tnred trend
 ia trand trend
 ia trned trend
@@ -8205,6 +8217,7 @@ ia Vistied Visited
 ia ivists visits
 ia viesits visits
 ia Viusal Visual
+ia visiual visual
 ia VIsualization Visualization
 ia visualation visualization
 ia Visualziations Visualizations
