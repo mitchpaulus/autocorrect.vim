@@ -3168,6 +3168,7 @@ ia Fortunaley Fortunately
 ia Fortunatley Fortunately
 ia Fortunatlye Fortunately
 ia Fourm Forum
+ia forawrd forward
 ia foward forward
 ia forwareded forwarded
 ia FOund Found
@@ -5244,6 +5245,7 @@ ia apst past
 ia pasate paste
 ia passted pasted
 ia Paht Path
+ia pahts paths
 ia patritoic patriotic
 ia patten pattern
 ia appterns patterns
