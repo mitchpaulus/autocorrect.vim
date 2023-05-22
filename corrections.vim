@@ -638,6 +638,7 @@ ia bvaseline baseline
 ia basleines baselines
 ia Bascially Basically
 ia bascially basically
+ia bascialyl basically
 ia basiclaly basically
 ia bassins basins
 ia bassi basis
@@ -1180,6 +1181,7 @@ ia Coletor Collector
 ia Colege College
 ia Coollege College
 ia Collsion Collision
+ia coor color
 ia oclor color
 ia COlorado Colorado
 ia Colros Colors
@@ -1881,6 +1883,7 @@ ia defautl default
 ia defauylt default
 ia defualt default
 ia dfeault default
+ia dfeualt default
 ia efault default
 ia deauflts defaults
 ia defatuls defaults
