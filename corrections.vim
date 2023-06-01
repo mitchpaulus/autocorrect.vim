@@ -252,6 +252,7 @@ ia Alos Also
 ia alos also
 ia alsso also
 ia aslo also
+ia aslos also
 ia altnerate alternate
 ia altenrates alternates
 ia altenrative alternative
@@ -288,6 +289,7 @@ ia Analyusis Analysis
 ia analsyis analysis
 ia analsysi analysis
 ia analyfsis analysis
+ia analyhsi analysis
 ia analyis analysis
 ia analyiss analysis
 ia analyliss analysis
@@ -948,6 +950,7 @@ ia capcaity capacity
 ia capicaity capacity
 ia capicity capacity
 ia cappactiy capacity
+ia cpaacity capacity
 ia cpacaity capacity
 ia cpacity capacity
 ia Captial Capital
@@ -1931,6 +1934,7 @@ ia dleta delta
 ia Deltke Deltek
 ia Deamdn Demand
 ia Deamnd Demand
+ia deamnd demand
 ia dmeand demand
 ia dseamdn demand
 ia emdand demand
@@ -2415,6 +2419,7 @@ ia Etiher Either
 ia weitther either
 ia Eelctric Electric
 ia Eelectric Electric
+ia electic electric
 ia electirc electric
 ia electrici electric
 ia Eelctrical Electrical
@@ -2428,6 +2433,7 @@ ia Electraicl Electrical
 ia Electricial Electrical
 ia Electricla Electrical
 ia eelectyrical electrical
+ia elecrcial electrical
 ia elecricial electrical
 ia electical electrical
 ia electircal electrical
@@ -2602,6 +2608,7 @@ ia evniroments environments
 ia Enviosn Envision
 ia Epidimeology Epidemiology
 ia Equla Equal
+ia eequal equal
 ia eqaul equal
 ia equail equal
 ia equla equal
@@ -3344,8 +3351,10 @@ ia genearitong generating
 ia genration generation
 ia genreation generation
 ia gneeration generation
+ia Geneator Generator
 ia Genenrator Generator
 ia geneartor generator
+ia geneator generator
 ia generagor generator
 ia gneerator generator
 ia gneraator generator
@@ -4726,6 +4735,7 @@ ia montiors monitors
 ia Montlhy Monthly
 ia monthylo monthly
 ia montlhly monthly
+ia montlhy monthly
 ia montly monthly
 ia montlyh monthly
 ia montyhly monthly
@@ -4824,6 +4834,7 @@ ia neagagive negative
 ia Neglible Negligible
 ia neegligible negligible
 ia neglible negligible
+ia Negogitae Negotiate
 ia negibor neighbor
 ia negithbor neighbor
 ia neighbort neighbor
@@ -5509,6 +5520,7 @@ ia Poweer Power
 ia pwoer power
 ia tpower power
 ia pwoered powered
+ia Powershell PowerShell
 ia powershell PowerShell
 ia PRactical Practical
 ia pracitcla practical
@@ -5943,6 +5955,7 @@ ia reanalyiss reanalysis
 ia reanalysiss reanalysis
 ia rearrage rearrange
 ia rearragned rearranged
+ia reorranged rearranged
 ia reasonalbe reasonable
 ia reasonbable reasonable
 ia reasonbalbe reasonable
@@ -7122,6 +7135,7 @@ ia sutdnet student
 ia STuido Studio
 ia Stuido Studio
 ia sutdy study
+ia Sytle Style
 ia stye style
 ia styel style
 ia sytle style
@@ -7224,6 +7238,7 @@ ia switchgaar switchgear
 ia switchgaer switchgear
 ia SWitching Switching
 ia symbolci symbolic
+ia symoblic symbolic
 ia SYmmetrical Symmetrical
 ia symptpms symptoms
 ia Sycn Sync
@@ -7679,6 +7694,7 @@ ia threshld threshold
 ia thresholld threshold
 ia trhrehosld threshold
 ia Trhehsolds Thresholds
+ia tehsholds thresholds
 ia thoroguh through
 ia thorugh through
 ia thoruhg through
@@ -7803,6 +7819,7 @@ ia Trnae Trane
 ia transcendal transcendental
 ia trnasducers transducers
 ia tansfer transfer
+ia tranfser transfer
 ia transefer transfer
 ia trnasfer transfer
 ia transferrable transferable
@@ -7842,6 +7859,7 @@ ia trenidng trending
 ia Trneds Trends
 ia rtends trends
 ia ternds trends
+ia tredns trends
 ia trneds trends
 ia trnes trends
 ia tyrends trends
