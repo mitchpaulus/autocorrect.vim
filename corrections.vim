@@ -4065,6 +4065,7 @@ ia inviation invitation
 ia invitue invite
 ia Inovices Invoices
 ia involed involved
+ia involied involved
 ia invovled involved
 ia inrrelevt irrelevant
 ia irreversilbe irreversible
@@ -5352,6 +5353,7 @@ ia phtoo photo
 ia Phtoos Photos
 ia phtoos photos
 ia PHyscial Physical
+ia Physcial Physical
 ia phycisal physical
 ia physcally physically
 ia pinao piano
@@ -6474,6 +6476,7 @@ ia satifies satisfies
 ia staturated saturated
 ia staturation saturation
 ia Saturadya Saturday
+ia Svae Save
 ia svae save
 ia Saivngs Savings
 ia saivngs savings
@@ -8203,6 +8206,7 @@ ia verifiy verify
 ia Veresion Version
 ia Verison Version
 ia Verseion Version
+ia vdrsion version
 ia veresion version
 ia verion version
 ia veriosn version
@@ -8368,6 +8372,7 @@ ia WHite White
 ia Whtie White
 ia hwite white
 ia whitesapce whitespace
+ia whtiespace whitespace
 ia Whiteny Whitney
 ia WHo Who
 ia Whiole Whole
