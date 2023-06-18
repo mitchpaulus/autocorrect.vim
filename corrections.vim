@@ -1395,6 +1395,7 @@ ia cmoptuer computer
 ia comptuer computer
 ia compupter computer
 ia comptuers computers
+ia commputing computing
 ia compmuting computing
 ia concatinating concatenating
 ia concelaing concealing
@@ -1723,6 +1724,8 @@ ia Coutn Count
 ia Coutner Counter
 ia coutner counter
 ia counterclockiwse counterclockwise
+ia counterlfow counterflow
+ia coutnerflow counterflow
 ia countreis countries
 ia coutnries countries
 ia coutries countries
@@ -2693,6 +2696,7 @@ ia especailly especially
 ia especaily especially
 ia especitaly especially
 ia espically especially
+ia essenence essence
 ia essense essence
 ia Eseentially Essentially
 ia essentialy essentially
@@ -4671,6 +4675,7 @@ ia MOdeling Modeling
 ia Modedling Modeling
 ia Modelign Modeling
 ia Modleing Modeling
+ia mdoelign modeling
 ia mdoeling modeling
 ia mdoleing modeling
 ia modelign modeling
@@ -5306,6 +5311,7 @@ ia perofrmance performance
 ia preformance performance
 ia performaning performing
 ia perofmraing performing
+ia prehaps perhaps
 ia periemater perimeter
 ia perimieter perimeter
 ia peirod period
@@ -5580,6 +5586,7 @@ ia presecne presence
 ia presetn present
 ia presnet present
 ia PResenation Presentation
+ia PResentaiton Presentation
 ia Presentatino Presentation
 ia Presentationg Presentation
 ia prensenation presentation
@@ -6297,6 +6304,7 @@ ia reuqires requires
 ia Rescheudled Rescheduled
 ia Researhc Research
 ia Reserach Research
+ia Rsearch Research
 ia reaseach research
 ia reasearch research
 ia resarech research
@@ -7822,6 +7830,7 @@ ia Trnae Trane
 ia transcendal transcendental
 ia trnasducers transducers
 ia tansfer transfer
+ia tranfer transfer
 ia tranfser transfer
 ia transefer transfer
 ia trnasfer transfer
@@ -8204,6 +8213,7 @@ ia vefriyf verify
 ia verfiy verify
 ia verifiy verify
 ia Veresion Version
+ia Veriseon Version
 ia Verison Version
 ia Verseion Version
 ia vdrsion version
