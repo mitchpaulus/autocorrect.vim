@@ -220,6 +220,7 @@ ia Albrquerque Albuquerque
 ia salchohols alcohols
 ia alegra algebra
 ia Algorihgm Algorithm
+ia Algorihtm Algorithm
 ia algorighm algorithm
 ia algorihgm algorithm
 ia algorihtm algorithm
@@ -548,6 +549,7 @@ ia Authorizastion Authorization
 ia auot auto
 ia auotmate automate
 ia atuomatd automated
+ia autiomated automated
 ia automaated automated
 ia automateds automated
 ia Autmoatic Automatic
@@ -3019,6 +3021,7 @@ ia FIgured Figured
 ia FIgures Figures
 ia Figrues Figures
 ia fgiures figures
+ia figuress figures
 ia fiel file
 ia figle file
 ia fille file
@@ -3423,6 +3426,7 @@ ia grpah graph
 ia Graphci Graphic
 ia grpahci graphic
 ia grpahic graphic
+ia Graphcial Graphical
 ia grpahicla graphical
 ia Grapahcis Graphics
 ia Graphcis Graphics
@@ -4187,6 +4191,7 @@ ia lanaguate language
 ia langague language
 ia langauage language
 ia langauge language
+ia languagge language
 ia languagte language
 ia languate language
 ia langugae language
@@ -5039,6 +5044,7 @@ ia operatiors operators
 ia Opinioned Opinionated
 ia opininos opinions
 ia Opportunites Opportunities
+ia Opportuntities Opportunities
 ia Opprotuniteis Opportunities
 ia opportunies opportunities
 ia opportuniteis opportunities
@@ -5650,6 +5656,7 @@ ia PRicing Pricing
 ia pirmary primary
 ia primeary primary
 ia princeple principle
+ia Principiles Principles
 ia PRint Print
 ia Pritn Print
 ia pirnt print
@@ -5692,6 +5699,8 @@ ia proces process
 ia proecess process
 ia proecss process
 ia PRocessing Processing
+ia Prcoessing Processing
+ia Procssing Processing
 ia processign processing
 ia proicessing processing
 ia Prodcue Produce
@@ -5962,6 +5971,7 @@ ia realy really
 ia relaly really
 ia reanalyiss reanalysis
 ia reanalysiss reanalysis
+ia Rearragne Rearrange
 ia rearrage rearrange
 ia rearragned rearranged
 ia reorranged rearranged
@@ -6067,6 +6077,7 @@ ia Regenearting Regenerating
 ia regernation regeneration
 ia regisetered registered
 ia REgression Regression
+ia regession regression
 ia regrssion regression
 ia REgular Regular
 ia regualr regular
@@ -7607,6 +7618,7 @@ ia thier their
 ia htem them
 ia htme them
 ia thme them
+ia tehems themes
 ia tehmselves themselves
 ia THen Then
 ia hten then
@@ -8054,6 +8066,7 @@ ia upodate update
 ia UPdated Updated
 ia updaetgd updated
 ia UPdates Updates
+ia Upates Updates
 ia Updatse Updates
 ia udpates updates
 ia UPdating Updating
