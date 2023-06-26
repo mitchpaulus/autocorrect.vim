@@ -883,6 +883,7 @@ ia Calcuaitons Calculations
 ia caclulations calculations
 ia calcualtions calculations
 ia calcuations calculations
+ia calculatinos calculations
 ia caluclations calculations
 ia ccalculatiosn calculations
 ia claculatations calculations
@@ -944,11 +945,13 @@ ia capcaities capacities
 ia Capaciyt Capacity
 ia Capaicyt Capacity
 ia Cpacity Capacity
+ia capacioty capacity
 ia capacitity capacity
 ia capacitiy capacity
 ia capaciyt capacity
 ia capaicty capacity
 ia capcaity capacity
+ia capcity capacity
 ia capicaity capacity
 ia capicity capacity
 ia cappactiy capacity
@@ -957,6 +960,7 @@ ia cpacaity capacity
 ia cpacity capacity
 ia Captial Capital
 ia capitla capital
+ia Capations Captions
 ia capations captions
 ia cpations captions
 ia caputre capture
@@ -1168,6 +1172,7 @@ ia coefiicent coefficient
 ia coffiicent coefficient
 ia coefficiencts coefficients
 ia coefficinets coefficients
+ia coefficnets coefficients
 ia coerfficiednts coefficients
 ia COil Coil
 ia ciol coil
@@ -1456,6 +1461,7 @@ ia condfidnet confident
 ia configt config
 ia ocnfig config
 ia Configuraiton Configuration
+ia Configuratoin Configuration
 ia coinfiguraiton configuration
 ia confgiruaiton configuration
 ia confifguraiton configuration
@@ -2129,6 +2135,7 @@ ia diffierent different
 ia diffrent different
 ia difrent different
 ia idfferent different
+ia Differentail Differential
 ia differentitate differentiate
 ia differtly differently
 ia Difficutl Difficult
@@ -2340,6 +2347,7 @@ ia direv drive
 ia dirve drive
 ia dreive drive
 ia drifen driven
+ia drivne driven
 ia drivesr drivers
 ia dorp drop
 ia dropwdown dropdown
@@ -2369,6 +2377,7 @@ ia dynamcilaly dynamically
 ia dynamicaly dynamically
 ia dynamcis dynamics
 ia aech each
+ia ech each
 ia easeir easier
 ia easilyi easily
 ia easliy easily
@@ -2443,10 +2452,12 @@ ia elecricial electrical
 ia electical electrical
 ia electircal electrical
 ia electircla electrical
+ia electirical electrical
 ia electrialc electrical
 ia electricial electrical
 ia electricla electrical
 ia electrital electrical
+ia electrrical electrical
 ia erlectrical electrical
 ia ewlectrical electrical
 ia Eelectricity Electricity
@@ -2747,6 +2758,7 @@ ia evaluuation evaluation
 ia evaulation evaluation
 ia evoluation evaluation
 ia Evaportative Evaporative
+ia evaoporater evaporator
 ia ewven even
 ia eventaul eventual
 ia eveyr every
@@ -2800,6 +2812,7 @@ ia exhcange exchange
 ia excahnger exchanger
 ia exchagner exchanger
 ia Exhcangerse Exchangers
+ia exchagners exchangers
 ia exchangesr exchangers
 ia exlcue exclude
 ia exectuable executable
@@ -2895,6 +2908,7 @@ ia exprot export
 ia epxorted exported
 ia exproted exported
 ia expowse expose
+ia exposted exposed
 ia exposign exposing
 ia Expressoin Expression
 ia expresion expression
@@ -3110,11 +3124,13 @@ ia lfoors floors
 ia FLow Flow
 ia Flwo Flow
 ia flolw flow
+ia flotwrate flow rate
 ia flwo flow
 ia lfow flow
 ia flucuation fluctuation
 ia fulcutuation fluctuation
 ia Fludi Fluid
+ia fulid fluid
 ia Flourescent Fluorescent
 ia flourescent fluorescent
 ia FOcus Focus
@@ -3372,6 +3388,7 @@ ia generaotrs generators
 ia generaters generators
 ia generatos generators
 ia gneerators generators
+ia gnereators generators
 ia geomerty geometry
 ia geometyr geometry
 ia Georger George
@@ -3447,6 +3464,7 @@ ia Grenenwood Greenwood
 ia Grennwood Greenwood
 ia GRids Grids
 ia frocery grocery
+ia groudn ground
 ia Gropu Group
 ia Grup Group
 ia gorup group
@@ -3481,6 +3499,7 @@ ia hadn hand
 ia Hanlde Handle
 ia hande handle
 ia handeld handled
+ia hanlder handler
 ia ahndling handling
 ia hadnlign handling
 ia handaling handling
@@ -3643,6 +3662,7 @@ ia hystersis hysteresis
 ia Ina Ian
 ia diea idea
 ia idael ideal
+ia indeal ideal
 ia identificaitno identification
 ia identiifed identified
 ia identifer identifier
@@ -4483,6 +4503,7 @@ ia manulas manuals
 ia Manufacgure Manufacturer
 ia manuafacturer manufacturer
 ia manufactureer manufacturer
+ia manufauctre manufacturer
 ia manufaucturer manufacturer
 ia manufuacture manufacturer
 ia manufactureres manufacturers
@@ -4506,6 +4527,7 @@ ia Markdonw Markdown
 ia Markdwon Markdown
 ia mardkown Markdown
 ia markdonw markdown
+ia markdownb Markdown
 ia makred marked
 ia marekd marked
 ia markders markers
@@ -6000,6 +6022,8 @@ ia REcently Recently
 ia Recertification Recertification
 ia recipricate reciprocate
 ia Recliam Reclaim
+ia recliam reclaim
+ia relciam reclaim
 ia recoginition recognition
 ia recongition recognition
 ia recogoized recognized
@@ -6919,6 +6943,7 @@ ia softweare software
 ia softwere software
 ia sofwtware software
 ia SOlar Solar
+ia soalr solar
 ia Soldi Solid
 ia soluation solution
 ia solutio solution
@@ -7318,6 +7343,7 @@ ia TAble Table
 ia tabel table
 ia talbe table
 ia tagblse tables
+ia tablular tabular
 ia taggins tagging
 ia TAke Take
 ia atake take
@@ -7395,6 +7421,7 @@ ia tempaerautre temperature
 ia tempaeruter temperature
 ia tempaetuer temperature
 ia tempareature temperature
+ia tempareutre temperature
 ia tempartuer temperature
 ia tempature temperature
 ia tempearature temperature
@@ -7468,6 +7495,7 @@ ia temperaturres temperatures
 ia temperatutres temperatures
 ia temperautres temperatures
 ia temperautrtes temperatures
+ia temperuates temperatures
 ia tempmeratures temperatures
 ia temprautes temperatures
 ia tempreatures temperatures
@@ -8135,6 +8163,7 @@ ia Utilzie Utilize
 ia utilitze utilize
 ia utilzed utilized
 ia utilzied utilized
+ia utilizng utilizing
 ia utilting utilizing
 ia vaccum vacuum
 ia vcacuum vacuum
