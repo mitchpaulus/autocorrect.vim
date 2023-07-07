@@ -3879,6 +3879,7 @@ ia inromation information
 ia invofmaton information
 ia informated informed
 ia infromed informed
+ia injestion ingestion
 ia Ingrediants Ingredients
 ia Inherrently Inherently
 ia inherrently inherently
@@ -7162,6 +7163,7 @@ ia stragegies strategies
 ia strageties strategies
 ia stratetgies strategies
 ia stragegy strategy
+ia stragety strategy
 ia stary stray
 ia straem stream
 ia strema stream
