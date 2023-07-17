@@ -1377,6 +1377,7 @@ ia cmopletion completion
 ia compeltion completion
 ia compleition completion
 ia compleiton completion
+ia compeltions completions
 ia complicance compliance
 ia compliatn compliant
 ia comiplicated complicated
@@ -1865,6 +1866,7 @@ ia dela deal
 ia Dealigin Dealing
 ia daeling dealing
 ia deailng dealing
+ia dealign dealing
 ia debuging debugging
 ia deceleartion deceleration
 ia Decmember December
@@ -2826,6 +2828,7 @@ ia exectue execute
 ia execture execute
 ia exectued executed
 ia exectuing executing
+ia executaiton execution
 ia executuion execution
 ia Excecutive Executive
 ia Executivie Executive
@@ -3339,6 +3342,7 @@ ia Garge Garage
 ia garaage garage
 ia GAs Gas
 ia gauage gauge
+ia Gera Gear
 ia GEnearl General
 ia GEneral General
 ia Genealr General
@@ -3968,6 +3972,7 @@ ia instlaled installed
 ia isntalled installed
 ia INstaller Installer
 ia insatnce instance
+ia instancde instance
 ia instane instance
 ia insatnaces instances
 ia instanceds instances
@@ -4811,6 +4816,7 @@ ia multipe multiple
 ia multipel multiple
 ia multipole multiple
 ia multple multiple
+ia mutliple multiple
 ia mutlple multiple
 ia Multiplicaiton Multiplication
 ia multiplicaiton multiplication
@@ -5777,6 +5783,7 @@ ia progrmas programs
 ia Progess Progress
 ia proejgress progress
 ia progess progress
+ia prorgess progress
 ia PRoject Project
 ia Pojrect Project
 ia Porejct Project
@@ -7344,6 +7351,7 @@ ia tabv tab
 ia TAble Table
 ia tabel table
 ia talbe table
+ia Tableou Tableau
 ia tagblse tables
 ia tablular tabular
 ia taggins tagging
