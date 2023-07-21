@@ -351,6 +351,7 @@ ia Anbother Another
 ia Antoher Another
 ia annother another
 ia antoher another
+ia annswer answer
 ia Answeringt Answering
 ia ansswers answers
 ia ANthony Anthony
@@ -1127,6 +1128,7 @@ ia calss class
 ia lcass class
 ia calssification classification
 ia claissication classification
+ia Clena Clean
 ia calne clean
 ia cleanign cleaning
 ia Cleanpu Cleanup
@@ -5230,6 +5232,7 @@ ia apge page
 ia pians pains
 ia pari pair
 ia pamplhet pamphlet
+ia pandamic pandemic
 ia pandco pandoc
 ia pannel panel
 ia apper paper
@@ -5395,6 +5398,7 @@ ia Phtoos Photos
 ia phtoos photos
 ia PHyscial Physical
 ia Physcial Physical
+ia phhyscial physical
 ia phycisal physical
 ia physcally physically
 ia pinao piano
