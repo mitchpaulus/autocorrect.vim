@@ -451,6 +451,7 @@ ia ARea Area
 ia raea area
 ia araes areas
 ia argumetn argument
+ia arugment argument
 ia argumentets arguments
 ia arugments arguments
 ia Arthimetic Arithmetic
@@ -5135,6 +5136,7 @@ ia organizaitons organizations
 ia rogainations organizations
 ia Orgainzing Organizing
 ia orientied oriented
+ia Origal Original
 ia Origialn Original
 ia Origianl Original
 ia Origilan Original
@@ -6983,6 +6985,7 @@ ia soemwhere somewhere
 ia saught sought
 ia Soruce Source
 ia Sourcee Source
+ia Suorec Source
 ia osurce source
 ia soruce source
 ia souce source
@@ -7594,6 +7597,7 @@ ia termila terminal
 ia termilan terminal
 ia terminail terminal
 ia terminla terminal
+ia termioaln terminal
 ia termnial terminal
 ia tmenial terminal
 ia tmerianl terminal
@@ -8033,6 +8037,7 @@ ia uncondiitoned unconditioned
 ia udner under
 ia undre under
 ia udnerfloor underfloor
+ia undergournd underground
 ia underneatn underneath
 ia underreprsented underrepresented
 ia underscope underscore
@@ -8173,6 +8178,7 @@ ia utiltity utility
 ia utiltiy utility
 ia utiltiyt utility
 ia utiltliy utility
+ia utilty utility
 ia utilazation utilization
 ia Utilzie Utilize
 ia utilitze utilize
