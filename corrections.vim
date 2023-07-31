@@ -135,6 +135,7 @@ ia additinal additional
 ia additinoal additional
 ia additioanl additional
 ia additionanl additional
+ia additoianla additional
 ia additoinal additional
 ia additonal additional
 ia additonitnal additional
@@ -298,6 +299,7 @@ ia analysisi analysis
 ia analyssi analysis
 ia analyssis analysis
 ia analyuiss analysis
+ia analyusis analysis
 ia anaslysis analysis
 ia anaylis analysis
 ia anaylsis analysis
@@ -5049,6 +5051,7 @@ ia poen open
 ia operatie operate
 ia operatre operate
 ia operaties operates
+ia oeprating operating
 ia operaitgn operating
 ia operatieng operating
 ia operationg operating
@@ -5368,6 +5371,7 @@ ia permissioniongs permissions
 ia permissioniosn permissions
 ia permissionis permissions
 ia permissionnis permissions
+ia Permuations Permutations
 ia prequisitve perquisite
 ia perons person
 ia perosn person
@@ -5810,6 +5814,7 @@ ia projet project
 ia projfct project
 ia projfect project
 ia projgect project
+ia rpojections projections
 ia porjects projects
 ia preojcts projects
 ia proejcts projects
@@ -6207,7 +6212,9 @@ ia Reparing Repairing
 ia Reparies Repairs
 ia reparis repairs
 ia repateing repeating
+ia Repitition Repetition
 ia repitition repetition
+ia Repititions Repetitions
 ia repitive repetitive
 ia Repalce Replace
 ia repalce replace
