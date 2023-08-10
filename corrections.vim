@@ -1485,6 +1485,7 @@ ia configurtation configuration
 ia configutration configuration
 ia condifurations configurations
 ia COnfirm Confirm
+ia Confrim Confirm
 ia Conrim Confirm
 ia confrim confirm
 ia confrimr confirm
@@ -1812,6 +1813,7 @@ ia curosr cursor
 ia cursro cursor
 ia curvativure curvature
 ia cureves curves
+ia curvers curves
 ia custoidal custodial
 ia cusomt custom
 ia cusotm custom
@@ -3562,6 +3564,7 @@ ia heagin heating
 ia heaing heating
 ia heaint heating
 ia heaitng heating
+ia heigtt height
 ia Helicoper Helicopter
 ia Hlep Help
 ia ehlp help
@@ -6095,6 +6098,7 @@ ia referecne reference
 ia referencem reference
 ia refernce reference
 ia refernece reference
+ia REfrences References
 ia Referecnes References
 ia Refernces References
 ia Referneces References
