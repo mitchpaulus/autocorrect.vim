@@ -36,6 +36,7 @@ ia Acadmey Academy
 ia accelearted accelerated
 ia accewptable acceptable
 ia aceptable acceptable
+ia acces access
 ia aceess access
 ia adcces access
 ia aqcccess access
@@ -108,6 +109,7 @@ ia acutators actuators
 ia Adaptaiton Adaptation
 ia ADd Add
 ia daded added
+ia Addign Adding
 ia addding adding
 ia Adidtion Addition
 ia addiition addition
@@ -1479,6 +1481,7 @@ ia configuraiont configuration
 ia configuraiotn configuration
 ia configuraiton configuration
 ia configuraqtion configuration
+ia configuratino configuration
 ia configurtaion configuration
 ia configurtaiotn configuration
 ia configurtation configuration
@@ -2921,6 +2924,7 @@ ia Exprt Export
 ia exprot export
 ia epxorted exported
 ia exproted exported
+ia exporitng exporting
 ia expowse expose
 ia exposted exposed
 ia exposign exposing
@@ -2931,6 +2935,7 @@ ia expresisons expressions
 ia expresssions expressions
 ia Exnted Extend
 ia extensibile extensible
+ia Exteniosn Extension
 ia extention extension
 ia extrension extension
 ia extensiosn extensions
@@ -4345,11 +4350,13 @@ ia linuux Linux
 ia llinux Linux
 ia liqudi liquid
 ia liquied liquid
+ia llist list
 ia lsit list
 ia leisted listed
 ia listerner listener
 ia liests lists
 ia literlaly literally
+ia lieterals literals
 ia literuate literate
 ia lieterature literature
 ia Littel Little
@@ -7782,6 +7789,7 @@ ia thresholld threshold
 ia trhrehosld threshold
 ia Trhehsolds Thresholds
 ia tehsholds thresholds
+ia Trhough Through
 ia thoroguh through
 ia thorugh through
 ia thoruhg through
