@@ -1467,8 +1467,11 @@ ia conferenece conference
 ia cvonference conference
 ia conferneces conferences
 ia converecnes conferences
+ia convferences conferences
 ia condifience confidence
 ia condfidnet confident
+ia confidentail confidential
+ia confientail confidential
 ia configt config
 ia ocnfig config
 ia Configuraiton Configuration
@@ -3165,6 +3168,7 @@ ia folloow follow
 ia follw follow
 ia follolwed followed
 ia floowing following
+ia folliwng following
 ia folllowing following
 ia folloiwing following
 ia folloiwng following
@@ -3494,6 +3498,7 @@ ia gropus groups
 ia grwo grow
 ia guarantte guarantee
 ia guarantted guaranteed
+ia guarantess guarantees
 ia GUardians Guardians
 ia GUidebook Guidebook
 ia Gudieline Guideline
@@ -3684,7 +3689,9 @@ ia Ina Ian
 ia diea idea
 ia idael ideal
 ia indeal ideal
+ia Identificaiton Identification
 ia identificaitno identification
+ia identificaiton identification
 ia identiifed identified
 ia identifer identifier
 ia indentifier identifier
@@ -3854,6 +3861,7 @@ ia infiltraiton infiltration
 ia inflitration infiltration
 ia iinform inform
 ia INformaiton Information
+ia INformation Information
 ia Infomraiton Information
 ia Informaation Information
 ia Informaiont Information
@@ -4003,6 +4011,7 @@ ia insteard instead
 ia Institutue Institute
 ia instituation institution
 ia institutaion institution
+ia instituations institutions
 ia insturction instruction
 ia Instrucitnos Instructions
 ia Insturcitons Instructions
@@ -4252,6 +4261,7 @@ ia lrage large
 ia largets largest
 ia alst last
 ia lateset latest
+ia lwafully lawfully
 ia Leadersihp Leadership
 ia leasd leads
 ia Leakding Leaking
@@ -4268,6 +4278,7 @@ ia LEft Left
 ia LEgacy Legacy
 ia legla legal
 ia Lengend Legend
+ia legitmate legitimate
 ia lengght length
 ia lenght length
 ia lneght length
@@ -4585,6 +4596,7 @@ ia meaing meaning
 ia meaining meaning
 ia menaing meaning
 ia measn means
+ia menas means
 ia menat meant
 ia Measrue Measure
 ia Meaurse Measure
@@ -5239,6 +5251,7 @@ ia OVerflow Overflow
 ia overaly overlay
 ia OVerview Overview
 ia onw own
+ia woned owned
 ia apcakge package
 ia apkcage package
 ia pacakge package
@@ -5313,6 +5326,7 @@ ia partiucular particular
 ia paticualar particular
 ia Particularily Particularity
 ia particulary particularly
+ia parites parties
 ia aprtition partition
 ia partitiaotn partition
 ia partyy party
@@ -5399,6 +5413,7 @@ ia personsally personally
 ia Persenel Personnel
 ia Personel Personnel
 ia personell personnel
+ia persions persons
 ia PHase Phase
 ia PHawse Phase
 ia Pahse Phase
@@ -5871,6 +5886,7 @@ ia Porposed Proposed
 ia propsed proposed
 ia propsoed proposed
 ia propiritary proprietary
+ia prottected protected
 ia protecdtion protection
 ia protectdion protection
 ia protectio protection
@@ -6190,6 +6206,7 @@ ia remainign remaining
 ia remiaing remaining
 ia remianing remaining
 ia reamins remains
+ia Rembember Remember
 ia Remmber Remember
 ia Remmeber Remember
 ia Rmeind Remind
@@ -7741,6 +7758,7 @@ ia thses these
 ia THey They
 ia Thye They
 ia htey they
+ia tahey they
 ia tehy they
 ia thye they
 ia tyhy they
@@ -8041,6 +8059,7 @@ ia unavailbale unavailable
 ia unavaillable unavailable
 ia unavialbe unavailable
 ia unware unaware
+ia uncertian uncertain
 ia ucnertainties uncertainties
 ia Unceratinty Uncertainty
 ia Uncertainy Uncertainty
@@ -8100,6 +8119,7 @@ ia unikts units
 ia unjits units
 ia unnits units
 ia untis units
+ia Uiversal Universal
 ia unix Unix
 ia unknwons unknowns
 ia uneccessary unnecessary
@@ -8190,6 +8210,7 @@ ia usallly usually
 ia usally usually
 ia usaully usually
 ia usualy usually
+ia utinsel utensil
 ia utiliteis utilities
 ia utilites utilities
 ia utilties utilities
