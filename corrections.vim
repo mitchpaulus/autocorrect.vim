@@ -1585,6 +1585,7 @@ ia continulally continually
 ia continulaly continually
 ia contineue continue
 ia COntinued Continued
+ia Continouous Continuous
 ia Continous Continuous
 ia Continousous Continuous
 ia Continuouss Continuous
@@ -1963,6 +1964,7 @@ ia dleta delta
 ia Deltke Deltek
 ia Deamdn Demand
 ia Deamnd Demand
+ia Demadn Demand
 ia deamnd demand
 ia dmeand demand
 ia dseamdn demand
@@ -3134,6 +3136,7 @@ ia FIxing Fixing
 ia finxing fixing
 ia fixutre fixture
 ia fixutres fixtures
+ia Falg Flag
 ia falgs flags
 ia flexibillity flexibility
 ia flexlible flexible
@@ -4137,6 +4140,7 @@ ia isothermla isothermal
 ia isseu issue
 ia isseus issues
 ia isssues issues
+ia issuses issues
 ia ITem Item
 ia Ietm Item
 ia Itme Item
@@ -8086,6 +8090,7 @@ ia unceratinty uncertainty
 ia unceratiny uncertainty
 ia unceratnainty uncertainty
 ia uncertaintny uncertainty
+ia uncertainy uncertainty
 ia uncertanity uncertainty
 ia uncertianty uncertainty
 ia uncertinay uncertainty
