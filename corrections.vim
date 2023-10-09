@@ -120,6 +120,7 @@ ia additon addition
 ia addtion addition
 ia Addiitnoanal Additional
 ia Addiitonal Additional
+ia Additiioanl Additional
 ia Additioanl Additional
 ia Additoanl Additional
 ia Additonaol Additional
@@ -389,6 +390,7 @@ ia Applicaiotn Application
 ia Applicaiton Application
 ia appaliciotn application
 ia appcoliacation application
+ia appicliaton application
 ia applciaiton application
 ia applciation application
 ia applicaiotn application
@@ -1953,6 +1955,7 @@ ia delte delete
 ia dleeted deleted
 ia dleting deleting
 ia Deleiton Deletion
+ia delimtier delimiter
 ia Deliimiters Delimiters
 ia deliniation delineation
 ia deliverabel deliverable
@@ -2156,6 +2159,7 @@ ia diffrent different
 ia difrent different
 ia idfferent different
 ia Differentail Differential
+ia differentail differential
 ia differentitate differentiate
 ia differtly differently
 ia Difficutl Difficult
@@ -2357,6 +2361,7 @@ ia downtonn downtown
 ia drwa draw
 ia drwawer drawer
 ia drwaing drawing
+ia darawings drawings
 ia darwings drawings
 ia draings drawings
 ia drawigns drawings
@@ -2493,6 +2498,7 @@ ia electricay electricity
 ia electriciyt electricity
 ia electyriciyt electricity
 ia electyricyt electricity
+ia Electrificaiton Electrification
 ia electrificaiton electrification
 ia electronci electronic
 ia elemnmet element
@@ -3491,6 +3497,7 @@ ia Grenenwood Greenwood
 ia Grennwood Greenwood
 ia GRids Grids
 ia frocery grocery
+ia groos gross
 ia groudn ground
 ia Gropu Group
 ia Grup Group
@@ -4648,6 +4655,7 @@ ia mechanicla mechanical
 ia mechincal mechanical
 ia mechnaical mechanical
 ia mechnaicla mechanical
+ia mechnical mechanical
 ia Medai Media
 ia Meida Media
 ia medai media
@@ -5621,6 +5629,7 @@ ia Practidces Practices
 ia practicitioners practitioners
 ia Prantl Prandtl
 ia precendence precedence
+ia precendents precedents
 ia precedding preceding
 ia precisly precisely
 ia preceision precision
@@ -5820,6 +5829,7 @@ ia pgrogrmaming programming
 ia pgromammign programming
 ia porgarmming programming
 ia prgoramming programming
+ia progamming programming
 ia programing programming
 ia programmign programming
 ia programmihng programming
@@ -6709,6 +6719,7 @@ ia ssecurity security
 ia seee see
 ia Seeign Seeing
 ia segmenetation segmentation
+ia degregation segregation
 ia Selec Select
 ia selct select
 ia seslect select
@@ -6730,6 +6741,7 @@ ia semicolin semicolon
 ia smeinar seminar
 ia sned send
 ia sendign sending
+ia seniro senior
 ia snese sense
 ia sensical sensical
 ia sensitiviey Sensitivity
@@ -8356,6 +8368,7 @@ ia versino version
 ia vresion version
 ia vereison versions
 ia veriseons versions
+ia verisons versions
 ia verseins versions
 ia verseions versions
 ia versixons versions
