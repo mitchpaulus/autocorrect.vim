@@ -772,6 +772,7 @@ ia broutht brought
 ia brwon brown
 ia broswer browser
 ia browswer browser
+ia brwoser browser
 ia bubblle bubble
 ia ubg bug
 ia BUild Build
@@ -4026,6 +4027,7 @@ ia Institutue Institute
 ia instituation institution
 ia institutaion institution
 ia instituations institutions
+ia instructdion instruction
 ia insturction instruction
 ia Instrucitnos Instructions
 ia Insturcitons Instructions
@@ -5095,6 +5097,7 @@ ia poen open
 ia operatie operate
 ia operatre operate
 ia operaties operates
+ia Oepraeting Operating
 ia oeprating operating
 ia operaitgn operating
 ia operatieng operating
@@ -5159,6 +5162,7 @@ ia opiton option
 ia opoint option
 ia opotin option
 ia optoin option
+ia optinal Optional
 ia Opitons Options
 ia opitions options
 ia opitons options
