@@ -61,6 +61,7 @@ ia accoutned accounted
 ia accoutntd accounted
 ia Accoutns Accounts
 ia accoutns accounts
+ia accuracty accuracy
 ia acccurate accurate
 ia accuracte accurate
 ia achive achieve
@@ -2489,6 +2490,7 @@ ia erlectrical electrical
 ia ewlectrical electrical
 ia Eelectricity Electricity
 ia Electiricy Electricity
+ia Electricy Electricity
 ia eelctricy electricity
 ia eelctrricxty electricity
 ia elecdtricity electricity
@@ -2829,6 +2831,7 @@ ia Ecxel Excel
 ia Excewl Excel
 ia Excle Excel
 ia excewpt except
+ia exxcept except
 ia ecxeption exception
 ia exceptiopn exception
 ia exceptoin exception
@@ -4644,6 +4647,7 @@ ia measuremensts measurements
 ia measuremetns measurements
 ia measuremnets measurements
 ia measuremnts measurements
+ia measurments measurements
 ia meaurements measurements
 ia meeasuremtnes measurements
 ia measrues measures
@@ -5408,6 +5412,7 @@ ia perofmraing performing
 ia prehaps perhaps
 ia periemater perimeter
 ia perimieter perimeter
+ia permmeter perimeter
 ia peirod period
 ia peroid period
 ia preiod period
@@ -6153,6 +6158,7 @@ ia REfrences References
 ia Referecnes References
 ia Refernces References
 ia Referneces References
+ia Refrences References
 ia refercnes references
 ia referneces references
 ia refernecing referencing
@@ -6263,6 +6269,7 @@ ia remonving removing
 ia rmoeoivng removing
 ia renamign renaming
 ia REno Reno
+ia Renomarlize Renormalize
 ia Revovations Renovations
 ia reoccuring reoccurring
 ia reorganizatiojn reorganization
@@ -8548,6 +8555,7 @@ ia wil will
 ia Willaiams Williams
 ia iwnd wind
 ia windc wind
+ia Winodw Window
 ia iwndow window
 ia widnow window
 ia windwow window
