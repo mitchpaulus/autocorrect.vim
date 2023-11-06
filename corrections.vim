@@ -787,6 +787,7 @@ ia BUildeing Building
 ia BUilding Building
 ia BUliding Building
 ia Biudlign Building
+ia Budilign Building
 ia Buidlgin Building
 ia Buidlign Building
 ia Buidling Building
@@ -1107,6 +1108,7 @@ ia Chjillers Chillers
 ia chilelrs chillers
 ia chilers chillers
 ia chilllers chillers
+ia chillres chillers
 ia choloride chloride
 ia cholride chloride
 ia chocie choice
@@ -1122,6 +1124,7 @@ ia Chuch Church
 ia churjning churning
 ia Cincinatti Cincinnati
 ia Circuti Circuit
+ia circiut circuit
 ia circuti circuit
 ia curcuit circuit
 ia circuting circuiting
@@ -1195,6 +1198,7 @@ ia COil Coil
 ia ciol coil
 ia coli coil
 ia ocil coil
+ia Cois Coils
 ia cils coils
 ia Collaboraiton Collaboration
 ia collabloariton collaboration
@@ -1255,6 +1259,7 @@ ia commadns commands
 ia commmands commands
 ia COmment Comment
 ia commetn comment
+ia ocmment comment
 ia COmments Comments
 ia Commetns Comments
 ia commetns comments
@@ -2461,6 +2466,7 @@ ia Eikegra Eikagra
 ia EIther Either
 ia Etiher Either
 ia weitther either
+ia Electrication Electirifcation
 ia Eelctric Electric
 ia Eelectric Electric
 ia electic electric
@@ -2504,6 +2510,7 @@ ia electricay electricity
 ia electriciyt electricity
 ia electyriciyt electricity
 ia electyricyt electricity
+ia Electirifcation Electrification
 ia Electrificaiton Electrification
 ia electrificaiton electrification
 ia electronci electronic
@@ -2814,6 +2821,7 @@ ia everythiong everything
 ia everytihg everything
 ia everyting everything
 ia everytingh everything
+ia evaultion evolution
 ia exaclty exactly
 ia exactyl exactly
 ia Exampel Example
@@ -3315,6 +3323,7 @@ ia funtion function
 ia ufnction function
 ia FUnctinal Functional
 ia FUnctional Functional
+ia Fucntiaonl Functional
 ia Fucnttional Functional
 ia Funcatioanl Functional
 ia Funcitional Functional
@@ -4330,6 +4339,7 @@ ia Libray Library
 ia Librayr Library
 ia libary library
 ia librayr library
+ia librray library
 ia Licesnse License
 ia licorise licorice
 ia lienant lienant
@@ -5410,6 +5420,7 @@ ia perfromacne performance
 ia perofmarnce performance
 ia perofrmance performance
 ia preformance performance
+ia Performaing Performing
 ia performaning performing
 ia perofmraing performing
 ia prehaps perhaps
@@ -6349,6 +6360,7 @@ ia reproitng reporting
 ia reproting reporting
 ia reprotring reporting
 ia rpeorting reporting
+ia Reporst Reports
 ia Reprots Reports
 ia reoports reports
 ia reporst reports
@@ -6393,6 +6405,7 @@ ia requrie require
 ia reuiqre require
 ia Requrired Required
 ia Reuqired Required
+ia reauired required
 ia requeirede required
 ia requerid required
 ia requied required
