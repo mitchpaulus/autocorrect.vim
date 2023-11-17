@@ -2066,6 +2066,7 @@ ia deatailed detailed
 ia detailede detailed
 ia detialed detailed
 ia Detials Details
+ia deaitls details
 ia deatials details
 ia deatils details
 ia detials details
@@ -2210,6 +2211,7 @@ ia dieretoyr directory
 ia direcdtory directory
 ia direcory directory
 ia direcotry directory
+ia direcoty directory
 ia direcotyr directory
 ia directoy directory
 ia directoyr directory
@@ -6175,6 +6177,7 @@ ia Refernces References
 ia Referneces References
 ia Refrences References
 ia refercnes references
+ia referecnes references
 ia referneces references
 ia refernecing referencing
 ia refering referring
