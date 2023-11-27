@@ -7240,6 +7240,7 @@ ia staitc static
 ia stitic static
 ia staticaly statically
 ia Staiton Station
+ia staiton station
 ia statistications statistications
 ia statsistics statistics
 ia Satsu Status
