@@ -1541,6 +1541,7 @@ ia consistnely consistently
 ia consistign consisting
 ia consiss consists
 ia consistns consists
+ia consolides consolidates
 ia Constatn Constant
 ia Contant Constant
 ia Contstant Constant
@@ -3264,6 +3265,7 @@ ia foudnation foundation
 ia FOuntain Fountain
 ia foru four
 ia Foiruier Fourier
+ia fracitonal fractional
 ia fractionall fractional
 ia frameowkr framework
 ia framerwork framework
@@ -3750,6 +3752,7 @@ ia implemnet implement
 ia implment implement
 ia Impelmentation Implementation
 ia Implemenatiaont Implementation
+ia Implemention Implementation
 ia Implemntation Implementation
 ia Implmeentation Implementation
 ia impelmentaiotn implementation
@@ -4068,6 +4071,7 @@ ia INtended Intended
 ia Inteded Intended
 ia initended intended
 ia inteded intended
+ia intendend intended
 ia interaect interact
 ia interhcnage interchange
 ia interconnecitons interconnections
