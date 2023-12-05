@@ -654,6 +654,7 @@ ia basleine baseline
 ia bvaseline baseline
 ia basleines baselines
 ia Bascially Basically
+ia Basicaly Basically
 ia bascially basically
 ia bascialyl basically
 ia basiclaly basically
@@ -4487,6 +4488,7 @@ ia Loopo Loop
 ia looop loop
 ia olop loop
 ia llops loops
+ia Lousis Louis
 ia lvoe love
 ia lovdes loves
 ia lwo low
