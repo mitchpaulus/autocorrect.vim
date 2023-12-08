@@ -57,6 +57,7 @@ ia accoreidnly accordingly
 ia Accoriodn Accordion
 ia accoutn account
 ia acocutn account
+ia accountatns accountants
 ia accoutned accounted
 ia accoutntd accounted
 ia Accoutns Accounts
@@ -188,6 +189,7 @@ ia Agaisnst Against
 ia agaisnt against
 ia nagianst against
 ia AGe Age
+ia agenceis agencies
 ia aggregatre aggregate
 ia aggreation aggregation
 ia aggregatiuon aggregation
@@ -338,6 +340,7 @@ ia adn and
 ia anbd and
 ia andd and
 ia annd and
+ia arnd and
 ia nad and
 ia nadn and
 ia nand and
@@ -489,6 +492,7 @@ ia asekd asked
 ia Askign Asking
 ia askign asking
 ia ascpects aspects
+ia Assualt Assault
 ia Assesment Assessment
 ia assesments assessments
 ia assessmetnts assessments
@@ -752,6 +756,7 @@ ia Bouqet Bouquet
 ia obx box
 ia bxoes boxes
 ia oby boy
+ia boyfriedn boyfriend
 ia brackest brackets
 ia barinstorming brainstorming
 ia brainstoriming brainstorming
@@ -1154,6 +1159,7 @@ ia Cleanpu Cleanup
 ia clenaup cleanup
 ia claer clear
 ia cleraed cleared
+ia cclearly clearly
 ia clikc click
 ia clcked clicked
 ia clickign clicking
@@ -1212,6 +1218,7 @@ ia colleciton collection
 ia Coletor Collector
 ia Colege College
 ia Coollege College
+ia collegtes colleges
 ia Collsion Collision
 ia coor color
 ia oclor color
@@ -1368,6 +1375,7 @@ ia COmpilers Compilers
 ia compilign compiling
 ia compliing compiling
 ia compalin complain
+ia compliaint complaint
 ia ocmplaints complaints
 ia compolement complement
 ia Compelte Complete
@@ -1952,6 +1960,7 @@ ia definiton definition
 ia defintinoo definition
 ia defintion definition
 ia deifnition definition
+ia dienition definition
 ia definiations definitions
 ia definitoins definitions
 ia defintiions definitions
@@ -1989,6 +1998,7 @@ ia denomiator denominator
 ia dnesity density
 ia deorderant deodorant
 ia Deparment Department
+ia Depeartment Department
 ia deparatemetn department
 ia deparatemtn department
 ia departmetn department
@@ -2189,6 +2199,7 @@ ia ditigal digital
 ia Dingin Dining
 ia dingin dining
 ia dinign dining
+ia dineer dinner
 ia dinsoaur dinosaur
 ia direciton direction
 ia dirctions directions
@@ -2230,6 +2241,7 @@ ia idsappeared disappeared
 ia dicern discern
 ia sdiscern discern
 ia Discharege Discharge
+ia dsicloses discloses
 ia Disclousere Disclosure
 ia disclousre disclosure
 ia dscovery discovery
@@ -2543,6 +2555,7 @@ ia Emeryecny Emergency
 ia emergynecy emergency
 ia emergingn emerging
 ia emplirclaly empirically
+ia emnployee employee
 ia employeeds employees
 ia empoyer employer
 ia emploiyement employment
@@ -2993,6 +3006,7 @@ ia fadce face
 ia facebook Facebook
 ia faciliteis facilities
 ia facilites facilities
+ia faciltiies facilities
 ia FAcility Facility
 ia FAciltiy Facility
 ia FAiclity Facility
@@ -3568,11 +3582,13 @@ ia handlign handling
 ia handoling handling
 ia hndling handling
 ia andrail handrail
+ia ehands hands
 ia ahppended happened
 ia hapenning happening
 ia happending happening
 ia happensd happens
 ia harrassing harassing
+ia harrassment harassment
 ia ahrd hard
 ia Hardoware Hardware
 ia Harrsion Harrison
@@ -3856,6 +3872,7 @@ ia incorreclty incorrectly
 ia increasees increases
 ia increaseing increasing
 ia incrteasing increasing
+ia indefinit indefinite
 ia indentaiton indentation
 ia indenpendence independence
 ia indepoendence independence
@@ -5778,6 +5795,7 @@ ia pirmary primary
 ia primeary primary
 ia princeple principle
 ia Principiles Principles
+ia princiiples principles
 ia PRint Print
 ia Pritn Print
 ia pirnt print
@@ -5811,6 +5829,7 @@ ia proglem problem
 ia probalems problems
 ia probelms problems
 ia procewdure procedure
+ia procddurs procedures
 ia procuedures procedures
 ia prfoceed proceed
 ia Porocess Process
@@ -5946,6 +5965,7 @@ ia prottected protected
 ia protecdtion protection
 ia protectdion protection
 ia protectio protection
+ia Protectiosn Protections
 ia Protocal Protocol
 ia Protocl Protocol
 ia prootcol protocol
@@ -5958,6 +5978,7 @@ ia proveded provided
 ia proviced provided
 ia PRovider Provider
 ia Proivdes Provides
+ia Providinig Providing
 ia proividing providing
 ia psycrhometic psychrometric
 ia pyschrometric psychrometric
@@ -6025,6 +6046,7 @@ ia qunaittites quantities
 ia Quarteryl Quarterly
 ia quartelry quarterly
 ia Quesiton Question
+ia Qustion Question
 ia queisont question
 ia quesiotn question
 ia quesiton question
@@ -6252,6 +6274,7 @@ ia relavent relevant
 ia reliabiltiy reliability
 ia reflief relief
 ia releif relief
+ia REligion Religion
 ia relocaitons relocations
 ia REly Rely
 ia reamin remain
@@ -6492,6 +6515,7 @@ ia respcet respect
 ia respecdt respect
 ia respirarotyr respiratory
 ia Repsond Respond
+ia responsded responded
 ia REpsonding Responding
 ia reponse response
 ia repsone response
@@ -6506,6 +6530,7 @@ ia repsonible responsible
 ia repsonsible responsible
 ia resonsbible responsible
 ia resonsbile responsible
+ia responsbiel responsible
 ia responsbile responsible
 ia responsilbe responsible
 ia Restartign Restarting
@@ -6588,6 +6613,7 @@ ia riese rise
 ia rissk risk
 ia Roadd Road
 ia robuts robust
+ia Rodrigueq Rodriguez
 ia roofign roofing
 ia rooom room
 ia roattion rotation
@@ -6614,6 +6640,7 @@ ia rusn runs
 ia sa SA
 ia sacrificied sacrificed
 ia safetly safely
+ia slaaayr salary
 ia SAlly Sally
 ia smae same
 ia Smaple Sample
@@ -6746,6 +6773,7 @@ ia Seconddadry Secondary
 ia secondayr secondary
 ia seconeary secondary
 ia Seciotn Section
+ia Seciton Section
 ia Sectdion Section
 ia secdtion section
 ia seciotn section
@@ -6913,6 +6941,7 @@ ia servearl several
 ia serveral several
 ia sevearl several
 ia Sexcual Sexual
+ia sexuual sexual
 ia SAFT SFAT
 ia shackels shackles
 ia sahll shall
@@ -7296,6 +7325,7 @@ ia straem stream
 ia strema stream
 ia strendght strength
 ia strenght strength
+ia stres stress
 ia Streches Stretches
 ia striclty strictly
 ia Sring String
@@ -7357,6 +7387,7 @@ ia succiently succinctly
 ia succincly succinctly
 ia usch such
 ia suoders sudoers
+ia suffereing suffering
 ia suffifce suffice
 ia suggset suggest
 ia suggesitons suggestions
@@ -8428,6 +8459,7 @@ ia Vdieo Video
 ia Vidoe Video
 ia veiwer viewer
 ia veiws views
+ia violatioh violation
 ia Virignia Virginia
 ia virutal virtual
 ia viscoisty viscosity
