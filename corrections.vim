@@ -641,6 +641,7 @@ ia bnak bank
 ia bvanquet banquet
 ia abr bar
 ia Bararcks Barracks
+ia Barrakcs Barracks
 ia Bartton Barton
 ia BAsed Based
 ia BGased Based
@@ -698,6 +699,7 @@ ia bellw below
 ia Betl Belt
 ia betl belt
 ia betls belts
+ia benefitted benefited
 ia besdies besides
 ia bset best
 ia bettter better
@@ -1138,6 +1140,7 @@ ia circutry circuitry
 ia circutis circuits
 ia curcuites circuits
 ia circualr circular
+ia circulartion circulation
 ia citaitons citations
 ia Ciit Citi
 ia CIty City
@@ -1240,6 +1243,7 @@ ia coulmns columns
 ia coulnmsn columns
 ia combinatino combination
 ia comibination combination
+ia combinationas combinations
 ia combonations combinations
 ia cominations combinations
 ia combiend combined
@@ -1654,6 +1658,7 @@ ia contorlers controllers
 ia contorllers controllers
 ia contreollers controllers
 ia controlleres controllers
+ia controllres controllers
 ia Controllign Controlling
 ia Contorls Controls
 ia Contrls Controls
@@ -3568,6 +3573,7 @@ ia hari hair
 ia hiar hair
 ia Halftway Halfway
 ia ahlls halls
+ia Hammerhaed Hammerhead
 ia ahnd hand
 ia hadn hand
 ia Hanlde Handle
@@ -3757,6 +3763,7 @@ ia ingore ignore
 ia ingored ignored
 ia ingores ignores
 ia ignroing ignoring
+ia ingoring ignoring
 ia iamges images
 ia iamgine imagine
 ia initated imitated
@@ -4249,6 +4256,7 @@ ia Kewvin Kevin
 ia Kye Key
 ia dkey key
 ia eky key
+ia keybindigns keybindings
 ia kesy keys
 ia keystorke keystroke
 ia keystorkes keystrokes
@@ -5138,6 +5146,7 @@ ia onlly only
 ia onstie onsite
 ia opne open
 ia poen open
+ia OpenSutiod OpenStudio
 ia operatie operate
 ia operatre operate
 ia operaties operates
@@ -7098,6 +7107,7 @@ ia softwere software
 ia sofwtware software
 ia SOlar Solar
 ia soalr solar
+ia solicitaiton solicitation
 ia Soldi Solid
 ia soluation solution
 ia solutio solution
@@ -8416,6 +8426,7 @@ ia ventialtiaon ventilation
 ia ventialtion ventilation
 ia verbage verbiage
 ia Verifiatioon Verification
+ia verficaiotn verification
 ia verficaiton verification
 ia verfication verification
 ia verficiation verification
@@ -8512,6 +8523,7 @@ ia wnat want
 ia wnt want
 ia wanteed wanted
 ia wnated wanted
+ia warings warnings
 ia warngins warnings
 ia warnigns warnings
 ia wrranty warranty
