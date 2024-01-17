@@ -1933,6 +1933,7 @@ ia Deafualt Default
 ia Deafult Default
 ia Defautl Default
 ia Defualt Default
+ia deaffult default
 ia deafult default
 ia deafutl default
 ia deauflt default
@@ -3656,6 +3657,7 @@ ia highert higher
 ia hihger higher
 ia higheset highest
 ia hightest highest
+ia Highlihgt Highlight
 ia highlihgt highlight
 ia Highlighitng Highlighting
 ia Highlihgthing Highlighting
@@ -4118,6 +4120,7 @@ ia intervace interface
 ia iterface interface
 ia tnerface interface
 ia iterferes interferes
+ia Iterim Interim
 ia interioro interior
 ia iterior interior
 ia intermeidate intermediate
@@ -4287,6 +4290,7 @@ ia lbael label
 ia labeld labeled
 ia lableled labeled
 ia lbaeled labeled
+ia Lableing Labeling
 ia labelign labeling
 ia lableing labeling
 ia lables labels
@@ -5177,6 +5181,7 @@ ia opeartor operator
 ia operatoir operator
 ia opereator operator
 ia operatiors operators
+ia opionion opinion
 ia Opinioned Opinionated
 ia opininos opinions
 ia Opportunites Opportunities
@@ -5468,6 +5473,7 @@ ia peirod period
 ia peroid period
 ia preiod period
 ia peirods periods
+ia Permannet Permanent
 ia permannet permanent
 ia premenently permanently
 ia Premissions Permissions
@@ -7537,6 +7543,7 @@ ia TAsk Task
 ia Taks Task
 ia taks task
 ia Takss Tasks
+ia takss tasks
 ia tsaste taste
 ia taought taught
 ia atx tax
