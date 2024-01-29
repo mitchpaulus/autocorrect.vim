@@ -5339,6 +5339,7 @@ ia pacakge package
 ia packgae package
 ia pakcage package
 ia pakcaged packaged
+ia pacakges packages
 ia pakcages packages
 ia Pakcing Packing
 ia apge page
@@ -7095,6 +7096,7 @@ ia samll small
 ia Samrt Smart
 ia samrt smart
 ia Simth Smith
+ia Sminth Smith
 ia somke smoke
 ia smtp SMTP
 ia snipeet snippet
@@ -8342,6 +8344,7 @@ ia utiliteis utilities
 ia utilites utilities
 ia utilties utilities
 ia utiltiies utilities
+ia utitlies utilities
 ia Uiltity Utility
 ia Utiltiy Utility
 ia uitlilty utility
