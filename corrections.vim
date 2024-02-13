@@ -1161,6 +1161,7 @@ ia cleanign cleaning
 ia Cleanpu Cleanup
 ia clenaup cleanup
 ia claer clear
+ia clera clear
 ia cleraed cleared
 ia cclearly clearly
 ia clikc click
@@ -1999,6 +2000,7 @@ ia deamnd demand
 ia dmeand demand
 ia dseamdn demand
 ia emdand demand
+ia democrarcy democracy
 ia demonstratior demonstrator
 ia denomiator denominator
 ia dnesity density
@@ -8744,6 +8746,7 @@ ia fwould would
 ia ouwld would
 ia owuld would
 ia owule would
+ia weould would
 ia wiould would
 ia wolud would
 ia woould would

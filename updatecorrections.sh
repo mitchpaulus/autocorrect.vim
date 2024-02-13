@@ -49,4 +49,3 @@ echo "Created backup at $autocorrectdir/.autocorrect-backup"
 # Clear the autocorrect file.
 true > "$autocorrectfile"
 echo "Cleared $autocorrectfile"
-
