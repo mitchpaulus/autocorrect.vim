@@ -615,6 +615,7 @@ ia byab baby
 ia Bakc Back
 ia bakc back
 ia Backgroudn Background
+ia backgorudn background
 ia backgorund background
 ia backgroaudn background
 ia backgruond background
@@ -684,6 +685,7 @@ ia beginnig beginning
 ia beginnign beginning
 ia beginnnign beginning
 ia begignnings beginnings
+ia beginnigns beginnings
 ia beginnigs beginnings
 ia behaviior behavior
 ia behavoir behavior
@@ -3486,6 +3488,7 @@ ia givew given
 ia givne given
 ia Globla Global
 ia gllobal global
+ia globall global
 ia globla global
 ia Gloabbly Globally
 ia globablly globally
@@ -3875,6 +3878,7 @@ ia imcomplete incomplete
 ia incompressibiility incompressibility
 ia Inconsistgen Inconsistent
 ia inconvient inconvenient
+ia Incorpate Incorporate
 ia Incorportate Incorporate
 ia incorrecdt incorrect
 ia incrorect incorrect
@@ -6183,6 +6187,7 @@ ia Recommedns Recommends
 ia REconsile Reconcile
 ia reconneciton reconnection
 ia REcord Record
+ia Reocrd Record
 ia reocrd record
 ia recoreded recorded
 ia reocrded recorded
@@ -7229,6 +7234,7 @@ ia spreadsehet spreadsheet
 ia spreadsehtet spreadsheet
 ia spreadshet spreadsheet
 ia spreadshetet spreadsheet
+ia spreadshhet spreadsheet
 ia sprreaadhseet spreadsheet
 ia Spreasheets Spreadsheets
 ia spreadhseets spreadsheets
