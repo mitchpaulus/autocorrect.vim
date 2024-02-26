@@ -6530,6 +6530,7 @@ ia REsolve Resolve
 ia resovle resolve
 ia resovled resolved
 ia resoelves resolves
+ia Resoruce Resource
 ia Resoucres Resources
 ia Resourees Resources
 ia resouces resources
