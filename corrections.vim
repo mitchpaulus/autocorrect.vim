@@ -227,6 +227,7 @@ ia Albequerqe Albuquerque
 ia Albequerque Albuquerque
 ia Albrquerque Albuquerque
 ia salchohols alcohols
+ia Alexxander Alexander
 ia alegra algebra
 ia Algorihgm Algorithm
 ia Algorihtm Algorithm
@@ -766,6 +767,7 @@ ia barinstorming brainstorming
 ia brainstoriming brainstorming
 ia Breka Break
 ia breka break
+ia breakdonw breakdown
 ia brekadown breakdown
 ia breakre breaker
 ia breakres breakers
@@ -1803,6 +1805,7 @@ ia cracs CRACs
 ia crnaes cranes
 ia crnaked cranked
 ia crawlsapce crawlspace
+ia craete create
 ia creatd created
 ia Creatting Creating
 ia creaitng creating
@@ -3003,6 +3006,7 @@ ia extenral external
 ia extermal external
 ia extermanl external
 ia extracion extraction
+ia extraciton extraction
 ia extranous extraneous
 ia extrpaolation extrapolation
 ia extremem extreme
@@ -3402,6 +3406,7 @@ ia functiosn functions
 ia functiuons functions
 ia ufnctions functions
 ia fudnamental fundamental
+ia fundmental fundamental
 ia FUndamentals Fundamentals
 ia ufnding funding
 ia ufnds funds
@@ -3476,6 +3481,7 @@ ia geomerty geometry
 ia geometyr geometry
 ia Georger George
 ia Georgetwon Georgetown
+ia Geogia Georgia
 ia gewt get
 ia gest gets
 ia Geting Getting
@@ -3846,6 +3852,7 @@ ia Improts Imports
 ia improts imports
 ia IMprove Improve
 ia Impore Improve
+ia Imporve Improve
 ia Improe Improve
 ia imporve improve
 ia impored improved
@@ -4712,6 +4719,7 @@ ia measuremnts measurements
 ia measurments measurements
 ia meaurements measurements
 ia meeasuremtnes measurements
+ia Measuers Measures
 ia measrues measures
 ia measueres measures
 ia measurse measures
@@ -6485,6 +6493,7 @@ ia rueiquireed required
 ia requiremnet requirement
 ia reuqirement requirement
 ia Requiremetns Requirements
+ia Requirments Requirements
 ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
