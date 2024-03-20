@@ -1834,6 +1834,7 @@ ia cruical crucial
 ia crusing cruising
 ia Crystallation Crystallization
 ia cucib cubic
+ia curent current
 ia curerent current
 ia currrent current
 ia currtent current
