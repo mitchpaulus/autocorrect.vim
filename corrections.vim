@@ -1953,6 +1953,7 @@ ia defauylt default
 ia defualt default
 ia dfeault default
 ia dfeualt default
+ia dfualt default
 ia efault default
 ia deauflts defaults
 ia defatuls defaults
@@ -3592,6 +3593,7 @@ ia ahnd hand
 ia hadn hand
 ia Hanlde Handle
 ia hande handle
+ia hanlde handle
 ia handeld handled
 ia hanlder handler
 ia ahndling handling
@@ -4157,6 +4159,7 @@ ia Internatinlan International
 ia Internatioanl International
 ia Internatiolan International
 ia Internation International
+ia internaitoanl international
 ia internalation international
 ia internatial international
 ia internationl international
