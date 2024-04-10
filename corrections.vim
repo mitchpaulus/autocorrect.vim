@@ -258,6 +258,7 @@ ia Alphabatize Alphabetize
 ia alreaedy already
 ia alreayd already
 ia alrfeayd already
+ia arleady already
 ia lareayd already
 ia Alos Also
 ia alos also
@@ -1097,6 +1098,7 @@ ia cvhecking checking
 ia Chekclist Checklist
 ia chekclist checklist
 ia checkdlists checklists
+ia checklsits checklists
 ia chekclists checklists
 ia chekcout checkout
 ia checkes checks
@@ -4495,6 +4497,7 @@ ia Locaiton Location
 ia lcoaiton location
 ia lcoation location
 ia loation location
+ia locaion location
 ia locaiont location
 ia locaiotn location
 ia locaition location
@@ -6331,6 +6334,7 @@ ia Rembember Remember
 ia Remmber Remember
 ia Remmeber Remember
 ia Rmeind Remind
+ia remidner reminder
 ia remienders reminders
 ia REmote Remote
 ia Remtoe Remote
