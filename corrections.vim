@@ -222,6 +222,7 @@ ia alram alarm
 ia Alamring Alarming
 ia Alaarms Alarms
 ia alrams alarms
+ia laamrs alarms
 ia Albequeque Albuquerque
 ia Albequerqe Albuquerque
 ia Albequerque Albuquerque
@@ -305,6 +306,7 @@ ia analyhsi analysis
 ia analyis analysis
 ia analyiss analysis
 ia analyliss analysis
+ia analylsis analysis
 ia analysisi analysis
 ia analysiss analysis
 ia analyssi analysis
@@ -2128,6 +2130,7 @@ ia determinign determining
 ia determiniing determining
 ia dtermining determining
 ia Devleop Develop
+ia devellop develop
 ia devleop develop
 ia devleoped developed
 ia devloping developing
@@ -4602,6 +4605,7 @@ ia Mkaefile Makefile
 ia amker maker
 ia Mkes Makes
 ia amkes makes
+ia maeks makes
 ia makign making
 ia magnage manage
 ia Managemnet Management
@@ -7044,6 +7048,7 @@ ia showss shows
 ia hsut shut
 ia shuyt shut
 ia Shutodwon Shutdown
+ia shutwdon shutdown
 ia shtudowns shutdowns
 ia sdie side
 ia sidew side
@@ -7356,6 +7361,7 @@ ia storegae storage
 ia stroed stored
 ia sotres stores
 ia storeis stories
+ia Storign Storing
 ia storign storing
 ia sotrm storm
 ia straighht straight
@@ -8604,6 +8610,7 @@ ia Wedneseady Wednesday
 ia Wednessday Wednesday
 ia Wendesady Wednesday
 ia Wennedsay Wednesday
+ia wednesday Wednesday
 ia weke week
 ia wekk week
 ia weeekends weekends
