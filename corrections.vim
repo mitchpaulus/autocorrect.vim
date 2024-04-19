@@ -196,6 +196,7 @@ ia aggregatiuon aggregation
 ia aggregatrion aggregation
 ia aggregration aggregation
 ia aggresive aggressive
+ia agreeded agreed
 ia Argeement Agreement
 ia aggreement agreement
 ia argreement agreement
@@ -357,6 +358,7 @@ ia anniiversary anniversary
 ia anniversity anniversity
 ia annotaiton annotation
 ia annoucement announcement
+ia anooying annoying
 ia annula annual
 ia annulal annual
 ia naanual annual
@@ -5819,6 +5821,7 @@ ia preiovuus previous
 ia preivoius previous
 ia preivous previous
 ia prevous previous
+ia Peviously Previously
 ia Preiovulsy Previously
 ia Preiovusly Previously
 ia Preivulsly Previously
@@ -8688,6 +8691,7 @@ ia WIndows Windows
 ia WInodws Windows
 ia Widnows Windows
 ia Widnwos Windows
+ia Winddows Windows
 ia Windoiws Windows
 ia Windwos Windows
 ia Windwows Windows
