@@ -482,6 +482,7 @@ ia aroudn around
 ia arround around
 ia aruond around
 ia arrya array
+ia ararys arrays
 ia ARrow Arrow
 ia aritcle article
 ia artticle article
@@ -2220,6 +2221,7 @@ ia idgit digit
 ia digial digital
 ia digitila digital
 ia ditigal digital
+ia dimensioness dimensionless
 ia Dingin Dining
 ia dingin dining
 ia dinign dining
@@ -3718,6 +3720,7 @@ ia Holdity Holiday
 ia holdiay holiday
 ia HOliddays Holidays
 ia hoem home
+ia homogenous homogeneous
 ia Honeesty Honesty
 ia Horizontla Horizontal
 ia Horiztonal Horizontal
@@ -3939,6 +3942,7 @@ ia indiviual individual
 ia indiviudal individual
 ia indivudal individual
 ia inidividual individual
+ia invidual individual
 ia individaully individually
 ia indiviudally individually
 ia inddor indoor
@@ -5579,6 +5583,7 @@ ia placehodler placeholder
 ia placenholdre placeholder
 ia placehodlers placeholders
 ia palcement placement
+ia placemnet placement
 ia palces places
 ia plces places
 ia plian plain
