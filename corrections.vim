@@ -129,6 +129,7 @@ ia Additoanl Additional
 ia Additonaol Additional
 ia addiitional additional
 ia addiitnla additional
+ia addiitoanl additional
 ia addiitonal additional
 ia addintoial additional
 ia addiontal additional
@@ -975,6 +976,7 @@ ia capabillites capabilities
 ia capabiliity capability
 ia capabiltiy capability
 ia capabiltiyt capability
+ia capaibiltiyt capability
 ia capacitnace capacitance
 ia capcaities capacities
 ia Capaciyt Capacity
