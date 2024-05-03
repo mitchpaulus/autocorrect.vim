@@ -1456,6 +1456,8 @@ ia comptuers computers
 ia commputing computing
 ia compmuting computing
 ia concatinating concatenating
+ia catenative concatenative
+ia concatinative concatenative
 ia concelaing concealing
 ia concentaiton concentration
 ia concentation concentration
@@ -3148,6 +3150,7 @@ ia Fuilling Filling
 ia filleing filling
 ia Fitler Filter
 ia fitler filter
+ia Fitlering Filtering
 ia fitlers filters
 ia FInal Final
 ia Fianl Final
@@ -5249,6 +5252,7 @@ ia Optimziation Optimization
 ia Optiomization Optimization
 ia optimizaiotn optimization
 ia optimizaiton optimization
+ia optimizatino optimization
 ia optimziaiotn optimization
 ia optimziaiton optimization
 ia optimziaotin optimization
