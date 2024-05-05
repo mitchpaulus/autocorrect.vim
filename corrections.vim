@@ -709,6 +709,7 @@ ia bellw below
 ia Betl Belt
 ia betl belt
 ia betls belts
+ia beneift benefit
 ia benefitted benefited
 ia besdies besides
 ia bset best
@@ -882,6 +883,7 @@ ia BUrns Burns
 ia Buhs Bush
 ia buisness business
 ia busieness business
+ia busines business
 ia BUt But
 ia btu but
 ia buit but
@@ -1082,6 +1084,7 @@ ia cahractersictic characteristic
 ia characteritsics characteristics
 ia characaaters characters
 ia charactesr characters
+ia chage charge
 ia chargges charges
 ia chartr chart
 ia chrat chart
@@ -1158,6 +1161,7 @@ ia circulartion circulation
 ia citaitons citations
 ia Ciit Citi
 ia CIty City
+ia calim claim
 ia cliam claim
 ia cliams claims
 ia Claraixio Claraxio
@@ -1938,6 +1942,7 @@ ia Decentrailzied Decentralized
 ia decidied decided
 ia dediced decided
 ia decidsion decision
+ia decisiion decision
 ia declaraiotn declaration
 ia decalre declare
 ia Declien Decline
@@ -3544,6 +3549,7 @@ ia gmp gpm
 ia graudate graduate
 ia graduyation graduation
 ia gramamrs grammars
+ia egrant grant
 ia Grpah Graph
 ia grahp graph
 ia grpah graph
@@ -4111,6 +4117,7 @@ ia instaed instead
 ia insteadd instead
 ia insteard instead
 ia Institutue Institute
+ia institiution institution
 ia instituation institution
 ia institutaion institution
 ia instituations institutions
@@ -4373,6 +4380,7 @@ ia largets largest
 ia alst last
 ia lateset latest
 ia lwafully lawfully
+ia lwsuit lawsuit
 ia Leadersihp Leadership
 ia leasd leads
 ia Leakding Leaking
@@ -5275,6 +5283,7 @@ ia optiosn options
 ia optoins options
 ia otpions options
 ia otpoins options
+ia aor or
 ia ro or
 ia organe orange
 ia organge orange
@@ -5511,6 +5520,7 @@ ia preformance performance
 ia Performaing Performing
 ia performaning performing
 ia perofmraing performing
+ia perfomrs performs
 ia prehaps perhaps
 ia periemater perimeter
 ia perimieter perimeter
@@ -5653,6 +5663,7 @@ ia poisnt points
 ia poitns points
 ia ponits points
 ia pooints points
+ia Pocliby Policy
 ia polynomical polynomial
 ia polynomails polynomials
 ia ploytropic polytropic
@@ -5833,6 +5844,7 @@ ia PRevious Previous
 ia dprevious previous
 ia preiovus previous
 ia preiovuus previous
+ia preivious previous
 ia preivoius previous
 ia preivous previous
 ia prevous previous
@@ -7183,6 +7195,7 @@ ia smoe some
 ia soem some
 ia Somehwo Somehow
 ia someoen someone
+ia somewone someone
 ia somehting something
 ia someithign something
 ia somethign something
@@ -7538,6 +7551,7 @@ ia sysntax syntax
 ia ysntax syntax
 ia syntehtic synthetic
 ia SYstem System
+ia Ssytem System
 ia Sysetm System
 ia Sysmtme System
 ia Systme System
@@ -7550,6 +7564,7 @@ ia sysmete system
 ia sysmetm system
 ia sysmte system
 ia syst6em system
+ia systm system
 ia systme system
 ia systmem system
 ia systmme system
@@ -8760,6 +8775,7 @@ ia Wokred Worked
 ia owrked worked
 ia worekd worked
 ia workeds worked
+ia owkrer worker
 ia workesr workers
 ia Workflwo Workflow
 ia workflwo workflow
@@ -8826,6 +8842,7 @@ ia yewt yet
 ia Yokr York
 ia YOu You
 ia yhou you
+ia yoau you
 ia yoj you
 ia youy you
 ia yuou you
