@@ -254,6 +254,7 @@ ia alings aligns
 ia al all
 ia lal all
 ia alow allow
+ia lalowing allowing
 ia allwos allows
 ia almsot almost
 ia alogn along
@@ -453,6 +454,7 @@ ia arbitraliy arbitrarily
 ia arbirary arbitrary
 ia arbirtray arbitrary
 ia arbitary arbitrary
+ia arbitrayr arbitrary
 ia ARch Arch
 ia ARchitects Architects
 ia Architechural Architectural
@@ -3068,6 +3070,7 @@ ia farhenheit Fahrenheit
 ia fial fail
 ia fialed failed
 ia failign failing
+ia fialing failing
 ia afils fails
 ia failrue failure
 ia fialure failure
@@ -5103,6 +5106,7 @@ ia nnot not
 ia nto not
 ia ont not
 ia notaiton notation
+ia NOte Note
 ia NOtes Notes
 ia Noets Notes
 ia Ntoes Notes
@@ -5847,10 +5851,13 @@ ia preiovuus previous
 ia preivious previous
 ia preivoius previous
 ia preivous previous
+ia previuos previous
 ia prevous previous
+ia PReivusly Previously
 ia Peviously Previously
 ia Preiovulsy Previously
 ia Preiovusly Previously
+ia Preivously Previously
 ia Preivulsly Previously
 ia Previoulsy Previously
 ia Previousluy Previously
@@ -5869,6 +5876,7 @@ ia priece price
 ia PRicing Pricing
 ia pirmary primary
 ia primeary primary
+ia pricinple principle
 ia princeple principle
 ia Principiles Principles
 ia princiiples principles
@@ -6288,6 +6296,7 @@ ia referecnes references
 ia referneces references
 ia refernecing referencing
 ia refering referring
+ia refelct reflect
 ia refleccted reflected
 ia Reformaatted Reformatted
 ia refrommating reformatting
@@ -6393,6 +6402,7 @@ ia removewd removed
 ia reomved removed
 ia rmeoved removed
 ia remonving removing
+ia reomoving removing
 ia rmoeoivng removing
 ia renamign renaming
 ia REno Reno
@@ -8349,6 +8359,7 @@ ia UPdate Update
 ia Udpate Update
 ia Upate Update
 ia Updaet Update
+ia Updte Update
 ia Uppdate Update
 ia udpate update
 ia uipdate update
