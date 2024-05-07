@@ -7051,6 +7051,7 @@ ia sehell shell
 ia sehll shell
 ia sheell shell
 ia shfit shift
+ia shfiting shifting
 ia shfits shifts
 ia shiping shipping
 ia Shrit Shirt
@@ -8836,6 +8837,7 @@ ia woudl would
 ia wouold would
 ia wuoudl would
 ia wraper wrapper
+ia wrpaper wrapper
 ia writeaable writable
 ia Writie Write
 ia Wrtie Write
