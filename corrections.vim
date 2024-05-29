@@ -124,6 +124,7 @@ ia addtion addition
 ia Addiitnoanal Additional
 ia Addiitonal Additional
 ia Additiioanl Additional
+ia Additiional Additional
 ia Additioanl Additional
 ia Additoanl Additional
 ia Additonaol Additional
@@ -1578,6 +1579,8 @@ ia consistign consisting
 ia consiss consists
 ia consistns consists
 ia consolides consolidates
+ia Consatn Constant
+ia Consatnt Constant
 ia Constatn Constant
 ia Contant Constant
 ia Contstant Constant
@@ -2496,6 +2499,7 @@ ia educaiton education
 ia educatinosl educational
 ia effeect effect
 ia effectiley effectively
+ia effectivenss effectiveness
 ia effectivientss effectiveness
 ia effectivness effectiveness
 ia effectes effects
@@ -2504,6 +2508,7 @@ ia efficiencies efficiencies
 ia efficieneis efficiencies
 ia efficincies efficiencies
 ia eficiceies efficiencies
+ia Efficency Efficiency
 ia Efficiewncy Efficiency
 ia efficicency efficiency
 ia efficiencty efficiency
@@ -3437,6 +3442,7 @@ ia ufnding funding
 ia ufnds funds
 ia Furneral Funeral
 ia Furnance Furnace
+ia furance furnace
 ia furnance furnace
 ia furhter further
 ia rurther further
@@ -5303,6 +5309,7 @@ ia organziaiton organization
 ia organizaitons organizations
 ia rogainations organizations
 ia Orgainzing Organizing
+ia orientatino orientation
 ia orientied oriented
 ia Origal Original
 ia Origialn Original
@@ -5430,6 +5437,7 @@ ia pareameters parameters
 ia pareamters parameters
 ia parmaetesr parameters
 ia parmeetsrf parameters
+ia Paretn Parent
 ia paretn parent
 ia partent parent
 ia parenthesies parentheses
@@ -6827,6 +6835,7 @@ ia Scirpts Scripts
 ia scdripts scripts
 ia sciprts scripts
 ia scirpst Scripts
+ia scirpstjs scripts
 ia scirpts scripts
 ia scrdipst scripts
 ia scripst scripts
@@ -7254,6 +7263,7 @@ ia specificaly specifically
 ia specificaiton specification
 ia specificiation specification
 ia Specificiations Specifications
+ia specficiations specifications
 ia specificaiotns specifications
 ia specificaitons specifications
 ia specificantions specifications
@@ -7855,6 +7865,7 @@ ia termailns terminals
 ia termainls terminals
 ia termialns terminals
 ia termianls terminals
+ia termilnas terminals
 ia tremainls terminals
 ia Temrinate Terminate
 ia temrinate terminate
@@ -7905,6 +7916,7 @@ ia trhe the
 ia tthe the
 ia tye the
 ia tyhe the
+ia THeir Their
 ia hteir their
 ia tehir their
 ia thier their
@@ -7971,6 +7983,7 @@ ia thihck thick
 ia tchickness thickness
 ia thckness thickness
 ia thickenss thickness
+ia thickneess thickness
 ia thnig thing
 ia THings Things
 ia thigns things
@@ -8163,6 +8176,7 @@ ia transportionat transportation
 ia travelled traveled
 ia tredad tread
 ia traeated treated
+ia treatmetn treatment
 ia Treehosue Treehouse
 ia rtrend trend
 ia ternd trend
