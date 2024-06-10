@@ -1596,6 +1596,7 @@ ia ocnstant constant
 ia constatns constants
 ia construciont construction
 ia construciton construction
+ia constructino construction
 ia constructoin construction
 ia consturction construction
 ia constrcuts constructs
@@ -2752,6 +2753,7 @@ ia equationas equations
 ia equiaonts equations
 ia equilbrium equilibrium
 ia EQuipment Equipment
+ia Eqiupment Equipment
 ia Equiapment Equipment
 ia Equipament Equipment
 ia Equipement Equipment
@@ -2996,6 +2998,7 @@ ia epxlicit explicit
 ia expliclit explicit
 ia explicti explicit
 ia Explictly Explicitly
+ia Expliticly Explicitly
 ia Explitly Explicitly
 ia explicity explicitly
 ia explicly explicitly
@@ -5620,6 +5623,7 @@ ia Paln Plan
 ia paln plan
 ia pland plan
 ia plna plan
+ia palnner planner
 ia Plannin8g Planning
 ia plannign planning
 ia palns plans
@@ -5862,6 +5866,7 @@ ia preivous previous
 ia previuos previous
 ia prevous previous
 ia PReivusly Previously
+ia PReviously Previously
 ia Peviously Previously
 ia Preiovulsy Previously
 ia Preiovusly Previously
@@ -6236,6 +6241,7 @@ ia Recieved Received
 ia receieved received
 ia recevied received
 ia recevived received
+ia recewived received
 ia recieved received
 ia recieves receives
 ia REcently Recently
@@ -6523,6 +6529,7 @@ ia reporductive reproductive
 ia REpublic Republic
 ia Requst Request
 ia erquest request
+ia requets request
 ia requrest request
 ia reuqest request
 ia erquested requested
@@ -8532,6 +8539,7 @@ ia ventialtiaon ventilation
 ia ventialtion ventilation
 ia verbage verbiage
 ia Verifiatioon Verification
+ia Verificaiton Verification
 ia verficaiotn verification
 ia verficaiton verification
 ia verfication verification
