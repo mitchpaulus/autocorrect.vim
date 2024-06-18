@@ -2518,6 +2518,7 @@ ia efficiencye efficiency
 ia efficienty efficiency
 ia efficincy efficiency
 ia efficinecy efficiency
+ia efficent efficient
 ia effoft effort
 ia effortr effort
 ia effotr effort
@@ -3957,6 +3958,7 @@ ia Indicies Indices
 ia Indiviual Individual
 ia Indiviudal Individual
 ia Indiviudaul Individual
+ia Inidivual Individual
 ia idndividual individual
 ia ijndividual individual
 ia inddivudal individual
@@ -4925,6 +4927,7 @@ ia MONday Monday
 ia MOnday Monday
 ia Mondayd Monday
 ia Mondnay Monday
+ia mointor monitor
 ia montior monitor
 ia montiro monitor
 ia montiored monitored
@@ -5024,6 +5027,7 @@ ia nautral natural
 ia Naturaly Naturally
 ia narturally naturally
 ia Navitage Navigate
+ia navigaet navigate
 ia naviation navigation
 ia enearest nearest
 ia enearsets nearest
@@ -5762,6 +5766,7 @@ ia Poweer Power
 ia pwoer power
 ia tpower power
 ia pwoered powered
+ia PowerPiotn PowerPoint
 ia Powershell PowerShell
 ia powershell PowerShell
 ia PRactical Practical
@@ -6911,6 +6916,7 @@ ia seleciton selection
 ia selectdion selection
 ia slection selection
 ia Selecitons Selections
+ia selectiosn selections
 ia selectvie selective
 ia Semeseter Semester
 ia Semseter Semester
@@ -7341,6 +7347,7 @@ ia stari stair
 ia staris stairs
 ia Stiarway Stairway
 ia stampsl stamps
+ia standaolone standalone
 ia Standand Standard
 ia satandrad standard
 ia satndard standard
@@ -7433,6 +7440,7 @@ ia stragne strange
 ia stragegies strategies
 ia strageties strategies
 ia stratetgies strategies
+ia Stragety Strategy
 ia stragegy strategy
 ia stragety strategy
 ia stary stray
@@ -7717,6 +7725,7 @@ ia temperartute temperature
 ia temperarutre temperature
 ia temperateur temperature
 ia temperatre temperature
+ia temperatrue temperature
 ia temperatue temperature
 ia temperatuer temperature
 ia temperaturea temperature
