@@ -43,6 +43,7 @@ ia aqcccess access
 ia accessiblity accessibility
 ia accesible accessible
 ia accissible accessible
+ia Accesosoreis Accessories
 ia accidnet accident
 ia accidently accidentally
 ia accompnay accompany
@@ -815,6 +816,7 @@ ia Buidlgin Building
 ia Buidlign Building
 ia Buidling Building
 ia Builcind Building
+ia Buildgin Building
 ia Buildgion Building
 ia Buildic Building
 ia Buildign Building
@@ -1268,6 +1270,7 @@ ia comibination combination
 ia combinationas combinations
 ia combonations combinations
 ia cominations combinations
+ia Combinded Combined
 ia combiend combined
 ia comibned combined
 ia combusition combustion
@@ -1595,6 +1598,7 @@ ia contsatn constant
 ia ocnsatnt constant
 ia ocnstant constant
 ia constatns constants
+ia Contruction Construction
 ia construciont construction
 ia construciton construction
 ia constructino construction
@@ -1628,6 +1632,8 @@ ia Containes Contains
 ia Contaisn Contains
 ia conatins contains
 ia contians contains
+ia Contaminatn Contaminant
+ia Contaminatns Contaminants
 ia conent content
 ia contnent content
 ia contnet content
@@ -2307,6 +2313,7 @@ ia disucssion discussion
 ia disfiurement disfigurement
 ia dispaly display
 ia disply display
+ia displya display
 ia disseratioatn dissertation
 ia disseration dissertation
 ia dissertaiton dissertation
@@ -2498,6 +2505,7 @@ ia editning editing
 ia eidtor editor
 ia deidtors editors
 ia educaiton education
+ia Eucational Educational
 ia educatinosl educational
 ia effeect effect
 ia effectiley effectively
@@ -2716,8 +2724,10 @@ ia environemnt environment
 ia environemtn environment
 ia environemtnet environment
 ia envriorment environment
+ia Enviormental Environmental
 ia Enviormentla Environmental
 ia enviromental environmental
+ia Enviornments Environments
 ia enviorments environments
 ia enviroments environments
 ia environemntes environments
@@ -2757,6 +2767,7 @@ ia equilbrium equilibrium
 ia EQuipment Equipment
 ia Eqiupment Equipment
 ia Equiapment Equipment
+ia Equiepment Equipment
 ia Equipament Equipment
 ia Equipement Equipment
 ia Equipemnt Equipment
@@ -3975,6 +3986,7 @@ ia indiviudally individually
 ia inddor indoor
 ia induciton induction
 ia INdustrial Industrial
+ia Industiral Industrial
 ia indusrial industrial
 ia industyr industry
 ia inequaliyt inequality
@@ -7556,6 +7568,7 @@ ia survye survey
 ia surveryed surveyed
 ia suscepible susceptible
 ia uspicoius suspicious
+ia Sustanable Sustainable
 ia swign swing
 ia wswing swing
 ia swigingin swinging
@@ -7611,6 +7624,7 @@ ia sytesm system
 ia syustem system
 ia SYstems Systems
 ia Ssytems Systems
+ia Systemss Systems
 ia Systesm Systems
 ia Systesms Systems
 ia ssytems systems
@@ -7674,6 +7688,7 @@ ia techiniuqes techniques
 ia techinuques techniques
 ia techniquers techniques
 ia technoilogies technologies
+ia TEchnology Technology
 ia Techonology Technology
 ia Teeht Teeth
 ia TEmp Temp
@@ -7953,6 +7968,7 @@ ia Theoretcial Theoretical
 ia theorectical theoretical
 ia theoretcial theoretical
 ia theorteical theoretical
+ia Theyory Theory
 ia THere There
 ia Therte There
 ia Threre There
@@ -8188,6 +8204,7 @@ ia trtansmission transmission
 ia trnasmittance transmittance
 ia transpaerent transparent
 ia transpiller transpiler
+ia Transportaion Transportation
 ia transporation transportation
 ia transportionat transportation
 ia travelled traveled
