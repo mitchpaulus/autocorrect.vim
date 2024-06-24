@@ -302,6 +302,7 @@ ia analougous analogous
 ia analygous analogous
 ia analygousu analogous
 ia anlogue analogue
+ia Analsysi Analysis
 ia Analyiss Analysis
 ia Analyusis Analysis
 ia analsyis analysis
@@ -1180,6 +1181,7 @@ ia calssification classification
 ia claissication classification
 ia Clena Clean
 ia calne clean
+ia Cleanign Cleaning
 ia cleanign cleaning
 ia Cleanpu Cleanup
 ia clenaup cleanup
@@ -2930,6 +2932,7 @@ ia exhanger exchange
 ia exhcange exchange
 ia excahnger exchanger
 ia exchagner exchanger
+ia Exchagners Exchangers
 ia Exhcangerse Exchangers
 ia exchagners exchangers
 ia exchangesr exchangers
@@ -3472,6 +3475,7 @@ ia ufture future
 ia Garge Garage
 ia garaage garage
 ia GAs Gas
+ia GAseous Gaseous
 ia gauage gauge
 ia Gera Gear
 ia GEnearl General
@@ -4154,6 +4158,7 @@ ia Instrucitnos Instructions
 ia Insturcitons Instructions
 ia INsulation Insulation
 ia Insluaiton Insulation
+ia Insulatin Insulation
 ia insluation insulation
 ia inslulation insulation
 ia insureance insurance
@@ -4658,6 +4663,7 @@ ia amkes makes
 ia maeks makes
 ia makign making
 ia magnage manage
+ia Managemetn Management
 ia Managemnet Management
 ia Managmeent Management
 ia Managnemnt Management
@@ -4785,6 +4791,7 @@ ia measrues measures
 ia measueres measures
 ia measurse measures
 ia MEchanicla Mechanical
+ia Meachnical Mechanical
 ia Mechancial Mechanical
 ia Mechanicla Mechanical
 ia mechancial mechanical
@@ -5778,6 +5785,7 @@ ia Poweer Power
 ia pwoer power
 ia tpower power
 ia pwoered powered
+ia pwoerful powerful
 ia PowerPiotn PowerPoint
 ia Powershell PowerShell
 ia powershell PowerShell
@@ -6314,6 +6322,7 @@ ia refactyor refactor
 ia Refacotring Refactoring
 ia REferecne Reference
 ia Refernce Reference
+ia Refernece Reference
 ia referecne reference
 ia referencem reference
 ia refernce reference
@@ -6335,8 +6344,10 @@ ia refrommating reformatting
 ia Refreash Refresh
 ia refrehsed refreshed
 ia REfrigerant Refrigerant
+ia Refrigeratn Refrigerant
 ia refrigeratant refrigerant
 ia refrigeratnt refrigerant
+ia Refrigeratns Refrigerants
 ia refigerator refrigerator
 ia reagardiung regarding
 ia regartding regarding
@@ -6417,6 +6428,7 @@ ia Remtoe Remote
 ia Reomte Remote
 ia remtoe remote
 ia Removalbe Removable
+ia REmoval Removal
 ia REmove Remove
 ia REmvoe Remove
 ia Removoe Remove
@@ -7676,6 +7688,7 @@ ia Tema Team
 ia tema team
 ia TEams Teams
 ia Teasm Teams
+ia Techarical Technical
 ia Techinical Technical
 ia techinal technical
 ia techincal technical
@@ -8148,6 +8161,7 @@ ia totla total
 ia toltals totals
 ia totlas totals
 ia otwer tower
+ia Towerse Towers
 ia toweres towers
 ia Toixc Toxic
 ia Toytoa Toyota
@@ -8204,6 +8218,7 @@ ia trtansmission transmission
 ia trnasmittance transmittance
 ia transpaerent transparent
 ia transpiller transpiler
+ia Transporation Transportation
 ia Transportaion Transportation
 ia transporation transportation
 ia transportionat transportation
@@ -8658,6 +8673,7 @@ ia Walthrough Walkthrough
 ia walkthorugh walkthrough
 ia walthrough walkthrough
 ia wlal wall
+ia Wnat Want
 ia wanwt want
 ia watn want
 ia wnat want
