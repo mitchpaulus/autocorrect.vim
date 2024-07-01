@@ -540,6 +540,7 @@ ia anthete athlete
 ia atmosphereic atmospheric
 ia atmosphreric atmospheric
 ia attahc attach
+ia Attachmetn Attachment
 ia attachemnt attachment
 ia attachemtn attachment
 ia Attachements Attachments
@@ -1240,6 +1241,7 @@ ia Collaboraiton Collaboration
 ia collabloariton collaboration
 ia collaboartion collaboration
 ia collaboraiton collaboration
+ia collobartive collaborative
 ia collegaue colleague
 ia coollected collected
 ia colleciotns collection
@@ -2631,6 +2633,7 @@ ia ned end
 ia endevor endeavor
 ia Edngins Endings
 ia Enforcment Endorsement
+ia enpoint endpoint
 ia ENergy Energy
 ia Eenergy Energy
 ia Eneeryg Energy
@@ -5615,6 +5618,7 @@ ia PHyscial Physical
 ia Physcial Physical
 ia phhyscial physical
 ia phycisal physical
+ia physcial physical
 ia physcally physically
 ia pinao piano
 ia pickpu pickup
@@ -5704,6 +5708,7 @@ ia poitns points
 ia ponits points
 ia pooints points
 ia Pocliby Policy
+ia pocliy policy
 ia polynomical polynomial
 ia polynomails polynomials
 ia ploytropic polytropic
@@ -6187,6 +6192,7 @@ ia queitson questions
 ia quesitons questions
 ia Qucdk Quick
 ia Quikc Quick
+ia qiuck quick
 ia qiuik quick
 ia quikc quick
 ia Quiclkly Quickly
