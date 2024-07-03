@@ -200,6 +200,7 @@ ia aggregatrion aggregation
 ia aggregration aggregation
 ia aggresive aggressive
 ia agreeded agreed
+ia Agreeemnt Agreement
 ia Argeement Agreement
 ia aggreement agreement
 ia argreement agreement
@@ -5176,6 +5177,7 @@ ia Ojbect Object
 ia obejct object
 ia objecdt object
 ia ojbect object
+ia opject object
 ia obejcts objects
 ia objets objects
 ia ojbects objects
@@ -7703,6 +7705,7 @@ ia techinial technical
 ia techinical technical
 ia technaicila technical
 ia Techincally Technically
+ia techanically technically
 ia techiniuqes techniques
 ia techinuques techniques
 ia techniquers techniques
