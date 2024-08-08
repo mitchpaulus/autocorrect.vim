@@ -507,6 +507,7 @@ ia Askign Asking
 ia askign asking
 ia ascpects aspects
 ia Assualt Assault
+ia assertiaon assertion
 ia Assesment Assessment
 ia assesments assessments
 ia assessmetnts assessments
@@ -1183,6 +1184,7 @@ ia calssification classification
 ia claissication classification
 ia Clena Clean
 ia calne clean
+ia clena clean
 ia Cleanign Cleaning
 ia cleanign cleaning
 ia Cleanpu Cleanup
@@ -1834,6 +1836,7 @@ ia copule couple
 ia coures course
 ia covver cover
 ia ocver cover
+ia coverge coverage
 ia covewred covered
 ia COIVD COVID
 ia cracs CRACs
@@ -4732,6 +4735,7 @@ ia markders markers
 ia Mayr Mary
 ia amst mast
 ia amster master
+ia masteer master
 ia amtch match
 ia mataches matches
 ia matchign matching
@@ -5373,6 +5377,7 @@ ia OTherwise Otherwise
 ia Otherwsie Otherwise
 ia oiur our
 ia oru our
+ia oursevels ourselves
 ia otu out
 ia ouyt out
 ia otubreak outbreak
@@ -5757,6 +5762,7 @@ ia postivie positive
 ia psotiive positive
 ia possibilites possibilities
 ia possibilties possibilities
+ia possibliites possibilities
 ia possilbities possibilities
 ia possilblities possibilities
 ia possiblity possibility
@@ -6348,6 +6354,7 @@ ia refernecing referencing
 ia refering referring
 ia refelct reflect
 ia refleccted reflected
+ia Refleciton Reflection
 ia Reformaatted Reformatted
 ia refrommating reformatting
 ia Refreash Refresh
