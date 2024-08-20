@@ -478,6 +478,7 @@ ia raea area
 ia araes areas
 ia argumetn argument
 ia arugment argument
+ia agruments arguments
 ia argumentets arguments
 ia arugments arguments
 ia Arthimetic Arithmetic
@@ -866,6 +867,7 @@ ia buildgins buildings
 ia buildigns buildings
 ia buildigs buildings
 ia builgins buildings
+ia builidngs buildings
 ia builtinds buildings
 ia buioldings buildings
 ia buiolgings buildings
@@ -1813,6 +1815,7 @@ ia coulds could
 ia coulld could
 ia coulod could
 ia cuold could
+ia oculd could
 ia oucld could
 ia coucnil council
 ia Coutn Count
@@ -1992,6 +1995,7 @@ ia defauylt default
 ia defualt default
 ia dfeault default
 ia dfeualt default
+ia dfeuatl default
 ia dfualt default
 ia efault default
 ia deauflts defaults
@@ -2457,6 +2461,7 @@ ia dirve drive
 ia dreive drive
 ia drifen driven
 ia drivne driven
+ia dreivers drivers
 ia drivesr drivers
 ia dorp drop
 ia dropwdown dropdown
@@ -2536,6 +2541,7 @@ ia efficienty efficiency
 ia efficincy efficiency
 ia efficinecy efficiency
 ia efficent efficient
+ia efficienct efficient
 ia effoft effort
 ia effortr effort
 ia effotr effort
@@ -3451,6 +3457,7 @@ ia ufnctionality functionality
 ia funcitonaliy functionally
 ia funcitoning functioning
 ia Fucnttions Functions
+ia fucitons functions
 ia fucntions functions
 ia fucntiosn functions
 ia fuctions functions
@@ -4531,6 +4538,7 @@ ia lieterals literals
 ia literuate literate
 ia lieterature literature
 ia Littel Little
+ia litle little
 ia littee little
 ia littel little
 ia lttile little
@@ -6719,6 +6727,7 @@ ia retorfit retrofit
 ia retorift retrofit
 ia retroift retrofit
 ia REturn Return
+ia Retuern Return
 ia Rreturn Return
 ia reaturn return
 ia retun return
