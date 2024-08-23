@@ -434,6 +434,7 @@ ia apprach approach
 ia appraoch approach
 ia approahc approach
 ia pappraoch approach
+ia papraoch approach
 ia paproach approach
 ia appropirate appropriate
 ia appropraite appropriate
@@ -678,6 +679,7 @@ ia bvaseline baseline
 ia basleines baselines
 ia Bascially Basically
 ia Basicaly Basically
+ia Basiclaly Basically
 ia bascially basically
 ia bascialyl basically
 ia basiclaly basically
@@ -1586,6 +1588,7 @@ ia ocnsistency consistency
 ia consistnet consistent
 ia consistnetn consistent
 ia consistnt consistent
+ia consisently consistently
 ia consistenly consistently
 ia consistnely consistently
 ia consistign consisting
@@ -5646,6 +5649,7 @@ ia peice piece
 ia peices pieces
 ia pioope pipe
 ia piope pipe
+ia peiplien pipeline
 ia pipelien pipeline
 ia piplein pipeline
 ia piplien pipeline
@@ -6197,6 +6201,7 @@ ia queisont question
 ia quesiotn question
 ia quesiton question
 ia Qeustionaaire Questionnaire
+ia Questionairre Questionnaire
 ia quesitionarrir questionnaire
 ia questionaire questionnaire
 ia questionanaire questionnaire
@@ -7287,6 +7292,7 @@ ia somthing something
 ia somtihng something
 ia Somethimes Sometimes
 ia Sometmies Sometimes
+ia soemitmes sometimes
 ia somethimes sometimes
 ia soemwhere somewhere
 ia saught sought
@@ -8596,6 +8602,7 @@ ia vairous various
 ia variosu various
 ia varoius various
 ia valsty vastly
+ia vastyl vastly
 ia Valut Vault
 ia vehivcle vehicle
 ia velcotiy velocity
