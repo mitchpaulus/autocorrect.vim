@@ -1103,6 +1103,7 @@ ia chartr chart
 ia chrat chart
 ia chaisng chasing
 ia CHeck Check
+ia CHekc Check
 ia Cheeck Check
 ia chedck check
 ia chekc check
@@ -2396,6 +2397,7 @@ ia docuemntaiotn documentation
 ia docuemntaiton documentation
 ia docuemntation documentation
 ia docuemtnaiton documentation
+ia docuemtnation documentation
 ia documeantion documentation
 ia documenataion documentation
 ia documenatino documentation
@@ -2448,6 +2450,7 @@ ia downstrream downstream
 ia Downtonw Downtown
 ia doewntown downtown
 ia downotown downtown
+ia downotwn downtown
 ia downtonn downtown
 ia drwa draw
 ia drwawer drawer
@@ -3221,6 +3224,7 @@ ia fidn find
 ia ifnd find
 ia Findigns Findings
 ia FInish Finish
+ia Finihs Finish
 ia Finsih Finish
 ia Finsihs Finish
 ia finsih finish
@@ -4287,6 +4291,7 @@ ia investement investment
 ia inviation invitation
 ia invitue invite
 ia Inovices Invoices
+ia inovices invoices
 ia involed involved
 ia involied involved
 ia invovled involved
@@ -4909,6 +4914,7 @@ ia Mtich Mitch
 ia maixing mixing
 ia minxing mixing
 ia MMBUT MMBTU
+ia Mboile Mobile
 ia mobilityi mobility
 ia MOde Mode
 ia Mdoe Mode
