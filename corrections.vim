@@ -7518,6 +7518,7 @@ ia Streches Stretches
 ia striclty strictly
 ia Sring String
 ia stinrg string
+ia stirng string
 ia STrings Strings
 ia Strukc Struck
 ia Structurla Structural
