@@ -4886,6 +4886,7 @@ ia minimual minimal
 ia Mniiimzie Minimize
 ia mininmized minimized
 ia Minimmum Minimum
+ia Minmium Minimum
 ia mimnimum minimum
 ia minimimum minimum
 ia minimmum minimum
@@ -5548,6 +5549,7 @@ ia apy pay
 ia pya pay
 ia paymetns payments
 ia PFD PDF
+ia peka peak
 ia Pdela Pedal
 ia Penalthy Penalty
 ia penatlty penalty
@@ -6342,6 +6344,7 @@ ia Redefinning Redefining
 ia reod redo
 ia reodo redo
 ia REdoing Redoing
+ia REduced Reduced
 ia redueced reduced
 ia reduceds reduces
 ia reducition reduction
