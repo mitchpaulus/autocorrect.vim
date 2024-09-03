@@ -2777,6 +2777,7 @@ ia EQuatino Equation
 ia EQuation Equation
 ia Equaitno Equation
 ia Equaiton Equation
+ia Equiaotn Equation
 ia equaiotn equation
 ia equaiton equation
 ia equatoin equation
