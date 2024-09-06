@@ -2414,6 +2414,7 @@ ia documentaiton documentation
 ia documentatino documentation
 ia documention documentation
 ia documetiona documentation
+ia documetnion documentation
 ia documneation documentation
 ia docuemneted documented
 ia docuemnted documented
@@ -4171,6 +4172,7 @@ ia insatnce instance
 ia instancde instance
 ia instane instance
 ia insatnaces instances
+ia insatnces instances
 ia instanceds instances
 ia Instantenous Instantaneous
 ia instanteous instantaneous
@@ -5554,6 +5556,7 @@ ia apst past
 ia pasate paste
 ia passted pasted
 ia Paht Path
+ia apth path
 ia paht path
 ia pahts paths
 ia patritoic patriotic
