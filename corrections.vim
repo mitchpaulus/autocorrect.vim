@@ -279,6 +279,7 @@ ia altenratives alternatives
 ia Althouugh Although
 ia Athough Although
 ia althoguh although
+ia altititude altitude
 ia altogehter altogether
 ia Alwyas Always
 ia alawys always
@@ -1455,6 +1456,7 @@ ia compeltion completion
 ia compleition completion
 ia compleiton completion
 ia compeltions completions
+ia compleitons completions
 ia complicance compliance
 ia compliatn compliant
 ia comiplicated complicated
@@ -4261,6 +4263,7 @@ ia intenet internet
 ia Interoperability Interoperability
 ia interpoleated interpolated
 ia interpoation interpolation
+ia interpolaiton interpolation
 ia interregating interrogating
 ia Interupptions Interruptions
 ia interupptions interruptions
@@ -6076,6 +6079,7 @@ ia Pojrect Project
 ia Porejct Project
 ia Proejct Project
 ia pjorect project
+ia pojrect project
 ia porjecst project
 ia porject project
 ia preojct project
@@ -7723,6 +7727,7 @@ ia Tableou Tableau
 ia tagblse tables
 ia Tablest Tablets
 ia tablular tabular
+ia tabualr tabular
 ia taggins tagging
 ia TAke Take
 ia atake take
@@ -8953,6 +8958,7 @@ ia workpalce workplace
 ia WOrks Works
 ia workds works
 ia owrksheet worksheet
+ia Wrokspace Workspace
 ia woryying worrying
 ia wroth worth
 ia WOuld Would
