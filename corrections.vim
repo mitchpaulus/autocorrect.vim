@@ -2979,6 +2979,7 @@ ia execture execute
 ia exectued executed
 ia exectuing executing
 ia executaiton execution
+ia executation execution
 ia executuion execution
 ia Excecutive Executive
 ia Executivie Executive
@@ -8203,6 +8204,7 @@ ia otken token
 ia toekn token
 ia otkens tokens
 ia toekns tokens
+ia toeksn tokens
 ia tokesn tokens
 ia TOld Told
 ia TOll Toll
