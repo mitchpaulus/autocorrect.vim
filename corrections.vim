@@ -1412,6 +1412,7 @@ ia compliaiton compilation
 ia compliation compilation
 ia Comipile Compile
 ia compiel compile
+ia complie compile
 ia complile compile
 ia ccompiled compiled
 ia ocmplield compiled
@@ -1699,6 +1700,7 @@ ia contrrol control
 ia contyrol control
 ia cotnrol control
 ia ctonrol control
+ia ocntorl control
 ia contorlled controlled
 ia contrlled controlled
 ia controled controlled
@@ -3808,6 +3810,7 @@ ia Hosptial Hospital
 ia hositpal hospital
 ia hto hot
 ia Hotle Hotel
+ia thotel hotel
 ia htoter hotter
 ia horu hour
 ia horuly hourly
@@ -5619,6 +5622,7 @@ ia peirod period
 ia peroid period
 ia preiod period
 ia peirods periods
+ia Permanetn Permanent
 ia Permannet Permanent
 ia permannet permanent
 ia premenently permanently
@@ -5649,6 +5653,7 @@ ia PHase Phase
 ia PHawse Phase
 ia Pahse Phase
 ia pahse phase
+ia pahsed phased
 ia pahases phases
 ia pahsing phasing
 ia Phillippines Philippines
@@ -6620,6 +6625,7 @@ ia Reproducable Reproducible
 ia reproducable reproducible
 ia reporductive reproductive
 ia REpublic Republic
+ia Republci Republic
 ia Requst Request
 ia erquest request
 ia requets request
@@ -6691,6 +6697,7 @@ ia reste reset
 ia Residentail Residential
 ia residentiali residential
 ia residitnetal residential
+ia residnetail residential
 ia Resliiency Resiliency
 ia relisiancy resiliency
 ia resliiency resiliency
@@ -6895,6 +6902,7 @@ ia scheduleted scheduled
 ia scheudled scheduled
 ia scueheudled scheduled
 ia Scheudles Schedules
+ia Scheuldes Schedules
 ia scheduels schedules
 ia scheludlse schedules
 ia scheudles schedules
@@ -8084,6 +8092,7 @@ ia Thermodynamcis Thermodynamics
 ia Thermodynamnics Thermodynamics
 ia thermodynaimics thermodynamics
 ia thermodynamcis thermodynamics
+ia thermosotat thermostat
 ia thermostst thermostat
 ia THese These
 ia htese these
