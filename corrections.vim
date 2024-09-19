@@ -256,6 +256,7 @@ ia aligened aligned
 ia alings aligns
 ia al all
 ia lal all
+ia Alllw Allow
 ia alow allow
 ia lalowing allowing
 ia allwos allows
@@ -403,6 +404,7 @@ ia appearancew appearance
 ia aappears appears
 ia appeas appears
 ia appreas appears
+ia appendicies appendices
 ia apepndix appendix
 ia applicaable applicable
 ia Applicaiotn Application
@@ -2011,6 +2013,7 @@ ia dfeualt default
 ia dfeuatl default
 ia dfualt default
 ia efault default
+ia deafults defaults
 ia deauflts defaults
 ia defatuls defaults
 ia Defereed Deferred
