@@ -605,6 +605,7 @@ ia automoatically automatically
 ia auotmation automation
 ia automaation automation
 ia auxillary auxiliary
+ia availabillity availability
 ia avaiable available
 ia avaialabe available
 ia avaialbable available
@@ -7601,6 +7602,7 @@ ia substaionts substations
 ia substiture substitute
 ia substituing substituting
 ia substituion substitution
+ia substiution substitution
 ia substituations substitutions
 ia substiutions substitutions
 ia subtakss subtasks
