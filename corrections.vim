@@ -742,7 +742,9 @@ ia billtion billion
 ia bils bills
 ia bindgin binding
 ia bindign binding
+ia bindigns bindings
 ia bindngs bindings
+ia bindsings bindings
 ia binndings bindings
 ia birthdya birthday
 ia bwiweekly biweekly
@@ -2843,6 +2845,7 @@ ia qeuiqpment equipment
 ia equivalnet equivalent
 ia equivlanet equivalent
 ia eerror error
+ia errro error
 ia Erros Errors
 ia erros errors
 ia errosr errors
@@ -6276,6 +6279,7 @@ ia quilte quite
 ia qutie quite
 ia quiting quitting
 ia quoatiaon quotation
+ia qoute quote
 ia qutoed quoted
 ia qoutes quotes
 ia quotoient quotient
