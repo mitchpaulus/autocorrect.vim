@@ -3835,8 +3835,6 @@ ia hwo how
 ia HOwever However
 ia Howerver However
 ia howerver however
-ia Html HTML
-ia html HTML
 ia huann human
 ia Humidifciation Humidification
 ia humidifciaiton humidification
@@ -4374,7 +4372,6 @@ ia joiningj joining
 ia Jospeh Joseph
 ia Jsoh Josh
 ia SJON JSON
-ia json JSON
 ia judgement judgment
 ia Juilian Julian
 ia Julain Julian
