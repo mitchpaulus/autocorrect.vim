@@ -1021,6 +1021,7 @@ ia cpacaity capacity
 ia cpacity capacity
 ia Captial Capital
 ia capitla capital
+ia captilized capitalized
 ia Capations Captions
 ia capations captions
 ia cpations captions
@@ -3728,6 +3729,7 @@ ia hving having
 ia Haystakc Haystack
 ia ahzardous hazardous
 ia hazazards hazards
+ia heaaders headers
 ia sheaders headers
 ia Heaidng Heading
 ia ehading heading
@@ -4918,6 +4920,7 @@ ia Minmium Minimum
 ia mimnimum minimum
 ia minimimum minimum
 ia minimmum minimum
+ia minmimum minimum
 ia minmium minimum
 ia minmum minimum
 ia Minnestoa Minnesota
@@ -5398,6 +5401,7 @@ ia orientatino orientation
 ia orientied oriented
 ia Origal Original
 ia Origialn Original
+ia Origianal Original
 ia Origianl Original
 ia Origilan Original
 ia origal original
