@@ -3006,6 +3006,7 @@ ia exhasut exhaust
 ia exhuast exhaust
 ia eixist exist
 ia exisited existed
+ia existant existent
 ia Exisiting Existing
 ia elxisting existing
 ia exigting existing
@@ -3410,6 +3411,7 @@ ia Fridya Friday
 ia freidns friends
 ia FRom From
 ia freom from
+ia frim from
 ia frmo from
 ia froam from
 ia fromm from
@@ -3557,6 +3559,7 @@ ia genreated generated
 ia gerneated generated
 ia gneerated generated
 ia genearitong generating
+ia gnerating generating
 ia genration generation
 ia genreation generation
 ia gneeration generation
@@ -4489,6 +4492,7 @@ ia lenghts lengths
 ia Lession Lesson
 ia elt let
 ia LEvel Level
+ia Levle Level
 ia elvel level
 ia leverl level
 ia levle level
@@ -5576,6 +5580,7 @@ ia passted pasted
 ia Paht Path
 ia apth path
 ia paht path
+ia ptha path
 ia pahts paths
 ia patritoic patriotic
 ia patten pattern
@@ -8710,6 +8715,7 @@ ia verison version
 ia verseion version
 ia versino version
 ia vresion version
+ia verisonsing versioning
 ia vereison versions
 ia veriseons versions
 ia verisons versions
