@@ -2803,6 +2803,7 @@ ia equaionts equations
 ia equaiotns equations
 ia equaitons equations
 ia equationas equations
+ia equatiosn equations
 ia equiaonts equations
 ia equilbrium equilibrium
 ia EQuipment Equipment
@@ -3989,6 +3990,7 @@ ia includddes includes
 ia includeds includes
 ia inlcudes includes
 ia inclduing including
+ia includding including
 ia includieng including
 ia INclusion Inclusion
 ia incoem income
@@ -8651,6 +8653,7 @@ ia vairlabes variables
 ia variablwes variables
 ia variabvles variables
 ia variaibles variables
+ia variailbse variables
 ia varialbeles variables
 ia varialbes variables
 ia varialbles variables
