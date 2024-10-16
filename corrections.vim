@@ -1266,6 +1266,7 @@ ia collegaue colleague
 ia coollected collected
 ia colleciotns collection
 ia colleciton collection
+ia coolection collection
 ia Coletor Collector
 ia Colege College
 ia Coollege College
@@ -1982,6 +1983,7 @@ ia deailng dealing
 ia dealign dealing
 ia debuging debugging
 ia deceleartion deceleration
+ia Decmeber December
 ia Decmember December
 ia Decentrailzied Decentralized
 ia decidied decided
@@ -2050,6 +2052,7 @@ ia degress degrees
 ia Dehumidificaiton Dehumidification
 ia dehumidifaciton dehumidification
 ia dehumidifcation dehumidification
+ia dehumidificaiton dehumidification
 ia dealy delay
 ia delte delete
 ia dleeted deleted
@@ -4182,6 +4185,7 @@ ia instlaliont installation
 ia instllaiotn installation
 ia instllation installation
 ia isntallation installation
+ia imstaled installed
 ia inistalled installed
 ia insalled installed
 ia insatalled installed
@@ -6218,6 +6222,7 @@ ia prupurose purpose
 ia puprose purpose
 ia pruposes purposes
 ia purpoess purposes
+ia PUsh Push
 ia Puhs Push
 ia PUt Put
 ia PYthon Python
@@ -7670,6 +7675,7 @@ ia usre sure
 ia suraface surface
 ia surafce surface
 ia Surpirse Surprise
+ia surroudded surrounded
 ia surroundign surrounding
 ia surroundsing surrounding
 ia surroudngins surroundings
