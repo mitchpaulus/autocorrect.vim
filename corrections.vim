@@ -3068,6 +3068,7 @@ ia explicity explicitly
 ia explicly explicitly
 ia explictily explicitly
 ia expliticly explicitly
+ia explitily explicitly
 ia exporartion exploration
 ia Exploerer Explorer
 ia explroeing exploring
@@ -7444,6 +7445,7 @@ ia speradhset spreadsheet
 ia speradsheet spreadsheet
 ia spreadhseet spreadsheet
 ia spreadhset spreadsheet
+ia spreadhsete spreadsheet
 ia spreadhsetet spreadsheet
 ia spreadhsett spreadsheet
 ia spreadseheet spreadsheet
