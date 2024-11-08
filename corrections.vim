@@ -160,6 +160,7 @@ ia adeqauyate adequate
 ia Adjsut Adjust
 ia adjsut adjust
 ia adjsutable adjustable
+ia adjusatable adjustable
 ia adjustements adjustments
 ia adjustemsnts adjustments
 ia ADmin Admin
@@ -458,6 +459,7 @@ ia paproximately approximately
 ia approximatation approximation
 ia approxmiation approximation
 ia Arpil April
+ia arbitraily arbitrarily
 ia arbitralily arbitrarily
 ia arbitraliy arbitrarily
 ia arbirary arbitrary
@@ -914,6 +916,7 @@ ia butoton button
 ia yb by
 ia Byapss Bypass
 ia byapss bypass
+ia bypss bypass
 ia cabliing cabling
 ia chacehd cached
 ia cafeteriaa cafeteria
@@ -1148,11 +1151,13 @@ ia Chrrey Cherry
 ia childern children
 ia CHilled Chilled
 ia Chiled Chilled
+ia chiled chilled
 ia chillled chilled
 ia CHiller Chiller
 ia Chilelr Chiller
 ia Chiler Chiller
 ia chiler chiller
+ia chilller chiller
 ia chyiller chiller
 ia CHillers Chillers
 ia Chjillers Chillers
@@ -2648,6 +2653,7 @@ ia emaisl emails
 ia evmails emails
 ia meails emails
 ia Emeryecny Emergency
+ia emergycny emergency
 ia emergynecy emergency
 ia emergingn emerging
 ia emplirclaly empirically
@@ -2961,6 +2967,7 @@ ia exapmles examples
 ia exmaples examples
 ia exmapllse examples
 ia rexceeding exceeding
+ia exeeds exceeds
 ia Ecxel Excel
 ia Excewl Excel
 ia Excle Excel
@@ -3520,6 +3527,7 @@ ia furance furnace
 ia furnance furnace
 ia furhter further
 ia rurther further
+ia Fturue Future
 ia Fugure Future
 ia Futuer Future
 ia furture future
@@ -4341,6 +4349,7 @@ ia irreversilbe irreversible
 ia fis is
 ia isoalted isolated
 ia isolaiotn isolation
+ia sisolation isolation
 ia isothermla isothermal
 ia isseu issue
 ia isseus issues
@@ -4694,6 +4703,7 @@ ia maintin maintain
 ia maintainablity maintainability
 ia maintinained maintained
 ia maintainging maintaining
+ia maintianing maintaining
 ia Maintainence Maintenance
 ia Maintanence Maintenance
 ia Maintenacen Maintenance
@@ -5178,6 +5188,7 @@ ia nexzt next
 ia ncie nice
 ia ngiht night
 ia nosie noise
+ia nosise noise
 ia nomeclature nomenclature
 ia nomencalture nomenclature
 ia nomencalute nomenclature
@@ -5310,6 +5321,7 @@ ia ONly Only
 ia nonly only
 ia onlly only
 ia onstie onsite
+ia oipen open
 ia opne open
 ia poen open
 ia OpenSutiod OpenStudio
@@ -8486,6 +8498,7 @@ ia unfamilar unfamiliar
 ia Unflitered Unfiltered
 ia Unfortunatley Unfortunately
 ia unicode Unicode
+ia unfiied unified
 ia Unifomr Uniform
 ia uique unique
 ia uniuqe unique
@@ -8645,6 +8658,7 @@ ia vlues values
 ia valuve valve
 ia vlalve valve
 ia vlave valve
+ia vlavle valve
 ia vlaves valves
 ia vanialla vanilla
 ia Varialbe Variable
