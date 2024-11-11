@@ -1163,6 +1163,7 @@ ia CHillers Chillers
 ia Chjillers Chillers
 ia chilelrs chillers
 ia chilers chillers
+ia chilleres chillers
 ia chilllers chillers
 ia chillres chillers
 ia choloride chloride
@@ -1200,6 +1201,7 @@ ia Clairdge Claridge
 ia Clairdige Claridge
 ia Clardige Claridge
 ia clairifactxion clarification
+ia calrity clarity
 ia calss class
 ia lcass class
 ia calssification classification
@@ -2004,6 +2006,7 @@ ia Decreaesd Decreased
 ia decreaesed decreased
 ia decreasees decreases
 ia decreass decreases
+ia Dedicateed Dedicated
 ia decidiated dedicated
 ia dedicaed dedicated
 ia depper deeper
@@ -4139,6 +4142,7 @@ ia initializaiton initialization
 ia intialization initialization
 ia initailized initialized
 ia Intially Initially
+ia initailly initially
 ia initiailly initially
 ia intially initially
 ia Initialte Initiate
