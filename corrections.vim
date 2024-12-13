@@ -790,6 +790,7 @@ ia boudn bound
 ia boudnaries boundaries
 ia boudnary boundary
 ia boudning bounding
+ia Boudns Bounds
 ia boudns bounds
 ia Bouqet Bouquet
 ia obx box
@@ -3784,6 +3785,7 @@ ia hlep help
 ia hleper helper
 ia ehlpful helpful
 ia helpuful helpful
+ia Hleping Helping
 ia hleping helping
 ia Henery Henry
 ia Heneryg Henry
@@ -4555,6 +4557,7 @@ ia lfietime lifetime
 ia Lighyt Light
 ia lghit light
 ia lihgt light
+ia Ligher Lighter
 ia Lgihgintg Lighting
 ia Lgihting Lighting
 ia Lgithign Lighting
@@ -8395,6 +8398,7 @@ ia Tridium Tridium
 ia Treid Tried
 ia trigometric trigonometric
 ia trival trivial
+ia TRoubleshotoing Troubleshooting
 ia troubleshootting troubleshooting
 ia troubleshotoign troubleshooting
 ia truuck truck
@@ -8879,6 +8883,7 @@ ia weeekends weekends
 ia wekends weekends
 ia wweks weeks
 ia wieght weight
+ia weigths weights
 ia wlel well
 ia WEnt Went
 ia wree were
