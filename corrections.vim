@@ -760,6 +760,7 @@ ia blastign blasting
 ia blendde blended
 ia bleneded blended
 ia lbined blind
+ia blbo blob
 ia Blcok Block
 ia blokc block
 ia blockss blocks
@@ -906,6 +907,7 @@ ia bulib bulb
 ia bubls bulbs
 ia bulet bullet
 ia BUmp Bump
+ia ubnch bunch
 ia budnled bundled
 ia ubrned burned
 ia BUrns Burns
@@ -1705,6 +1707,7 @@ ia contracdtor contractor
 ia contracor contractor
 ia contractdor contractor
 ia contractiors contractors
+ia constrast contrast
 ia Contriubtued Contributed
 ia contirubted contributed
 ia contriubuting contributing
@@ -3254,6 +3257,7 @@ ia filleing filling
 ia Fitler Filter
 ia fitler filter
 ia Fitlering Filtering
+ia fitlering filtering
 ia fitlers filters
 ia FInal Final
 ia Fianl Final
@@ -5122,6 +5126,7 @@ ia multipling multiplying
 ia msut must
 ia Msutang Mustang
 ia Mutaul Mutual
+ia myselft myself
 ia myslef myself
 ia natively naively
 ia anem name
@@ -6118,6 +6123,7 @@ ia progrma program
 ia progrsm program
 ia projgram program
 ia programmble programmable
+ia progarmmatic programmatic
 ia Programmaticlaly Programmatically
 ia programmaticaly programmatically
 ia progrmamed programmed
@@ -8687,6 +8693,7 @@ ia valuve valve
 ia vlalve valve
 ia vlave valve
 ia vlavle valve
+ia vavles valves
 ia vlaves valves
 ia vanialla vanilla
 ia Varialbe Variable
@@ -8840,6 +8847,7 @@ ia wnt want
 ia wanteed wanted
 ia wnated wanted
 ia warings warnings
+ia warngings warnings
 ia warngins warnings
 ia warnigns warnings
 ia wrranty warranty
