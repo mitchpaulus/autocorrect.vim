@@ -67,6 +67,7 @@ ia accuracty accuracy
 ia acccurate accurate
 ia accuracte accurate
 ia achive achieve
+ia achivee achieve
 ia acheived achieved
 ia ackknowledged acknowledged
 ia ackknowledgement acknowledgment
@@ -847,6 +848,7 @@ ia Buildign Building
 ia Buildinc Building
 ia Builkding Building
 ia biulding building
+ia budilgin building
 ia buidign building
 ia buiding building
 ia buidlign building
@@ -1096,6 +1098,7 @@ ia Chagne Change
 ia Chnage Change
 ia chagne change
 ia chnage change
+ia mchange change
 ia Chagned Changed
 ia chagned changed
 ia chagnes changes
@@ -2178,6 +2181,7 @@ ia Detial Detail
 ia Dtetail Detail
 ia deatil detail
 ia detial detail
+ia dteail detail
 ia etail detail
 ia deatailed detailed
 ia detailede detailed
@@ -2465,6 +2469,7 @@ ia Docuemnts Documents
 ia Doucments Documents
 ia docuemnts documents
 ia docuemtns documents
+ia documetns documents
 ia doucments documents
 ia deso does
 ia DOg Dog
@@ -2590,6 +2595,7 @@ ia efficiencye efficiency
 ia efficienty efficiency
 ia efficincy efficiency
 ia efficinecy efficiency
+ia efficeint efficient
 ia efficent efficient
 ia efficienct efficient
 ia effoft effort
@@ -3344,6 +3350,7 @@ ia fulid fluid
 ia Flourescent Fluorescent
 ia flourescent fluorescent
 ia FOcus Focus
+ia Foucs Focus
 ia focsusing focusing
 ia fodler folder
 ia foler folder
@@ -3768,6 +3775,7 @@ ia Haystakc Haystack
 ia ahzardous hazardous
 ia hazazards hazards
 ia heaaders headers
+ia headres headers
 ia sheaders headers
 ia Heaidng Heading
 ia ehading heading
@@ -3811,6 +3819,7 @@ ia hihger higher
 ia higheset highest
 ia hightest highest
 ia Highlihgt Highlight
+ia Highlithg Highlight
 ia highlihgt highlight
 ia Highlighitng Highlighting
 ia Highlihgthing Highlighting
@@ -4004,6 +4013,7 @@ ia impored improved
 ia imporved improved
 ia improeved improved
 ia Imporvement Improvement
+ia improvments improvements
 ia ina in a
 ia inb in
 ia inthe in the
@@ -4259,6 +4269,7 @@ ia insureance insurance
 ia intanible intangible
 ia interger integer
 ia intergral integral
+ia interate integrate
 ia integreated integrated
 ia Integratign Integrating
 ia intgretainig integrating
@@ -4266,6 +4277,7 @@ ia Integreation Integration
 ia integraiton integration
 ia integrtation integration
 ia integrations integrations
+ia integratiosn integrations
 ia intelligcne intelligence
 ia INtended Intended
 ia Inteded Intended
@@ -4510,6 +4522,7 @@ ia lateset latest
 ia lwafully lawfully
 ia lawas laws
 ia lwsuit lawsuit
+ia Layotu Layout
 ia Leadersihp Leadership
 ia leasd leads
 ia Leakding Leaking
@@ -5336,6 +5349,7 @@ ia ommited omitted
 ia ommitted omitted
 ia onr on
 ia onthe on the
+ia onbard onboard
 ia ONce Once
 ia onec once
 ia ONe One
@@ -5940,6 +5954,7 @@ ia prediciton prediction
 ia rpredicitons predictions
 ia Prefrfence Preference
 ia prefence preference
+ia Prefered Preferred
 ia Prefucntiaonal Prefunctional
 ia Prefucntional Prefunctional
 ia Prefuncitonal Prefunctional
@@ -6153,6 +6168,7 @@ ia prorgess progress
 ia PRoject Project
 ia Pojrect Project
 ia Porejct Project
+ia Porject Project
 ia Proejct Project
 ia pjorect project
 ia pojrect project
@@ -6281,6 +6297,7 @@ ia pythno python
 ia pythnon python
 ia quadartic quadratic
 ia Qualififications Qualifications
+ia qualificaitons qualifications
 ia qauilfies qualifies
 ia Qaulitative Qualitative
 ia Qaulity Quality
@@ -6659,6 +6676,7 @@ ia rpeort report
 ia rpeot report
 ia rperot report
 ia rpoert report
+ia reporrted reported
 ia REporter Reporter
 ia Reporeter Reporter
 ia Reporetr Reporter
@@ -6807,6 +6825,7 @@ ia resposne response
 ia responsibiliteis responsibilities
 ia responsibilites responsibilities
 ia responsiblities responsibilities
+ia respsonsibilities responsibilities
 ia responsiblity responsibility
 ia Repsonsible Responsible
 ia repsonible responsible
@@ -7459,6 +7478,7 @@ ia specficiations specifications
 ia specificaiotns specifications
 ia specificaitons specifications
 ia specificantions specifications
+ia spcifics specifics
 ia speficics specifics
 ia nspecified specified
 ia psecified specified
@@ -7695,6 +7715,7 @@ ia usch such
 ia suoders sudoers
 ia suffereing suffering
 ia suffifce suffice
+ia sufficeint sufficient
 ia suggset suggest
 ia suggesitons suggestions
 ia Sutie Suite
@@ -8470,6 +8491,7 @@ ia tyupical typical
 ia TYpiucally Typically
 ia Typcially Typically
 ia Typciually Typically
+ia Typicall Typically
 ia Typicaly Typically
 ia teypicaly typically
 ia typcially typically
