@@ -745,6 +745,7 @@ ia betwen between
 ia betwene between
 ia betwewen between
 ia bibliograhy bibliography
+ia billign billing
 ia billtion billion
 ia bils bills
 ia bindgin binding
@@ -2303,6 +2304,7 @@ ia difficulity difficulty
 ia Diffuer Diffuser
 ia DIgit Digit
 ia idgit digit
+ia Digial Digital
 ia digial digital
 ia digitila digital
 ia ditigal digital
@@ -3078,6 +3080,7 @@ ia expensoieve expensive
 ia Experinece Experience
 ia expereicne experience
 ia expereince experience
+ia expericne experience
 ia expericnes experience
 ia experiecne experience
 ia experieece experience
