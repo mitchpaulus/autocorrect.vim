@@ -758,6 +758,7 @@ ia birthdya birthday
 ia bwiweekly biweekly
 ia Blakcout Blackout
 ia balnk blank
+ia blakn blank
 ia blastign blasting
 ia blendde blended
 ia bleneded blended
@@ -2990,6 +2991,7 @@ ia exapmle example
 ia exmaple example
 ia exmpale example
 ia expmaple example
+ia exampels examples
 ia exapmles examples
 ia exmaples examples
 ia exmapllse examples
@@ -3849,6 +3851,7 @@ ia hikstorical historical
 ia historicakl historical
 ia HIstorically Historically
 ia Histoires Histories
+ia hisotry history
 ia histoyr history
 ia hti hit
 ia HObby Hobby
@@ -5987,6 +5990,7 @@ ia Prerequisties Prerequisites
 ia Prerequities Prerequisites
 ia prerequisties prerequisites
 ia Prescence Presence
+ia precsence presence
 ia prescene presence
 ia prescense presence
 ia presecne presence
@@ -8412,6 +8416,7 @@ ia Transportaion Transportation
 ia transporation transportation
 ia transportionat transportation
 ia travelled traveled
+ia travler traveler
 ia tredad tread
 ia traeated treated
 ia treatmetn treatment
@@ -8477,6 +8482,7 @@ ia TYpe Type
 ia tyep type
 ia typoe type
 ia tyupe type
+ia TYpes Types
 ia tyeps types
 ia ytpes types
 ia TYpeScript TypeScript
