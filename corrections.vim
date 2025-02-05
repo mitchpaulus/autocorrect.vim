@@ -585,6 +585,7 @@ ia atttributes attributes
 ia Auguest August
 ia Austraila Australia
 ia Austrials Australia
+ia autehnication authentication
 ia autehnticadtion authentication
 ia authenticaion authentication
 ia authenticaiton authentication
@@ -2104,6 +2105,7 @@ ia dseamdn demand
 ia emdand demand
 ia democrarcy democracy
 ia demonstratior demonstrator
+ia demystifyied demystified
 ia denomiator denominator
 ia dnesity density
 ia deorderant deodorant
@@ -7179,6 +7181,7 @@ ia sequndce sequence
 ia sequqence sequence
 ia sqequence sequence
 ia Sequencse Sequences
+ia Sequenes Sequences
 ia Sequnces Sequences
 ia squesnces sequences
 ia sequencialy sequentially
@@ -9097,6 +9100,7 @@ ia WOrks Works
 ia workds works
 ia owrksheet worksheet
 ia Wrokspace Workspace
+ia owrld world
 ia woryying worrying
 ia wroth worth
 ia WOuld Would
