@@ -675,6 +675,7 @@ ia bvanquet banquet
 ia abr bar
 ia Bararcks Barracks
 ia Barrakcs Barracks
+ia barrakcs barracks
 ia Bartton Barton
 ia BAsed Based
 ia BGased Based
@@ -929,6 +930,7 @@ ia yb by
 ia Byapss Bypass
 ia byapss bypass
 ia bypss bypass
+ia cabient cabinet
 ia cabliing cabling
 ia chacehd cached
 ia cafeteriaa cafeteria
@@ -1544,6 +1546,7 @@ ia conculsions conclusions
 ia conlcusions conclusions
 ia ocnclusions conclusions
 ia ocncourse concourse
+ia Concreate Concrete
 ia concreate concrete
 ia Condensor Condenser
 ia Condensser Condenser
@@ -2684,6 +2687,7 @@ ia Emeryecny Emergency
 ia emergycny emergency
 ia emergynecy emergency
 ia emergingn emerging
+ia Emmisions Emissions
 ia emplirclaly empirically
 ia emnployee employee
 ia employeeds employees
@@ -3627,6 +3631,7 @@ ia generaters generators
 ia generatos generators
 ia gneerators generators
 ia gnereators generators
+ia gemotry geometry
 ia geomerty geometry
 ia geometyr geometry
 ia Georger George
@@ -5766,6 +5771,7 @@ ia physcally physically
 ia pinao piano
 ia pickpu pickup
 ia Pictyure Picture
+ia Pcitures Pictures
 ia pcitures pictures
 ia picturse pictures
 ia picutres pictures
@@ -6379,6 +6385,7 @@ ia radiof radio
 ia RAdios Radios
 ia reaise raise
 ia traise raise
+ia raissed raised
 ia rasied raised
 ia reaised raised
 ia rasing raising
@@ -6848,6 +6855,7 @@ ia responsilbe responsible
 ia Restartign Restarting
 ia restartign restarting
 ia restaturant restaurant
+ia resotre restore
 ia restrcition restriction
 ia restrictuion restriction
 ia restorooms restrooms
@@ -8324,6 +8332,7 @@ ia oto to
 ia Todya Today
 ia TOdd Todd
 ia togehter together
+ia otekn token
 ia otken token
 ia toekn token
 ia otkens tokens
