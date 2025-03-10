@@ -723,6 +723,7 @@ ia beignngin beginning
 ia begignnings beginnings
 ia beginnigns beginnings
 ia beginnigs beginnings
+ia behaivor behavior
 ia behaviior behavior
 ia behavoir behavior
 ia behvaior behavior
@@ -5669,6 +5670,7 @@ ia apst past
 ia pasate paste
 ia passted pasted
 ia Paht Path
+ia apht path
 ia apth path
 ia paht path
 ia ptha path
@@ -7118,6 +7120,7 @@ ia seciton section
 ia sectino section
 ia sectiosn section
 ia secxtion section
+ia secitons sections
 ia sectyor sector
 ia essecuitty security
 ia securtiy security
