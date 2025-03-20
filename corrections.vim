@@ -754,6 +754,7 @@ ia billtion billion
 ia bils bills
 ia bindgin binding
 ia bindign binding
+ia bidnings bindings
 ia bindigns bindings
 ia bindngs bindings
 ia bindsings bindings
@@ -3152,6 +3153,7 @@ ia exetiror exterior
 ia exterioro exterior
 ia extenal external
 ia extenral external
+ia exteranl external
 ia extermal external
 ia extermanl external
 ia extracion extraction
@@ -3214,6 +3216,7 @@ ia familar familiar
 ia FAn Fan
 ia fna fan
 ia fanas fans
+ia fnas fans
 ia fatalieis fatalities
 ia fataliites fatalities
 ia fautl fault
@@ -3863,6 +3866,7 @@ ia Historina Historian
 ia historina historian
 ia hsitorain historian
 ia hikstorical historical
+ia hisotircal historical
 ia historicakl historical
 ia HIstorically Historically
 ia Histoires Histories
@@ -5954,6 +5958,7 @@ ia potnetnailly potentially
 ia ptonetially potentially
 ia ptotently potentially
 ia Poweer Power
+ia pweor power
 ia pwoer power
 ia tpower power
 ia pwoered powered
@@ -8675,6 +8680,7 @@ ia uoplaod upload
 ia updload upload
 ia uplad upload
 ia uplaod upload
+ia upldoa upload
 ia upldoad upload
 ia upolad upload
 ia Uploadeed Uploaded
@@ -8714,6 +8720,7 @@ ia usally usually
 ia usaully usually
 ia usualy usually
 ia utinsel utensil
+ia Utilties Utilities
 ia utiliteis utilities
 ia utilites utilities
 ia utilties utilities
