@@ -2798,6 +2798,7 @@ ia entorpy entropy
 ia enttry entry
 ia entyr entry
 ia enuemerable enumerable
+ia envellpe envelope
 ia Enviorment Environment
 ia Enviormnet Environment
 ia Environemnet Environment
@@ -6169,6 +6170,7 @@ ia profiel profile
 ia profiels profiles
 ia profjiels profiles
 ia rpofiles profiles
+ia Profitiablity Profitability
 ia PRogram Program
 ia Progrma Program
 ia pgorma program
@@ -7083,6 +7085,7 @@ ia scirpst Scripts
 ia scirpstjs scripts
 ia scirpts scripts
 ia scrdipst scripts
+ia scrdipts scripts
 ia scripst scripts
 ia scritps scripts
 ia scrpits scripts
@@ -7736,7 +7739,9 @@ ia Substantail Substantial
 ia substaionts substations
 ia substiture substitute
 ia substituing substituting
+ia Substituion Substitution
 ia substituion substitution
+ia substitutino substitution
 ia substiution substitution
 ia substituations substitutions
 ia substiutions substitutions
