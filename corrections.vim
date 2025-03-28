@@ -2803,6 +2803,7 @@ ia Enviormnet Environment
 ia Environemnet Environment
 ia Environemnt Environment
 ia enviorment environment
+ia enviormentm environment
 ia enviormentmt environment mt
 ia enviormnet environment
 ia enviornemnt environment
@@ -7292,6 +7293,7 @@ ia Sexcual Sexual
 ia sexuual sexual
 ia SAFT SFAT
 ia shackels shackles
+ia shawdoing shadowing
 ia sahll shall
 ia shlal shall
 ia hsare share
