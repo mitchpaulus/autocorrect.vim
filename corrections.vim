@@ -843,6 +843,7 @@ ia BUildeing Building
 ia BUilding Building
 ia BUliding Building
 ia Biudlign Building
+ia Budilgin Building
 ia Budilign Building
 ia Buidlgin Building
 ia Buidlign Building
@@ -1353,6 +1354,7 @@ ia COmment Comment
 ia commetn comment
 ia ocmment comment
 ia COmments Comments
+ia COmmetns Comments
 ia Commetns Comments
 ia commetns comments
 ia commments comments
@@ -1666,6 +1668,7 @@ ia constructino construction
 ia constructoin construction
 ia consturcidton construction
 ia consturction construction
+ia consturctions constructions
 ia constrcuts constructs
 ia consuem consume
 ia COnsujpmtion Consumption
@@ -2106,11 +2109,13 @@ ia Deltke Deltek
 ia Deamdn Demand
 ia Deamnd Demand
 ia Demadn Demand
+ia deamdn demand
 ia deamnd demand
 ia dmeand demand
 ia dseamdn demand
 ia emdand demand
 ia democrarcy democracy
+ia demonstarting demonstrating
 ia demonstratior demonstrator
 ia demystifyied demystified
 ia denomiator denominator
@@ -2636,6 +2641,7 @@ ia Electicial Electrical
 ia Electircial Electrical
 ia Electirckal Electrical
 ia Electraicl Electrical
+ia Electrcial Electrical
 ia Electricial Electrical
 ia Electricla Electrical
 ia eelectyrical electrical
@@ -3065,8 +3071,10 @@ ia exhasut exhaust
 ia exhuast exhaust
 ia eixist exist
 ia exisited existed
+ia existance existence
 ia existant existent
 ia Exisiting Existing
+ia Exisitng Existing
 ia elxisting existing
 ia exigting existing
 ia exisintg existing
@@ -3202,6 +3210,7 @@ ia fialed failed
 ia failign failing
 ia fialing failing
 ia afils fails
+ia failes fails
 ia failrue failure
 ia fialure failure
 ia fari fair
@@ -4041,6 +4050,7 @@ ia impored improved
 ia imporved improved
 ia improeved improved
 ia Imporvement Improvement
+ia improvemtns improvements
 ia improvmenets improvements
 ia improvments improvements
 ia ina in a
@@ -5879,6 +5889,7 @@ ia ponits points
 ia pooints points
 ia Pocliby Policy
 ia pocliy policy
+ia polciy policy
 ia polynomical polynomial
 ia polynomails polynomials
 ia ploytropic polytropic
@@ -7371,6 +7382,7 @@ ia signifiatn significant
 ia significaiton significant
 ia significat significant
 ia significati significant
+ia significatin significant
 ia significatn significant
 ia Significatly Significantly
 ia signficantly significantly
@@ -7597,6 +7609,7 @@ ia Standand Standard
 ia satandrad standard
 ia satndard standard
 ia standared standard
+ia Stnadards Standards
 ia standrads standards
 ia standpoitn standpoint
 ia stadns stands
@@ -8745,6 +8758,7 @@ ia utiltiyt utility
 ia utiltliy utility
 ia utilty utility
 ia utilazation utilization
+ia Utiltize Utilize
 ia Utilzie Utilize
 ia utilitze utilize
 ia utilzed utilized
