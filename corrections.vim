@@ -109,6 +109,7 @@ ia actulaly actually
 ia acutally actually
 ia Actuatoar Actuator
 ia Actuatoor Actuator
+ia actutoras actuators
 ia acutatoars actuators
 ia acutators actuators
 ia Adaptaiton Adaptation
@@ -168,6 +169,8 @@ ia adjustements adjustments
 ia adjustemsnts adjustments
 ia ADmin Admin
 ia Adminsitrative Administrative
+ia Adminsitrator Administrator
+ia adminstator administrator
 ia adopeted adopted
 ia Adrain Adrian
 ia Advnaced Advanced
@@ -642,6 +645,7 @@ ia anveage average
 ia averaguing averaging
 ia aweare aware
 ia awaremenss awareness
+ia awway away
 ia aawk awk
 ia akw awk
 ia byab baby
@@ -1135,6 +1139,7 @@ ia characaaters characters
 ia charactesr characters
 ia chage charge
 ia chargges charges
+ia Charels Charles
 ia chartr chart
 ia chrat chart
 ia chaisng chasing
@@ -3670,6 +3675,7 @@ ia Github GitHub
 ia gvie give
 ia givew given
 ia givne given
+ia Glboal Global
 ia Globla Global
 ia gllobal global
 ia globall global
@@ -5902,6 +5908,7 @@ ia popualtes populates
 ia prot port
 ia protabliity portability
 ia protable portable
+ia protals portals
 ia Portfoilfo Portfolio
 ia Protfoilo Portfolio
 ia Protfolio Portfolio
@@ -6412,6 +6419,7 @@ ia quoation quotation
 ia qoute quote
 ia qutoed quoted
 ia qoutes quotes
+ia qutoes quotes
 ia quotoient quotient
 ia Radaiance Radiance
 ia radiof radio
@@ -6479,6 +6487,7 @@ ia recieved received
 ia recieves receives
 ia REcently Recently
 ia Recertification Recertification
+ia recipincant recipient
 ia recipricate reciprocate
 ia Recliam Reclaim
 ia recliam reclaim
@@ -6873,6 +6882,7 @@ ia reponse response
 ia repsone response
 ia repsonse response
 ia resposne response
+ia repsonses responses
 ia responsibiliteis responsibilities
 ia responsibilites responsibilities
 ia responsiblities responsibilities
@@ -7919,6 +7929,7 @@ ia targest targets
 ia targetes targets
 ia TAsk Task
 ia Taks Task
+ia atsk task
 ia taks task
 ia Takss Tasks
 ia takss tasks
@@ -8835,6 +8846,7 @@ ia Valut Vault
 ia vehivcle vehicle
 ia velcotiy velocity
 ia vleocity velocity
+ia vnedor vendor
 ia vendofs vendors
 ia vendros vendors
 ia vnedors vendors
