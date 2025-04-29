@@ -705,6 +705,7 @@ ia bascialyl basically
 ia basiclaly basically
 ia bassins basins
 ia bassi basis
+ia Beauftiful Beautiful
 ia beautful beautiful
 ia Becuase Because
 ia becasue because
@@ -2527,6 +2528,7 @@ ia doewntown downtown
 ia downotown downtown
 ia downotwn downtown
 ia downtonn downtown
+ia downtwon downtown
 ia drwa draw
 ia drwawer drawer
 ia drwaing drawing
@@ -3910,6 +3912,7 @@ ia Hoorry Horry
 ia horespower horsepower
 ia Hosptial Hospital
 ia hositpal hospital
+ia hosptials hospitals
 ia hto hot
 ia Hotle Hotel
 ia thotel hotel
@@ -5013,6 +5016,7 @@ ia Mexcio Mexico
 ia Microsfot Microsoft
 ia midinght midnight
 ia mgiht might
+ia migth might
 ia mihgt might
 ia migraiton migration
 ia migraitons migrations
@@ -6346,6 +6350,7 @@ ia Puhs Push
 ia PUt Put
 ia PYthon Python
 ia Ptyhon Python
+ia Pythohn Python
 ia Pytohn Python
 ia Pyton Python
 ia pyhton python
@@ -6742,6 +6747,7 @@ ia Reporetr Reporter
 ia Reproter Reporter
 ia reproter reporter
 ia areporting reporting
+ia reporintg reporting
 ia reporitng reporting
 ia reportign reporting
 ia reproitng reporting
@@ -6985,6 +6991,7 @@ ia rooom room
 ia roattion rotation
 ia rotaitons rotations
 ia rougth rough
+ia roudn round
 ia rouund round
 ia roundign rounding
 ia Rotuiens Routines
@@ -8769,6 +8776,7 @@ ia utiltiyt utility
 ia utiltliy utility
 ia utilty utility
 ia utilazation utilization
+ia utilizaiton utilization
 ia Utiltize Utilize
 ia Utilzie Utilize
 ia utilitze utilize
