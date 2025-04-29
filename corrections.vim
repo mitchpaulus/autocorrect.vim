@@ -170,6 +170,7 @@ ia adjustemsnts adjustments
 ia ADmin Admin
 ia Adminsitrative Administrative
 ia Adminsitrator Administrator
+ia administratior administrator
 ia adminstator administrator
 ia adopeted adopted
 ia Adrain Adrian
@@ -1058,6 +1059,7 @@ ia cardinatl cardinal
 ia careds cards
 ia carsd cards
 ia carerr career
+ia Carlso Carlos
 ia carepting carpeting
 ia cartesina Cartesian
 ia cvase case
@@ -4835,6 +4837,7 @@ ia Managment Management
 ia Managnemnt Management
 ia manaagement management
 ia managemetn management
+ia managmeenrt management
 ia managmeent management
 ia managmenet management
 ia managment management
