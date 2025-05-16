@@ -318,6 +318,7 @@ ia analygousu analogous
 ia anlogue analogue
 ia Analsysi Analysis
 ia Analyiss Analysis
+ia Analyssi Analysis
 ia Analyusis Analysis
 ia analsyis analysis
 ia analsysi analysis
@@ -1709,6 +1710,7 @@ ia conatins contains
 ia contians contains
 ia Contaminatn Contaminant
 ia Contaminatns Contaminants
+ia Conetnt Content
 ia conent content
 ia contnent content
 ia contnet content
@@ -2835,6 +2837,7 @@ ia environement environment
 ia environemnt environment
 ia environemtn environment
 ia environemtnet environment
+ia environmetn environment
 ia envriorment environment
 ia Enviormental Environmental
 ia Enviormentla Environmental
@@ -4435,6 +4438,7 @@ ia involied involved
 ia invovled involved
 ia involvment involvement
 ia inrrelevt irrelevant
+ia irreleveant irrelevant
 ia irreversilbe irreversible
 ia fis is
 ia isoalted isolated
@@ -6107,6 +6111,7 @@ ia Preiovulsy Previously
 ia Preiovusly Previously
 ia Preivously Previously
 ia Preivulsly Previously
+ia Previioulsy Previously
 ia Previoulsy Previously
 ia Previousluy Previously
 ia Previusyl Previously
@@ -8080,6 +8085,7 @@ ia tempeatures temperatures
 ia temperatreus temperatures
 ia temperatuers temperatures
 ia temperatues temperatures
+ia temperaturees temperatures
 ia temperaturres temperatures
 ia temperatutres temperatures
 ia temperautres temperatures
@@ -8350,6 +8356,7 @@ ia throght through
 ia throguh through
 ia throught through
 ia throuugh through
+ia thtough through
 ia trhough through
 ia trhought through
 ia throughtou throughout
@@ -8720,6 +8727,7 @@ ia Updatign Updating
 ia Upodaitng Updating
 ia udpating updating
 ia updaing updating
+ia upgarde upgrade
 ia Upgraes Upgrades
 ia Uplaod Upload
 ia uoplaod upload
