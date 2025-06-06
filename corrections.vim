@@ -1,3 +1,4 @@
+ia BUilding:
 ia Abondonding Abandoning
 ia abondoning abandoning
 ia abbreivaiton abbreviation
@@ -585,6 +586,7 @@ ia attemting attempting
 ia Attendence Attendance
 ia attenuatiors attenuators
 ia attaic attic
+ia Attonery Attorney
 ia attroueny attorney
 ia attritbue attribute
 ia attriburtes attributes
@@ -711,6 +713,7 @@ ia bassi basis
 ia Beauftiful Beautiful
 ia beautful beautiful
 ia Becuase Because
+ia becaseu because
 ia becasue because
 ia becaues because
 ia becuase because
@@ -788,6 +791,7 @@ ia biler boiler
 ia boielr boiler
 ia obiler boiler
 ia BOilers Boilers
+ia Boierls Boilers
 ia Boilesr Boilers
 ia bilers boilers
 ia boielrs boilers
@@ -1727,6 +1731,7 @@ ia Continous Continuous
 ia Continousous Continuous
 ia Continuouss Continuous
 ia Contionous Continuous
+ia continous continuous
 ia continuosu continuous
 ia continuoulsy continuously
 ia continusously continuously
@@ -1927,6 +1932,7 @@ ia Creepoing Creeping
 ia creiteris creiteria
 ia Cresecent Crescent
 ia Cresent Crescent
+ia Criiminal Criminal
 ia creiteria criteria
 ia creitiera criteria
 ia creteria criteria
@@ -2150,6 +2156,7 @@ ia depnedency dependency
 ia dpeencedcy dependency
 ia dpeendecy dependency
 ia dpendency dependency
+ia dpenedcney dependency
 ia depndent dependent
 ia dependeiing depending
 ia deply deploy
@@ -2530,6 +2537,7 @@ ia DOwnstairs Downstairs
 ia downstram downstream
 ia downstrream downstream
 ia Downtonw Downtown
+ia Downtwon Downtown
 ia doewntown downtown
 ia downotown downtown
 ia downotwn downtown
@@ -3225,6 +3233,7 @@ ia failign failing
 ia fialing failing
 ia afils fails
 ia failes fails
+ia fials fails
 ia failrue failure
 ia fialure failure
 ia fari fair
@@ -3842,6 +3851,7 @@ ia heagin heating
 ia heaing heating
 ia heaint heating
 ia heaitng heating
+ia hetaing heating
 ia heigtt height
 ia Helicoper Helicopter
 ia Hlep Help
@@ -4496,6 +4506,7 @@ ia Juen June
 ia jsut just
 ia ujst just
 ia Justificaitno Justification
+ia Juvenlie Juvenile
 ia Ketih Keith
 ia Kettucky Kentucky
 ia kernal kernel
@@ -7160,6 +7171,7 @@ ia Secondayr Secondary
 ia Seconddadry Secondary
 ia secondayr secondary
 ia seconeary secondary
+ia Secion Section
 ia Seciotn Section
 ia Seciton Section
 ia Sectdion Section
@@ -7941,6 +7953,7 @@ ia takeawya takeaway
 ia takne taken
 ia takees takes
 ia Takign Taking
+ia takign taking
 ia tlaking talking
 ia tlaks talks
 ia TMAU TAMU
@@ -8426,6 +8439,7 @@ ia Toolabr Toolbar
 ia toolign tooling
 ia toolos tools
 ia toosl tools
+ia TOp Top
 ia topci topic
 ia topcis topics
 ia toppics topics
