@@ -504,6 +504,7 @@ ia Arthimetic Arithmetic
 ia arithemtic arithmetic
 ia amr arm
 ia aorund around
+ia aroiund around
 ia arond around
 ia aroudn around
 ia arround around
@@ -808,6 +809,7 @@ ia obsses bosses
 ia gboth both
 ia boutght bought
 ia boudn bound
+ia boudnaaries boundaries
 ia boudnaries boundaries
 ia boudnary boundary
 ia boudning bounding
@@ -1259,6 +1261,7 @@ ia clickign clicking
 ia lickcing clicking
 ia clinet client
 ia lcinet client
+ia Cliamte Climate
 ia clint Clint
 ia clipboaard clipboard
 ia clipbvoard clipboard
@@ -2006,6 +2009,7 @@ ia Danelli Daniel
 ia Danile Daniel
 ia Dianel Daniel
 ia dahsboard dashboard
+ia dashbaord dashboard
 ia daashboards dashboards
 ia DAta Data
 ia Datat Data
@@ -2298,6 +2302,7 @@ ia dailog dialog
 ia diaglo dialog
 ia diaglog dialog
 ia diametre diameter
+ia dictinoaries dictionaries
 ia Dicitonary Dictionary
 ia Dictiorany Dictionary
 ia dicitonary dictionary
@@ -2363,6 +2368,7 @@ ia drieclty directly
 ia drieclyt directly
 ia driectly directly
 ia direcories directories
+ia direcotries directories
 ia directoires directories
 ia directoreis directories
 ia directoriues directories
@@ -2700,6 +2706,7 @@ ia electronci electronic
 ia elemnmet element
 ia elemnt element
 ia elment element
+ia Eleementary Elementary
 ia elemetns elements
 ia elemets elements
 ia eleveate elevate
@@ -2760,6 +2767,7 @@ ia enery energy
 ia eneryg energy
 ia enerygm energy
 ia enewryg energy
+ia enrgy energy
 ia enryg energy
 ia nergy energy
 ia ENergyPlus EnergyPlus
@@ -3076,6 +3084,7 @@ ia exectue execute
 ia execture execute
 ia exectued executed
 ia exectuing executing
+ia executiving executing
 ia executaiton execution
 ia executation execution
 ia executuion execution
@@ -3756,6 +3765,7 @@ ia greek Greek
 ia Grenenwood Greenwood
 ia Grennwood Greenwood
 ia GRids Grids
+ia Gridn Grind
 ia frocery grocery
 ia groos gross
 ia groudn ground
@@ -4795,6 +4805,7 @@ ia machesines machines
 ia machinging machining
 ia macors macros
 ia Macrosciptic Macroscopic
+ia amde made
 ia mage made
 ia magentic magnetic
 ia magents magnets
@@ -5985,6 +5996,7 @@ ia possilbiy possibly
 ia possilby possibly
 ia posssilby possibly
 ia PostScirpt PostScript
+ia Potentila Potential
 ia potentail potential
 ia potentiail potential
 ia potentila potential
@@ -6153,6 +6165,7 @@ ia pirntign printing
 ia printign printing
 ia Prioriteis Priorities
 ia Pritorities Priorities
+ia prioorites priorities
 ia priortization prioritization
 ia pritiorizing prioritizing
 ia priorty priority
@@ -6356,6 +6369,7 @@ ia PUmps Pumps
 ia pmpups pumps
 ia poumps pumps
 ia pujmps pumps
+ia pumnps pumps
 ia upmps pumps
 ia purchse purchase
 ia Puchased Purchased
@@ -6696,6 +6710,7 @@ ia remonving removing
 ia reomoving removing
 ia rmoeoivng removing
 ia renamign renaming
+ia Renewabler Renewable
 ia REno Reno
 ia Renomarlize Renormalize
 ia Revovations Renovations
@@ -6997,6 +7012,7 @@ ia rewirte rewrite
 ia Reichard Richard
 ia Ricahrd Richard
 ia RIght Right
+ia RIghtn Right
 ia Rigth Right
 ia rightt right
 ia rihgt right
@@ -7108,6 +7124,7 @@ ia Schenider Schneider
 ia Schndier Schneider
 ia Schnedier Schneider
 ia scholoaryly scholarly
+ia Schoool School
 ia socope scope
 ia socpe scope
 ia sope scope
@@ -7229,6 +7246,7 @@ ia seonsr sensor
 ia sewnsor sensor
 ia snesor sensor
 ia snsor sensor
+ia Senosrs Sensors
 ia Snesors Sensors
 ia senosrs sensors
 ia sensores sensors
@@ -7378,6 +7396,7 @@ ia shrot short
 ia shrotcut shortcut
 ia shortucts shortcuts
 ia shrotened shortened
+ia shorthadn shorthand
 ia SHould Should
 ia SHuold Should
 ia Shiould Should
@@ -7453,6 +7472,7 @@ ia simulaiont simulation
 ia simulaiton simulation
 ia simulaitons simulations
 ia Simulataneous Simultaneous
+ia Sicne Since
 ia siunce since
 ia snice since
 ia Signle Single
@@ -8187,6 +8207,7 @@ ia termianli terminal
 ia termila terminal
 ia termilan terminal
 ia terminail terminal
+ia terminali terminal
 ia terminla terminal
 ia termioaln terminal
 ia termnial terminal
@@ -8287,6 +8308,7 @@ ia Threfore Therefore
 ia Threrfore Therefore
 ia therfore therefore
 ia THermal Thermal
+ia Theraml Thermal
 ia Thermla Thermal
 ia tehemral thermal
 ia themal thermal
@@ -8774,6 +8796,7 @@ ia useufl useful
 ia usfeul useful
 ia usefullness usefulness
 ia suer user
+ia suers users
 ia userse users
 ia usse uses
 ia Usuing Using
