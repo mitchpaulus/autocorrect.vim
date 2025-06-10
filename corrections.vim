@@ -789,6 +789,7 @@ ia boareds boards
 ia BOiler Boiler
 ia Boielr Boiler
 ia biler boiler
+ia bioler boiler
 ia boielr boiler
 ia obiler boiler
 ia BOilers Boilers
@@ -1022,6 +1023,7 @@ ia Camear Camera
 ia camerag camera
 ia comapaigns campaigns
 ia capmus campus
+ia cmapus campus
 ia CAn Can
 ia acn can
 ia canbe can be
@@ -2029,6 +2031,7 @@ ia Daughther Daughter
 ia DAve Dave
 ia DAvid David
 ia ady day
+ia daylighitng daylighting
 ia dayas days
 ia Deadbaand Deadband
 ia dadband deadband
@@ -2747,6 +2750,7 @@ ia Enclousre Enclosure
 ia enclouse enclosure
 ia enclouser enclosure
 ia enclousre enclosure
+ia eneclosure enclosure
 ia encodding encoding
 ia enocding encoding
 ia ENd End
@@ -3809,6 +3813,7 @@ ia handeld handled
 ia hanlder handler
 ia ahndling handling
 ia hadnlign handling
+ia hadnling handling
 ia handaling handling
 ia handlaing handling
 ia handliang handling
@@ -4517,6 +4522,7 @@ ia jsut just
 ia ujst just
 ia Justificaitno Justification
 ia Juvenlie Juvenile
+ia juvenline juvenile
 ia Ketih Keith
 ia Kettucky Kentucky
 ia kernal kernel
@@ -6169,6 +6175,7 @@ ia prioorites priorities
 ia priortization prioritization
 ia pritiorizing prioritizing
 ia priorty priority
+ia prirrity priority
 ia rpivate private
 ia Privelage Privilege
 ia privelages privileges
@@ -7379,6 +7386,7 @@ ia sharepoint Sharepoint
 ia sheathign sheathing
 ia SHeaves Sheaves
 ia sheeet sheet
+ia sehets sheets
 ia shefl shelf
 ia sehell shell
 ia sehll shell
