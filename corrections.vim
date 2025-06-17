@@ -1182,6 +1182,7 @@ ia chekcout checkout
 ia checkes checks
 ia chekcs checks
 ia chemicla chemical
+ia checmials chemicals
 ia Cheerry Cherry
 ia Cherrpy Cherry
 ia Chery Cherry
@@ -4083,6 +4084,7 @@ ia improts imports
 ia IMprove Improve
 ia Impore Improve
 ia Imporve Improve
+ia Impreove Improve
 ia Improe Improve
 ia imporve improve
 ia Imporved Improved
