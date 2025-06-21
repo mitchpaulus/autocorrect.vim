@@ -178,6 +178,7 @@ ia adopeted adopted
 ia Adrain Adrian
 ia Advnaced Advanced
 ia advangtage advantage
+ia Advantateges Advantages
 ia Adviosr Advisor
 ia Advisro Advisor
 ia adviosr advisor
@@ -1290,6 +1291,7 @@ ia COde Code
 ia codce code
 ia codee code
 ia ocde code
+ia codifed codified
 ia codiing coding
 ia coefficent coefficient
 ia coefficnet coefficient
@@ -2990,6 +2992,7 @@ ia esimtaions estimations
 ia Ehternet Ethernet
 ia ethecial ethical
 ia ethcially ethically
+ia EThics Ethics
 ia Euclidena Euclidean
 ia Eruopean European
 ia Evalualte Evaluate
@@ -4175,6 +4178,7 @@ ia induciton induction
 ia INdustrial Industrial
 ia Industiral Industrial
 ia indusrial industrial
+ia idustry industry
 ia industyr industry
 ia inequaliyt inequality
 ia infiltation infiltration
@@ -5146,6 +5150,7 @@ ia moidify modify
 ia modualted modulated
 ia MOdule Module
 ia Modeule Module
+ia Moduel Module
 ia modlue module
 ia moduel module
 ia modulel module
@@ -5203,6 +5208,7 @@ ia mornigng morning
 ia morongin morning
 ia mrongin morning
 ia MOst Most
+ia mosot most
 ia omst most
 ia MOstly Mostly
 ia Mosty Mostly
@@ -5813,6 +5819,7 @@ ia Permuations Permutations
 ia prequisitve perquisite
 ia perons person
 ia perosn person
+ia Peronsla Personal
 ia perisonal personal
 ia perosnal personal
 ia personla personal
@@ -6226,9 +6233,11 @@ ia produciton production
 ia prodcuciotns productions
 ia procucts products
 ia prodcuts products
+ia tporfession profession
 ia Profesional Professional
 ia profesianl professional
 ia professionsal professional
+ia professionsals professionals
 ia profient proficient
 ia fprofile profile
 ia profeil profile
@@ -6302,6 +6311,7 @@ ia projedts projects
 ia projets projects
 ia projexts projects
 ia projgects projects
+ia Promotoes Promotes
 ia pronouncable pronounceable
 ia prrof proof
 ia porper proper
@@ -6354,6 +6364,7 @@ ia proveded provided
 ia proviced provided
 ia PRovider Provider
 ia Proivdes Provides
+ia Provies Provides
 ia Providinig Providing
 ia proividing providing
 ia psycrhometic psychrometric
@@ -6672,6 +6683,7 @@ ia releasae release
 ia relavant relevant
 ia relavent relevant
 ia reliabiltiy reliability
+ia Reliatn Reliant
 ia reflief relief
 ia releif relief
 ia REligion Religion
@@ -7516,6 +7528,7 @@ ia slowign slowing
 ia Samll Small
 ia samll small
 ia Samrt Smart
+ia Smrat Smart
 ia samrt smart
 ia Simth Smith
 ia Sminth Smith
@@ -7792,6 +7805,7 @@ ia strcutees structures
 ia Studnent Student
 ia studnet student
 ia sutdnet student
+ia studeis studies
 ia STuido Studio
 ia Stuido Studio
 ia sutdy study
@@ -8688,6 +8702,7 @@ ia underreprsented underrepresented
 ia underscope underscore
 ia Understnad Understand
 ia udnerstand understand
+ia udnerstnad understand
 ia understanded understand
 ia understnad understand
 ia udnerstandable understandable
