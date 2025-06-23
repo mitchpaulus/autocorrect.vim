@@ -67,6 +67,7 @@ ia accoutns accounts
 ia accuracty accuracy
 ia acccurate accurate
 ia accuracte accurate
+ia accurete accurate
 ia achive achieve
 ia achivee achieve
 ia acheived achieved
@@ -2324,6 +2325,7 @@ ia diffrence difference
 ia diffeerences differences
 ia differenrces differences
 ia differneces differences
+ia Differenct Different
 ia dfiferent different
 ia diferent different
 ia diffeerent different
@@ -2331,6 +2333,7 @@ ia diffeernt different
 ia diffentert different
 ia differetn different
 ia differetrn different
+ia differnent different
 ia differnt different
 ia differtent different
 ia differtnt different
@@ -2818,6 +2821,7 @@ ia eneterd entered
 ia enterd entered
 ia Enetering Entering
 ia enterin entering
+ia Entertainging Entertaining
 ia ENthalpy Enthalpy
 ia Entthalpy Enthalpy
 ia enthlapy enthalpy
@@ -4697,6 +4701,7 @@ ia liimit limit
 ia limti limit
 ia lmit limit
 ia limitaiton limitation
+ia limitaitons limitations
 ia olimitations limitations
 ia Limitied Limited
 ia Limtis Limits
@@ -6030,6 +6035,7 @@ ia potnetnailly potentially
 ia ptonetially potentially
 ia ptotently potentially
 ia Poweer Power
+ia Pwoer Power
 ia pweor power
 ia pwoer power
 ia tpower power
@@ -6301,6 +6307,7 @@ ia projfct project
 ia projfect project
 ia projgect project
 ia rpojections projections
+ia pojrects projects
 ia porjects projects
 ia preojcts projects
 ia proejcts projects
@@ -8034,6 +8041,7 @@ ia techiniuqes techniques
 ia techinuques techniques
 ia techniquers techniques
 ia technoilogies technologies
+ia technoligies technologies
 ia TEchnology Technology
 ia Techonology Technology
 ia Teeht Teeth
@@ -8438,6 +8446,7 @@ ia Thursdya Thursday
 ia Thusrday Thursday
 ia Tuhrsday Thursday
 ia Thursdsay Thursdays
+ia tickeitng ticketing
 ia thighen tighten
 ia Tigher Tighter
 ia til till
@@ -8562,6 +8571,7 @@ ia transpiller transpiler
 ia Transporation Transportation
 ia Transportaion Transportation
 ia transporation transportation
+ia transportion transportation
 ia transportionat transportation
 ia travelled traveled
 ia travler traveler
