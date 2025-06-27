@@ -300,6 +300,7 @@ ia alawys always
 ia alsways always
 ia alwasy always
 ia alwyas always
+ia ambeient ambient
 ia ambigiutiy ambiguity
 ia ambigous ambiguous
 ia ammendment amendment
@@ -495,6 +496,7 @@ ia aqre are
 ia aree are
 ia ARae Area
 ia ARea Area
+ia arae area
 ia raea area
 ia araes areas
 ia argumetn argument
@@ -2685,6 +2687,7 @@ ia elecrcial electrical
 ia elecricial electrical
 ia electical electrical
 ia electircal electrical
+ia electircial electrical
 ia electircla electrical
 ia electirical electrical
 ia electrialc electrical
@@ -2735,6 +2738,7 @@ ia eamils emails
 ia emaisl emails
 ia evmails emails
 ia meails emails
+ia Emergyency Emergency
 ia Emeryecny Emergency
 ia emergycny emergency
 ia emergynecy emergency
@@ -4128,6 +4132,7 @@ ia inlcudes includes
 ia inclduing including
 ia includding including
 ia includieng including
+ia inclusing including
 ia INclusion Inclusion
 ia incoem income
 ia imcomplete incomplete
@@ -4581,6 +4586,7 @@ ia Laboratoyr Laboratory
 ia Laboratoyrt Laboratory
 ia Laborayr Laboratory
 ia liack lack
+ia lakcing lacking
 ia aldders ladders
 ia lamdba lambda
 ia alnding landing
@@ -5234,6 +5240,7 @@ ia multipe multiple
 ia multipel multiple
 ia multipole multiple
 ia multple multiple
+ia mutiple multiple
 ia mutliple multiple
 ia mutlple multiple
 ia Multiplicaiton Multiplication
@@ -6207,6 +6214,7 @@ ia propably probably
 ia PRoblem Problem
 ia prlblem problem
 ia probelm problem
+ia probelsm problem
 ia problekm problem
 ia progblem problem
 ia proglem problem
@@ -6926,6 +6934,7 @@ ia residitnetal residential
 ia residnetail residential
 ia Resliiency Resiliency
 ia relisiancy resiliency
+ia resilency resiliency
 ia resliiency resiliency
 ia resiliant resilient
 ia resistnace resistance
@@ -7253,6 +7262,7 @@ ia slection selection
 ia Selecitons Selections
 ia selectiosn selections
 ia selectvie selective
+ia slef self
 ia Semeseter Semester
 ia Semseter Semester
 ia semicolin semicolon
@@ -7813,6 +7823,7 @@ ia Studnent Student
 ia studnet student
 ia sutdnet student
 ia studeis studies
+ia studesi studies
 ia STuido Studio
 ia Stuido Studio
 ia sutdy study
@@ -7926,6 +7937,7 @@ ia swithc switch
 ia swtich switch
 ia switchees switches
 ia swtiches switches
+ia Siwtchgear Switchgear
 ia switchgaar switchgear
 ia switchgaer switchgear
 ia SWitching Switching
