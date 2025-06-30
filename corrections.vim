@@ -231,6 +231,7 @@ ia Airprot Airport
 ia airprot airport
 ia ariport airport
 ia airposrts airports
+ia aisel aisle
 ia Almao Alamo
 ia Alamr Alarm
 ia Alram Alarm
@@ -2026,6 +2027,7 @@ ia daata data
 ia datapoints data points
 ia dta data
 ia Datbase Database
+ia databae database
 ia databasew database
 ia databse database
 ia datbase database
@@ -3935,6 +3937,7 @@ ia HIstorically Historically
 ia Histoires Histories
 ia hisotry history
 ia histoyr history
+ia hsitory history
 ia hti hit
 ia HObby Hobby
 ia HOlder Holder
@@ -4666,6 +4669,7 @@ ia Libaryar Library
 ia Libratry Library
 ia Libray Library
 ia Librayr Library
+ia lbirary library
 ia libary library
 ia librayr library
 ia librray library
@@ -5956,6 +5960,7 @@ ia poisnt points
 ia poitns points
 ia ponits points
 ia pooints points
+ia policeis policies
 ia Pocliby Policy
 ia pocliy policy
 ia polciy policy
@@ -6303,6 +6308,7 @@ ia porjecst project
 ia porject project
 ia preojct project
 ia prjoect project
+ia proect project
 ia proejct project
 ia proeject project
 ia profject project
@@ -7715,6 +7721,7 @@ ia Stnadards Standards
 ia standrads standards
 ia standpoitn standpoint
 ia stadns stands
+ia stnads stands
 ia stareted started
 ia strated started
 ia Stargin Starting
