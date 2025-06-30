@@ -2348,6 +2348,7 @@ ia difrent different
 ia idfferent different
 ia Differentail Differential
 ia differentail differential
+ia differntial differential
 ia differentitate differentiate
 ia differtly differently
 ia Difficutl Difficult
@@ -2874,6 +2875,7 @@ ia environmetn environment
 ia envriorment environment
 ia Enviormental Environmental
 ia Enviormentla Environmental
+ia Environemntal Environmental
 ia enviromental environmental
 ia Enviornments Environments
 ia enviorments environments
@@ -3066,6 +3068,7 @@ ia exampels examples
 ia exapmles examples
 ia exmaples examples
 ia exmapllse examples
+ia expamels examples
 ia rexceeding exceeding
 ia exeeds exceeds
 ia Ecxel Excel
@@ -4027,6 +4030,7 @@ ia iamgine imagine
 ia initated imitated
 ia immediatley immediately
 ia immediatly immediately
+ia immeidiately immediately
 ia IMplement Implement
 ia Implmeent Implement
 ia impelmetn implement
@@ -5271,6 +5275,7 @@ ia naems names
 ia neams names
 ia anmign naming
 ia namign naming
+ia naationla national
 ia natiaonl national
 ia nationsl national
 ia Natual Natural
@@ -5819,6 +5824,7 @@ ia peirod period
 ia peroid period
 ia preiod period
 ia peirods periods
+ia Permananet Permanent
 ia Permanetn Permanent
 ia Permannet Permanent
 ia permannet permanent
@@ -7717,6 +7723,7 @@ ia Standand Standard
 ia satandrad standard
 ia satndard standard
 ia standared standard
+ia Stanardization Standardization
 ia Stnadards Standards
 ia standrads standards
 ia standpoitn standpoint
