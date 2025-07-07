@@ -1064,6 +1064,7 @@ ia cpacaity capacity
 ia cpacity capacity
 ia Captial Capital
 ia capitla capital
+ia captial capital
 ia catpital capital
 ia captilized capitalized
 ia Capations Captions
@@ -1085,6 +1086,7 @@ ia categoraized categorized
 ia catefory category
 ia cuase cause
 ia casued caused
+ia causign causing
 ia Ceilign Ceiling
 ia ceilgin ceiling
 ia ceilign ceiling
@@ -1284,6 +1286,7 @@ ia Closeds Closes
 ia Clsoing Closing
 ia clsoing closing
 ia lcosing closing
+ia clodu cloud
 ia clous cloud
 ia colud cloud
 ia Clluster Cluster
@@ -2925,6 +2928,7 @@ ia Equipement Equipment
 ia Equipemnt Equipment
 ia Equipmetn Equipment
 ia Equpiment Equipment
+ia eequipmaent equipment
 ia eequipment equipment
 ia eequipmetn equipment
 ia eqiupemnt equipment
@@ -3797,6 +3801,7 @@ ia gropu group
 ia groupo group
 ia gropus groups
 ia grwo grow
+ia guaranee guarantee
 ia guarantte guarantee
 ia guarantted guaranteed
 ia guarantess guarantees
@@ -3920,6 +3925,7 @@ ia hgihlihgitng highlighting
 ia highlighing highlighting
 ia highlighitng highlighting
 ia highlihging highlighting
+ia highlihgintg highlighting
 ia highlihgitng highlighting
 ia highlihgthing highlighting
 ia highlihgting highlighting
@@ -4978,9 +4984,11 @@ ia mathematicans mathematicians
 ia Matalb Matlab
 ia Matlba Matlab
 ia matirx matrix
+ia matrxi matrix
 ia maximimum maximum
 ia maxium maximum
 ia Maybew Maybe
+ia mabye maybe
 ia meaing meaning
 ia meaining meaning
 ia menaing meaning
@@ -5786,6 +5794,7 @@ ia Pnethouse Penthouse
 ia Peiople People
 ia Peopel People
 ia Poeople People
+ia Popele People
 ia peiople people
 ia peopel people
 ia peorple people
@@ -5910,6 +5919,7 @@ ia Paln Plan
 ia paln plan
 ia pland plan
 ia plna plan
+ia planend planned
 ia palnner planner
 ia Plannin8g Planning
 ia plannign planning
@@ -6832,6 +6842,7 @@ ia Reporeter Reporter
 ia Reporetr Reporter
 ia Reproter Reporter
 ia reproter reporter
+ia Reproitng Reporting
 ia areporting reporting
 ia reporintg reporting
 ia reporitng reporting
@@ -8339,6 +8350,7 @@ ia htme them
 ia thme them
 ia tehems themes
 ia tehmselves themselves
+ia themsleves themselves
 ia THen Then
 ia hten then
 ia htne then
@@ -9079,6 +9091,7 @@ ia wanwt want
 ia watn want
 ia wnat want
 ia wnt want
+ia Watned Wanted
 ia wanteed wanted
 ia wnated wanted
 ia warings warnings
