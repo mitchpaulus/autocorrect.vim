@@ -3705,6 +3705,7 @@ ia geneartor generator
 ia geneator generator
 ia generagor generator
 ia genreator generator
+ia gerneatr generator
 ia gneerator generator
 ia gneraator generator
 ia gnerator generator
@@ -3888,6 +3889,7 @@ ia HEat Heat
 ia ehat heat
 ia heta heat
 ia HEating Heating
+ia Heaitng Heating
 ia ehating heating
 ia heagin heating
 ia heaing heating
@@ -7743,6 +7745,7 @@ ia satndard standard
 ia standared standard
 ia Stanardization Standardization
 ia Stnadards Standards
+ia standarsd standards
 ia standrads standards
 ia stnadards standards
 ia standpoitn standpoint
