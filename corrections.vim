@@ -702,6 +702,7 @@ ia Baslein Baseline
 ia Basleine Baseline
 ia Baslien Baseline
 ia balseine baseline
+ia baseilne baseline
 ia baselien baseline
 ia baseliune baseline
 ia baslein baseline
@@ -1493,6 +1494,7 @@ ia compilign compiling
 ia compliing compiling
 ia compalin complain
 ia compliaint complaint
+ia compliants complaints
 ia ocmplaints complaints
 ia compolement complement
 ia Compelte Complete
@@ -2518,6 +2520,7 @@ ia documentaiton documentation
 ia documentatino documentation
 ia documention documentation
 ia documetiona documentation
+ia documetnation documentation
 ia documetnion documentation
 ia documneation documentation
 ia docuemneted documented
@@ -3056,6 +3059,7 @@ ia everythiong everything
 ia everytihg everything
 ia everyting everything
 ia everytingh everything
+ia evetrything everything
 ia evaultion evolution
 ia exaclty exactly
 ia exactyl exactly
@@ -3700,6 +3704,7 @@ ia Genenrator Generator
 ia geneartor generator
 ia geneator generator
 ia generagor generator
+ia genreator generator
 ia gneerator generator
 ia gneraator generator
 ia gnerator generator
@@ -5141,6 +5146,7 @@ ia mdoe mode
 ia Modle Model
 ia mdoel model
 ia modle model
+ia nmodel model
 ia MOdeling Modeling
 ia Modedling Modeling
 ia Modelign Modeling
@@ -7190,6 +7196,7 @@ ia socpe scope
 ia sope scope
 ia Scopeing Scoping
 ia scroe score
+ia scroing scoring
 ia Sctot Scott
 ia scracth scratch
 ia scrreen screen
@@ -7737,6 +7744,7 @@ ia standared standard
 ia Stanardization Standardization
 ia Stnadards Standards
 ia standrads standards
+ia stnadards standards
 ia standpoitn standpoint
 ia stadns stands
 ia stnads stands
@@ -7963,6 +7971,7 @@ ia swtich switch
 ia switchees switches
 ia swtiches switches
 ia Siwtchgear Switchgear
+ia Switchgera Switchgear
 ia switchgaar switchgear
 ia switchgaer switchgear
 ia SWitching Switching
@@ -9151,6 +9160,7 @@ ia WEst West
 ia WHat What
 ia Waht What
 ia Whbat What
+ia Whhat What
 ia Whta What
 ia hwat what
 ia waht what
