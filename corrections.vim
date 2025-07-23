@@ -727,6 +727,7 @@ ia becasue because
 ia becaues because
 ia becuase because
 ia becvause because
+ia bedause because
 ia bewcome become
 ia beeen been
 ia beene been
@@ -794,6 +795,7 @@ ia Blcok Block
 ia blokc block
 ia blockss blocks
 ia blgo blog
+ia blowign blowing
 ia boareds boards
 ia BOiler Boiler
 ia Boielr Boiler
@@ -1728,6 +1730,7 @@ ia containesr containers
 ia contianers containers
 ia containeing containing
 ia containg containing
+ia Containmnet Containment
 ia Containes Contains
 ia Contaisn Contains
 ia conatins contains
@@ -2941,6 +2944,7 @@ ia Equpiment Equipment
 ia eequipmaent equipment
 ia eequipment equipment
 ia eequipmetn equipment
+ia eqeuipmetn equipment
 ia eqiupemnt equipment
 ia eqiupment equipment
 ia equiepment equipment
@@ -4941,6 +4945,7 @@ ia manmual manual
 ia manuaal manual
 ia manula manual
 ia mnaula manual
+ia manualy manually
 ia manulaly manually
 ia Mnaulas Manuals
 ia manuasl manuals
@@ -5322,6 +5327,7 @@ ia neccesarily necessarily
 ia neccessarikly necessarily
 ia necesarrily necessarily
 ia necesdarily necessarily
+ia necessrialy necessarily
 ia neeccessary necessary
 ia NEed Need
 ia NEedc Need
@@ -5819,6 +5825,7 @@ ia pepople people
 ia periople people
 ia pieople people
 ia pioeple people
+ia poepel people
 ia poeple people
 ia popele people
 ia Pecent Percent
@@ -8100,6 +8107,7 @@ ia techiniuqes techniques
 ia techinuques techniques
 ia techniquers techniques
 ia technoilogies technologies
+ia technolgies technologies
 ia technoligies technologies
 ia TEchnology Technology
 ia Techonology Technology
