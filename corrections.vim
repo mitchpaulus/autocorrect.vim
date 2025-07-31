@@ -314,6 +314,7 @@ ia amounto amount
 ia amountt amount
 ia amoutn amount
 ia amoutns amounts
+ia Amperaage Amperage
 ia na an
 ia Analgoies Analogies
 ia analgous analogous
@@ -1047,6 +1048,7 @@ ia canonicalize canonicalize
 ia capabaiblites capabilities
 ia capabillites capabilities
 ia capabiliity capability
+ia capabilliyt capability
 ia capabiltiy capability
 ia capabiltiyt capability
 ia capaibiltiyt capability
@@ -1292,6 +1294,7 @@ ia Closeds Closes
 ia Clsoing Closing
 ia clsoing closing
 ia lcosing closing
+ia CLoud Cloud
 ia clodu cloud
 ia clous cloud
 ia colud cloud
@@ -1529,6 +1532,7 @@ ia completley completely
 ia compeletes completes
 ia compelting completing
 ia cmopletion completion
+ia comletion completion
 ia compeltion completion
 ia compleition completion
 ia compleiton completion
@@ -2656,6 +2660,7 @@ ia Eucational Educational
 ia educatinosl educational
 ia effeect effect
 ia effectiley effectively
+ia effectivley effectively
 ia effectivenss effectiveness
 ia effectivientss effectiveness
 ia effectivness effectiveness
@@ -5604,6 +5609,7 @@ ia aor or
 ia ro or
 ia organe orange
 ia organge orange
+ia ochestration orchestration
 ia ordedr order
 ia ordrse orders
 ia ordinacne ordinance
@@ -5957,6 +5963,7 @@ ia plnat plant
 ia polant plant
 ia plnats plants
 ia plasitc plastic
+ia platns platens
 ia platfrom platform
 ia ploatfrom platform
 ia platfroms platforms
