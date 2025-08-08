@@ -1819,6 +1819,7 @@ ia contreols controls
 ia contrls controls
 ia controsl controls
 ia contrrols controls
+ia coontrols controls
 ia cotnrols controls
 ia cotnrosl controls
 ia ocntrosl controls
@@ -2987,6 +2988,7 @@ ia errosr errors
 ia errrors errors
 ia errros errors
 ia escpae escape
+ia escapping escaping
 ia escapting escaping
 ia Esmeradla Esmeralda
 ia Especailly Especially
@@ -4143,6 +4145,7 @@ ia Imporvement Improvement
 ia improvemtns improvements
 ia improvmenets improvements
 ia improvments improvements
+ia improvmetnes improvements
 ia ina in a
 ia inb in
 ia inthe in the
@@ -4515,6 +4518,7 @@ ia invovled involved
 ia involvment involvement
 ia inrrelevt irrelevant
 ia irreleveant irrelevant
+ia irrevelant irrelevant
 ia irreversilbe irreversible
 ia fis is
 ia isoalted isolated
@@ -4582,6 +4586,7 @@ ia Kewvin Kevin
 ia Kye Key
 ia dkey key
 ia eky key
+ia keybidnigns keybindings
 ia keybindigns keybindings
 ia kesy keys
 ia keystorke keystroke
@@ -5375,6 +5380,7 @@ ia nerutla neutral
 ia netrual neutral
 ia netural neutral
 ia neturla neutral
+ia newver never
 ia Nwewer Newer
 ia nweer newer
 ia NExant Nexant
@@ -5971,6 +5977,7 @@ ia palusible plausible
 ia paly play
 ia plya play
 ia Playbakc Playback
+ia plyaer player
 ia palying playing
 ia play9ing playing
 ia palys plays
@@ -6778,6 +6785,7 @@ ia REmote Remote
 ia Remtoe Remote
 ia Reomte Remote
 ia remtoe remote
+ia mroetly remotely
 ia Removalbe Removable
 ia REmoval Removal
 ia REmove Remove
@@ -8458,6 +8466,7 @@ ia thigns things
 ia tyings things
 ia THink Think
 ia htink think
+ia thinkgin thinking
 ia thingks thinks
 ia THird Third
 ia THrid Third
@@ -9183,6 +9192,7 @@ ia weke week
 ia wekk week
 ia weeekends weekends
 ia wekends weekends
+ia weesk weeks
 ia wweks weeks
 ia wieght weight
 ia weigths weights
