@@ -328,6 +328,7 @@ ia Analyssi Analysis
 ia Analyusis Analysis
 ia analsyis analysis
 ia analsysi analysis
+ia analyais analysis
 ia analyfsis analysis
 ia analyhsi analysis
 ia analyis analysis
@@ -1203,6 +1204,7 @@ ia Cherrpy Cherry
 ia Chery Cherry
 ia Cheryyp Cherry
 ia Chrrey Cherry
+ia Chciago Chicago
 ia childern children
 ia CHilled Chilled
 ia Chiled Chilled
@@ -3788,6 +3790,7 @@ ia graudate graduate
 ia graduyation graduation
 ia gramamrs grammars
 ia egrant grant
+ia granualr granular
 ia Grpah Graph
 ia grahp graph
 ia grpah graph
@@ -4548,6 +4551,7 @@ ia itslf itself
 ia jackign jacking
 ia Jacobina Jacobian
 ia Janurary January
+ia Januray January
 ia Janurayr January
 ia Juandice Jaundice
 ia Javascdript JavaScript
@@ -4885,6 +4889,7 @@ ia mainstram mainstream
 ia maintian maintain
 ia maintin maintain
 ia maintainablity maintainability
+ia maintanbile maintainable
 ia maintinained maintained
 ia maintainging maintaining
 ia maintianing maintaining
@@ -5539,6 +5544,7 @@ ia oeprating operating
 ia operaitgn operating
 ia operatieng operating
 ia operationg operating
+ia operatoring operating
 ia Operaiton Operation
 ia Operat56i5on Operation
 ia oepration operation
@@ -6031,6 +6037,7 @@ ia prot port
 ia protabliity portability
 ia protable portable
 ia protals portals
+ia proted ported
 ia Portfoilfo Portfolio
 ia Protfoilo Portfolio
 ia Protfolio Portfolio
@@ -6448,6 +6455,7 @@ ia pyschrometric psychrometric
 ia psychrometiics psychrometrics
 ia psychrometreics psychrometrics
 ia Plubic Public
+ia Publisc Public
 ia publicaiton publication
 ia publlications publications
 ia publicsher publisher
@@ -6651,6 +6659,7 @@ ia recoreds records
 ia reocreds records
 ia reocvery recovery
 ia reovery recovery
+ia Recifiiers Rectifiers
 ia recurse recurse
 ia recurison recursion
 ia Recurisve Recursive
@@ -6763,6 +6772,7 @@ ia Reliatn Reliant
 ia reflief relief
 ia releif relief
 ia REligion Religion
+ia RElocation Relocation
 ia relocaitons relocations
 ia REly Rely
 ia reamin remain
@@ -6962,6 +6972,7 @@ ia Requirments Requirements
 ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
+ia requiremernts requirements
 ia requiremetns requirements
 ia requiremnets requirements
 ia requiremnts requirements
@@ -7473,6 +7484,7 @@ ia shawdoing shadowing
 ia sahll shall
 ia shlal shall
 ia hsare share
+ia sahre share
 ia SharePoitn SharePoint
 ia SharePonint SharePoint
 ia Sharepoitn Sharepoint
@@ -8789,6 +8801,7 @@ ia uncertanity uncertainty
 ia uncertianty uncertainty
 ia uncertinay uncertainty
 ia unclera unclear
+ia unocmcmon uncommon
 ia uncondiitoned unconditioned
 ia udner under
 ia undre under
@@ -9375,6 +9388,7 @@ ia wuoudl would
 ia wraper wrapper
 ia wrpaper wrapper
 ia writeaable writable
+ia Wirte Write
 ia Writie Write
 ia Wrtie Write
 ia wirte write
