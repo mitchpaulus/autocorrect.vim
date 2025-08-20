@@ -1,4 +1,3 @@
-ia BUilding:
 ia Abondonding Abandoning
 ia abondoning abandoning
 ia abbreivaiton abbreviation
