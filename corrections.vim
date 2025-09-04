@@ -308,6 +308,7 @@ ia Ameendments Amendments
 ia Amecia America
 ia Amerecia America
 ia Amereican American
+ia Amereicas Americas
 ia amoung among
 ia amounto amount
 ia amountt amount
@@ -1085,6 +1086,7 @@ ia carsd cards
 ia carerr career
 ia Carlso Carlos
 ia carepting carpeting
+ia cartesian Cartesian
 ia cartesina Cartesian
 ia cvase case
 ia caess cases
@@ -1227,6 +1229,7 @@ ia cholride chloride
 ia chocie choice
 ia cohice choice
 ia chooosing choosing
+ia chosing choosing
 ia chosne chosen
 ia cohsen chosen
 ia Chirstmas Christmas
@@ -4209,6 +4212,7 @@ ia indicatign indicating
 ia indiciatiton indication
 ia indicatiors indicators
 ia Indicies Indices
+ia indicies indices
 ia Indiviual Individual
 ia Indiviudal Individual
 ia Indiviudaul Individual
@@ -5472,6 +5476,7 @@ ia opject object
 ia obejcts objects
 ia objets objects
 ia ojbects objects
+ia obserations observations
 ia obselete obsolete
 ia Obviusly Obviously
 ia obviusly obviously
@@ -6312,6 +6317,7 @@ ia Prodcut Product
 ia prodcut product
 ia PRoduction Production
 ia Produciton Production
+ia prodcution production
 ia produciton production
 ia prodcuciotns productions
 ia procucts products
@@ -8034,6 +8040,7 @@ ia Syunc Sync
 ia syncitng syncing
 ia synicng syncing
 ia sysncing syncing
+ia syntacital syntactical
 ia syntacially syntactically
 ia SYntax Syntax
 ia Synatx Syntax
@@ -8574,6 +8581,7 @@ ia tmxux tmux
 ia ot to
 ia oto to
 ia Todya Today
+ia todya today
 ia TOdd Todd
 ia togehter together
 ia otekn token
