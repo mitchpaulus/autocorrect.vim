@@ -1568,6 +1568,7 @@ ia cmoptuer computer
 ia comptuer computer
 ia compupter computer
 ia comptuers computers
+ia computres computers
 ia commputing computing
 ia compmuting computing
 ia concatinating concatenating
@@ -1599,6 +1600,7 @@ ia ocnclusions conclusions
 ia ocncourse concourse
 ia Concreate Concrete
 ia concreate concrete
+ia Condenstaiotn Condensation
 ia Condensor Condenser
 ia Condensser Condenser
 ia Condsenser Condenser
@@ -1807,6 +1809,7 @@ ia controlelr controller
 ia contorlers controllers
 ia contorllers controllers
 ia contreollers controllers
+ia contrllers controllers
 ia controlleres controllers
 ia controllres controllers
 ia Controllign Controlling
@@ -1975,6 +1978,7 @@ ia creiterion criterion
 ia Crticial Critical
 ia ciritical critical
 ia cirtical critical
+ia crictial critical
 ia critcial critical
 ia criticial critical
 ia criticla critical
@@ -3556,6 +3560,7 @@ ia frameowkr framework
 ia framerwork framework
 ia frawerwork framework
 ia frmaework framework
+ia frmaing framing
 ia Francsios Francisco
 ia Frnak Frank
 ia Frequncy Frequency
@@ -5177,6 +5182,7 @@ ia minxing mixing
 ia MMBUT MMBTU
 ia Mboile Mobile
 ia mobilityi mobility
+ia mobillity mobility
 ia MOde Mode
 ia Mdoe Mode
 ia mdoe mode
@@ -5726,6 +5732,7 @@ ia ovewr over
 ia voer over
 ia OVerall Overall
 ia overally overall
+ia overlal overall
 ia overaching overarching
 ia overestimat overestimate
 ia OVerflow Overflow
@@ -7508,6 +7515,7 @@ ia sehell shell
 ia sehll shell
 ia sheell shell
 ia shfit shift
+ia SHifted Shifted
 ia shfiting shifting
 ia shfits shifts
 ia shiping shipping
