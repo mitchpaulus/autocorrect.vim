@@ -1994,6 +1994,7 @@ ia curerent current
 ia currrent current
 ia currtent current
 ia Currenlty Currently
+ia Currenlyt Currently
 ia curerntly currently
 ia currehtly currently
 ia currenlty currently
@@ -3245,6 +3246,7 @@ ia expresssions expressions
 ia Exnted Extend
 ia extensibile extensible
 ia Exteniosn Extension
+ia extenison extension
 ia extention extension
 ia extrension extension
 ia extensiosn extensions
