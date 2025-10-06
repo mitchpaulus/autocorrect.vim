@@ -359,6 +359,7 @@ ia Analzzye Analyze
 ia alnaalyze analyze
 ia analzye analyze
 ia anaylze analyze
+ia anlayze analyze
 ia Analysed Analyzed
 ia anlayzxed analyzed
 ia analzer analyzer
@@ -1758,6 +1759,7 @@ ia contexct context
 ia ocntext context
 ia continulally continually
 ia continulaly continually
+ia conitnue continue
 ia contineue continue
 ia COntinued Continued
 ia Continouous Continuous
