@@ -170,6 +170,7 @@ ia adjusatable adjustable
 ia adjustements adjustments
 ia adjustemsnts adjustments
 ia ADmin Admin
+ia Adminstration Administration
 ia Adminsitrative Administrative
 ia Adminsitrator Administrator
 ia administratior administrator
@@ -393,6 +394,7 @@ ia naanual annual
 ia annutities annuities
 ia anomilies anomalies
 ia anomolies anomalies
+ia anomoly anomaly
 ia Anbother Another
 ia Antoher Another
 ia annother another
@@ -1848,6 +1850,7 @@ ia converison conversion
 ia converseion conversion
 ia coversion conversion
 ia ocnversion conversion
+ia converesions conversions
 ia converseions conversions
 ia convet convert
 ia convewrrt convert
@@ -1878,6 +1881,7 @@ ia cooolign cooling
 ia coooling cooling
 ia ocoling cooling
 ia Coordiante Coordinate
+ia Cooridnate Coordinate
 ia Coorinate Coordinate
 ia coordiante coordinate
 ia cooridinate coordinate
@@ -2550,6 +2554,7 @@ ia documetiona documentation
 ia documetnation documentation
 ia documetnion documentation
 ia documneation documentation
+ia odcumentaion documentation
 ia docuemneted documented
 ia docuemnted documented
 ia docuementign documenting
@@ -2892,6 +2897,7 @@ ia Environemnet Environment
 ia Environemnt Environment
 ia enviorment environment
 ia enviormentm environment
+ia enviormentment environment
 ia enviormentmt environment mt
 ia enviormnet environment
 ia enviornemnt environment
@@ -3078,6 +3084,7 @@ ia everyboyd everybody
 ia everytone everyone
 ia Everthing Everything
 ia Evertyhgin Everything
+ia Evertyhing Everything
 ia Evertying Everything
 ia Everythgin Everything
 ia Everythign Everything
@@ -3659,6 +3666,7 @@ ia ufnctionality functionality
 ia funcitonaliy functionally
 ia funcitoning functioning
 ia Fucnttions Functions
+ia Funcitons Functions
 ia fucitons functions
 ia fucntions functions
 ia fucntiosn functions
@@ -3750,6 +3758,7 @@ ia generaters generators
 ia generatos generators
 ia gneerators generators
 ia gnereators generators
+ia genenic generic
 ia gemotry geometry
 ia geomerty geometry
 ia geometyr geometry
@@ -4784,6 +4793,7 @@ ia Llines Lines
 ia LInk Link
 ia LInks Links
 ia LInux Linux
+ia Linxu Linux
 ia linuux Linux
 ia llinux Linux
 ia liqudi liquid
@@ -5509,6 +5519,7 @@ ia Octover October
 ia fo of
 ia oif of
 ia sof of
+ia fof off
 ia offensers offenders
 ia offerse offers
 ia Officila Official
@@ -5912,6 +5923,7 @@ ia perons person
 ia perosn person
 ia Peronsla Personal
 ia perisonal personal
+ia peronsal personal
 ia perosnal personal
 ia personla personal
 ia pwersonal personal
@@ -5962,6 +5974,7 @@ ia pipelien pipeline
 ia piplein pipeline
 ia piplien pipeline
 ia piopelines pipelines
+ia Pipeing Piping
 ia Ptich Pitch
 ia Pivto Pivot
 ia pviot pivot
@@ -8325,6 +8338,7 @@ ia Termibla Terminal
 ia Termilan Terminal
 ia Termilna Terminal
 ia Terminail Terminal
+ia Terminanl Terminal
 ia Terminla Terminal
 ia Termninail Terminal
 ia etrmianl terminal
