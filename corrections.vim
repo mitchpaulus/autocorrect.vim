@@ -167,6 +167,7 @@ ia Adjsut Adjust
 ia adjsut adjust
 ia adjsutable adjustable
 ia adjusatable adjustable
+ia Adjustements Adjustments
 ia adjustements adjustments
 ia adjustemsnts adjustments
 ia ADmin Admin
@@ -1074,7 +1075,9 @@ ia cappactiy capacity
 ia cpaacity capacity
 ia cpacaity capacity
 ia cpacity capacity
+ia Capitla Capital
 ia Captial Capital
+ia capatila capital
 ia capitla capital
 ia captial capital
 ia catpital capital
@@ -2275,6 +2278,7 @@ ia Detials Details
 ia deaitls details
 ia deatials details
 ia deatils details
+ia detaisl details
 ia detials details
 ia detilas details
 ia detectino detection
@@ -2389,6 +2393,7 @@ ia Difficutl Difficult
 ia difficutl difficult
 ia diffucilt difficult
 ia diffulct difficult
+ia difficulites difficulties
 ia difficulity difficulty
 ia Diffuer Diffuser
 ia DIgit Digit
@@ -3582,6 +3587,7 @@ ia Firday Friday
 ia Frday Friday
 ia Frdiay Friday
 ia Frdiayf Friday
+ia Friady Friday
 ia Fridayf Friday
 ia Fridya Friday
 ia freidns friends
@@ -4534,6 +4540,7 @@ ia Investingating Investigating
 ia investigatign investigating
 ia invesitgation investigation
 ia Invenstemnt Investment
+ia invesement investment
 ia investement investment
 ia inviation invitation
 ia invitue invite
@@ -4564,6 +4571,7 @@ ia ITems Items
 ia Itesm Items
 ia Itmes Items
 ia imtems items
+ia imtes items
 ia itemse items
 ia itesm items
 ia itmes items
@@ -4616,6 +4624,7 @@ ia dkey key
 ia eky key
 ia keybidnigns keybindings
 ia keybindigns keybindings
+ia Keybaord Keyboard
 ia kesy keys
 ia keystorke keystroke
 ia keystorkes keystrokes
@@ -4779,6 +4788,7 @@ ia limti limit
 ia lmit limit
 ia limitaiton limitation
 ia limitaitons limitations
+ia limitiations limitations
 ia olimitations limitations
 ia Limitied Limited
 ia Limtis Limits
@@ -5992,6 +6002,7 @@ ia Paln Plan
 ia paln plan
 ia pland plan
 ia plna plan
+ia palnned planned
 ia planend planned
 ia palnner planner
 ia Plannin8g Planning
@@ -6067,6 +6078,8 @@ ia popualtes populates
 ia prot port
 ia protabliity portability
 ia protable portable
+ia Poratl Portal
+ia protal portal
 ia protals portals
 ia proted ported
 ia Portfoilfo Portfolio
@@ -8175,6 +8188,7 @@ ia TEchnology Technology
 ia Techonology Technology
 ia Tecnology Technology
 ia Teeht Teeth
+ia telecommunicaiton telecommunication
 ia TEmp Temp
 ia TEmpe Temp
 ia Tmep Temp
@@ -8891,6 +8905,7 @@ ia unmanagele unmanageable
 ia uneccessary unnecessary
 ia unecesary unnecessary
 ia unecessary unnecessary
+ia unessecary unnecessary
 ia unnecceary unnecessary
 ia unneccesary unnecessary
 ia unneccessary unnecessary
