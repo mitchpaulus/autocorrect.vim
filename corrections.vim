@@ -2335,6 +2335,7 @@ ia Developes Develops
 ia developes develops
 ia devleops develops
 ia dervice device
+ia devcie device
 ia devicee device
 ia devies devices
 ia edevices devices
@@ -6195,6 +6196,7 @@ ia prefunctinal prefunctional
 ia prefuncitonsla prefunctionals
 ia prefunctiaonls prefunctionals
 ia Prelimiary Preliminary
+ia prelimary preliminary
 ia permier premier
 ia preimum premium
 ia preoparation preparation
@@ -7015,6 +7017,7 @@ ia requiremnet requirement
 ia reuqirement requirement
 ia Requiremetns Requirements
 ia Requirments Requirements
+ia Requirmetnes Requirements
 ia requiements requirements
 ia requiemernts requirements
 ia requirementse requirements
@@ -7203,6 +7206,7 @@ ia RUn Run
 ia RUnning Running
 ia Runnign Running
 ia runign running
+ia runing running
 ia runni9ng running
 ia runnign running
 ia rusn runs
@@ -8149,6 +8153,7 @@ ia takign taking
 ia tlaking talking
 ia tlaks talks
 ia TMAU TAMU
+ia tandom tandem
 ia tnaks tanks
 ia targest targets
 ia targetes targets
@@ -8719,6 +8724,7 @@ ia trtansmission transmission
 ia trnasmittance transmittance
 ia transpaerent transparent
 ia transpiller transpiler
+ia transprot transport
 ia Transporation Transportation
 ia Transportaion Transportation
 ia transporation transportation
