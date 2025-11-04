@@ -515,6 +515,7 @@ ia arugments arguments
 ia Arthimetic Arithmetic
 ia arithemtic arithmetic
 ia amr arm
+ia Aroudn Around
 ia aorund around
 ia aroiund around
 ia arond around
@@ -847,6 +848,7 @@ ia breakdonw breakdown
 ia brekadown breakdown
 ia breakre breaker
 ia breakres breakers
+ia breakign breaking
 ia brekaing breaking
 ia breathign breathing
 ia Brikc Brick
@@ -1098,6 +1100,7 @@ ia cvase case
 ia caess cases
 ia casees cases
 ia categoiries categories
+ia categoreis categories
 ia categoraized categorized
 ia catefory category
 ia cuase cause
@@ -2809,6 +2812,7 @@ ia enclouse enclosure
 ia enclouser enclosure
 ia enclousre enclosure
 ia eneclosure enclosure
+ia enocded encoded
 ia encodding encoding
 ia enocding encoding
 ia ENd End
@@ -3689,6 +3693,7 @@ ia ufnctions functions
 ia fudnamental fundamental
 ia fundmental fundamental
 ia FUndamentals Fundamentals
+ia FUnding Funding
 ia fudning funding
 ia ufnding funding
 ia ufnds funds
@@ -4095,6 +4100,7 @@ ia initated imitated
 ia immediatley immediately
 ia immediatly immediately
 ia immeidiately immediately
+ia impactign impacting
 ia IMplement Implement
 ia Implmeent Implement
 ia impelmetn implement
@@ -4306,6 +4312,7 @@ ia infrmation information
 ia infromation information
 ia iniofmration information
 ia inmfromation information
+ia inofmation information
 ia inofmraiont information
 ia inoformation information
 ia inofrmaiton information
@@ -4419,6 +4426,7 @@ ia insstead instead
 ia instaed instead
 ia insteadd instead
 ia insteard instead
+ia isntead instead
 ia Institutue Institute
 ia institiution institution
 ia instituation institution
@@ -5704,6 +5712,7 @@ ia toher other
 ia otherse others
 ia OTherwise Otherwise
 ia Otherwsie Otherwise
+ia otherwsie otherwise
 ia oiur our
 ia oru our
 ia oursevels ourselves
@@ -7193,6 +7202,7 @@ ia rougth rough
 ia roudn round
 ia rouund round
 ia roundign rounding
+ia rotuine routine
 ia Rotuiens Routines
 ia rwo row
 ia rwos rows
@@ -8014,6 +8024,7 @@ ia sufficeint sufficient
 ia suggset suggest
 ia suggesitons suggestions
 ia Sutie Suite
+ia sumamrized summarized
 ia sumarized summarized
 ia Sumary Summary
 ia Summayr Summary
