@@ -169,6 +169,7 @@ ia adjsutable adjustable
 ia adjusatable adjustable
 ia Adjustements Adjustments
 ia adjustements adjustments
+ia adjustemntes adjustments
 ia adjustemsnts adjustments
 ia ADmin Admin
 ia Adminstration Administration
@@ -524,6 +525,7 @@ ia arround around
 ia aruond around
 ia arrya array
 ia ararys arrays
+ia Arythmia Arrhythmia
 ia ARrow Arrow
 ia aritcle article
 ia artticle article
@@ -751,6 +753,7 @@ ia beignngin beginning
 ia begignnings beginnings
 ia beginnigns beginnings
 ia beginnigs beginnings
+ia beahvior behavior
 ia behaivor behavior
 ia behaviior behavior
 ia behavoir behavior
@@ -890,6 +893,7 @@ ia Buildign Building
 ia Buildinc Building
 ia Builkding Building
 ia biulding building
+ia bjuilding building
 ia budilgin building
 ia buidign building
 ia buiding building
@@ -2412,6 +2416,7 @@ ia dingin dining
 ia dinign dining
 ia dineer dinner
 ia dinsoaur dinosaur
+ia driect direct
 ia direciton direction
 ia dirctions directions
 ia directins directions
@@ -3141,6 +3146,7 @@ ia excpetion exception
 ia exceptionatlly exceptionally
 ia Excpetions Exceptions
 ia excpetions exceptions
+ia expections exceptions
 ia exhanger exchange
 ia exhcange exchange
 ia excahnger exchanger
@@ -3489,6 +3495,7 @@ ia flwo flow
 ia lfow flow
 ia flucuation fluctuation
 ia fulcutuation fluctuation
+ia FLuid Fluid
 ia Fludi Fluid
 ia fulid fluid
 ia Flourescent Fluorescent
@@ -3585,6 +3592,7 @@ ia frmaing framing
 ia Francsios Francisco
 ia Frnak Frank
 ia Frequncy Frequency
+ia frequrency frequency
 ia frequenty frequently
 ia FIrday Friday
 ia FRiday Friday
@@ -3663,6 +3671,7 @@ ia fucntinality functionality
 ia fucntionality functionality
 ia funcationality functionality
 ia funcdtioanliy functionality
+ia funcdtionality functionality
 ia funcitality functionality
 ia funcitonality functionality
 ia functianlity functionality
@@ -3679,6 +3688,7 @@ ia funcitoning functioning
 ia Fucnttions Functions
 ia Funcitons Functions
 ia fucitons functions
+ia fucnitons functions
 ia fucntions functions
 ia fucntiosn functions
 ia fuctions functions
@@ -3861,6 +3871,7 @@ ia Grup Group
 ia gorup group
 ia gropu group
 ia groupo group
+ia gruop group
 ia gropus groups
 ia grwo grow
 ia guaranee guarantee
@@ -4342,6 +4353,7 @@ ia initila initial
 ia intiail initial
 ia intial initial
 ia intiial initial
+ia intitial initial
 ia nitial initial
 ia Initializaiton Initialization
 ia initializaiton initialization
@@ -4553,6 +4565,7 @@ ia invesement investment
 ia investement investment
 ia inviation invitation
 ia invitue invite
+ia invitied invited
 ia Inovices Invoices
 ia inovices invoices
 ia involed involved
@@ -5681,6 +5694,7 @@ ia organziaiton organization
 ia Organaizational Organizational
 ia organizaitons organizations
 ia rogainations organizations
+ia organzier organizer
 ia Orgainzing Organizing
 ia orientatino orientation
 ia orientied oriented
@@ -7193,6 +7207,7 @@ ia riese rise
 ia rissk risk
 ia Roadd Road
 ia robuts robust
+ia roubst robust
 ia Rodrigueq Rodriguez
 ia roofign roofing
 ia rooom room
@@ -8155,6 +8170,7 @@ ia taggins tagging
 ia TAke Take
 ia atake take
 ia atke take
+ia tkae take
 ia utake take
 ia takeawya takeaway
 ia takne taken
@@ -8559,6 +8575,7 @@ ia thei this
 ia thsi this
 ia THomas Thomas
 ia Thoams Thomas
+ia thorouglhly thoroughly
 ia THose Those
 ia htose those
 ia thoguh though
@@ -8995,6 +9012,7 @@ ia useage usage
 ia tused used
 ia ued used
 ia uesd used
+ia ussed used
 ia USeful Useful
 ia Useufl Useful
 ia sueufl useful
@@ -9141,6 +9159,7 @@ ia verificaiotn verification
 ia verificaitn verification
 ia verificaiton verification
 ia vreification verification
+ia veririfed verified
 ia vefriyf verify
 ia verfiy verify
 ia verifiy verify
