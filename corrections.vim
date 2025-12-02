@@ -1418,6 +1418,7 @@ ia Commericial Commercial
 ia commerecial commercial
 ia commerical commercial
 ia commericial commercial
+ia commerialization commercialization
 ia Commissionieed Commissioned
 ia Commisssioned Commissioned
 ia COmmissioign Commissioning
@@ -2462,6 +2463,7 @@ ia Discharege Discharge
 ia dsicloses discloses
 ia Disclousere Disclosure
 ia disclousre disclosure
+ia discontiuneed discontinued
 ia dscovery discovery
 ia descrepancies discrepancies
 ia discrepencies discrepancies
