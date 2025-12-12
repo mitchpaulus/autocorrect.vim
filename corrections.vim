@@ -1857,6 +1857,7 @@ ia conventilan conventional
 ia conventioanl conventional
 ia converstaion conversation
 ia convewrsation conversation
+ia Coversion Conversion
 ia converison conversion
 ia converseion conversion
 ia coversion conversion
@@ -2262,6 +2263,7 @@ ia desigh design
 ia desing design
 ia dfesign design
 ia Desiginated Designated
+ia desigination designation
 ia disgnation designation
 ia edesignation designation
 ia desgined designed
@@ -3113,6 +3115,7 @@ ia everythiong everything
 ia everytihg everything
 ia everyting everything
 ia everytingh everything
+ia everytnign everything
 ia evetrything everything
 ia evaultion evolution
 ia exaclty exactly
@@ -4563,6 +4566,7 @@ ia Investingating Investigating
 ia investigatign investigating
 ia invesitgation investigation
 ia Invenstemnt Investment
+ia Investement Investment
 ia invesement investment
 ia investement investment
 ia inviation invitation
@@ -7470,6 +7474,7 @@ ia Sequcnece Sequence
 ia Sequience Sequence
 ia seequence sequence
 ia sequencew sequence
+ia sequenece sequence
 ia sequnce sequence
 ia sequndce sequence
 ia sequqence sequence
@@ -7748,6 +7753,7 @@ ia Sometmies Sometimes
 ia soemitmes sometimes
 ia somethimes sometimes
 ia soemwhere somewhere
+ia sophisitcated sophisticated
 ia saught sought
 ia Soruce Source
 ia Sourcee Source
