@@ -4,6 +4,7 @@ ia abbreivaiton abbreviation
 ia abbrevaiton abbreviation
 ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
+ia abbrevations abbreviations
 ia abbreviatinos abbreviations
 ia Abilty Ability
 ia abbility ability
@@ -173,6 +174,7 @@ ia adjustemntes adjustments
 ia adjustemsnts adjustments
 ia ADmin Admin
 ia Adminstration Administration
+ia adminstration administration
 ia Adminsitrative Administrative
 ia Adminsitrator Administrator
 ia administratior administrator
@@ -891,6 +893,7 @@ ia Buildgion Building
 ia Buildic Building
 ia Buildign Building
 ia Buildinc Building
+ia Builgin Building
 ia Builkding Building
 ia biulding building
 ia bjuilding building
@@ -1045,6 +1048,7 @@ ia cmae came
 ia Camear Camera
 ia camerag camera
 ia comapaigns campaigns
+ia Campblel Campbell
 ia capmus campus
 ia cmapus campus
 ia CAn Can
@@ -2002,6 +2006,7 @@ ia criticial critical
 ia criticla critical
 ia crtricial critical
 ia ctirical critical
+ia critism criticism
 ia critisms criticism
 ia cruical crucial
 ia crusing cruising
@@ -2599,6 +2604,7 @@ ia dobule double
 ia doewn down
 ia donw down
 ia downo down
+ia dwon down
 ia odwn down
 ia DOwnload Download
 ia Downlaod Download
@@ -3168,6 +3174,7 @@ ia execuatble executable
 ia execuatlab executable
 ia executasble executable
 ia exeucutalble executable
+ia Excute Execute
 ia exectue execute
 ia execture execute
 ia exectued executed
@@ -5792,7 +5799,9 @@ ia overaching overarching
 ia overestimat overestimate
 ia OVerflow Overflow
 ia overaly overlay
+ia overridding overriding
 ia OVerview Overview
+ia overveiew overview
 ia onw own
 ia woned owned
 ia apcakge package
@@ -6330,6 +6339,7 @@ ia Pritn Print
 ia pirnt print
 ia pritn print
 ia prtin print
+ia Printting Printing
 ia pirntign printing
 ia printign printing
 ia Prioriteis Priorities
@@ -6500,6 +6510,7 @@ ia Proposlas Proposals
 ia propsoals proposals
 ia propse propose
 ia Porposed Proposed
+ia Propsoed Proposed
 ia propsed proposed
 ia propsoed proposed
 ia propiritary proprietary
@@ -6748,6 +6759,7 @@ ia reod redo
 ia reodo redo
 ia REdoing Redoing
 ia REduced Reduced
+ia reducecd reduced
 ia redueced reduced
 ia reduceds reduces
 ia Reduciton Reduction
@@ -7322,6 +7334,7 @@ ia socpe scope
 ia sope scope
 ia Scopeing Scoping
 ia scroe score
+ia scorign scoring
 ia scroing scoring
 ia Sctot Scott
 ia scracth scratch
@@ -9069,6 +9082,7 @@ ia Utilzie Utilize
 ia utilitze utilize
 ia utilzed utilized
 ia utilzied utilized
+ia utilizign utilizing
 ia utilizng utilizing
 ia utilting utilizing
 ia vaccum vacuum
@@ -9506,6 +9520,7 @@ ia yoau you
 ia yoj you
 ia youy you
 ia yuou you
+ia yoru your
 ia zerio zero
 ia Zoen Zone
 ia zeon zone
