@@ -72,6 +72,7 @@ ia achive achieve
 ia achivee achieve
 ia acheived achieved
 ia ackknowledged acknowledged
+ia acknowleged acknowledged
 ia ackknowledgement acknowledgment
 ia acknowledgement acknowledgment
 ia acquisitons acquisitions
@@ -413,6 +414,7 @@ ia anitvirus antivirus
 ia Antoinio Antonio
 ia Antoionio Antonio
 ia Antoniao Antonio
+ia Antionio Antonio
 ia aany any
 ia Anthing Anything
 ia Anytihng Anything
@@ -1141,6 +1143,8 @@ ia cewntral central
 ia cnetal central
 ia cnetral central
 ia cnetrla central
+ia cnetoral central
+ia Centruy Century
 ia Ceratin Certain
 ia Certian Certain
 ia ceratin certain
@@ -1265,6 +1269,7 @@ ia circutry circuitry
 ia circutis circuits
 ia curcuites circuits
 ia circualr circular
+ia ciruclar circular
 ia circulartion circulation
 ia citaitons citations
 ia Ciit Citi
@@ -1487,6 +1492,7 @@ ia communicty community
 ia comapny company
 ia compnay company
 ia ocmpany company
+ia comparny company
 ia Comare Compare
 ia comapre compare
 ia comapred compared
@@ -1628,6 +1634,7 @@ ia ocndenser condenser
 ia COndition Condition
 ia conditoin condition
 ia condtion condition
+ia conditon condition
 ia Conditionign Conditioning
 ia conditiojing conditioning
 ia conditinos conditions
@@ -1736,6 +1743,7 @@ ia consturcidton construction
 ia consturction construction
 ia consturctions constructions
 ia constrcuts constructs
+ia consultatn consultant
 ia consuem consume
 ia COnsujpmtion Consumption
 ia coinsumption consumption
@@ -1970,6 +1978,7 @@ ia coutns counts
 ia Coutnyt County
 ia ocunty county
 ia copule couple
+ia COuple Couple
 ia coures course
 ia covver cover
 ia ocver cover
@@ -2010,6 +2019,7 @@ ia critism criticism
 ia critisms criticism
 ia cruical crucial
 ia crusing cruising
+ia crtuches crutches
 ia Crystallation Crystallization
 ia cucib cubic
 ia curent current
@@ -2042,6 +2052,7 @@ ia custiom custom
 ia custmo custom
 ia cusotmoer customer
 ia customre customer
+ia customrre customer
 ia CxReproter CxReporter
 ia CxRpeorter CxReporter
 ia cycel cycle
@@ -2230,6 +2241,7 @@ ia deployued deployed
 ia dpeloyed deployed
 ia dpeloying deploying
 ia deployement deployment
+ia detph depth
 ia deptuyr deputy
 ia derivateive derivative
 ia deriviate derivative
@@ -3123,6 +3135,7 @@ ia everyting everything
 ia everytingh everything
 ia everytnign everything
 ia evetrything everything
+ia Everythihg Everything
 ia evaultion evolution
 ia exaclty exactly
 ia exactyl exactly
@@ -3327,6 +3340,7 @@ ia facillity facility
 ia FacillityGrid FacilityGrid
 ia facotr factor
 ia fractor factor
+ia factro factor
 ia Factoriziation Factorization
 ia Facotry Factory
 ia FAculty Faculty
@@ -3630,6 +3644,7 @@ ia fronnt front
 ia froont front
 ia frotn front
 ia frontedn frontend
+ia Frsot Frost
 ia frustrationg frustrating
 ia ftp FTP
 ia FUel Fuel
@@ -4595,6 +4610,7 @@ ia isolaiotn isolation
 ia sisolation isolation
 ia isothermla isothermal
 ia isseu issue
+ia sisue issue
 ia isseus issues
 ia isssues issues
 ia issuses issues
@@ -5325,6 +5341,7 @@ ia montlhy monthly
 ia montly monthly
 ia montlyh monthly
 ia montyhly monthly
+ia Monhtly Monthly
 ia monthds months
 ia monthfs months
 ia montsh months
@@ -5957,6 +5974,7 @@ ia Permananet Permanent
 ia Permanetn Permanent
 ia Permannet Permanent
 ia permannet permanent
+ia permananet permanent
 ia premenently permanently
 ia Premissions Permissions
 ia perimissions permissions
@@ -6028,6 +6046,7 @@ ia Ptich Pitch
 ia Pivto Pivot
 ia pviot pivot
 ia palce place
+ia plcae place
 ia palceholder placeholder
 ia placehodler placeholder
 ia placenholdre placeholder
@@ -6294,6 +6313,7 @@ ia pressurizaiotn pressurization
 ia prentend pretend
 ia preteneding pretending
 ia pretyt pretty
+ia Previal Prevail
 ia prevetn prevent
 ia preventitive preventative
 ia PRevious Previous
@@ -6362,6 +6382,7 @@ ia probalby probably
 ia probaly probably
 ia probbayl probably
 ia propably probably
+ia problaby probably
 ia PRoblem Problem
 ia prlblem problem
 ia probelm problem
@@ -6506,6 +6527,7 @@ ia proportioanl proportional
 ia proportinally proportionally
 ia Proposla Proposal
 ia proposla proposal
+ia propsoal proposal
 ia Proposlas Proposals
 ia propsoals proposals
 ia propse propose
@@ -6676,7 +6698,9 @@ ia reate rate
 ia artes rates
 ia reate rates
 ia artio ratio
+ia raito ratio
 ia arw raw
+ia readch reach
 ia readidy readily
 ia reaidng reading
 ia redading reading
@@ -6768,6 +6792,7 @@ ia reducitno reduction
 ia reduciton reduction
 ia reductino reduction
 ia redudancy redundancy
+ia redundnacy redundancy
 ia Redundnat Redundant
 ia Refacotr Refactor
 ia refacotr refactor
@@ -6801,6 +6826,7 @@ ia REfrigerant Refrigerant
 ia Refrigeratn Refrigerant
 ia refrigeratant refrigerant
 ia refrigeratnt refrigerant
+ia refrigeratn refrigerant
 ia Refrigeratns Refrigerants
 ia refigerator refrigerator
 ia reagardiung regarding
@@ -7056,6 +7082,7 @@ ia rqurired required
 ia rueiquireed required
 ia requiremnet requirement
 ia reuqirement requirement
+ia requiremtn requirement
 ia Requiremetns Requirements
 ia Requirments Requirements
 ia Requirmetnes Requirements
@@ -7874,6 +7901,7 @@ ia stabel stable
 ia stakc stack
 ia stakced stacked
 ia staffign staffing
+ia stagered staggered
 ia stagign staging
 ia stari stair
 ia staris stairs
@@ -7980,6 +8008,7 @@ ia stratetgies strategies
 ia Stragety Strategy
 ia stragegy strategy
 ia stragety strategy
+ia stratgety strategy
 ia stary stray
 ia straem stream
 ia strema stream
@@ -8547,6 +8576,7 @@ ia themral thermal
 ia themrla thermal
 ia theraml thermal
 ia thermla thermal
+ia thermla Thermal
 ia tehemodynamic thermodynamic
 ia tehrmodyanmic thermodynamic
 ia tehrmodynamic thermodynamic
@@ -8616,6 +8646,7 @@ ia threoshld threshold
 ia threshld threshold
 ia thresholld threshold
 ia trhrehosld threshold
+ia thresohld threshold
 ia Trhehsolds Thresholds
 ia tehsholds thresholds
 ia Trhough Through
@@ -8731,6 +8762,8 @@ ia tradiation tradition
 ia traditinal traditional
 ia traditinoal traditional
 ia traditioanl traditional
+ia traidiaontl traditional
+ia tradiational traditional
 ia Traffice Traffic
 ia trialing trailing
 ia Traingin Training
@@ -9185,6 +9218,7 @@ ia veririfed verified
 ia vefriyf verify
 ia verfiy verify
 ia verifiy verify
+ia Verzion Verizon
 ia Veresion Version
 ia Veriseon Version
 ia Verison Version
@@ -9496,6 +9530,7 @@ ia woould would
 ia woudl would
 ia wouold would
 ia wuoudl would
+ia woyuoud would
 ia wraper wrapper
 ia wrpaper wrapper
 ia writeaable writable
@@ -9512,6 +9547,7 @@ ia yare year
 ia yera year
 ia yeras years
 ia YEs Yes
+ia yesterdy yesterday
 ia yewt yet
 ia Yokr York
 ia YOu You
