@@ -704,6 +704,7 @@ ia Badn Band
 ia bnak bank
 ia bvanquet banquet
 ia abr bar
+ia barametic barametric
 ia Bararcks Barracks
 ia Barrakcs Barracks
 ia barrakcs barracks
@@ -4166,6 +4167,7 @@ ia impelmented implemented
 ia implemetned implemented
 ia implmeented implemented
 ia implmeneted implemented
+ia imlemented implemented
 ia IMplelemneter Implementer
 ia IMplementer Implementer
 ia IMplemneter Implementer
@@ -6316,6 +6318,7 @@ ia presssure pressure
 ia presure pressure
 ia pruessrue pressure
 ia pressurizaiotn pressurization
+ia pressuriaztion pressurization
 ia prentend pretend
 ia preteneding pretending
 ia pretyt pretty
