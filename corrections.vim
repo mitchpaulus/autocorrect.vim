@@ -4847,6 +4847,7 @@ ia limitaitons limitations
 ia limitiations limitations
 ia olimitations limitations
 ia Limitied Limited
+ia limitied limited
 ia Limtis Limits
 ia limtis limits
 ia lnei line
@@ -5014,6 +5015,7 @@ ia amek make
 ia amke make
 ia maek make
 ia makea make a
+ia mkae make
 ia Maekfile Makefile
 ia Mkaefile Makefile
 ia amker maker
@@ -5527,6 +5529,7 @@ ia nto not
 ia ont not
 ia notaiton notation
 ia NOte Note
+ia ntoe note
 ia NOtes Notes
 ia Noets Notes
 ia Ntoes Notes
@@ -5561,6 +5564,7 @@ ia obejct object
 ia objecdt object
 ia ojbect object
 ia opject object
+ia objectvies objectives
 ia obejcts objects
 ia objets objects
 ia ojbects objects
@@ -6574,6 +6578,7 @@ ia psychrometiics psychrometrics
 ia psychrometreics psychrometrics
 ia Plubic Public
 ia Publisc Public
+ia pulbic public
 ia publicaiton publication
 ia publlications publications
 ia publicsher publisher
@@ -7467,6 +7472,7 @@ ia selectdion selection
 ia slection selection
 ia Selecitons Selections
 ia selectiosn selections
+ia selecitons selections
 ia selectvie selective
 ia slef self
 ia Semeseter Semester
@@ -8379,6 +8385,7 @@ ia tmpeerature temperature
 ia tmperature temperature
 ia tmperautre temperature
 ia tpemperature temperature
+ia tmpeature temperature
 ia Temperautres Temperatures
 ia tempeartures temperatures
 ia tempearutes temperatures
