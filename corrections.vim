@@ -116,6 +116,7 @@ ia actutoras actuators
 ia acutatoars actuators
 ia acutators actuators
 ia Adaptaiton Adaptation
+ia adapater adapter
 ia ADd Add
 ia daded added
 ia Addign Adding
@@ -547,6 +548,7 @@ ia Askign Asking
 ia askign asking
 ia ascpects aspects
 ia Assualt Assault
+ia assembiles assemblies
 ia assertiaon assertion
 ia Assesment Assessment
 ia assesments assessments
@@ -1346,6 +1348,7 @@ ia coefficiencts coefficients
 ia coefficinets coefficients
 ia coefficnets coefficients
 ia coerfficiednts coefficients
+ia coerece coerce
 ia coffe coffee
 ia COil Coil
 ia ciol coil
@@ -3256,6 +3259,7 @@ ia experieece experience
 ia expreiene experience
 ia experiement experiment
 ia experimentla experimental
+ia experiemented experimented
 ia expertice expertise
 ia explan explain
 ia Explaingin Explaining
@@ -5805,6 +5809,7 @@ ia outupt output
 ia outuptu output
 ia outptus outputs
 ia outrageoulsy outrageously
+ia outreadch outreach
 ia OUtside Outside
 ia Otuside Outside
 ia Ousdie Outside
@@ -5997,6 +6002,7 @@ ia permissionis permissions
 ia permissionnis permissions
 ia Permuations Permutations
 ia prequisitve perquisite
+ia persistant persistent
 ia perons person
 ia perosn person
 ia Peronsla Personal
@@ -6312,6 +6318,7 @@ ia rpesentation presentation
 ia Presentaations Presentations
 ia presenations presentations
 ia presentaitons presentations
+ia presesntations presentations
 ia presneted presented
 ia Preussue Pressure
 ia apressure pressure
@@ -7410,6 +7417,7 @@ ia scrxipts scripts
 ia scxripts scripts
 ia sripts scripts
 ia seald sealed
+ia seasl seals
 ia Sena Sean
 ia Serach Search
 ia searhc search
@@ -9342,6 +9350,7 @@ ia Webiste Website
 ia webdsiyte website
 ia webiste website
 ia webstie website
+ia wEbsite website
 ia WEdnesday Wednesday
 ia Wedenesday Wednesday
 ia Wedensday Wednesday
