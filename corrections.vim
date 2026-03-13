@@ -421,6 +421,7 @@ ia Anthing Anything
 ia Anytihng Anything
 ia anythign anything
 ia anytihng anything
+ia Anythign Anything
 ia anywereh anywhere
 ia apaprt apart
 ia apartr apart
@@ -1312,6 +1313,7 @@ ia Cliamte Climate
 ia clint Clint
 ia clipboaard clipboard
 ia clipbvoard clipboard
+ia clipbaord clipboard
 ia cloen clone
 ia Clsoe Close
 ia clsoed closed
@@ -4603,6 +4605,7 @@ ia investement investment
 ia inviation invitation
 ia invitue invite
 ia invitied invited
+ia invokation invocation
 ia Inovices Invoices
 ia inovices invoices
 ia involed involved
@@ -4640,6 +4643,7 @@ ia ist its
 ia iteself itself
 ia iteslf itself
 ia itslf itself
+ia iteslef itself
 ia jackign jacking
 ia Jacobina Jacobian
 ia Janurary January
@@ -7514,6 +7518,7 @@ ia seonsors sensors
 ia sesnsors sensors
 ia snesoer sensors
 ia snesors sensors
+ia sensros sensors
 ia setn sent
 ia snet sent
 ia seaparate separate
@@ -7723,6 +7728,7 @@ ia simpmle simple
 ia sipmle simple
 ia smpile simple
 ia simplificity simplicity
+ia simlicity simplicity
 ia simplication simplification
 ia simplications simplifications
 ia simplifed simplified
