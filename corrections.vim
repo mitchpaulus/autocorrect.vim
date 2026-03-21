@@ -26,6 +26,7 @@ ia Abraisve Abrasive
 ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
+ia absoluete absolute
 ia Absoprtion Absorption
 ia absopriotn absorption
 ia absortpoin absorption
@@ -821,6 +822,7 @@ ia biler boiler
 ia bioler boiler
 ia boielr boiler
 ia obiler boiler
+ia boierl boiler
 ia BOilers Boilers
 ia Boierls Boilers
 ia Boilesr Boilers
@@ -1319,6 +1321,7 @@ ia Clsoe Close
 ia clsoed closed
 ia lcosed closed
 ia xlosed closed
+ia cloased closed
 ia CLoseout Closeout
 ia lcoser closer
 ia Closeds Closes
@@ -1630,7 +1633,9 @@ ia ocnclusions conclusions
 ia ocncourse concourse
 ia Concreate Concrete
 ia concreate concrete
+ia condenstae condensate
 ia Condenstaiotn Condensation
+ia condenstioan condensation
 ia Condensor Condenser
 ia Condensser Condenser
 ia Condsenser Condenser
@@ -1700,6 +1705,7 @@ ia conencted connected
 ia conenected connected
 ia conenction connection
 ia conneciton connection
+ia ocnnections connections
 ia consecrtuvie consecutive
 ia consectuive consecutive
 ia consectutive consecutive
@@ -1864,6 +1870,7 @@ ia coontrols controls
 ia cotnrols controls
 ia cotnrosl controls
 ia ocntrosl controls
+ia controrls controls
 ia convenctive convective
 ia convienent convenient
 ia convient convenient
@@ -2259,6 +2266,7 @@ ia deriviatives derivatives
 ia desecnd descend
 ia descendents descendants
 ia descentdants descendants
+ia Describew Describe
 ia describved described
 ia decribing describing
 ia Descriptoin Description
@@ -2525,6 +2533,7 @@ ia distribuution distribution
 ia distriubtion distribution
 ia distriubtuion distribution
 ia distrubtion distribution
+ia distribut9ion distribution
 ia distriubuter distributor
 ia Distrcit District
 ia distercit district
@@ -2750,6 +2759,7 @@ ia Eikegra Eikagra
 ia EIther Either
 ia Etiher Either
 ia weitther either
+ia iether either
 ia Electrication Electirifcation
 ia Eelctric Electric
 ia Eelectric Electric
@@ -3658,6 +3668,7 @@ ia ftp FTP
 ia FUel Fuel
 ia Fule Fuel
 ia fule fuel
+ia fulel fuel
 ia fullfill fulfill
 ia FUll Full
 ia fulll full
@@ -5182,6 +5193,7 @@ ia mechincal mechanical
 ia mechnaical mechanical
 ia mechnaicla mechanical
 ia mechnical mechanical
+ia mechanicsms mechanisms
 ia Medai Media
 ia Meida Media
 ia medai media
@@ -6133,6 +6145,7 @@ ia Ponit Point
 ia piont point
 ia poitn point
 ia popitn point
+ia Poitner Pointer
 ia poitners pointers
 ia POints Points
 ia pionts points
@@ -6230,6 +6243,7 @@ ia potentilaly potentially
 ia potnetnailly potentially
 ia ptonetially potentially
 ia ptotently potentially
+ia poutnd pound
 ia Poweer Power
 ia Pwoer Power
 ia pweor power
@@ -6300,6 +6314,7 @@ ia prescense presence
 ia presecne presence
 ia presetn present
 ia presnet present
+ia pressnt present
 ia PResenation Presentation
 ia PResentaiton Presentation
 ia Presentatino Presentation
@@ -6603,6 +6618,7 @@ ia pulliing pulling
 ia pulliung pulling
 ia PUmp Pump
 ia upmp pump
+ia upmped pumped
 ia PUmps Pumps
 ia pmpups pumps
 ia poumps pumps
@@ -6673,6 +6689,7 @@ ia Quseiotns Questions
 ia quations questions
 ia queitson questions
 ia quesitons questions
+ia qusitons questions
 ia Qucdk Quick
 ia Quikc Quick
 ia qiuck quick
@@ -6731,6 +6748,7 @@ ia reaidng reading
 ia redading reading
 ia readigns readings
 ia REAMDE README
+ia reasd reads
 ia reaady ready
 ia reayd ready
 ia reaffrim reaffirm
@@ -6804,6 +6822,7 @@ ia recursvie recursive
 ia recusive recursive
 ia recursivley recursively
 ia Redefinning Redefining
+ia redirecdtion redirection
 ia reod redo
 ia reodo redo
 ia REdoing Redoing
@@ -7960,6 +7979,7 @@ ia startgin starting
 ia starst starts
 ia staturup startup
 ia stahs stash
+ia satate state
 ia Statemnet Statement
 ia Statemtn Statement
 ia Statment Statement
@@ -8134,6 +8154,7 @@ ia superviosr supervisor
 ia superivisory supervisory
 ia superviosry supervisory
 ia supervisoray supervisory
+ia esupplied supplied
 ia Suuply Supply
 ia su7pply supply
 ia suply supply
@@ -8220,6 +8241,9 @@ ia sysytem system
 ia sytem system
 ia sytesm system
 ia syustem system
+ia stystem system
+ia systsem system
+ia stsytem system
 ia SYstems Systems
 ia Ssytems Systems
 ia Systemss Systems
@@ -8819,6 +8843,7 @@ ia tranfser transfer
 ia tranfswer transfer
 ia transefer transfer
 ia trnasfer transfer
+ia tnransfer transfer
 ia transferrable transferable
 ia Transferrign Transferring
 ia transformatiohn transformation
@@ -8940,6 +8965,7 @@ ia typiclaly typically
 ia typiucally typically
 ia tyuipcally typically
 ia tyupically typically
+ia TYpically Typically
 ia ubiqutous ubiquitous
 ia Ubutntu Ubuntu
 ia Ubutnu Ubuntu
@@ -9424,6 +9450,7 @@ ia whetther whether
 ia whthere whether
 ia whcih which
 ia whihc which
+ia whicdh which
 ia Whiel While
 ia hwile while
 ia wehile while
