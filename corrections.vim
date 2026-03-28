@@ -120,6 +120,7 @@ ia Adaptaiton Adaptation
 ia adapater adapter
 ia ADd Add
 ia daded added
+ia addeed added
 ia Addign Adding
 ia addding adding
 ia Adidtion Addition
@@ -454,6 +455,7 @@ ia Applicaitons Applications
 ia appiclations applications
 ia applciaitons applications
 ia applicaitons applications
+ia aplications applications
 ia appleid applied
 ia apploied applied
 ia appllies applies
@@ -788,6 +790,7 @@ ia beteween between
 ia betwen between
 ia betwene between
 ia betwewen between
+ia betweeen between
 ia bibliograhy bibliography
 ia billign billing
 ia billtion billion
@@ -968,6 +971,7 @@ ia bulet bullet
 ia BUmp Bump
 ia ubnch bunch
 ia budnled bundled
+ia bouyancy buoyancy
 ia ubrned burned
 ia BUrns Burns
 ia Buhs Bush
@@ -1399,6 +1403,7 @@ ia comibination combination
 ia combinationas combinations
 ia combonations combinations
 ia cominations combinations
+ia combinitorics combinatorics
 ia Combinded Combined
 ia combiend combined
 ia comibned combined
@@ -1871,7 +1876,11 @@ ia cotnrols controls
 ia cotnrosl controls
 ia ocntrosl controls
 ia controrls controls
+ia Covection Convection
+ia convecitonn convection
+ia convecdtion convection
 ia convenctive convective
+ia covector convector
 ia convienent convenient
 ia convient convenient
 ia convensition convention
@@ -2406,6 +2415,7 @@ ia diffence difference
 ia differnce difference
 ia differnece difference
 ia diffrence difference
+ia deifference difference
 ia diffeerences differences
 ia differenrces differences
 ia differneces differences
@@ -2527,6 +2537,7 @@ ia disolved dissolved
 ia distirncxt distinct
 ia distrincxt distinct
 ia distingusih distinguish
+ia distringusighing distinguishing
 ia Distribuiton Distribution
 ia Distriubution Distribution
 ia distribuution distribution
@@ -2908,6 +2919,7 @@ ia enoguh enough
 ia enoguht enough
 ia enoguth enough
 ia enought enough
+ia enou9gh enough
 ia enrollement enrollment
 ia entials entails
 ia ENtech Entech
@@ -3845,6 +3857,7 @@ ia Github GitHub
 ia gvie give
 ia givew given
 ia givne given
+ia givewn given
 ia Glboal Global
 ia Globla Global
 ia gllobal global
@@ -4002,6 +4015,7 @@ ia heatlh health
 ia HEat Heat
 ia ehat heat
 ia heta heat
+ia hetat heat
 ia HEating Heating
 ia Heaitng Heating
 ia ehating heating
@@ -4111,6 +4125,7 @@ ia huann human
 ia Humidifciation Humidification
 ia humidifciaiton humidification
 ia humidificaiton humidification
+ia humnidifier humidifier
 ia HUmidity Humidity
 ia Humidiyt Humidity
 ia hmidty humidity
@@ -5260,6 +5275,7 @@ ia minimmum minimum
 ia minmimum minimum
 ia minmium minimum
 ia minmum minimum
+ia minium minimum
 ia Minnestoa Minnesota
 ia Minro Minor
 ia Mionr Minor
@@ -5788,6 +5804,7 @@ ia otherse others
 ia OTherwise Otherwise
 ia Otherwsie Otherwise
 ia otherwsie otherwise
+ia Otherwisse Otherwise
 ia oiur our
 ia oru our
 ia oursevels ourselves
@@ -6043,6 +6060,7 @@ ia pahases phases
 ia pahsing phasing
 ia Phillippines Philippines
 ia philospohy philosophy
+ia philosohpy philosophy
 ia Pheonix Phoenix
 ia PHone Phone
 ia Phoen Phone
@@ -7731,6 +7749,7 @@ ia significat significant
 ia significati significant
 ia significatin significant
 ia significatn significant
+ia signifcant significant
 ia Significatly Significantly
 ia signficantly significantly
 ia significanlty significantly
@@ -8154,6 +8173,7 @@ ia superviosr supervisor
 ia superivisory supervisory
 ia superviosry supervisory
 ia supervisoray supervisory
+ia supplemaentary supplementary
 ia esupplied supplied
 ia Suuply Supply
 ia su7pply supply
@@ -9156,6 +9176,7 @@ ia utilties utilities
 ia utiltiies utilities
 ia utitiles utilities
 ia utitlies utilities
+ia utiliites utilities
 ia Uiltity Utility
 ia Utiltiy Utility
 ia uitlilty utility
