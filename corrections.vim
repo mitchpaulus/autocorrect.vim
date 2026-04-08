@@ -94,6 +94,7 @@ ia Acitve Active
 ia Actdive Active
 ia Activew Active
 ia Actve Active
+ia ACtive Active
 ia Acdtivies Activities
 ia activies activities
 ia activites activities
@@ -1176,6 +1177,7 @@ ia chnage change
 ia mchange change
 ia Chagned Changed
 ia chagned changed
+ia cahnged changed
 ia chagnes changes
 ia changds changes
 ia chantges changes
@@ -1332,6 +1334,7 @@ ia Closeds Closes
 ia Clsoing Closing
 ia clsoing closing
 ia lcosing closing
+ia Closthes Clothes
 ia CLoud Cloud
 ia clodu cloud
 ia clous cloud
@@ -2527,6 +2530,7 @@ ia discusion discussion
 ia disscussionn discussion
 ia disucssion discussion
 ia disfiurement disfigurement
+ia Diswasher Dishwasher
 ia dispaly display
 ia disply display
 ia displya display
@@ -2979,6 +2983,7 @@ ia environemtn environment
 ia environemtnet environment
 ia environmetn environment
 ia envriorment environment
+ia envirnoment environment
 ia Enviormental Environmental
 ia Enviormentla Environmental
 ia Environemntal Environmental
@@ -3138,6 +3143,7 @@ ia evoluation evaluation
 ia evaluaiotns evaluations
 ia evaluaitons evaluations
 ia evaulaitons evaluations
+ia evalulations evaluations
 ia Evaportative Evaporative
 ia evaoporater evaporator
 ia Evne Even
@@ -3238,6 +3244,7 @@ ia Exhasust Exhaust
 ia Exhauset Exhaust
 ia exhasut exhaust
 ia exhuast exhaust
+ia Exhasut Exhaust
 ia eixist exist
 ia exisited existed
 ia existance existence
@@ -4775,6 +4782,7 @@ ia langugae language
 ia langurage language
 ia lnaguage language
 ia lnauague language
+ia langugate language
 ia langauges languages
 ia languagse languages
 ia langugaes languages
@@ -4788,6 +4796,7 @@ ia largets largest
 ia alst last
 ia latetly lately
 ia lateset latest
+ia Launmdry Laundry
 ia lwafully lawfully
 ia lawas laws
 ia lwsuit lawsuit
@@ -5109,6 +5118,7 @@ ia Mppaer Mapper
 ia mappign mapping
 ia mappiung mapping
 ia mpaping mapping
+ia ampping mapping
 ia mappigns mappings
 ia mapas maps
 ia Marhc March
@@ -5745,6 +5755,7 @@ ia opoint option
 ia opotin option
 ia optoin option
 ia optinal Optional
+ia optinoal optional
 ia Opitons Options
 ia opitions options
 ia opitons options
@@ -7292,6 +7303,7 @@ ia reveiw review
 ia reviwe review
 ia reveiwed reviewed
 ia reviewier reviewer
+ia reviwere reviewer
 ia Reiveiwing Reviewing
 ia Reivewing Reviewing
 ia reivews reviews
@@ -8986,6 +8998,7 @@ ia typiucally typically
 ia tyuipcally typically
 ia tyupically typically
 ia TYpically Typically
+ia Typiclaly Typically
 ia ubiqutous ubiquitous
 ia Ubutntu Ubuntu
 ia Ubutnu Ubuntu
