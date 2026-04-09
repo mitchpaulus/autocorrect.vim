@@ -88,6 +88,7 @@ ia aciton action
 ia actiosn action
 ia acitons actions
 ia activiate activate
+ia activiated activated
 ia activatino activation
 ia activiation activation
 ia Acitve Active
@@ -310,6 +311,7 @@ ia alawys always
 ia alsways always
 ia alwasy always
 ia alwyas always
+ia Alwasy Always
 ia ambeient ambient
 ia ambigiutiy ambiguity
 ia ambigous ambiguous
@@ -389,6 +391,7 @@ ia nadn and
 ia nand and
 ia tand and
 ia Andoever Andover
+ia ancedote anecdote
 ia anemomenter anemometer
 ia Angleles Angeles
 ia anlge Angle
@@ -425,6 +428,7 @@ ia Anytihng Anything
 ia anythign anything
 ia anytihng anything
 ia Anythign Anything
+ia anyting anything
 ia anywereh anywhere
 ia apaprt apart
 ia apartr apart
@@ -558,6 +562,7 @@ ia assertiaon assertion
 ia Assesment Assessment
 ia assesments assessments
 ia assessmetnts assessments
+ia assessemtns assessments
 ia assignead assigned
 ia assigneing assigning
 ia assinging assigning
@@ -627,6 +632,7 @@ ia authenticaion authentication
 ia authenticaiton authentication
 ia authenticiation authentication
 ia ayuthentication authentication
+ia authencitaion authentication
 ia Authorizastion Authorization
 ia auot auto
 ia auotmate automate
@@ -959,6 +965,7 @@ ia bulidigns buildings
 ia bulidings buildings
 ia bvuidlgnis buildings
 ia ubildings buildings
+ia buiodings buildings
 ia buidls builds
 ia BUitl Built
 ia biult built
@@ -1339,6 +1346,7 @@ ia CLoud Cloud
 ia clodu cloud
 ia clous cloud
 ia colud cloud
+ia lcoud cloud
 ia Clluster Cluster
 ia clustors clusters
 ia OC2 CO2
@@ -2183,6 +2191,7 @@ ia defatuls defaults
 ia Defereed Deferred
 ia defereed deferred
 ia deficiences deficiencies
+ia definiciency deficiency
 ia fdefine define
 ia defiend defined
 ia definned defined
@@ -2235,6 +2244,7 @@ ia dmeand demand
 ia dseamdn demand
 ia emdand demand
 ia democrarcy democracy
+ia demoloshing demolishing
 ia demonstarting demonstrating
 ia demonstratior demonstrator
 ia demystifyied demystified
@@ -2865,6 +2875,7 @@ ia emulaotrs emulators
 ia eanble enable
 ia enabeld enabled
 ia enalbed enabled
+ia enablement enablement
 ia Enclosuee Enclosure
 ia Enclousre Enclosure
 ia enclouse enclosure
@@ -3171,6 +3182,7 @@ ia everytingh everything
 ia everytnign everything
 ia evetrything everything
 ia Everythihg Everything
+ia Evidience Evidence
 ia evaultion evolution
 ia exaclty exactly
 ia exactyl exactly
@@ -3411,6 +3423,7 @@ ia fnas fans
 ia fatalieis fatalities
 ia fataliites fatalities
 ia fautl fault
+ia falut fault
 ia FAults Faults
 ia falults faults
 ia fdaults faults
@@ -5023,6 +5036,7 @@ ia Mainsream Mainstream
 ia mainstram mainstream
 ia maintian maintain
 ia maintin maintain
+ia maintaain maintain
 ia maintainablity maintainability
 ia maintanbile maintainable
 ia maintinained maintained
@@ -5980,6 +5994,7 @@ ia pya pay
 ia paymetns payments
 ia PFD PDF
 ia peka peak
+ia paek peak
 ia Pdela Pedal
 ia Penalthy Penalty
 ia penatlty penalty
@@ -7002,6 +7017,7 @@ ia Reomved Removed
 ia removewd removed
 ia reomved removed
 ia rmeoved removed
+ia remoeved removed
 ia remonving removing
 ia reomoving removing
 ia rmoeoivng removing
@@ -7017,6 +7033,7 @@ ia reparierd repaired
 ia Reparing Repairing
 ia Reparies Repairs
 ia reparis repairs
+ia Reparis Repairs
 ia repateing repeating
 ia Repitition Repetition
 ia repitition repetition
@@ -7192,6 +7209,7 @@ ia reest reset
 ia resest reset
 ia resset reset
 ia reste reset
+ia ressets resets
 ia Residentail Residential
 ia residentiali residential
 ia residitnetal residential
@@ -7434,6 +7452,7 @@ ia Schoool School
 ia socope scope
 ia socpe scope
 ia sope scope
+ia Scoep Scope
 ia Scopeing Scoping
 ia scroe score
 ia scorign scoring
@@ -7557,6 +7576,7 @@ ia seonsr sensor
 ia sewnsor sensor
 ia snesor sensor
 ia snsor sensor
+ia sernsor sensor
 ia Senosrs Sensors
 ia Snesors Sensors
 ia senosrs sensors
@@ -8061,6 +8081,7 @@ ia setps steps
 ia stesp steps
 ia stpes steps
 ia sterializaiton sterilization
+ia steriods steroids
 ia STill Still
 ia Stilll Still
 ia sitll still
@@ -9306,6 +9327,7 @@ ia verificaiotn verification
 ia verificaitn verification
 ia verificaiton verification
 ia vreification verification
+ia Verifciation Verification
 ia veririfed verified
 ia vefriyf verify
 ia verfiy verify
