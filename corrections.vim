@@ -1521,6 +1521,7 @@ ia comparny company
 ia Comare Compare
 ia comapre compare
 ia comapred compared
+ia comapredd compared
 ia Comparingin Comparing
 ia Compraison Comparison
 ia compariosn comparison
@@ -2307,6 +2308,7 @@ ia descriptoins descriptions
 ia descirptive descriptive
 ia descritive descriptive
 ia desreve deserve
+ia descicant desiccant
 ia Deisng Design
 ia Desgin Design
 ia Desing Design
@@ -6309,6 +6311,7 @@ ia Prantl Prandtl
 ia precendence precedence
 ia precendents precedents
 ia precedding preceding
+ia prcise precise
 ia precisly precisely
 ia preceision precision
 ia predition prediciton
@@ -8790,6 +8793,7 @@ ia Thursdsay Thursdays
 ia tickeitng ticketing
 ia thighen tighten
 ia Tigher Tighter
+ia tigheter tighter
 ia til till
 ia TIm Tim
 ia TIme Time
