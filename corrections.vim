@@ -455,6 +455,7 @@ ia applciation application
 ia applicaiotn application
 ia applicaitno application
 ia applicaiton application
+ia appliation application
 ia Applciaitons Applications
 ia Applicaitons Applications
 ia appiclations applications
@@ -1127,6 +1128,7 @@ ia cartesina Cartesian
 ia cvase case
 ia caess cases
 ia casees cases
+ia xast cast
 ia categoiries categories
 ia categoreis categories
 ia categoraized categorized
@@ -1162,6 +1164,7 @@ ia cnetal central
 ia cnetral central
 ia cnetrla central
 ia cnetoral central
+ia centarlized centralized
 ia Centruy Century
 ia Ceratin Certain
 ia Certian Certain
@@ -1376,6 +1379,7 @@ ia coli coil
 ia ocil coil
 ia Cois Coils
 ia cils coils
+ia COils Coils
 ia Collaboraiton Collaboration
 ia collabloariton collaboration
 ia collaboartion collaboration
@@ -1600,6 +1604,7 @@ ia complyhing complying
 ia compoentn component
 ia componenet component
 ia componennt component
+ia componetn component
 ia compoennts components
 ia compoents components
 ia componenets components
@@ -1774,6 +1779,7 @@ ia consturctions constructions
 ia constrcuts constructs
 ia consultatn consultant
 ia consuem consume
+ia consuems consumes
 ia COnsujpmtion Consumption
 ia coinsumption consumption
 ia constumption consumption
@@ -2215,6 +2221,7 @@ ia definitoins definitions
 ia defintiions definitions
 ia defintionis definitions
 ia defintions definitions
+ia definitons definitions
 ia degreees degrees
 ia degress degrees
 ia Dehumidificaiton Dehumidification
@@ -2290,6 +2297,7 @@ ia desecnd descend
 ia descendents descendants
 ia descentdants descendants
 ia Describew Describe
+ia Descirbew Describe
 ia describved described
 ia decribing describing
 ia Descriptoin Description
@@ -3001,6 +3009,7 @@ ia Enviormental Environmental
 ia Enviormentla Environmental
 ia Environemntal Environmental
 ia enviromental environmental
+ia Environmentla Environmental
 ia Enviornments Environments
 ia enviorments environments
 ia enviroments environments
@@ -3161,6 +3170,7 @@ ia Evaportative Evaporative
 ia evaoporater evaporator
 ia Evne Even
 ia ewven even
+ia evne even
 ia eventaul eventual
 ia eveyr every
 ia evry every
@@ -3829,6 +3839,7 @@ ia genearlly generally
 ia genearly generally
 ia generaly generally
 ia gnerally generally
+ia Genernally Generally
 ia genearate generate
 ia geneate generate
 ia genreate generate
@@ -3891,6 +3902,7 @@ ia glroious glorious
 ia glvoe glove
 ia glpyh glyph
 ia gola goal
+ia gaol goal
 ia gaols goals
 ia oges goes
 ia GOing Going
@@ -3997,6 +4009,7 @@ ia handliang handling
 ia handlign handling
 ia handoling handling
 ia hndling handling
+ia handilng handling
 ia andrail handrail
 ia ehands hands
 ia ahppended happened
@@ -5177,6 +5190,7 @@ ia matirx matrix
 ia matrxi matrix
 ia maximimum maximum
 ia maxium maximum
+ia amy may
 ia Maybew Maybe
 ia mabye maybe
 ia meaing meaning
@@ -6994,6 +7008,7 @@ ia reamins remains
 ia Rembember Remember
 ia Remmber Remember
 ia Remmeber Remember
+ia remeber remember
 ia Rmeind Remind
 ia remidner reminder
 ia remienders reminders
@@ -7785,6 +7800,7 @@ ia significati significant
 ia significatin significant
 ia significatn significant
 ia signifcant significant
+ia signfiicant significant
 ia Significatly Significantly
 ia signficantly significantly
 ia significanlty significantly
@@ -7800,6 +7816,8 @@ ia simpel simple
 ia simpmle simple
 ia sipmle simple
 ia smpile simple
+ia Simeple Simple
+ia simmple simple
 ia simplificity simplicity
 ia simlicity simplicity
 ia simplication simplification
@@ -8015,6 +8033,7 @@ ia Standand Standard
 ia satandrad standard
 ia satndard standard
 ia standared standard
+ia Stnadard Standard
 ia Stanardization Standardization
 ia Stnadards Standards
 ia standarsd standards
@@ -8186,6 +8205,7 @@ ia successivley successively
 ia succict succinct
 ia succiently succinctly
 ia succincly succinctly
+ia susestible suceptible
 ia usch such
 ia suoders sudoers
 ia suffereing suffering
@@ -9101,6 +9121,7 @@ ia unikts units
 ia unjits units
 ia unnits units
 ia untis units
+ia utnis units
 ia Uiversal Universal
 ia unix Unix
 ia unknwons unknowns
@@ -9272,6 +9293,7 @@ ia variabnle variable
 ia variaglbe variable
 ia varialbe variable
 ia variazble variable
+ia varialble variable
 ia Varialbes Variables
 ia vairables variables
 ia vairalbes variables
@@ -9432,6 +9454,7 @@ ia Wter Water
 ia Wwater Water
 ia wtaer water
 ia wtera water
+ia wetare water
 ia wya way
 ia Waer Wear
 ia Weahter Weather
