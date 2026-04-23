@@ -3569,6 +3569,7 @@ ia Falg Flag
 ia falgs flags
 ia flexibillity flexibility
 ia flexlible flexible
+ia FLight Flight
 ia flippped flipped
 ia floatign floating
 ia Fllor Floor
@@ -4765,6 +4766,7 @@ ia ktichen kitchen
 ia ktiehcne kitchen
 ia kitchnes kitchens
 ia knwo know
+ia knowning knowing
 ia knoiwldege knowledge
 ia knowledgable knowledgeable
 ia knonw known
@@ -5814,6 +5816,7 @@ ia rogainations organizations
 ia Organzie Organize
 ia organzier organizer
 ia Orgainzing Organizing
+ia organziing organizing
 ia orientatino orientation
 ia orientied oriented
 ia Origal Original
