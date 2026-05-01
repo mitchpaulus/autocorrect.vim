@@ -769,6 +769,7 @@ ia beginnig beginning
 ia beginnign beginning
 ia beginnnign beginning
 ia beignngin beginning
+ia beginnging beginning
 ia begignnings beginnings
 ia beginnigns beginnings
 ia beginnigs beginnings
@@ -3985,6 +3986,7 @@ ia Gudilelines Guidelines
 ia Guidleines Guidelines
 ia gudielines guidelines
 ia guideines guidelines
+ia Guidlines Guidelines
 ia gusy guys
 ia ahd had
 ia haad had
@@ -4013,6 +4015,7 @@ ia hndling handling
 ia handilng handling
 ia andrail handrail
 ia ehands hands
+ia happne happen
 ia ahppended happened
 ia hapenning happening
 ia happending happening
@@ -4682,6 +4685,7 @@ ia fis is
 ia isoalted isolated
 ia isolaiotn isolation
 ia sisolation isolation
+ia Isoloation Isolation
 ia isothermla isothermal
 ia isseu issue
 ia sisue issue
@@ -4786,6 +4790,7 @@ ia Lableing Labeling
 ia labelign labeling
 ia lableing labeling
 ia lables labels
+ia labesl labels
 ia Laboraroties Laboratories
 ia Laboratoyr Laboratory
 ia Laboratoyrt Laboratory
@@ -9429,6 +9434,7 @@ ia Waitning Waiting
 ia wating waiting
 ia watingin waiting
 ia wiating waiting
+ia watiing waiting
 ia wkaing waking
 ia wlak walk
 ia wlaked walked
@@ -9567,6 +9573,7 @@ ia Winodw Window
 ia iwndow window
 ia widnow window
 ia windwow window
+ia windwo window
 ia WInd0ows Windows
 ia WIndows Windows
 ia WInodws Windows
