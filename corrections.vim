@@ -574,6 +574,7 @@ ia assitant assistant
 ia assocaited associated
 ia assoicated associated
 ia Assocaites Associates
+ia associatevely associatively
 ia Assuem Assume
 ia assuem assume
 ia aassumed assumed
@@ -635,6 +636,7 @@ ia authenticiation authentication
 ia ayuthentication authentication
 ia authencitaion authentication
 ia Authorizastion Authorization
+ia autheroized authorized
 ia auot auto
 ia auotmate automate
 ia atuomatd automated
@@ -715,6 +717,7 @@ ia balancign balancing
 ia balll ball
 ia Baltimroe Baltimore
 ia Badn Band
+ia bandwitth bandwidth
 ia bnak bank
 ia bvanquet banquet
 ia abr bar
@@ -1180,6 +1183,7 @@ ia certificaiton certification
 ia chanin chain
 ia chiar chair
 ia Challegen Challenge
+ia chamption champion
 ia CHange Change
 ia Chagne Change
 ia Chnage Change
@@ -3011,6 +3015,7 @@ ia Enviormentla Environmental
 ia Environemntal Environmental
 ia enviromental environmental
 ia Environmentla Environmental
+ia Enviornmental Environmental
 ia Enviornments Environments
 ia enviorments environments
 ia enviroments environments
@@ -3775,6 +3780,7 @@ ia functioanliyt functionality
 ia functionaliity functionality
 ia functionaliyt functionality
 ia ufnctionality functionality
+ia functiaonlity functionality
 ia funcitonaliy functionally
 ia funcitoning functioning
 ia Fucnttions Functions
@@ -4673,6 +4679,7 @@ ia invitied invited
 ia invokation invocation
 ia Inovices Invoices
 ia inovices invoices
+ia inovked invoked
 ia involed involved
 ia involied involved
 ia invovled involved
@@ -6759,6 +6766,7 @@ ia quations questions
 ia queitson questions
 ia quesitons questions
 ia qusitons questions
+ia quesiotns questions
 ia Qucdk Quick
 ia Quikc Quick
 ia qiuck quick
@@ -6956,6 +6964,7 @@ ia regisetered registered
 ia REgression Regression
 ia regession regression
 ia regrssion regression
+ia regressisons regressions
 ia REgular Regular
 ia regualr regular
 ia regural regular
@@ -7799,6 +7808,7 @@ ia signl signal
 ia signla signal
 ia singal signal
 ia singla signal
+ia signagure signature
 ia signficant significant
 ia signifiant significant
 ia signifiatn significant
