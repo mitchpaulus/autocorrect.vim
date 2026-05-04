@@ -444,6 +444,7 @@ ia appeas appears
 ia appreas appears
 ia appendicies appendices
 ia apepndix appendix
+ia APpendix Appendix
 ia applicaable applicable
 ia Applicaiotn Application
 ia Applicaiton Application
@@ -1207,6 +1208,7 @@ ia Chatper Chapter
 ia cahpter chapter
 ia chaper chapter
 ia chatper chapter
+ia Cahtper Chapter
 ia caharcter character
 ia cahracter character
 ia hcaracter character
@@ -1428,6 +1430,8 @@ ia Combinded Combined
 ia combiend combined
 ia comibned combined
 ia combusition combustion
+ia combusion combustion
+ia Combusion Combustion
 ia comew come
 ia Comfotr Comfort
 ia comfrot comfort
@@ -1673,6 +1677,7 @@ ia COndition Condition
 ia conditoin condition
 ia condtion condition
 ia conditon condition
+ia conidiotn condition
 ia Conditionign Conditioning
 ia conditiojing conditioning
 ia conditinos conditions
@@ -1773,6 +1778,7 @@ ia contsatn constant
 ia ocnsatnt constant
 ia ocnstant constant
 ia constatns constants
+ia consttructed constructed
 ia Contruction Construction
 ia construciont construction
 ia construciton construction
@@ -2800,6 +2806,7 @@ ia EIther Either
 ia Etiher Either
 ia weitther either
 ia iether either
+ia Elbov Elbow
 ia Electrication Electirifcation
 ia Eelctric Electric
 ia Eelectric Electric
@@ -4464,6 +4471,7 @@ ia intial initial
 ia intiial initial
 ia intitial initial
 ia nitial initial
+ia intiila initial
 ia Initializaiton Initialization
 ia initializaiton initialization
 ia intialization initialization
@@ -4693,6 +4701,7 @@ ia isoalted isolated
 ia isolaiotn isolation
 ia sisolation isolation
 ia Isoloation Isolation
+ia isoltion isolation
 ia isothermla isothermal
 ia isseu issue
 ia sisue issue
@@ -5485,10 +5494,12 @@ ia mutlple multiple
 ia Multiplicaiton Multiplication
 ia multiplicaiton multiplication
 ia multiplicatino multiplication
+ia multipled multiplied
 ia multiopleyer multiplier
 ia multipoliers multipliers
 ia Multipy Multiply
 ia mulitply multiply
+ia multioply multiply
 ia multipling multiplying
 ia msut must
 ia Msutang Mustang
@@ -6808,6 +6819,7 @@ ia ranodm random
 ia RandY Randy
 ia reange range
 ia rnage range
+ia rnages ranges
 ia rearely rarely
 ia RAte Rate
 ia arte rate
@@ -6968,6 +6980,7 @@ ia regressisons regressions
 ia REgular Regular
 ia regualr regular
 ia regural regular
+ia reuglar regular
 ia regualry regularly
 ia regularyly regularly
 ia REgulation Regulation
@@ -8113,6 +8126,7 @@ ia Stema Steam
 ia setam steam
 ia staem steam
 ia stema steam
+ia stell steel
 ia Stpe Step
 ia setp step
 ia stpe step
@@ -8661,6 +8675,7 @@ ia tath that
 ia thatt that
 ia thta that
 ia tyht that
+ia thate that
 ia THe The
 ia Teh The
 ia Tthe The
@@ -9274,6 +9289,7 @@ ia utilzied utilized
 ia utilizign utilizing
 ia utilizng utilizing
 ia utilting utilizing
+ia Utilzing Utilizing
 ia vaccum vacuum
 ia vcacuum vacuum
 ia avlid valid
