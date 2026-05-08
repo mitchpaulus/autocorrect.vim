@@ -496,6 +496,7 @@ ia approximatly approximately
 ia approximatlye approximately
 ia apprpoximatley approximately
 ia paproximately approximately
+ia approxamietly approximately
 ia approximatation approximation
 ia approxmiation approximation
 ia Arpil April
@@ -1182,6 +1183,7 @@ ia certianly certainly
 ia cewrtinaly certainly
 ia certificaiton certification
 ia chanin chain
+ia chian chain
 ia chiar chair
 ia Challegen Challenge
 ia chamption champion
@@ -1515,6 +1517,7 @@ ia commmon common
 ia ocmmon common
 ia commonlky commonly
 ia communciate communicate
+ia commmunicate communicate
 ia communciates communicates
 ia communicatinng communicating
 ia COUMMUNICATION COMMUNICATION
@@ -2110,6 +2113,7 @@ ia cycel cycle
 ia cyclie cycle
 ia cylce cycle
 ia dialy daily
+ia dasiy daisy
 ia DAllas Dallas
 ia DAllast Dallas
 ia Dalals Dallas
@@ -4475,6 +4479,7 @@ ia intiila initial
 ia Initializaiton Initialization
 ia initializaiton initialization
 ia intialization initialization
+ia Initialzie Initialize
 ia initailized initialized
 ia Intially Initially
 ia initailly initially
@@ -7243,6 +7248,7 @@ ia requres requires
 ia requries requires
 ia requriesd requires
 ia reuqires requires
+ia requireds requires
 ia Rescheudled Rescheduled
 ia Researhc Research
 ia Reserach Research
@@ -7973,6 +7979,7 @@ ia Sepcial Special
 ia Speicla Special
 ia sepcila special
 ia speical special
+ia Specical Special
 ia Specilized Specialized
 ia Spefici Specific
 ia spciifc specific
@@ -9452,6 +9459,7 @@ ia ovlume volume
 ia voluem volume
 ia volumen volume
 ia voulme volume
+ia voulmes volumes
 ia Volunttering Volunteering
 ia vulnerablility vulnerability
 ia WAde Wade
