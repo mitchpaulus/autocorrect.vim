@@ -1211,6 +1211,7 @@ ia cahpter chapter
 ia chaper chapter
 ia chatper chapter
 ia Cahtper Chapter
+ia Chpater Chapter
 ia caharcter character
 ia cahracter character
 ia hcaracter character
@@ -1668,6 +1669,7 @@ ia ocncourse concourse
 ia Concreate Concrete
 ia concreate concrete
 ia condenstae condensate
+ia condesnate condensate
 ia Condenstaiotn Condensation
 ia condenstioan condensation
 ia Condensor Condenser
@@ -2440,6 +2442,7 @@ ia dailog dialog
 ia diaglo dialog
 ia diaglog dialog
 ia diametre diameter
+ia diamaeter diameter
 ia dictinoaries dictionaries
 ia Dicitonary Dictionary
 ia Dictiorany Dictionary
@@ -2454,6 +2457,7 @@ ia differnce difference
 ia differnece difference
 ia diffrence difference
 ia deifference difference
+ia differencew difference
 ia diffeerences differences
 ia differenrces differences
 ia differneces differences
@@ -3310,6 +3314,7 @@ ia exapnds expands
 ia epansion expansion
 ia exapansion expansion
 ia expansionj expansion
+ia exapnsion expansion
 ia exapansions expansions
 ia excpect expect
 ia expecst expect
@@ -3419,6 +3424,7 @@ ia FacillityGrid FacilityGrid
 ia facotr factor
 ia fractor factor
 ia factro factor
+ia factdor factor
 ia Factoriziation Factorization
 ia Facotry Factory
 ia FAculty Faculty
@@ -3586,6 +3592,7 @@ ia Falg Flag
 ia falgs flags
 ia flexibillity flexibility
 ia flexlible flexible
+ia flexilbe flexible
 ia FLight Flight
 ia flippped flipped
 ia floatign floating
@@ -3700,6 +3707,8 @@ ia Frnak Frank
 ia Frequncy Frequency
 ia frequrency frequency
 ia frequenty frequently
+ia friciton friction
+ia fricaiotnal frictional
 ia FIrday Friday
 ia FRiday Friday
 ia Firday Friday
@@ -5276,6 +5285,7 @@ ia mechincal mechanical
 ia mechnaical mechanical
 ia mechnaicla mechanical
 ia mechnical mechanical
+ia Mechcial Mechanical
 ia mechanicsms mechanisms
 ia Medai Media
 ia Meida Media
@@ -5545,6 +5555,7 @@ ia neccessarikly necessarily
 ia necesarrily necessarily
 ia necesdarily necessarily
 ia necessrialy necessarily
+ia necessarilyu necessarily
 ia neeccessary necessary
 ia NEed Need
 ia NEedc Need
@@ -7581,6 +7592,7 @@ ia seciton section
 ia sectino section
 ia sectiosn section
 ia secxtion section
+ia secitonal sectional
 ia secitons sections
 ia sectyor sector
 ia essecuitty security
@@ -7596,6 +7608,7 @@ ia selct select
 ia seslect select
 ia slecet select
 ia sleect select
+ia slect select
 ia selectable selectable
 ia selectedc selected
 ia sleceted selected
@@ -7604,6 +7617,7 @@ ia sleecting selecting
 ia seleciton selection
 ia selectdion selection
 ia slection selection
+ia selectoin selection
 ia Selecitons Selections
 ia selectiosn selections
 ia selecitons selections
@@ -8432,6 +8446,7 @@ ia techanically technically
 ia techiniuqes techniques
 ia techinuques techniques
 ia techniquers techniques
+ia techiniques techniques
 ia technoilogies technologies
 ia technolgies technologies
 ia technoligies technologies
@@ -9297,6 +9312,7 @@ ia utilizign utilizing
 ia utilizng utilizing
 ia utilting utilizing
 ia Utilzing Utilizing
+ia utilzing utilizing
 ia vaccum vacuum
 ia vcacuum vacuum
 ia avlid valid
@@ -9539,6 +9555,7 @@ ia weesk weeks
 ia wweks weeks
 ia wieght weight
 ia weigths weights
+ia wleded welded
 ia wlel well
 ia WEnt Went
 ia wree were
