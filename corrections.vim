@@ -403,6 +403,7 @@ ia anooying annoying
 ia annula annual
 ia annulal annual
 ia naanual annual
+ia ennual annual
 ia annutities annuities
 ia anomilies anomalies
 ia anomolies anomalies
@@ -547,6 +548,7 @@ ia ARrow Arrow
 ia aritcle article
 ia artticle article
 ia ARticles Articles
+ia Artificat Artifact
 ia Artifical Artificial
 ia aas as
 ia acscpetss ascepts
@@ -1743,6 +1745,7 @@ ia conenected connected
 ia conenction connection
 ia conneciton connection
 ia ocnnections connections
+ia consisous conscious
 ia consecrtuvie consecutive
 ia consectuive consecutive
 ia consectutive consecutive
@@ -2082,6 +2085,7 @@ ia curent current
 ia curerent current
 ia currrent current
 ia currtent current
+ia Currnet Current
 ia Currenlty Currently
 ia Currenlyt Currently
 ia curerntly currently
@@ -2180,6 +2184,7 @@ ia decidsion decision
 ia decisiion decision
 ia declaraiotn declaration
 ia decalre declare
+ia Delcaring Declaring
 ia Declien Decline
 ia decommissoin decommission
 ia Decreaesd Decreased
@@ -2351,6 +2356,7 @@ ia desiging designing
 ia desigingni designing
 ia deesriable desirable
 ia desrisable desirable
+ia desireable desirable
 ia desried desired
 ia Desitnation Destination
 ia Desitny Destiny
@@ -2952,6 +2958,7 @@ ia Egineered Engineered
 ia egineered engineered
 ia Enginereing Engineering
 ia enginnering engineering
+ia negineeering engineering
 ia egineers engineers
 ia Englihs English
 ia Englilsh English
@@ -3782,6 +3789,7 @@ ia functilnal functional
 ia functinlal functional
 ia functioanl functional
 ia funtional functional
+ia functinoal functional
 ia FUnctionality Functionality
 ia Functioanlity Functionality
 ia fucntinality functionality
@@ -3988,6 +3996,7 @@ ia Gridn Grind
 ia frocery grocery
 ia groos gross
 ia groudn ground
+ia Groundign Grounding
 ia Gropu Group
 ia Grup Group
 ia gorup group
@@ -4325,6 +4334,7 @@ ia improvemtns improvements
 ia improvmenets improvements
 ia improvments improvements
 ia improvmetnes improvements
+ia improvemnets improvements
 ia ina in a
 ia inb in
 ia inthe in the
@@ -5496,6 +5506,7 @@ ia mvoed moved
 ia muychg much
 ia myuch much
 ia multicollinearlity multicollinearity
+ia Multifamly Multifamily
 ia Multiople Multiple
 ia Multipole Multiple
 ia multiople multiple
@@ -6102,6 +6113,7 @@ ia permmeter perimeter
 ia peirod period
 ia peroid period
 ia preiod period
+ia Peridoic Periodic
 ia peirods periods
 ia Permananet Permanent
 ia Permanetn Permanent
@@ -6490,6 +6502,7 @@ ia previulsy previously
 ia parice price
 ia priece price
 ia PRicing Pricing
+ia prciing pricing
 ia pirmary primary
 ia primeary primary
 ia pricinple principle
@@ -6962,6 +6975,7 @@ ia Refrences References
 ia refercnes references
 ia referecnes references
 ia referneces references
+ia REferences References
 ia refernecing referencing
 ia refering referring
 ia refelct reflect
@@ -7317,6 +7331,7 @@ ia responsiblities responsibilities
 ia respsonsibilities responsibilities
 ia responsbilities responsibilities
 ia responsiblity responsibility
+ia responsibilty responsibility
 ia Repsonsible Responsible
 ia repsonible responsible
 ia repsonsible responsible
@@ -7599,6 +7614,7 @@ ia essecuitty security
 ia securtiy security
 ia secutiry security
 ia ssecurity security
+ia surcity security
 ia seee see
 ia Seeign Seeing
 ia segmenetation segmentation
@@ -7907,6 +7923,7 @@ ia SkySPark SkySpark
 ia SkySpakr SkySpark
 ia slahs slash
 ia sleepoing sleeping
+ia slicign slicing
 ia lslides slides
 ia slidinmg sliding
 ia slithgly slightly
@@ -8198,6 +8215,7 @@ ia Sring String
 ia stinrg string
 ia stirng string
 ia STrings Strings
+ia striangs strings
 ia Strukc Struck
 ia Structurla Structural
 ia strucutre structure
@@ -9201,6 +9219,7 @@ ia unoccupierd unoccupied
 ia unoccupiied unoccupied
 ia unpredicbale unpredictable
 ia unreadalbe unreadable
+ia unresponsve unresponsive
 ia unsinged unsigned
 ia ubstable unstable
 ia unsuccesful unsuccessful
