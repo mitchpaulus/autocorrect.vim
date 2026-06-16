@@ -565,6 +565,7 @@ ia Assualt Assault
 ia assembiles assemblies
 ia assertiaon assertion
 ia Assesment Assessment
+ia assement assessment
 ia assesments assessments
 ia assessmetnts assessments
 ia assessemtns assessments
@@ -1836,6 +1837,7 @@ ia Contens Contents
 ia contetx context
 ia contexct context
 ia ocntext context
+ia contigouous contiguous
 ia continulally continually
 ia continulaly continually
 ia conitnue continue
@@ -3561,6 +3563,7 @@ ia Finsih Finish
 ia Finsihs Finish
 ia finsih finish
 ia ifnsish finish
+ia Finsish Finish
 ia FInished Finished
 ia Finisehd Finished
 ia Finsihed Finished
@@ -5643,6 +5646,7 @@ ia normall normal
 ia normla normal
 ia normalizaiton normalization
 ia normalziation normalization
+ia normalizition normalization
 ia Normallly Normally
 ia nomrally normally
 ia normallly normally
@@ -6268,6 +6272,7 @@ ia poisnt points
 ia poitns points
 ia ponits points
 ia pooints points
+ia ptoints points
 ia policeis policies
 ia Pocliby Policy
 ia pocliy policy
@@ -6411,6 +6416,7 @@ ia preoparation preparation
 ia preparatin preparation
 ia prepration preparation
 ia preprationa preparation
+ia preperation preparation
 ia preparting preparing
 ia preprend prepend
 ia Prequisite Prerequisite
@@ -6791,12 +6797,14 @@ ia Qustion Question
 ia queisont question
 ia quesiotn question
 ia quesiton question
+ia quesion question
 ia Qeustionaaire Questionnaire
 ia Questionairre Questionnaire
 ia quesitionarrir questionnaire
 ia quesitonairre questionnaire
 ia questionaire questionnaire
 ia questionanaire questionnaire
+ia questionairre questionnaire
 ia questionairres questionnaires
 ia Quesitons Questions
 ia Quesrtions Questions
@@ -8109,6 +8117,7 @@ ia Stnadards Standards
 ia standarsd standards
 ia standrads standards
 ia stnadards standards
+ia statndards standards
 ia standpoitn standpoint
 ia stadns stands
 ia stnads stands
@@ -8219,6 +8228,7 @@ ia STrings Strings
 ia striangs strings
 ia Strukc Struck
 ia Structurla Structural
+ia structual structural
 ia strucutre structure
 ia strcutees structures
 ia Studnent Student
@@ -8249,6 +8259,7 @@ ia submittall submittal
 ia submitalls submittals
 ia submitatls submittals
 ia submittals submittals
+ia Submitttals Submittals
 ia subimitteed submitted
 ia submiting submitting
 ia Subroutinges Subroutines
@@ -9051,6 +9062,7 @@ ia trival trivial
 ia TRoubleshotoing Troubleshooting
 ia troubleshootting troubleshooting
 ia troubleshotoign troubleshooting
+ia Troubelshooting Troubleshooting
 ia truuck truck
 ia Ture True
 ia ture true
@@ -9340,6 +9352,7 @@ ia avlid valid
 ia Validatiorn Validation
 ia validaiotn validation
 ia validaiton validation
+ia Vaidation Validation
 ia VAlidator Validator
 ia Validatort Validator
 ia avlidity validity
@@ -9697,6 +9710,7 @@ ia owkr work
 ia owrk work
 ia wokr work
 ia workl work
+ia Wokrbook Workbook
 ia WOkred Worked
 ia WOrked Worked
 ia Wokred Worked
