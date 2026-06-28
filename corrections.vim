@@ -1726,6 +1726,7 @@ ia configurtaion configuration
 ia configurtaiotn configuration
 ia configurtation configuration
 ia configutration configuration
+ia Configruation Configuration
 ia condifurations configurations
 ia COnfirm Confirm
 ia Confrim Confirm
@@ -7098,6 +7099,7 @@ ia fremove remove
 ia mreove remove
 ia remvoe remove
 ia reomve remove
+ia Remoove Remove
 ia REmoved Removed
 ia Reomved Removed
 ia removewd removed
