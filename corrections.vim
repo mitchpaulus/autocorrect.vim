@@ -23,6 +23,7 @@ ia abvout about
 ia aobut about
 ia aoubt about
 ia Abraisve Abrasive
+ia absense absence
 ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
@@ -1728,6 +1729,7 @@ ia configurtation configuration
 ia configutration configuration
 ia Configruation Configuration
 ia condifurations configurations
+ia configuraitons configurations
 ia COnfirm Confirm
 ia Confrim Confirm
 ia Conrim Confirm
@@ -2282,6 +2284,7 @@ ia demonstarting demonstrating
 ia demonstratior demonstrator
 ia demystifyied demystified
 ia denomiator denominator
+ia desities densities
 ia dnesity density
 ia deorderant deodorant
 ia Deparment Department
@@ -2725,6 +2728,7 @@ ia draings drawings
 ia drawigns drawings
 ia drawwigns drawings
 ia drwaings drawings
+ia drwiangs drawings
 ia drwan drawn
 ia direv drive
 ia dirve drive
@@ -5179,6 +5183,7 @@ ia manula manual
 ia mnaula manual
 ia manualy manually
 ia manulaly manually
+ia manuallly manually
 ia Mnaulas Manuals
 ia manuasl manuals
 ia manulas manuals
@@ -5714,6 +5719,7 @@ ia Ocucpied Occupied
 ia Ocupied Occupied
 ia ocucur occur
 ia occured occurred
+ia Occured Occurred
 ia Occurance Occurrence
 ia occuarance occurrence
 ia occurance occurrence
@@ -5894,6 +5900,7 @@ ia origianlly originally
 ia orignianlly originally
 ia origined originated
 ia originatign originating
+ia orthogal orthogonal
 ia osciallations oscillations
 ia OTher Other
 ia Ohter Other
@@ -6135,6 +6142,7 @@ ia permissioniosn permissions
 ia permissionis permissions
 ia permissionnis permissions
 ia Permuations Permutations
+ia perpetuitiy perpetuity
 ia prequisitve perquisite
 ia persistant persistent
 ia perons person
@@ -7879,6 +7887,7 @@ ia significatin significant
 ia significatn significant
 ia signifcant significant
 ia signfiicant significant
+ia significatnt significant
 ia Significatly Significantly
 ia signficantly significantly
 ia significanlty significantly
@@ -8014,6 +8023,7 @@ ia spacew space
 ia spcae space
 ia spacding spacing
 ia spcaign spacing
+ia sapcing spacing
 ia SPAGETTI SPAGHETTI
 ia speark speak
 ia SPeaker Speaker
@@ -8716,6 +8726,7 @@ ia htan than
 ia thanb than
 ia thatn than
 ia thna than
+ia tahn than
 ia Thanskgiving Thanksgiving
 ia THat That
 ia Taht That
@@ -9465,6 +9476,7 @@ ia verison version
 ia verseion version
 ia versino version
 ia vresion version
+ia verseioned versioned
 ia verisonsing versioning
 ia vereison versions
 ia veriseons versions
