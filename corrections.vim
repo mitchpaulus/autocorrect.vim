@@ -4783,6 +4783,7 @@ ia Jospeh Joseph
 ia Jsoh Josh
 ia SJON JSON
 ia judgement judgment
+ia judgements judgments
 ia Juilian Julian
 ia Julain Julian
 ia Jyly July
@@ -7658,6 +7659,7 @@ ia selectiosn selections
 ia selecitons selections
 ia selectvie selective
 ia slef self
+ia sematics semantics
 ia Semeseter Semester
 ia Semseter Semester
 ia semicolin semicolon
