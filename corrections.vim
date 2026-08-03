@@ -795,7 +795,9 @@ ia bewing being
 ia Belive Believe
 ia belive believe
 ia blieve believe
+ia betlow bellow
 ia bellw below
+ia betlow below
 ia Betl Belt
 ia betl belt
 ia betls belts
@@ -6765,6 +6767,7 @@ ia pulliung pulling
 ia PUmp Pump
 ia upmp pump
 ia upmped pumped
+ia PUmping Pumping
 ia PUmps Pumps
 ia pmpups pumps
 ia poumps pumps
@@ -8307,6 +8310,7 @@ ia substituations substitutions
 ia substiutions substitutions
 ia subtakss subtasks
 ia subtraciton subtraction
+ia substraction subtraction
 ia succedded succeeded
 ia succeded succeeded
 ia succes success
