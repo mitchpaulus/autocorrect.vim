@@ -4346,6 +4346,7 @@ ia improatnat important
 ia improatnt important
 ia improtant important
 ia improtatn important
+ia importat important
 ia importatnly importantly
 ia imnported imported
 ia Improts Imports
@@ -9441,6 +9442,7 @@ ia variaglbe variable
 ia varialbe variable
 ia variazble variable
 ia varialble variable
+ia varaible variable
 ia Varialbes Variables
 ia vairables variables
 ia vairalbes variables
