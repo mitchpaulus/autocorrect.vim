@@ -546,6 +546,7 @@ ia aroudn around
 ia arround around
 ia aruond around
 ia arrya array
+ia arary array
 ia ararys arrays
 ia Arythmia Arrhythmia
 ia ARrow Arrow
@@ -3445,6 +3446,7 @@ ia extermely extremely
 ia extermley extremely
 ia extremly extremely
 ia extrremely extremely
+ia EXTERMELY EXTREMELY
 ia fadce face
 ia facebook Facebook
 ia faciliteis facilities
@@ -3484,6 +3486,7 @@ ia failes fails
 ia fials fails
 ia failrue failure
 ia fialure failure
+ia fialures failures
 ia fari fair
 ia failry fairly
 ia faily fairly
@@ -3684,6 +3687,7 @@ ia folowing following
 ia folowoing following
 ia foollowing following
 ia sollowing following
+ia follinwing following
 ia footgae footage
 ia footgaet footage
 ia forotage footage
@@ -3703,6 +3707,7 @@ ia forsee foresee
 ia Froest Forest
 ia fomr form
 ia vorm form
+ia fomral formal
 ia fomrat format
 ia foramt format
 ia forrmat format
@@ -4607,6 +4612,7 @@ ia insatalled installed
 ia insatlled installed
 ia instlaled installed
 ia isntalled installed
+ia insatllead installed
 ia INstaller Installer
 ia insatnce instance
 ia instancde instance
@@ -5721,6 +5727,7 @@ ia nothign nothing
 ia noticiable noticeable
 ia notificaiton notification
 ia notificaitons notifications
+ia notfiy notify
 ia notorisourly notoriously
 ia novle novel
 ia Novemeber November
@@ -6563,6 +6570,7 @@ ia PRicing Pricing
 ia prciing pricing
 ia pirmary primary
 ia primeary primary
+ia Primarya Primary
 ia pricinple principle
 ia princeple principle
 ia Principiles Principles
@@ -6912,6 +6920,7 @@ ia reange range
 ia rnage range
 ia rnages ranges
 ia rearely rarely
+ia Raspberrry Raspberry
 ia RAte Rate
 ia arte rate
 ia frate rate
@@ -7469,6 +7478,7 @@ ia reviwe review
 ia reveiwed reviewed
 ia reviewier reviewer
 ia reviwere reviewer
+ia reviewwer reviewer
 ia Reiveiwing Reviewing
 ia Reivewing Reviewing
 ia reivews reviews
@@ -8150,6 +8160,7 @@ ia spreadshet spreadsheet
 ia spreadshetet spreadsheet
 ia spreadshhet spreadsheet
 ia sprreaadhseet spreadsheet
+ia spreadsehtt spreadsheet
 ia Spreasheets Spreadsheets
 ia spreadhseets spreadsheets
 ia sprknkler sprinkler
@@ -8297,6 +8308,7 @@ ia Strukc Struck
 ia Structurla Structural
 ia structual structural
 ia strucutre structure
+ia structued structured
 ia strcutees structures
 ia Studnent Student
 ia studnet student
@@ -8920,6 +8932,7 @@ ia Thoguht Thought
 ia thougth thought
 ia Thoguhts Thoughts
 ia thoughs thoughts
+ia thouthts thoughts
 ia threda thread
 ia trhead thread
 ia THree Three
