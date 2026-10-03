@@ -284,6 +284,7 @@ ia alings aligns
 ia algins aligns
 ia al all
 ia lal all
+ia allocaitons allocations
 ia Alllw Allow
 ia alow allow
 ia lalowing allowing
@@ -2076,6 +2077,7 @@ ia creatd created
 ia Creatting Creating
 ia creaitng creating
 ia Creaiton Creation
+ia credentail credential
 ia credentails credentials
 ia credites credits
 ia Creepoing Creeping
@@ -3326,6 +3328,7 @@ ia exectuive executive
 ia executivew executive
 ia exectuors executors
 ia exericse exercise
+ia excercise exercise
 ia exercieses exercises
 ia Exhasust Exhaust
 ia Exhauset Exhaust
@@ -4184,6 +4187,7 @@ ia highlihgting highlighting
 ia highlihting highlighting
 ia hightlighting highlighting
 ia hightlihgting highlighting
+ia highlightihgn highlighting
 ia himsellf himself
 ia himslef himself
 ia hsi his
@@ -4376,6 +4380,7 @@ ia impored improved
 ia imporved improved
 ia improeved improved
 ia Imporvement Improvement
+ia improvemnet improvement
 ia improvemtns improvements
 ia improvmenets improvements
 ia improvments improvements
@@ -5000,6 +5005,7 @@ ia lihgts lights
 ia LIke Like
 ia Liek Like
 ia liek like
+ia lkike like
 ia liekly likely
 ia liely likely
 ia likelty likely
@@ -5068,6 +5074,7 @@ ia laocal local
 ia lcoal local
 ia locla local
 ia localshot localhost
+ia lcoailiyt locality
 ia Lcoate Locate
 ia lcoated located
 ia lociated located
@@ -5758,6 +5765,7 @@ ia obserations observations
 ia obselete obsolete
 ia Obviusly Obviously
 ia obviusly obviously
+ia obviuosly obviously
 ia occpuancy occupancy
 ia occpunacy occupancy
 ia occupanyc occupancy
@@ -8347,6 +8355,7 @@ ia substantce substance
 ia Substantail Substantial
 ia substaionts substations
 ia substiture substitute
+ia substitue substitute
 ia substituing substituting
 ia Substituion Substitution
 ia substituion substitution
@@ -8851,6 +8860,7 @@ ia theorectical theoretical
 ia theoretcial theoretical
 ia theorteical theoretical
 ia Theyory Theory
+ia theroy theory
 ia THere There
 ia Therte There
 ia Threre There

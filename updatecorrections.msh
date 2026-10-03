@@ -6,7 +6,7 @@ $REPOS toPath `autocorrect.vim` / repoPath!
 [git -C @repoPath pull]? not ("Not a clean merge" wle 1 exit) iff
 
 args len 1 = if
-    $1 autocorrectFile!
+    $1 toPath autocorrectFile!
 else* args len 1 >  *if
     "Expected only a single argument" wle 1 exit
 else* runtime 'windows' = *if
