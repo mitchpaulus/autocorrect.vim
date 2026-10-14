@@ -67,6 +67,7 @@ ia accoutned accounted
 ia accoutntd accounted
 ia Accoutns Accounts
 ia accoutns accounts
+ia acocunts accounts
 ia accuracty accuracy
 ia acccurate accurate
 ia accuracte accurate
@@ -168,6 +169,7 @@ ia addtioanl additional
 ia addtional additional
 ia dadditional additional
 ia Addisions Additions
+ia additoins additions
 ia addresssed addressed
 ia addressses addresses
 ia addressign addressing
@@ -305,6 +307,7 @@ ia aslos also
 ia altnerate alternate
 ia altenrates alternates
 ia altenrative alternative
+ia Alterative Alternative
 ia altenratives alternatives
 ia Althouugh Although
 ia Athough Although
@@ -451,6 +454,7 @@ ia appreas appears
 ia appendicies appendices
 ia apepndix appendix
 ia APpendix Appendix
+ia Apppendix Appendix
 ia applicaable applicable
 ia Applicaiotn Application
 ia Applicaiton Application
@@ -2359,6 +2363,7 @@ ia descriptoin description
 ia descripton description
 ia descritpion description
 ia descritpoin description
+ia descdtiption description
 ia Descriptiosn Descriptions
 ia descriptoins descriptions
 ia descirptive descriptive
@@ -4042,6 +4047,7 @@ ia Gridn Grind
 ia frocery grocery
 ia groos gross
 ia groudn ground
+ia Groudn Ground
 ia Groundign Grounding
 ia Gropu Group
 ia Grup Group
@@ -4982,6 +4988,7 @@ ia Licesnse License
 ia licorise licorice
 ia lienant lienant
 ia Lfie Life
+ia lfie life
 ia lifes lifes
 ia lfietime lifetime
 ia Lighyt Light
@@ -5183,6 +5190,7 @@ ia maintenenece maintenance
 ia maintinaece maintenance
 ia manintence maintenance
 ia maintenace maintenance
+ia Maintainance Maintenance
 ia Majro Major
 ia moajority majority
 ia Maek Make
@@ -5356,6 +5364,7 @@ ia mechnaicla mechanical
 ia mechnical mechanical
 ia Mechcial Mechanical
 ia mehcanical mechanical
+ia mechanicall mechanical
 ia mechanicsms mechanisms
 ia Medai Media
 ia Meida Media
@@ -5475,6 +5484,7 @@ ia odeling modeling
 ia mdoels models
 ia modesl models
 ia modles models
+ia moelds models
 ia modenr modern
 ia modeset modest
 ia modfication modification
@@ -7566,6 +7576,7 @@ ia satifies satisfies
 ia staturated saturated
 ia staturation saturation
 ia Saturadya Saturday
+ia Saturady Saturday
 ia Svae Save
 ia svae save
 ia Saivngs Savings
@@ -7779,6 +7790,7 @@ ia seaparter separator
 ia separater separator
 ia Septmeber September
 ia Septmebert September
+ia Septmber September
 ia Sequcnece Sequence
 ia Sequience Sequence
 ia seequence sequence
@@ -8535,6 +8547,7 @@ ia tlaks talks
 ia TMAU TAMU
 ia tandom tandem
 ia tnaks tanks
+ia traget target
 ia targest targets
 ia targetes targets
 ia TAsk Task
