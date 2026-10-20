@@ -699,6 +699,7 @@ ia avialbe available
 ia avialble available
 ia avialible available
 ia aviallaibe available
+ia availabel available
 ia anveage average
 ia averaguing averaging
 ia aweare aware
@@ -2364,6 +2365,7 @@ ia descripton description
 ia descritpion description
 ia descritpoin description
 ia descdtiption description
+ia descrirption description
 ia Descriptiosn Descriptions
 ia descriptoins descriptions
 ia descirptive descriptive
@@ -3529,6 +3531,7 @@ ia featrue feature
 ia featqures features
 ia featurtes features
 ia ffeatures features
+ia faetures features
 ia Februray February
 ia Federnal Federal
 ia Feedbakc Feedback
@@ -6037,6 +6040,7 @@ ia overaching overarching
 ia overestimat overestimate
 ia OVerflow Overflow
 ia overaly overlay
+ia overriden overridden
 ia overridding overriding
 ia OVerview Overview
 ia overveiew overview
@@ -8199,6 +8203,7 @@ ia staffign staffing
 ia stagered staggered
 ia stagign staging
 ia stari stair
+ia Stiar Stair
 ia staris stairs
 ia Stiarway Stairway
 ia stampsl stamps
