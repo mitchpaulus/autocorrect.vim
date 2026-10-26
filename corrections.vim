@@ -28,6 +28,7 @@ ia aboslute absolute
 ia absoule absolute
 ia absoulte absolute
 ia absoluete absolute
+ia absoulbe absolute
 ia Absoprtion Absorption
 ia absopriotn absorption
 ia absortpoin absorption
@@ -245,6 +246,7 @@ ia Airliens Airlines
 ia Airprot Airport
 ia airprot airport
 ia ariport airport
+ia Airposrt Airport
 ia airposrts airports
 ia aisel aisle
 ia Almao Alamo
@@ -642,6 +644,7 @@ ia attroueny attorney
 ia attritbue attribute
 ia attriburtes attributes
 ia atttributes attributes
+ia auht aught
 ia Auguest August
 ia Austraila Australia
 ia Austrials Australia
@@ -2475,6 +2478,7 @@ ia dexteriry dexterity
 ia Diagnosiing Diagnosing
 ia diagnositc diagnostic
 ia diagnositcs diagnostics
+ia diagnostcis diagnostics
 ia Daigram Diagram
 ia diagrma diagram
 ia digarm diagram
@@ -4131,6 +4135,7 @@ ia hving having
 ia Haystakc Haystack
 ia ahzardous hazardous
 ia hazazards hazards
+ia headre header
 ia heaaders headers
 ia headres headers
 ia sheaders headers
@@ -7508,6 +7513,7 @@ ia Reviseed Revised
 ia Revisoin Revision
 ia Revsion Revision
 ia reisit revisit
+ia revokable revocable
 ia rewirte rewrite
 ia Reichard Richard
 ia Ricahrd Richard
@@ -7892,6 +7898,7 @@ ia sahll shall
 ia shlal shall
 ia hsare share
 ia sahre share
+ia Shraed Shared
 ia SharePoitn SharePoint
 ia SharePonint SharePoint
 ia Sharepoitn Sharepoint
