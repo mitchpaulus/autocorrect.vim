@@ -210,6 +210,7 @@ ia affectign affecting
 ia afftecting affecting
 ia Affliation Affiliation
 ia AFter After
+ia offter after
 ia Afternnon Afternoon
 ia aftenronon afternoon
 ia afternon afternoon
@@ -2707,6 +2708,7 @@ ia documetnation documentation
 ia documetnion documentation
 ia documneation documentation
 ia odcumentaion documentation
+ia documentaition documentation
 ia docuemneted documented
 ia docuemnted documented
 ia docuementign documenting
@@ -2956,6 +2958,7 @@ ia eanble enable
 ia enabeld enabled
 ia enalbed enabled
 ia enablement enablement
+ia encalve enclave
 ia Enclosuee Enclosure
 ia Enclousre Enclosure
 ia enclouse enclosure
@@ -2972,6 +2975,7 @@ ia endevor endeavor
 ia Edngins Endings
 ia Enforcment Endorsement
 ia enpoint endpoint
+ia endpiont endpoint
 ia ENergy Energy
 ia Eenergy Energy
 ia Eneeryg Energy
@@ -4452,6 +4456,7 @@ ia indentpent independent
 ia independnt independent
 ia indepenedent independent
 ia indepndent independent
+ia independant independent
 ia indciate indicate
 ia INdicates Indicates
 ia indicatign indicating
@@ -6202,6 +6207,7 @@ ia peroid period
 ia preiod period
 ia Peridoic Periodic
 ia peirods periods
+ia preiods periods
 ia Permananet Permanent
 ia Permanetn Permanent
 ia Permannet Permanent
