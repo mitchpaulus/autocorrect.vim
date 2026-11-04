@@ -832,6 +832,7 @@ ia betlow below
 ia Betl Belt
 ia betl belt
 ia betls belts
+ia benhcmarks benchmarks
 ia beneift benefit
 ia benefitted benefited
 ia besdies besides
@@ -2399,6 +2400,7 @@ ia descdtiption description
 ia descrirption description
 ia Descriptiosn Descriptions
 ia descriptoins descriptions
+ia descirptions descriptions
 ia descirptive descriptive
 ia descritive descriptive
 ia desreve deserve
