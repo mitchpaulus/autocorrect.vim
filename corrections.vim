@@ -6,6 +6,7 @@ ia abbreviaotn abbreviation
 ia abbreviatoin abbreviation
 ia abbrevations abbreviations
 ia abbreviatinos abbreviations
+ia abbrevaitoins abbreviations
 ia Abilty Ability
 ia abbility ability
 ia abililty ability
@@ -410,6 +411,7 @@ ia nadn and
 ia nand and
 ia tand and
 ia Andoever Andover
+ia Andorid Android
 ia ancedote anecdote
 ia anemomenter anemometer
 ia Angleles Angeles
@@ -417,6 +419,7 @@ ia anlge Angle
 ia anniiversary anniversary
 ia anniversity anniversity
 ia annotaiton annotation
+ia annotaitons annotations
 ia annoucement announcement
 ia anooying annoying
 ia annula annual
@@ -4438,6 +4441,7 @@ ia Imporve Improve
 ia Impreove Improve
 ia Improe Improve
 ia imporve improve
+ia Imnprvoe Improve
 ia Imporved Improved
 ia Impreoved Improved
 ia impored improved
@@ -6291,6 +6295,7 @@ ia perosnal personal
 ia personla personal
 ia pwersonal personal
 ia perosnla personal
+ia peronsla personal
 ia Personaly Personally
 ia persoinally personally
 ia personsally personally
@@ -7248,6 +7253,7 @@ ia Remmeber Remember
 ia remeber remember
 ia Rmeind Remind
 ia remidner reminder
+ia remdiner reminder
 ia remienders reminders
 ia REmote Remote
 ia Remtoe Remote
@@ -7930,6 +7936,7 @@ ia servcie service
 ia srevice service
 ia Serviecs Services
 ia servieces services
+ia servcies services
 ia Seriving Serving
 ia sessiuon session
 ia ste set
