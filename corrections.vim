@@ -183,6 +183,7 @@ ia addressses addresses
 ia addressign addressing
 ia addsd adds
 ia adeqauyate adequate
+ia adherance adherence
 ia Adjsut Adjust
 ia adjsut adjust
 ia adjsutable adjustable
@@ -628,8 +629,10 @@ ia assumptiosn assumptions
 ia asyncrounous asynchronous
 ia asyncronousyl asynchronously
 ia anthete athlete
+ia athelet athlete
 ia atmosphereic atmospheric
 ia atmosphreric atmospheric
+ia atorphied atrophied
 ia attahc attach
 ia Attachmetn Attachment
 ia attachemnt attachment
@@ -2819,6 +2822,7 @@ ia dropwdown dropdown
 ia diuct duct
 ia ducct duct
 ia ductwork duct work
+ia Dumpbell Dumbbell
 ia dupm dump
 ia dumpitng dumping
 ia dupcliate duplicate
@@ -6365,6 +6369,7 @@ ia Paln Plan
 ia paln plan
 ia pland plan
 ia plna plan
+ia plkan plan
 ia palnned planned
 ia planend planned
 ia palnner planner
@@ -8554,6 +8559,7 @@ ia ssure sure
 ia usre sure
 ia suraface surface
 ia surafce surface
+ia surgury surgery
 ia Surpirse Surprise
 ia surroudded surrounded
 ia surroundign surrounding
@@ -8652,6 +8658,7 @@ ia tagblse tables
 ia Tablest Tablets
 ia tablular tabular
 ia tabualr tabular
+ia tatics tactics
 ia taggins tagging
 ia TAke Take
 ia atake take
